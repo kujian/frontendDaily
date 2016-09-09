@@ -1,4 +1,4 @@
-# frontendDaily
+# [frontendDaily](https://github.com/kujian/frontendDaily/issues) 
 
 每天会发布一篇[码农头条](http://hao.caibaojian.com)上的`前端开发`文章.
 
