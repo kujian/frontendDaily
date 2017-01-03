@@ -29,8 +29,8 @@
 * [潘通发布2017年流行色后，我们和它的CEO来了一场对话](http://hao.caibaojian.com/20186.html) （优秀网页设计）
 
 ***
+* [C++读取、旋转和保存 bmp 图像文件编程实现](http://hao.caibaojian.com/20188.html) （伯乐在线官方微博）
 * [.NET Core 2016 回顾](http://hao.caibaojian.com/20157.html) （开发者头条）
 * [所有新的idea其实都是旧的idea的混合体](http://hao.caibaojian.com/20236.html) （湾区日报BayArea）
-* [C++读取、旋转和保存 bmp 图像文件编程实现](http://hao.caibaojian.com/20188.html) （伯乐在线官方微博）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
