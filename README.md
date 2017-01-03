@@ -4,9 +4,5 @@
 
 本日报会持续优化更新，喜欢请点Star和Watch支持收听每日更新，谢谢
 
-## 最新目录
-
-* [2016年12月](https://github.com/kujian/frontendDaily/tree/master/2016/12)
-
 日报维护作者：[前端开发博客](http://caibaojian.com)
 
