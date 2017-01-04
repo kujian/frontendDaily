@@ -1,45 +1,45 @@
-# [20170102 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/02.md)
+# [20170103 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/03.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [新手自学前端的一些建议与总结](http://hao.caibaojian.com/20312.html) （SegmentFault）
-* [2017 值得一瞥的 JavaScript 相关技术趋势](http://hao.caibaojian.com/20383.html) （SegmentFault）
-* [Web程序员常见的5个错误及解决方案](http://hao.caibaojian.com/20379.html) （JAVA大本营）
-* [7款让人惊叹的HTML5粒子动画特效](http://hao.caibaojian.com/20298.html) （JAVA大本营）
-* [你离大神级程序员只差这几步](http://hao.caibaojian.com/20285.html) （全栈开发者）
+* [Web开发者最新资源——2016年12月](http://hao.caibaojian.com/20490.html) （实验楼官方微博）
+* [页面调试 + 抓包，HTTPS+ATS+HTTP，iOS+Android](http://hao.caibaojian.com/20399.html) （稀土掘金）
+* [为什么程序员应该要尝试写一写博客](http://hao.caibaojian.com/20464.html) （开发者头条）
+* [你可以这样踏入 Web 渗透的大门](http://hao.caibaojian.com/20457.html) （开发者头条）
+* [2017 年值得一瞥的 JavaScript 相关技术趋势](http://hao.caibaojian.com/20408.html) （全栈开发者）
 
 ***
-* [Flex Layout Attribute](http://hao.caibaojian.com/20316.html) （IT程序狮）
-* [JavaScript 模块化编程简史（2009 &#8211; 2016）](http://hao.caibaojian.com/20305.html) （开发者头条）
-* [什么是函数组合](http://hao.caibaojian.com/20317.html) （IT程序狮）
-* [九张动画图回顾 Web 设计的 25 年历史](http://hao.caibaojian.com/20388.html) （程序师视野）
-* [使用 CANVAS 实现交互性圆形马赛克效果](http://hao.caibaojian.com/20382.html) （SegmentFault）
+* [前端工程师都会喜欢的5个JavaScript库](http://hao.caibaojian.com/20456.html) （JAVA大本营）
+* [HTML5移动应用开发的生态环境简介](http://hao.caibaojian.com/20434.html) （程序师视野）
+* [Vue2 SSR 渲染的优化之旅](http://hao.caibaojian.com/20431.html) （SegmentFault）
+* [7个华丽的基于Canvas的HTML5动画](http://hao.caibaojian.com/20455.html) （JAVA大本营）
+* [Python 之旅（GitBook）](http://hao.caibaojian.com/20460.html) （开发者头条）
 
 ***
-* [2017 年有哪些值得一看的设计趋势](http://hao.caibaojian.com/20326.html) （IT程序狮）
-* [一个热词推荐的简单实现](http://hao.caibaojian.com/20303.html) （开发者头条）
-* [有实力让你放弃Chrome](http://hao.caibaojian.com/20387.html) （程序师视野）
-* [asyncio 篇（三）](http://hao.caibaojian.com/20309.html) （开发者头条）
-* [微软测试 Windows 10 绿屏死机](http://hao.caibaojian.com/20310.html) （伯乐头条）
+* [著名游戏《喋血街头（Postal）》已宣布开源](http://hao.caibaojian.com/20451.html) （LUPA开源社区）
+* [让图层一键生成CSS3代码](http://hao.caibaojian.com/20417.html) （前端大全）
+* [我的 Android 开发实战经验总结](http://hao.caibaojian.com/20443.html) （全栈开发者）
+* [这些科技将会与2016一同消逝](http://hao.caibaojian.com/20480.html) （LUPA开源社区）
+* [你真的了解 background-position](http://hao.caibaojian.com/20421.html) （IT程序狮）
 
 ***
-* [两个人运营的专写优质长文的网站](http://hao.caibaojian.com/20289.html) （湾区日报BayArea）
-* [算法实现与优化总结](http://hao.caibaojian.com/20307.html) （开发者头条）
-* [如何从零开始设计出好看的BANNER](http://hao.caibaojian.com/20319.html) （优秀网页设计）
-* [常用API文档索引](http://hao.caibaojian.com/20389.html) （实验楼官方微博）
-* [find命令之exec](http://hao.caibaojian.com/20321.html) （伯乐在线官方微博）
+* [MacBook 最佳实践](http://hao.caibaojian.com/20427.html) （SegmentFault）
+* [普通程序员如何转向人工智能方向](http://hao.caibaojian.com/20402.html) （伯乐在线官方微博）
+* [分布式列式数据库IndexR开源啦](http://hao.caibaojian.com/20453.html) （LUPA开源社区）
+* [Servlet 与 JSP 项目实战 — 博客系统](http://hao.caibaojian.com/20430.html) （SegmentFault）
+* [成为Java顶尖程序员 ，看这10本书就够了](http://hao.caibaojian.com/20432.html) （程序师视野）
 
 ***
-* [2017 年值得关注的 11 个科技趋势](http://hao.caibaojian.com/20311.html) （伯乐头条）
-* [不需要重启 Activity 的夜晚模式实现方案](http://hao.caibaojian.com/20301.html) （开发者头条）
-* [rust 实现的 shadowsocks](http://hao.caibaojian.com/20302.html) （开发者头条）
-* [C函数调用过程原理及函数栈帧分析](http://hao.caibaojian.com/20313.html) （SegmentFault）
-* [Docker周报第106期](http://hao.caibaojian.com/20373.html) （Docker精选）
+* [腾讯登顶，阿里第3](http://hao.caibaojian.com/20446.html) （LUPA开源社区）
+* [来自微信团队的6个开源项目](http://hao.caibaojian.com/20448.html) （LUPA开源社区）
+* [Unix网络编程之同步/异步/阻塞/非阻塞](http://hao.caibaojian.com/20428.html) （SegmentFault）
+* [为OLTP选择适合的RDMBS](http://hao.caibaojian.com/20440.html) （InfoQ）
+* [4个不同收入的男人的理财观](http://hao.caibaojian.com/20481.html) （湾区日报BayArea）
 
 ***
-* [The Art of Defensive Programming](http://hao.caibaojian.com/20293.html) （湾区日报BayArea）
-* [硅谷的 Swift 面试题](http://hao.caibaojian.com/20304.html) （开发者头条）
-* [云计算是如何影响到每个人的生活的](http://hao.caibaojian.com/20315.html) （程序师视野）
-* [Story Thought and System Thought](http://hao.caibaojian.com/20294.html) （湾区日报BayArea）
-* [程序员编程的7+1条小贴士](http://hao.caibaojian.com/20385.html) （程序师视野）
+* [DVWA之暴力破解攻击](http://hao.caibaojian.com/20491.html) （实验楼官方微博）
+* [ReactiveCocoa 中 RACScheduler是如何封装GCD的](http://hao.caibaojian.com/20442.html) （iOS大全）
+* [今年CES展会看什么？这七大趋势不容错过](http://hao.caibaojian.com/20420.html) （DevStore）
+* [如何编写函数](http://hao.caibaojian.com/20581.html) （实验楼官方微博）
+* [教你绘制3D效果的海星图标](http://hao.caibaojian.com/20398.html) （优秀网页设计）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
