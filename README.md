@@ -1,36 +1,45 @@
-# [20170101 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/01.md)
+# [20170102 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/02.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [京东 2016 版首页改版前端总结](http://hao.caibaojian.com/20183.html) （IT程序狮）
-* [坚持写博一年半，我的收获与成长](http://hao.caibaojian.com/20167.html) （SegmentFault）
-* [成功人士的阅读习惯](http://hao.caibaojian.com/20129.html) （湾区日报BayArea）
-* [Mark Otto 编写的HTML/CSS代码风格指南](http://hao.caibaojian.com/20242.html) （前端大全）
-* [Sublime Text 3 最好的功能、插件和设置](http://hao.caibaojian.com/20151.html) （JAVA大本营）
+* [新手自学前端的一些建议与总结](http://hao.caibaojian.com/20312.html) （SegmentFault）
+* [2017 值得一瞥的 JavaScript 相关技术趋势](http://hao.caibaojian.com/20383.html) （SegmentFault）
+* [Web程序员常见的5个错误及解决方案](http://hao.caibaojian.com/20379.html) （JAVA大本营）
+* [7款让人惊叹的HTML5粒子动画特效](http://hao.caibaojian.com/20298.html) （JAVA大本营）
+* [你离大神级程序员只差这几步](http://hao.caibaojian.com/20285.html) （全栈开发者）
 
 ***
-* [Web 开发之跨域与跨域资源共享](http://hao.caibaojian.com/20164.html) （开发者头条）
-* [React Redux: 从文档看源码 &#8211; Utils 篇](http://hao.caibaojian.com/20168.html) （SegmentFault）
-* [面向对象编程该死](http://hao.caibaojian.com/20175.html) （程序师视野）
-* [9个绚丽多彩的HTML5进度条动画赏析](http://hao.caibaojian.com/20152.html) （JAVA大本营）
-* [JavaScript 常量定义详解](http://hao.caibaojian.com/20155.html) （程序员俱乐部）
+* [Flex Layout Attribute](http://hao.caibaojian.com/20316.html) （IT程序狮）
+* [JavaScript 模块化编程简史（2009 &#8211; 2016）](http://hao.caibaojian.com/20305.html) （开发者头条）
+* [什么是函数组合](http://hao.caibaojian.com/20317.html) （IT程序狮）
+* [九张动画图回顾 Web 设计的 25 年历史](http://hao.caibaojian.com/20388.html) （程序师视野）
+* [使用 CANVAS 实现交互性圆形马赛克效果](http://hao.caibaojian.com/20382.html) （SegmentFault）
 
 ***
-* [英语流利说后端基础组件演进](http://hao.caibaojian.com/20156.html) （开发者头条）
-* [WebRTC+](http://hao.caibaojian.com/20162.html) （开发者头条）
-* [Apple 延长 App 接入 HTTPS 期限、写给 iOS 开发者看的 HTTPS 指南](http://hao.caibaojian.com/20123.html) （InfoQ）
-* [在Python应用中使用MongoDB](http://hao.caibaojian.com/20241.html) （Python开发者）
-* [一个 App 的 React Native 版本](http://hao.caibaojian.com/20163.html) （开发者头条）
+* [2017 年有哪些值得一看的设计趋势](http://hao.caibaojian.com/20326.html) （IT程序狮）
+* [一个热词推荐的简单实现](http://hao.caibaojian.com/20303.html) （开发者头条）
+* [有实力让你放弃Chrome](http://hao.caibaojian.com/20387.html) （程序师视野）
+* [asyncio 篇（三）](http://hao.caibaojian.com/20309.html) （开发者头条）
+* [微软测试 Windows 10 绿屏死机](http://hao.caibaojian.com/20310.html) （伯乐头条）
 
 ***
-* [跨越巅峰，迈向成熟](http://hao.caibaojian.com/20120.html) （InfoQ）
-* [优秀的计算机编程类博客和文章](http://hao.caibaojian.com/20246.html) （实验楼官方微博）
-* [两岸开源社群面面观（总结篇）](http://hao.caibaojian.com/20136.html) （Linux中国）
-* [解读 2016 年十大机器学习算法及其应用](http://hao.caibaojian.com/20179.html) （实验楼官方微博）
-* [潘通发布2017年流行色后，我们和它的CEO来了一场对话](http://hao.caibaojian.com/20186.html) （优秀网页设计）
+* [两个人运营的专写优质长文的网站](http://hao.caibaojian.com/20289.html) （湾区日报BayArea）
+* [算法实现与优化总结](http://hao.caibaojian.com/20307.html) （开发者头条）
+* [如何从零开始设计出好看的BANNER](http://hao.caibaojian.com/20319.html) （优秀网页设计）
+* [常用API文档索引](http://hao.caibaojian.com/20389.html) （实验楼官方微博）
+* [find命令之exec](http://hao.caibaojian.com/20321.html) （伯乐在线官方微博）
 
 ***
-* [C++读取、旋转和保存 bmp 图像文件编程实现](http://hao.caibaojian.com/20188.html) （伯乐在线官方微博）
-* [.NET Core 2016 回顾](http://hao.caibaojian.com/20157.html) （开发者头条）
-* [所有新的idea其实都是旧的idea的混合体](http://hao.caibaojian.com/20236.html) （湾区日报BayArea）
+* [2017 年值得关注的 11 个科技趋势](http://hao.caibaojian.com/20311.html) （伯乐头条）
+* [不需要重启 Activity 的夜晚模式实现方案](http://hao.caibaojian.com/20301.html) （开发者头条）
+* [rust 实现的 shadowsocks](http://hao.caibaojian.com/20302.html) （开发者头条）
+* [C函数调用过程原理及函数栈帧分析](http://hao.caibaojian.com/20313.html) （SegmentFault）
+* [Docker周报第106期](http://hao.caibaojian.com/20373.html) （Docker精选）
+
+***
+* [The Art of Defensive Programming](http://hao.caibaojian.com/20293.html) （湾区日报BayArea）
+* [硅谷的 Swift 面试题](http://hao.caibaojian.com/20304.html) （开发者头条）
+* [云计算是如何影响到每个人的生活的](http://hao.caibaojian.com/20315.html) （程序师视野）
+* [Story Thought and System Thought](http://hao.caibaojian.com/20294.html) （湾区日报BayArea）
+* [程序员编程的7+1条小贴士](http://hao.caibaojian.com/20385.html) （程序师视野）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
