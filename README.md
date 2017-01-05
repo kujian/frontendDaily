@@ -1,45 +1,45 @@
 # [20170104 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/04.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [小程序-厕所雷达](http://hao.caibaojian.com/20569.html) （SegmentFault）
-* [我们做了一个自认为是微信小程序最佳应用场景的小程序](http://hao.caibaojian.com/20553.html) （开发者头条）
 * [搭建本地 HTTPS 测试环境](http://hao.caibaojian.com/20568.html) （SegmentFault）
+* [小程序-厕所雷达](http://hao.caibaojian.com/20569.html) （SegmentFault）
 * [我最喜欢的前端开发工具](http://hao.caibaojian.com/20583.html) （DevStore）
-* [ES6：下一版本的JavaScript的新特性](http://hao.caibaojian.com/20548.html) （JAVA大本营）
+* [我们做了一个自认为是微信小程序最佳应用场景的小程序](http://hao.caibaojian.com/20553.html) （开发者头条）
+* [JavaScript 原生实现《贪吃蛇》](http://hao.caibaojian.com/20584.html) （IT程序狮）
 
 ***
-* [JavaScript 原生实现《贪吃蛇》](http://hao.caibaojian.com/20584.html) （IT程序狮）
-* [从数组到HashMap之算法解释](http://hao.caibaojian.com/20532.html) （全栈开发者）
+* [ES6：下一版本的JavaScript的新特性](http://hao.caibaojian.com/20548.html) （JAVA大本营）
 * [vue2.0 一起在懵逼的海洋里越陷越深（一）](http://hao.caibaojian.com/20600.html) （稀土掘金）
 * [教你在微信中给 Vue 单页应用动态设置标题](http://hao.caibaojian.com/20601.html) （稀土掘金）
+* [从数组到HashMap之算法解释](http://hao.caibaojian.com/20532.html) （全栈开发者）
 * [关于 webpack 你可能忽略的细节（附源码分析）](http://hao.caibaojian.com/20558.html) （开发者头条）
 
 ***
 * [Git 系列之 Refs 与 Reflog](http://hao.caibaojian.com/20572.html) （SegmentFault）
-* [node服务的监控预警系统架构](http://hao.caibaojian.com/20545.html) （前端大全）
 * [细说 Unicode](http://hao.caibaojian.com/20567.html) （SegmentFault）
+* [node服务的监控预警系统架构](http://hao.caibaojian.com/20545.html) （前端大全）
 * [小型移动 WebApp Demo 知识点整理](http://hao.caibaojian.com/20588.html) （IT程序狮）
 * [CanJS 3.0版将框架划分为更细粒度的模块](http://hao.caibaojian.com/20526.html) （InfoQ）
 
 ***
 * [测试响应式网站的五个推荐工具](http://hao.caibaojian.com/20582.html) （DevStore）
-* [SASS组件开发](http://hao.caibaojian.com/20546.html) （前端大全）
-* [从地狱到天堂，Node 回调向 async/await 转变](http://hao.caibaojian.com/20571.html) （SegmentFault）
 * [成为设计师一年，我所学到的10件事](http://hao.caibaojian.com/20597.html) （优秀网页设计）
 * [2015年顶尖的编程语言排名图解](http://hao.caibaojian.com/20549.html) （JAVA大本营）
-
-***
 * [什么样的人不适合当程序员](http://hao.caibaojian.com/20550.html) （JAVA大本营）
-* [6 折年终特惠，助您新年业务升级](http://hao.caibaojian.com/20554.html) （开发者头条）
-* [深度学习资料之南和学习路线指南](http://hao.caibaojian.com/20580.html) （实验楼官方微博）
-* [聊聊 AOP 模式与 ObjC 对它的实现](http://hao.caibaojian.com/20557.html) （开发者头条）
-* [写祝福赢新年大礼——程序员的新年祝福会是什么样的](http://hao.caibaojian.com/20592.html) （开源中国）
+* [SASS组件开发](http://hao.caibaojian.com/20546.html) （前端大全）
 
 ***
+* [从地狱到天堂，Node 回调向 async/await 转变](http://hao.caibaojian.com/20571.html) （SegmentFault）
 * [新的一年，写一系列算法分享，名曰“算法杂谈”，此为序](http://hao.caibaojian.com/20528.html) （慕课网）
 * [实名上网的悖论](http://hao.caibaojian.com/20539.html) （湾区日报BayArea）
 * [模拟百万级 TCP 并发](http://hao.caibaojian.com/20559.html) （开发者头条）
 * [Ant Design 2.6.0 发布，阿里前端设计语言](http://hao.caibaojian.com/20593.html) （开源中国）
+
+***
 * [闰秒为什么会导致linux出现问题](http://hao.caibaojian.com/20573.html) （程序师视野）
+* [Java 程序员学 Python3.0——入门篇](http://hao.caibaojian.com/20585.html) （IT程序狮）
+* [iView 0.9.12 发布，基于 Vue.js 的 UI 组件库](http://hao.caibaojian.com/20594.html) （开源中国）
+* [6 折年终特惠，助您新年业务升级](http://hao.caibaojian.com/20554.html) （开发者头条）
+* [深度学习资料之南和学习路线指南](http://hao.caibaojian.com/20580.html) （实验楼官方微博）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
