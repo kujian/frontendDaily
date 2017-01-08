@@ -1,45 +1,45 @@
-# [20170105 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/05.md)
+# [20170107 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/07.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript 中的模块化开发](http://hao.caibaojian.com/20680.html) （IT程序狮）
-* [一篇文章说清浏览器解析和 CSS（GPU）动画优化](http://hao.caibaojian.com/20672.html) （SegmentFault）
-* [值得前端开发者在 2017 学习的东西](http://hao.caibaojian.com/20663.html) （码农周刊）
-* [如何在2016年成为一个更好的 Node.js 开发者](http://hao.caibaojian.com/20648.html) （JAVA大本营）
-* [Vue2.0 探索之路——生命周期和钩子函数的一些理解](http://hao.caibaojian.com/20669.html) （SegmentFault）
+* [一道颇有难度的 JavaScript 题](http://hao.caibaojian.com/20890.html) （IT程序狮）
+* [JavaScript框架中的变动和变动检测](http://hao.caibaojian.com/20859.html) （JAVA大本营）
+* [2017 前端开发者必学清单](http://hao.caibaojian.com/20865.html) （开发者头条）
+* [JavaScript 实现简单的购物车](http://hao.caibaojian.com/20878.html) （SegmentFault）
+* [多彩的优质 Web UI 组件下载](http://hao.caibaojian.com/20893.html) （稀土掘金）
 
 ***
-* [JavaScript30 中文指南](http://hao.caibaojian.com/20689.html) （稀土掘金）
-* [2017 web开发发展趋势](http://hao.caibaojian.com/20727.html) （全栈开发者）
-* [Sublime Text VS Visual Studio Code VS Atom 性能测试](http://hao.caibaojian.com/20652.html) （程序员俱乐部）
-* [前端 Ajax 跨域请求方案沙里淘金](http://hao.caibaojian.com/20692.html) （稀土掘金）
-* [我们程序员的2016一年是这样度过的](http://hao.caibaojian.com/20676.html) （程序师视野）
+* [Qt 工程管理](http://hao.caibaojian.com/20881.html) （SegmentFault）
+* [开房的那些风险](http://hao.caibaojian.com/20871.html) （开发者头条）
+* [命令式和声明式，哪个才是你的菜](http://hao.caibaojian.com/20872.html) （开发者头条）
+* [React Redux: 从文档看源码 &#8211; Connect 工具类篇（1）](http://hao.caibaojian.com/20875.html) （SegmentFault）
+* [从零开始：微信小程序新手入门宝典《一》](http://hao.caibaojian.com/20876.html) （SegmentFault）
 
 ***
-* [react-native-update@4.0版本 具体热更新的机制](http://hao.caibaojian.com/20780.html) （SegmentFault）
-* [Chrome DevTools – 编辑 CSS 样式](http://hao.caibaojian.com/20681.html) （IT程序狮）
-* [关于两种 CI/CD 策略以及 git 分支模型的思考](http://hao.caibaojian.com/20655.html) （开发者头条）
-* [天塌了：Oracle 或许要在 2017 年对 Java SE 收费](http://hao.caibaojian.com/20650.html) （JAVA大本营）
-* [iOS 编程中 throttle 那些事](http://hao.caibaojian.com/20657.html) （开发者头条）
+* [reset.css 知多少](http://hao.caibaojian.com/20856.html) （前端大全）
+* [微软终于要抛弃 Silverlight，拥抱 HTML5](http://hao.caibaojian.com/20882.html) （程序师视野）
+* [CentOS 上的 FirewallD 简明指南](http://hao.caibaojian.com/20855.html) （Linux中国）
+* [自由程序员的3个开发技巧](http://hao.caibaojian.com/20883.html) （程序师视野）
+* [机器学习平台 JDLP 长成记](http://hao.caibaojian.com/20870.html) （开发者头条）
 
 ***
-* [GitLab 8.15中引入了自动部署和Web终端](http://hao.caibaojian.com/20622.html) （InfoQ）
-* [Socket.io 和 Vue.js 的五子棋](http://hao.caibaojian.com/20682.html) （IT程序狮）
-* [在 Rancher 上使用 Traefik 构建主动负载均衡](http://hao.caibaojian.com/20656.html) （开发者头条）
-* [如何在 Swift 3 中用 SpriteKit 框架编写游戏 (Part 3)](http://hao.caibaojian.com/20690.html) （稀土掘金）
-* [Uber内部上线一个microservice的案例](http://hao.caibaojian.com/20632.html) （湾区日报BayArea）
+* [在 Node.js 和 C++ 之间使用 Buffer 共享数据](http://hao.caibaojian.com/20894.html) （稀土掘金）
+* [15张图阅尽人工智能现状](http://hao.caibaojian.com/20840.html) （InfoQ）
+* [Android 开发软件架构思考以及经验总结](http://hao.caibaojian.com/20862.html) （程序员俱乐部）
+* [The end of a mobile wave](http://hao.caibaojian.com/20846.html) （湾区日报BayArea）
+* [谈谈一些有趣的 CSS 题目（十一）&#8211; reset.css 知多少](http://hao.caibaojian.com/20897.html) （稀土掘金）
 
 ***
-* [iOS 中实现水底连续下落效果](http://hao.caibaojian.com/20691.html) （稀土掘金）
-* [如何在4星期内在App Store得到1万个5星好评](http://hao.caibaojian.com/20633.html) （湾区日报BayArea）
-* [2016 年漏洞最多的软件产品](http://hao.caibaojian.com/20667.html) （伯乐头条）
-* [开发者信仰之“天下IT是一家“(Java .NET篇)](http://hao.caibaojian.com/20726.html) （全栈开发者）
-* [华为8年女硕离职](http://hao.caibaojian.com/20647.html) （JAVA大本营）
+* [github-free-programming-books](http://hao.caibaojian.com/20887.html) （实验楼官方微博）
+* [秒杀抢购思路以及高并发下数据安全](http://hao.caibaojian.com/20898.html) （伯乐在线官方微博）
+* [提升体验-支持 Chrome Custom Tabs](http://hao.caibaojian.com/20877.html) （SegmentFault）
+* [Meituan-DBProxy](http://hao.caibaojian.com/20889.html) （IT程序狮）
+* [过渡动画之高级模仿 airbnb](http://hao.caibaojian.com/20844.html) （iOS大全）
 
 ***
-* [Windows 9应该向Linux偷师的5大特性](http://hao.caibaojian.com/20677.html) （程序师视野）
-* [贪吃蛇游戏的人工智能算法实现](http://hao.caibaojian.com/20658.html) （开发者头条）
-* [想学习用户体验设计研究，这篇新手完全入门指南可以帮你](http://hao.caibaojian.com/20668.html) （产品100）
-* [2016年漏洞数量最多的软件Top 50](http://hao.caibaojian.com/20752.html) （LUPA开源社区）
-* [bind( )适配器(Adapter) &#8212; 调用全局函数及成员函数](http://hao.caibaojian.com/20693.html) （伯乐在线官方微博）
+* [Nginx 性能调优](http://hao.caibaojian.com/20901.html) （伯乐在线官方微博）
+* [9款气势磅礴的中文书法字体免费下载](http://hao.caibaojian.com/20891.html) （优秀网页设计）
+* [iOS 过渡动画之高级模仿 airbnb](http://hao.caibaojian.com/20868.html) （开发者头条）
+* [为什么 ++]]+] = 10](http://hao.caibaojian.com/20857.html) （前端大全）
+* [Python 全栈之路系列之基础篇](http://hao.caibaojian.com/20880.html) （SegmentFault）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
