@@ -1,45 +1,45 @@
-# [20170109 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/09.md)
+# [20170110 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/10.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [2017 年前端该学些什么（译）](http://hao.caibaojian.com/21040.html) （SegmentFault）
-* [Javascript学习资源分享](http://hao.caibaojian.com/21004.html) （慕课网）
-* [一个工程师在 Amazon 两年的感悟](http://hao.caibaojian.com/21036.html) （开发者头条）
-* [小公司的一年，一起看看小公司的前端可以怎么做](http://hao.caibaojian.com/21020.html) （前端大全）
-* [jQuery-Ajax（详解）](http://hao.caibaojian.com/21057.html) （IT程序狮）
+* [入口还是危机？微信小程序已存在的撞库风险](http://hao.caibaojian.com/21154.html) （SegmentFault）
+* [最实用的五个微信小程序，强烈推荐](http://hao.caibaojian.com/21170.html) （DevStore）
+* [8个非常个性化的CSS3单/复选框](http://hao.caibaojian.com/21130.html) （JAVA大本营）
+* [AlloyTouch 实现下拉刷新](http://hao.caibaojian.com/21155.html) （SegmentFault）
+* [程序员知道但大部分人不知道的事](http://hao.caibaojian.com/21102.html) （全栈开发者）
 
 ***
-* [微信小程序正式上线 可置于聊天窗口顶部](http://hao.caibaojian.com/21056.html) （DevStore）
-* [Console 调试技巧指南](http://hao.caibaojian.com/21059.html) （IT程序狮）
-* [原创经验：微信小程序开发总结](http://hao.caibaojian.com/21045.html) （SegmentFault）
-* [10个超赞的jQuery图片滑块动画](http://hao.caibaojian.com/21024.html) （JAVA大本营）
-* [小程序正式上线，你想知道的入口和玩法都在这](http://hao.caibaojian.com/21039.html) （伯乐头条）
+* [你的 css 也需要模块化](http://hao.caibaojian.com/21158.html) （SegmentFault）
+* [小公司的前端应该怎么做](http://hao.caibaojian.com/21172.html) （IT程序狮）
+* [8 个有用的 HTML5 标签](http://hao.caibaojian.com/21159.html) （SegmentFault）
+* [我是如何搞定 NodeJS 内存泄漏问题的](http://hao.caibaojian.com/21135.html) （程序员俱乐部）
+* [拥抱 Generator，告别异步回调](http://hao.caibaojian.com/21156.html) （SegmentFault）
 
 ***
-* [Let&#8217;s Encrypt 的 2016 年回顾](http://hao.caibaojian.com/21017.html) （Linux中国）
-* [什么是纯函数](http://hao.caibaojian.com/21058.html) （IT程序狮）
-* [也谈JavaScript数组去重](http://hao.caibaojian.com/21019.html) （前端大全）
-* [为什么 JavaScript 会在移动端中胜出](http://hao.caibaojian.com/21026.html) （程序员俱乐部）
-* [从鹅厂跳槽后，我对人生绝望了](http://hao.caibaojian.com/21048.html) （程序师视野）
+* [原来聊天机器人是这么做出来的](http://hao.caibaojian.com/21140.html) （开发者头条）
+* [20 款前端开发程序猿必备的工具文档和教程](http://hao.caibaojian.com/21175.html) （IT程序狮）
+* [小程序来了——小程序上线体验](http://hao.caibaojian.com/21100.html) （慕课网）
+* [专为 Go Gin 框架打造的 API Framework](http://hao.caibaojian.com/21147.html) （码农周刊）
+* [史上最疯狂的 iOS 动态化方案 OCS ——史上最疯狂的 iOS 动态化方案 选自《Android＆iOS工程师之路》](http://hao.caibaojian.com/21148.html) （码农周刊）
 
 ***
-* [撰写合格的REST API](http://hao.caibaojian.com/21028.html) （程序员俱乐部）
-* [Vue.js 的设计思想](http://hao.caibaojian.com/21060.html) （IT程序狮）
-* [你听说过 “风格指南驱动开发” 吗](http://hao.caibaojian.com/21030.html) （开发者头条）
-* [iOS A/B Test 方案探索](http://hao.caibaojian.com/21031.html) （开发者头条）
-* [未知重写说明符】的若干种可能性](http://hao.caibaojian.com/21065.html) （伯乐在线官方微博）
+* [MFC双缓冲绘图实例](http://hao.caibaojian.com/21186.html) （伯乐在线官方微博）
+* [抗衡小程序，用这 5 款超实用的移动应用开发工具拯救你的 App](http://hao.caibaojian.com/21176.html) （开源中国）
+* [iTyped.js](http://hao.caibaojian.com/21182.html) （稀土掘金）
+* [最详细的 Linux 服务器性能参数指标](http://hao.caibaojian.com/21136.html) （程序员俱乐部）
+* [Atom 、VS Code、Sublime Text](http://hao.caibaojian.com/21188.html) （伯乐在线官方微博）
 
 ***
-* [关于谷歌的安卓手表，你必须知道的 13 件事](http://hao.caibaojian.com/21053.html) （程序师视野）
-* [程序员保持身体健康的一些技巧](http://hao.caibaojian.com/21046.html) （程序师视野）
-* [Nginx 服务器安装及配置文件详解](http://hao.caibaojian.com/21025.html) （程序员俱乐部）
-* [比较全面的 Git 学习资料整理](http://hao.caibaojian.com/21055.html) （实验楼官方微博）
-* [我们邀请了5位高级设计师，聊聊他们的2016年](http://hao.caibaojian.com/21061.html) （优秀网页设计）
+* [类似 Instagram 图片滤镜库及示例（Swift）](http://hao.caibaojian.com/21141.html) （开发者头条）
+* [打造一个全命令行的Android构建系统](http://hao.caibaojian.com/21132.html) （程序员俱乐部）
+* [对话式 UI 的未来](http://hao.caibaojian.com/21142.html) （开发者头条）
+* [程序员”青春饭”问题之我见](http://hao.caibaojian.com/21133.html) （程序员俱乐部）
+* [Web API 版本控制的几种方式](http://hao.caibaojian.com/21101.html) （ImportNew）
 
 ***
-* [2017 年 Linux 最佳发行版](http://hao.caibaojian.com/21038.html) （伯乐头条）
-* [为什么要当程序媛？因为我喜欢啊](http://hao.caibaojian.com/21047.html) （程序师视野）
-* [学计算机的女生是一种怎样的存在](http://hao.caibaojian.com/21051.html) （程序师视野）
-* [变量命名指南](http://hao.caibaojian.com/21064.html) （伯乐在线官方微博）
-* [HTML5游戏开发如何解决付费痛点](http://hao.caibaojian.com/21052.html) （程序师视野）
+* [在 iOS 的 SQLite 数据库中应用 FMDB 库](http://hao.caibaojian.com/21157.html) （SegmentFault）
+* [最小可行区块链原理解析（二）](http://hao.caibaojian.com/21144.html) （开发者头条）
+* [Web 版 redis-cli 折腾记](http://hao.caibaojian.com/21145.html) （开发者头条）
+* [一个提高查找速度的小技巧](http://hao.caibaojian.com/21183.html) （伯乐在线官方微博）
+* [治愈 JavaScript 疲态的学习计划](http://hao.caibaojian.com/21118.html) （前端大全）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
