@@ -1,45 +1,45 @@
-# [20170114 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/14.md)
+# [20170115 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/15.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [听说 2017 你想写前端](http://hao.caibaojian.com/21520.html) （开发者头条）
-* [React 常用面试题目与分析](http://hao.caibaojian.com/21526.html) （SegmentFault）
-* [为什么执行 x in range(y) 如此快（Python）](http://hao.caibaojian.com/21522.html) （开发者头条）
-* [我在 Android 开发中遇到的坑之微博正文点击处理](http://hao.caibaojian.com/21517.html) （开发者头条）
-* [吓尿了，让一个小白定制 Docker](http://hao.caibaojian.com/21523.html) （开发者头条）
+* [看完就会用的 Git 操作图解分析](http://hao.caibaojian.com/21686.html) （IT程序狮）
+* [JavaScript 创建对象之单例、工厂、构造函数模式](http://hao.caibaojian.com/21685.html) （IT程序狮）
+* [JavaScript For 循环的函数式改造](http://hao.caibaojian.com/21671.html) （开发者头条）
+* [10 个 HTML 5.1 的新功能](http://hao.caibaojian.com/21688.html) （IT程序狮）
+* [一些口碑甚好的 Mac Apps 使用感受](http://hao.caibaojian.com/21667.html) （开发者头条）
 
 ***
-* [将项目从 GitHub 部署到服务器](http://hao.caibaojian.com/21512.html) （JAVA大本营）
-* [简单高效的短链接生成服务C#实现](http://hao.caibaojian.com/21515.html) （程序员俱乐部）
-* [TCP/IP 漫游](http://hao.caibaojian.com/21519.html) （开发者头条）
-* [Golang gRPC 实践](http://hao.caibaojian.com/21525.html) （SegmentFault）
-* [我13岁那年是如何对程序员失去信任的](http://hao.caibaojian.com/21513.html) （JAVA大本营）
+* [类（Class）](http://hao.caibaojian.com/21668.html) （开发者头条）
+* [搞懂 nginx 的 rewrite 模块](http://hao.caibaojian.com/21676.html) （SegmentFault）
+* [想要成为真正优秀的程序员是不是真的很难](http://hao.caibaojian.com/21662.html) （程序员俱乐部）
+* [面向企业网络的数据暗渡攻防大战](http://hao.caibaojian.com/21665.html) （开发者头条）
+* [Android 4.4 的 init 进程详解](http://hao.caibaojian.com/21663.html) （程序员俱乐部）
 
 ***
-* [11个无用而有趣的Linux终端彩蛋](http://hao.caibaojian.com/21516.html) （程序员俱乐部）
-* [细数全球科技界那些未满20岁的“天才少年”](http://hao.caibaojian.com/21528.html) （程序师视野）
-* [Mac 平台常用的一些工具、软件](http://hao.caibaojian.com/21518.html) （开发者头条）
-* [前端性能清单 2017](http://hao.caibaojian.com/21536.html) （IT程序狮）
-* [2016 年最常见密码排行榜出炉：“123456”仍是最流行密码](http://hao.caibaojian.com/21498.html) （Linux中国）
+* [自动生成自签名 HTTPS 服务器，可以快速安装 ipa、apk](http://hao.caibaojian.com/21672.html) （开发者头条）
+* [一个通用商务框架](http://hao.caibaojian.com/21646.html) （Python开发者）
+* [如何一天时间搞定iOS游戏开发](http://hao.caibaojian.com/21678.html) （程序师视野）
+* [从零到百亿互联网金融架构发展史](http://hao.caibaojian.com/21660.html) （JAVA大本营）
+* [程序员谈求职系列之常见的求职误区](http://hao.caibaojian.com/21670.html) （开发者头条）
 
 ***
-* [刷爆网络的「薛之谦憋大招H5」，设计师是这么做出来的](http://hao.caibaojian.com/21541.html) （优秀网页设计）
-* [spring源码的编译、下载和阅读](http://hao.caibaojian.com/21487.html) （ImportNew）
-* [哈哈哈哈哈&#8230;..一首听了就不挂科的歌 (古风版)](http://hao.caibaojian.com/21539.html) （优秀网页设计）
-* [Python打包分发工具setuptools简介](http://hao.caibaojian.com/21499.html) （Python开发者）
-* [其实只有少数人用过Uber与Airbnb](http://hao.caibaojian.com/21490.html) （湾区日报BayArea）
+* [史上最全最强SpringMVC详细示例实战教程](http://hao.caibaojian.com/21661.html) （程序员俱乐部）
+* [iOS 链式动画、Spring 动画，TimingFunction 扩展](http://hao.caibaojian.com/21675.html) （SegmentFault）
+* [Android 开发两年半修炼之路](http://hao.caibaojian.com/21687.html) （IT程序狮）
+* [敢不给我做，我就去告诉老板](http://hao.caibaojian.com/21679.html) （程序师视野）
+* [badge view 管理类 AXBadgeView 的 Swift 版本](http://hao.caibaojian.com/21666.html) （开发者头条）
 
 ***
-* [Hillary Clinton竞选团队用到的技术](http://hao.caibaojian.com/21491.html) （湾区日报BayArea）
-* [找程序员女神要QQ号码](http://hao.caibaojian.com/21514.html) （程序员俱乐部）
-* [使用功能开关而不引入technical debt](http://hao.caibaojian.com/21493.html) （湾区日报BayArea）
-* [80 多个 Linux 系统管理员必备的监控工具](http://hao.caibaojian.com/21537.html) （IT程序狮）
-* [遇到需求改来改去，身为程序员你怎么办](http://hao.caibaojian.com/21572.html) （阿里云云栖社区）
+* [JVM内幕：Java虚拟机详解](http://hao.caibaojian.com/21658.html) （JAVA大本营）
+* [深入分析Java的序列化与反序列化](http://hao.caibaojian.com/21659.html) （JAVA大本营）
+* [美团点评业务风控系统构建经验](http://hao.caibaojian.com/21669.html) （开发者头条）
+* [微软Project Springfield团队的F#使用心得](http://hao.caibaojian.com/21630.html) （InfoQ）
+* [The Three Machines](http://hao.caibaojian.com/21642.html) （湾区日报BayArea）
 
 ***
-* [在美国看中国 HTML5 市场的发展](http://hao.caibaojian.com/21527.html) （程序师视野）
-* [用Apache Flink的保存点技术重新处理数据流](http://hao.caibaojian.com/21485.html) （InfoQ）
-* [Evernote 是风投与做笔记 app 的杂交产物](http://hao.caibaojian.com/21496.html) （湾区日报BayArea）
-* [Swift 之父 Chris Lattner 将从 Apple 离职，加入特斯拉](http://hao.caibaojian.com/21486.html) （InfoQ）
-* [在 Visual Studio 上用 C++ 写 Linux](http://hao.caibaojian.com/21529.html) （程序师视野）
+* [好文再分享——Chrome调试工具奇淫技](http://hao.caibaojian.com/21631.html) （慕课网）
+* [做 Podcast 不能赚大钱，但可以当做是 Door Creator](http://hao.caibaojian.com/21643.html) （湾区日报BayArea）
+* [时至今日，我们再来审视一下扁平化设计](http://hao.caibaojian.com/21689.html) （优秀网页设计）
+* [JVM GC参数以及GC算法的应用](http://hao.caibaojian.com/21633.html) （ImportNew）
+* [如何在 Shell 脚本中跟踪调试命令的执行](http://hao.caibaojian.com/21644.html) （Linux中国）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
