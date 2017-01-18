@@ -1,45 +1,45 @@
-# [20170116 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/16.md)
+# [20170117 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/17.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [风里来雨里去的 JS 数组，你懂它多少](http://hao.caibaojian.com/21739.html) （IT程序狮）
-* [对《为什么说 2017 年你必须要学习 Go 了》这篇文章的疑惑](http://hao.caibaojian.com/21727.html) （开发者头条）
-* [简约至上，美炸了的 Vue 圆环菜单组件](http://hao.caibaojian.com/21733.html) （稀土掘金）
-* [前端&#8221;手工艺人&#8221;的百宝箱](http://hao.caibaojian.com/21742.html) （IT程序狮）
-* [深入理解 CSS 中的层叠上下文和层叠顺序](http://hao.caibaojian.com/21740.html) （IT程序狮）
+* [CSS垂直水平完全居中手册](http://hao.caibaojian.com/21842.html) （IT程序猿）
+* [不一样的技术创新——阿里巴巴2016双11背后的技术](http://hao.caibaojian.com/21821.html) （阿里云云栖社区）
+* [Node.js七天搞定微信公众号](http://hao.caibaojian.com/21802.html) （慕课网）
+* [前端开发自动化单元测试趋势](http://hao.caibaojian.com/21819.html) （前端大全）
+* [Node.js 面试问题及答案(2017 版)](http://hao.caibaojian.com/21856.html) （IT程序狮）
 
 ***
-* [年度语言 Golang 使用感受](http://hao.caibaojian.com/21726.html) （开发者头条）
-* [三步瘦身，做名副其实的「小程序」](http://hao.caibaojian.com/21718.html) （SegmentFault）
-* [9个经典华丽的HTML5图表应用](http://hao.caibaojian.com/21756.html) （JAVA大本营）
-* [小程序，对微信意味着什么](http://hao.caibaojian.com/21743.html) （产品100）
-* [2016 年结束后的感想](http://hao.caibaojian.com/21717.html) （SegmentFault）
+* [12个效果奇特的HTML5动画赏析](http://hao.caibaojian.com/21823.html) （JAVA大本营）
+* [高效的 JavaScript](http://hao.caibaojian.com/21839.html) （开发者头条）
+* [用 Vue2+Koa1 开发完整的前后端项目](http://hao.caibaojian.com/21866.html) （稀土掘金）
+* [Webpack 2 终极优化](http://hao.caibaojian.com/21855.html) （IT程序狮）
+* [让程序员跳槽的非钱原因](http://hao.caibaojian.com/21831.html) （程序员俱乐部）
 
 ***
-* [数据可视化工具大集合](http://hao.caibaojian.com/21775.html) （阿里云云栖社区）
-* [渐渐远去的 Hybrid 技术](http://hao.caibaojian.com/21725.html) （开发者头条）
-* [为什么敏捷开发会让人感觉这么难](http://hao.caibaojian.com/21749.html) （程序师视野）
-* [一个不错的完整的 App 项目](http://hao.caibaojian.com/21732.html) （稀土掘金）
-* [不要相信一个程序员在加班时间写出的代码这是真的吗](http://hao.caibaojian.com/21773.html) （阿里云云栖社区）
+* [Vue 2.1.9 发布，轻量级 JavaScript 框架](http://hao.caibaojian.com/21859.html) （开源中国）
+* [http 异步通知失败深度探查](http://hao.caibaojian.com/21834.html) （开发者头条）
+* [用医生的思考方式调试你的代码](http://hao.caibaojian.com/21827.html) （程序员俱乐部）
+* [2017 年五款最佳移动框架](http://hao.caibaojian.com/21861.html) （开源中国）
+* [前端开发者的 Chrome extensions/apps](http://hao.caibaojian.com/21845.html) （SegmentFault）
 
 ***
-* [iOS 中 HTTPS 证书验证浅析](http://hao.caibaojian.com/21724.html) （开发者头条）
-* [15 个 Angular.js 应用扩展指令解析](http://hao.caibaojian.com/21758.html) （程序员俱乐部）
-* [写给UI设计新人的知识体系指南](http://hao.caibaojian.com/21734.html) （优秀网页设计）
-* [对话2016年「全球最佳设计团队」UENO.](http://hao.caibaojian.com/21735.html) （优秀网页设计）
-* [关于 Android 应用多进程的整理](http://hao.caibaojian.com/21729.html) （开发者头条）
+* [你应该知道的 9 个 Docker 技术知识](http://hao.caibaojian.com/21828.html) （程序员俱乐部）
+* [LinkedIn是如何利用异常日志实现服务监控的](http://hao.caibaojian.com/21798.html) （InfoQ）
+* [基于 Vue2.x 和 Bulma 的 UI 组件库](http://hao.caibaojian.com/21869.html) （稀土掘金）
+* [看 AspectJ 在 Android 中的强势插入](http://hao.caibaojian.com/21847.html) （SegmentFault）
+* [一张图让你明白互联网的Web服务器](http://hao.caibaojian.com/21849.html) （程序师视野）
 
 ***
-* [通过全新的WIN 10设计语言，我看到了未来的设计趋势](http://hao.caibaojian.com/21737.html) （DevStore）
-* [Working with APIs the Pythonic Way](http://hao.caibaojian.com/21768.html) （湾区日报BayArea）
-* [年纪大的程序员有何出路](http://hao.caibaojian.com/21745.html) （程序师视野）
-* [使用多个DNS供应商以缓解DDoS攻击](http://hao.caibaojian.com/21782.html) （InfoQ）
-* [一个平庸程序员的自白](http://hao.caibaojian.com/21759.html) （程序员俱乐部）
+* [Java实现一致性Hash算法深入研究](http://hao.caibaojian.com/21824.html) （JAVA大本营）
+* [JavaScript 常用积累](http://hao.caibaojian.com/21858.html) （IT程序狮）
+* [MySQL从初级到进阶最全合辑](http://hao.caibaojian.com/21803.html) （慕课网）
+* [2016 Android Top 10 Library](http://hao.caibaojian.com/21835.html) （开发者头条）
+* [机器学习领域书目全集](http://hao.caibaojian.com/21836.html) （开发者头条）
 
 ***
-* [声音计算平台新纪元](http://hao.caibaojian.com/21769.html) （湾区日报BayArea）
-* [做程序员你需要明白这九件事](http://hao.caibaojian.com/21746.html) （程序师视野）
-* [JVM中的逃逸分析](http://hao.caibaojian.com/21783.html) （ImportNew）
-* [SQL 经典回顾](http://hao.caibaojian.com/21760.html) （程序员俱乐部）
-* [Powerline：给 Vim 和 Bash 提供更棒的状态行和提示信息](http://hao.caibaojian.com/21770.html) （Linux中国）
+* [基于 ZooKeeper 的分布式系统的应用场景](http://hao.caibaojian.com/21837.html) （开发者头条）
+* [透彻 Linux (Unix) 五种 IO 模型](http://hao.caibaojian.com/21838.html) （开发者头条）
+* [SHELL(bash)脚本编程](http://hao.caibaojian.com/21846.html) （SegmentFault）
+* [为什么整个互联网行业都缺前端工程师](http://hao.caibaojian.com/21830.html) （程序员俱乐部）
+* [陆奇为什么去百度](http://hao.caibaojian.com/21840.html) （开发者头条）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
