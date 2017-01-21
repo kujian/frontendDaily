@@ -1,45 +1,45 @@
-# [20170119 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/19.md)
+# [20170120 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/20.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [微信小程序架构解析 一起脱去小程序的外套和内衣 &#8211; 微信小程序架构解析 选自《yaya的鸡汤》](http://hao.caibaojian.com/22601.html) （码农周刊）
-* [8个超实用的jQuery插件应用](http://hao.caibaojian.com/22587.html) （JAVA大本营）
-* [移动前端和web前端的区别是什么](http://hao.caibaojian.com/22630.html) （前端开发博客）
-* [一些编写 CSS 的建议](http://hao.caibaojian.com/22627.html) （IT程序狮）
-* [webpack 好文章好工具合集](http://hao.caibaojian.com/22594.html) （开发者头条）
+* [教你一步步从零构建 webpack 开发多页面环境](http://hao.caibaojian.com/22771.html) （开发者头条）
+* [《十大经典排序算法》JavaScript 实现](http://hao.caibaojian.com/22768.html) （开发者头条）
+* [Github上有意思的项目推荐](http://hao.caibaojian.com/22669.html) （慕课网）
+* [亲戚问你每月多少工资？程序员该如何机智回答](http://hao.caibaojian.com/22728.html) （伯乐在线官方微博）
+* [年度语言 Golang 使用感受 年度语言golang使用感受 选自《吴说》](http://hao.caibaojian.com/22705.html) （码农周刊）
 
 ***
-* [2W/月和1W/月的工作](http://hao.caibaojian.com/22584.html) （JAVA大本营）
-* [视频是新的HTML](http://hao.caibaojian.com/22561.html) （湾区日报BayArea）
-* [HTML Script标签的相关知识](http://hao.caibaojian.com/22628.html) （前端开发博客）
-* [摩拜单车微信小程序开发技术总结](http://hao.caibaojian.com/22604.html) （码农周刊）
-* [从运维角度浅谈 MySQL 数据库优化](http://hao.caibaojian.com/22588.html) （程序员俱乐部）
+* [史上最全前端开发面试问题及答案整理](http://hao.caibaojian.com/22671.html) （慕课网）
+* [微信小程序的自动化测试进阶](http://hao.caibaojian.com/22700.html) （开发者头条）
+* [你真的懂 ajax 吗](http://hao.caibaojian.com/22725.html) （稀土掘金）
+* [将 React 应用优化到 60fps](http://hao.caibaojian.com/22769.html) （开发者头条）
+* [如意小程序开发实战：实现九宫格界面的导航](http://hao.caibaojian.com/23010.html) （SegmentFault）
 
 ***
-* [视频 HTML5 Video 标签在微信里的坑和技巧](http://hao.caibaojian.com/22606.html) （码农周刊）
-* [Vue-Blu](http://hao.caibaojian.com/22625.html) （IT程序狮）
-* [由 Swoole + yaf 实现 socket 服务基础框架](http://hao.caibaojian.com/22603.html) （码农周刊）
-* [webgl世界 matrix入门](http://hao.caibaojian.com/22570.html) （前端大全）
-* [vue2.0组件通信各种情况总结与实例分析](http://hao.caibaojian.com/22551.html) （慕课网）
+* [关于 TiDB 2016 技术上的总结和对 2017 年的一些想法](http://hao.caibaojian.com/22701.html) （开发者头条）
+* [听说 2017 你想写前端？ 听说2017你想写前端？ 选自《一个程序员的自我修养》](http://hao.caibaojian.com/22704.html) （码农周刊）
+* [Chrome 开发者工具的小技巧](http://hao.caibaojian.com/22770.html) （开发者头条）
+* [WKWebView 那些坑](http://hao.caibaojian.com/22772.html) （开发者头条）
+* [人工智能核心概念辨析](http://hao.caibaojian.com/22796.html) （开发者头条）
 
 ***
-* [推荐 10 个 ReactJS 入门资源](http://hao.caibaojian.com/22590.html) （程序员俱乐部）
-* [ES6 核心特性](http://hao.caibaojian.com/22629.html) （前端开发博客）
-* [全球500亿条数据被Elasticsearch勒索者删除](http://hao.caibaojian.com/22575.html) （LUPA开源社区）
-* [给 Android 程序员的 Terminal 指南](http://hao.caibaojian.com/22593.html) （开发者头条）
-* [100 亿数据 1 万属性数据架构设计](http://hao.caibaojian.com/22596.html) （开发者头条）
+* [京东金融闰秒事件复盘](http://hao.caibaojian.com/22797.html) （开发者头条）
+* [Java高级软件工程师面试考纲](http://hao.caibaojian.com/22690.html) （JAVA大本营）
+* [用于实践和测试 Stylus 的简易开发环境](http://hao.caibaojian.com/22798.html) （开发者头条）
+* [浅谈12306核心模型设计思路和架构设计](http://hao.caibaojian.com/22691.html) （JAVA大本营）
+* [Angular 的超能力（PPT）](http://hao.caibaojian.com/22800.html) （开发者头条）
 
 ***
-* [Google发布Zipkin与Stackdriver Trace的集成功能，实现分布式应用的跟踪](http://hao.caibaojian.com/22547.html) （InfoQ）
-* [全链路压测军演系统 ForceBot 全链路压测军演系统 — ForceBot 选自《高效运维》](http://hao.caibaojian.com/22605.html) （码农周刊）
-* [我的 Python 经验分享](http://hao.caibaojian.com/22597.html) （开发者头条）
-* [掌握 iOS 动画设计和分析的思路](http://hao.caibaojian.com/22598.html) （开发者头条）
-* [云计算时代的深度学习训练](http://hao.caibaojian.com/22599.html) （开发者头条）
+* [聊聊 clean code](http://hao.caibaojian.com/22767.html) （开发者头条）
+* [饿了么推荐系统从 0 到 1](http://hao.caibaojian.com/22801.html) （开发者头条）
+* [朴素贝叶斯，基于概率论的分类方法](http://hao.caibaojian.com/22803.html) （开发者头条）
+* [Swoole 内置的 Http 异步客户端介绍](http://hao.caibaojian.com/22697.html) （开发者头条）
+* [2016 我的心路历程：从 Vue 到 Webpack 到 iView](http://hao.caibaojian.com/22709.html) （SegmentFault）
 
 ***
-* [使用 Swift 3 与 Xocde 8 创建条码与二维码扫描应用](http://hao.caibaojian.com/22607.html) （SegmentFault）
-* [开源软件将吞噬世界的10个原因](http://hao.caibaojian.com/22589.html) （程序员俱乐部）
-* [CentOS7 安装配置 vsftp 搭建 FTP](http://hao.caibaojian.com/22608.html) （SegmentFault）
-* [深度学习算法在自然语言处理中的一些心得](http://hao.caibaojian.com/22571.html) （阿里云云栖社区）
-* [如何在 NodeJS 项目中优雅的使用 ES6](http://hao.caibaojian.com/22609.html) （SegmentFault）
+* [每个程序员都会的35个jQuery小技巧](http://hao.caibaojian.com/22969.html) （慕课网）
+* [云计算的前世今生](http://hao.caibaojian.com/22710.html) （SegmentFault）
+* [Openresty 的开发闭环初探](http://hao.caibaojian.com/22699.html) （开发者头条）
+* [写给设计师的全面辅助技能手册](http://hao.caibaojian.com/22724.html) （优秀网页设计）
+* [Ground Control To Silicon Valley](http://hao.caibaojian.com/22678.html) （湾区日报BayArea）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
