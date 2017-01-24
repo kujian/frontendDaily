@@ -1,45 +1,45 @@
-# [20170122 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/22.md)
+# [20170123 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/23.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript 创建对象之原型模式](http://hao.caibaojian.com/23104.html) （IT程序狮）
-* [阿里9年，我总结的前端架构演进3大阶段及团队管理心法](http://hao.caibaojian.com/23055.html) （全栈开发者）
-* [Vue 2 | PART 1 跟世界打个招呼吧](http://hao.caibaojian.com/23094.html) （SegmentFault）
-* [Vue+MySQL+Express 小试牛刀](http://hao.caibaojian.com/23096.html) （SegmentFault）
-* [jquery ajax post跨域与CORS跨域](http://hao.caibaojian.com/23105.html) （前端开发博客）
+* [聊聊 SVG 基本形状转换那些事](http://hao.caibaojian.com/23230.html) （前端大全）
+* [基于 vue+vuex+localStorage 开发的本地记事本](http://hao.caibaojian.com/23264.html) （SegmentFault）
+* [你的产品适合用微信小程序来开发吗](http://hao.caibaojian.com/23248.html) （开发者头条）
+* [Webpack 2 快速入门](http://hao.caibaojian.com/23246.html) （开发者头条）
+* [JavaScript跨域方法汇总2](http://hao.caibaojian.com/23282.html) （前端开发博客）
 
 ***
-* [V8 Object 内存结构与属性访问详解](http://hao.caibaojian.com/23082.html) （开发者头条）
-* [Java 程序员不容错过的开发趋势](http://hao.caibaojian.com/23054.html) （全栈开发者）
-* [程序员才看得明白的面试圣经](http://hao.caibaojian.com/23074.html) （JAVA大本营）
-* [HTML 5.1 — 14 项新增特性及使用案例](http://hao.caibaojian.com/23057.html) （全栈开发者）
-* [高效 MacBook 工作环境配置（2017 更新版）](http://hao.caibaojian.com/23078.html) （开发者头条）
+* [如何开发一个功能强大的图片选择器（Android）](http://hao.caibaojian.com/23294.html) （开发者头条）
+* [HTML5 Canvas处理头像上传](http://hao.caibaojian.com/23241.html) （程序员俱乐部）
+* [超酷的网页源文件免费下载](http://hao.caibaojian.com/23286.html) （优秀网页设计）
+* [Webpack 2最终版本发布，聚焦文档内容提升](http://hao.caibaojian.com/23196.html) （InfoQ）
+* [基于netty http协议栈的轻量级流程控制组件的实现](http://hao.caibaojian.com/23200.html) （ImportNew）
 
 ***
-* [netty5 HTTP协议栈浅析与实践](http://hao.caibaojian.com/23050.html) （ImportNew）
-* [一次快速排序错误引发的思考](http://hao.caibaojian.com/23097.html) （程序师视野）
-* [有一种 Block 叫 Callback，有一种 Callback 叫 CompletionHandler](http://hao.caibaojian.com/23080.html) （开发者头条）
-* [用 Spark 和 DBSCAN 对地理定位数据进行聚类](http://hao.caibaojian.com/23110.html) （开发者头条）
-* [Python 爬虫基础](http://hao.caibaojian.com/23095.html) （SegmentFault）
+* [支持WebVR，使Flash可以即点即运行](http://hao.caibaojian.com/23195.html) （InfoQ）
+* [什么是Spark，如何使用Spark进行数据分析](http://hao.caibaojian.com/23275.html) （实验楼官方微博）
+* [关于渐进式 Web 应用，你应该知道的一切](http://hao.caibaojian.com/23295.html) （开发者头条）
+* [Chaos工程](http://hao.caibaojian.com/23197.html) （InfoQ）
+* [Linux以外的7种开源操作系统](http://hao.caibaojian.com/23266.html) （程序师视野）
 
 ***
-* [Git版本控制与工作流详解](http://hao.caibaojian.com/23076.html) （程序员俱乐部）
-* [相比移动领域，Android能否也为物联网打开一片新天地](http://hao.caibaojian.com/23048.html) （InfoQ）
-* [走向通用人工智能之路](http://hao.caibaojian.com/23049.html) （InfoQ）
-* [对一个“老”架构的重新思考](http://hao.caibaojian.com/23093.html) （SegmentFault）
-* [top 命令](http://hao.caibaojian.com/23109.html) （伯乐在线官方微博）
+* [开发软件到底有多贵](http://hao.caibaojian.com/23240.html) （程序员俱乐部）
+* [在程序员的眼里，用户是这样使用他们开发的软件的](http://hao.caibaojian.com/23253.html) （IT程序猿）
+* [Google的算法出过哪些囧事](http://hao.caibaojian.com/23268.html) （程序师视野）
+* [Why Most Startups Suck At PR](http://hao.caibaojian.com/23206.html) （湾区日报BayArea）
+* [如何理解微信小程序的各种“没有”](http://hao.caibaojian.com/23269.html) （程序师视野）
 
 ***
-* [给 Linux 新手的最佳发行版](http://hao.caibaojian.com/23067.html) （Linux中国）
-* [深入理解 GoogLeNet](http://hao.caibaojian.com/23113.html) （开发者头条）
-* [员工盘点在苹果工作的19个好处](http://hao.caibaojian.com/23098.html) （程序师视野）
-* [整理的Android开发资源](http://hao.caibaojian.com/23089.html) （IT程序猿）
-* [人工智能时代的降临](http://hao.caibaojian.com/23079.html) （开发者头条）
+* [和 Thrift 的一场美丽邂逅](http://hao.caibaojian.com/23201.html) （ImportNew）
+* [Netflix 在它创造的世界里能生存下去吗](http://hao.caibaojian.com/23204.html) （湾区日报BayArea）
+* [Hexo+OSChina](http://hao.caibaojian.com/23284.html) （开源中国）
+* [九大工具助你玩转Java性能优化](http://hao.caibaojian.com/23256.html) （IT程序猿）
+* [强力优化Rancher k8s中国区的使用体验](http://hao.caibaojian.com/23259.html) （SegmentFault）
 
 ***
-* [使用 JAVA8 stream 中三个参数的 reduce 方法对 List 进行分组统计](http://hao.caibaojian.com/23092.html) （SegmentFault）
-* [程序员内心独白](http://hao.caibaojian.com/23072.html) （JAVA大本营）
-* [云计算民间职称考试](http://hao.caibaojian.com/23066.html) （Linux中国）
-* [Java 实现线程死锁](http://hao.caibaojian.com/23073.html) （JAVA大本营）
-* [33 个 2017 年必须了解的 iOS 开源库](http://hao.caibaojian.com/23084.html) （开发者头条）
+* [改良程序的11技巧](http://hao.caibaojian.com/23270.html) （程序师视野）
+* [Logback 源码赏析-日志按时间滚动（切割）](http://hao.caibaojian.com/23260.html) （SegmentFault）
+* [微服务框架和工具大全](http://hao.caibaojian.com/23231.html) （阿里云云栖社区）
+* [runtime 入门与简介](http://hao.caibaojian.com/23261.html) （SegmentFault）
+* [free 命令](http://hao.caibaojian.com/23290.html) （伯乐在线官方微博）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
