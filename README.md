@@ -1,45 +1,45 @@
-# [20170127 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/27.md)
+# [20170128 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/01/28.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [移动端适配方案(上)](http://hao.caibaojian.com/23697.html) （前端大全）
-* [browser-sync gulp配置](http://hao.caibaojian.com/23747.html) （前端开发博客）
-* [关于React你需要知道的事儿](http://hao.caibaojian.com/23748.html) （前端开发博客）
-* [做了4个微信小程序后，我总结了一个快速开发流程](http://hao.caibaojian.com/23755.html) （优秀网页设计）
-* [如何通过 Xposed 框架获取点击的文字](http://hao.caibaojian.com/23712.html) （开发者头条）
+* [Web服务端性能提升实践](http://hao.caibaojian.com/23837.html) （InfoQ）
+* [CSS中Position、Float属性深入探讨](http://hao.caibaojian.com/23922.html) （JAVA大本营）
+* [More than React（一）为什么ReactJS不适合复杂交互的前端项目](http://hao.caibaojian.com/23912.html) （InfoQ）
+* [《Eloquent JavaScript》中文标注和内容注解](http://hao.caibaojian.com/23858.html) （开发者头条）
+* [JavaScript实现复制、剪切和粘贴](http://hao.caibaojian.com/23879.html) （前端开发博客）
 
 ***
-* [JavaScript 异步编程魔法](http://hao.caibaojian.com/23741.html) （IT程序狮）
-* [简单易用的轻量级 PDF 阅读器组件](http://hao.caibaojian.com/23711.html) （开发者头条）
-* [Facebook与谷歌工作环境有哪些不同？看好了再选择](http://hao.caibaojian.com/23728.html) （程序师视野）
-* [三年0故障总结，提升代码质量的秘诀](http://hao.caibaojian.com/23700.html) （阿里云云栖社区）
-* [应该培养小孩的编程能力还是创造力](http://hao.caibaojian.com/23689.html) （湾区日报BayArea）
+* [风口上的HTML5，今年的发展方向会有哪些](http://hao.caibaojian.com/23939.html) （程序师视野）
+* [MapD：由 GPU 驱动的数据库分析平台可在几毫秒内查询数十亿条数据](http://hao.caibaojian.com/23851.html) （Linux中国）
+* [程序是怎么执行的](http://hao.caibaojian.com/23938.html) （程序师视野）
+* [2017年1月9日 Asana 故障的 postmortem](http://hao.caibaojian.com/23919.html) （湾区日报BayArea）
+* [Linux 下超强内存检测工具 Valgrind](http://hao.caibaojian.com/23930.html) （开发者头条）
 
 ***
-* [Rob Pike 得到的最好的编程建议](http://hao.caibaojian.com/23686.html) （湾区日报BayArea）
-* [一个奋斗者的效率指南](http://hao.caibaojian.com/23727.html) （程序师视野）
-* [看看机器人的前世今生](http://hao.caibaojian.com/23709.html) （开发者头条）
-* [迁移到 Medium 的线上媒体们](http://hao.caibaojian.com/23684.html) （湾区日报BayArea）
-* [记录一次内存泄露排查过程](http://hao.caibaojian.com/23710.html) （开发者头条）
+* [Google推出Chrome 56，强化了安全且页面重载速度快28%](http://hao.caibaojian.com/23934.html) （36氪）
+* [MongoDB性能优化指南](http://hao.caibaojian.com/23924.html) （JAVA大本营）
+* [Mesos 在教育课件云中的应用](http://hao.caibaojian.com/23913.html) （InfoQ）
+* [从小米推送 php 服务端框架中看看代码该怎么写](http://hao.caibaojian.com/23936.html) （SegmentFault）
+* [实际工作中的编程是怎么样的，与学校里有什么不同](http://hao.caibaojian.com/23937.html) （程序师视野）
 
 ***
-* [反击烦人的 recruiter](http://hao.caibaojian.com/23685.html) （湾区日报BayArea）
-* [正在转型为 machine learning first 的 Google](http://hao.caibaojian.com/23687.html) （湾区日报BayArea）
-* [ES6 新语法疑点简析](http://hao.caibaojian.com/23723.html) （SegmentFault）
-* [3 个针对高级用户的 Vim 编辑器实用技巧](http://hao.caibaojian.com/23694.html) （Linux中国）
-* [编绎调试HotSpot JVM及在Eclipse里调试](http://hao.caibaojian.com/23679.html) （ImportNew）
+* [谈谈 Linux 内核驱动的编码风格](http://hao.caibaojian.com/23940.html) （程序师视野）
+* [一个分布式的任务调度框架设计原理以及实现](http://hao.caibaojian.com/23838.html) （ImportNew）
+* [2017年，移动开发者有哪些博客可以关注](http://hao.caibaojian.com/23840.html) （iOS大全）
+* [代码审查的5点经验教训总结](http://hao.caibaojian.com/23925.html) （程序员俱乐部）
+* [Context都没弄明白，还怎么做Android开发](http://hao.caibaojian.com/23867.html) （IT程序猿）
 
 ***
-* [4个高手私藏方法，省下你50%的PPT制作时间](http://hao.caibaojian.com/23756.html) （优秀网页设计）
-* [watch 命令](http://hao.caibaojian.com/23759.html) （伯乐在线官方微博）
-* [三大对策帮你解决父母催婚问题](http://hao.caibaojian.com/23713.html) （开发者头条）
-* [Marketing Attribution](http://hao.caibaojian.com/23688.html) （湾区日报BayArea）
-* [10年行权期是合理的](http://hao.caibaojian.com/23690.html) （湾区日报BayArea）
+* [谷歌重返中国将遇尴尬 年轻人不知谷歌为何物](http://hao.caibaojian.com/23869.html) （程序师视野）
+* [Node.js的几个“黄金”指标](http://hao.caibaojian.com/23870.html) （程序师视野）
+* [Java 动态代理深入解析](http://hao.caibaojian.com/23923.html) （JAVA大本营）
+* [简单、好玩、有趣的命令行版 12306（Golang）](http://hao.caibaojian.com/23857.html) （开发者头条）
+* [Java 自定义实现 LRU 缓存算法](http://hao.caibaojian.com/23927.html) （程序员俱乐部）
 
 ***
-* [谈支付宝红包的高并发挑战](http://hao.caibaojian.com/23701.html) （阿里云云栖社区）
-* [进阶隐式矩阵分解——探讨如何实现更快的算法](http://hao.caibaojian.com/23856.html) （阿里云云栖社区）
-* [开发第一个Android应用之前你需要知道的六件事](http://hao.caibaojian.com/23874.html) （程序师视野）
-* [微信 iOS 客户端任意地区修改实践](http://hao.caibaojian.com/23860.html) （开发者头条）
-* [我们在公司里用这些方法启发创意](http://hao.caibaojian.com/23875.html) （程序师视野）
+* [Android开发的那些坑和小技巧](http://hao.caibaojian.com/23868.html) （IT程序猿）
+* [一个性能较好的JVM参数配置](http://hao.caibaojian.com/23929.html) （程序员俱乐部）
+* [让我们一起做安全测试吧](http://hao.caibaojian.com/23931.html) （开发者头条）
+* [2017年度设计大奖+构建色彩平衡的6个小技巧](http://hao.caibaojian.com/23881.html) （优秀网页设计）
+* [如何给你的女神修Mac电脑](http://hao.caibaojian.com/23921.html) （JAVA大本营）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
