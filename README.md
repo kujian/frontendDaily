@@ -1,45 +1,45 @@
-# [20170203 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/03.md)
+# [20170204 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/04.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [React-Manga 一个以 React 实现的漫画 WebApp](http://hao.caibaojian.com/24536.html) （稀土掘金）
-* [Web 前端组件设计漫谈](http://hao.caibaojian.com/24534.html) （稀土掘金）
-* [从 Gitlab 误删除数据库想到的](http://hao.caibaojian.com/24506.html) （开发者头条）
-* [JavaScript Array 原型方法 大盘点](http://hao.caibaojian.com/24535.html) （稀土掘金）
-* [HTTP缓存策略](http://hao.caibaojian.com/24610.html) （前端开发博客）
+* [详解 CSS 居中布局技巧](http://hao.caibaojian.com/24694.html) （稀土掘金）
+* [JavaScript面向对象和原型函数](http://hao.caibaojian.com/24687.html) （前端开发博客）
+* [分享一些好的 GitHub 开源库](http://hao.caibaojian.com/24786.html) （iOS大全）
+* [使你的 CSS 更加专业](http://hao.caibaojian.com/24760.html) （稀土掘金）
+* [VueHelper](http://hao.caibaojian.com/24757.html) （IT程序狮）
 
 ***
-* [Angular 2.x 从 0 到 1丨史上最简单的 Angular2 教程](http://hao.caibaojian.com/24510.html) （SegmentFault）
-* [移动端适配方案(下)](http://hao.caibaojian.com/24482.html) （前端大全）
-* [深入浅出 Node.js 读书笔记](http://hao.caibaojian.com/24522.html) （IT程序狮）
-* [使用 RxJS 掌控异步](http://hao.caibaojian.com/24599.html) （开发者头条）
-* [我对GitLab误删除数据库事件的几点思考](http://hao.caibaojian.com/24481.html) （聊聊架构）
+* [VR 大潮来袭，前端开发能做些什么](http://hao.caibaojian.com/24702.html) （稀土掘金）
+* [使用 WebSocket 和 CSS3 创造魔法](http://hao.caibaojian.com/24696.html) （稀土掘金）
+* [Web 前端开发里所说的 Polyfill 是什么](http://hao.caibaojian.com/24734.html) （湾区日报BayArea）
+* [qart.js](http://hao.caibaojian.com/24698.html) （稀土掘金）
+* [git-recall](http://hao.caibaojian.com/24685.html) （IT程序狮）
 
 ***
-* [还不会搭建博客？13个超详细的教程教你](http://hao.caibaojian.com/24517.html) （实验楼官方微博）
-* [如何编写jQuery插件](http://hao.caibaojian.com/24526.html) （前端开发博客）
-* [Linux 的 OOM 终结者](http://hao.caibaojian.com/24594.html) （程序员俱乐部）
-* [Linux mkdir、tar 和 kill 命令的 4 个有用小技巧](http://hao.caibaojian.com/24596.html) （程序员俱乐部）
-* [SDWebImage源码解析(二)](http://hao.caibaojian.com/24466.html) （iOS大全）
+* [大神教你如何卸载IE浏览器](http://hao.caibaojian.com/24644.html) （全栈开发者）
+* [11 个 Visual Studio 代码性能分析工具](http://hao.caibaojian.com/24745.html) （程序员俱乐部）
+* [localStorage的黑科技-js和css缓存机制](http://hao.caibaojian.com/24801.html) （前端大全）
+* [我收藏的技术知识图(每张都是大图)](http://hao.caibaojian.com/24656.html) （阿里云云栖社区）
+* [CSS3制作圆环进度动画效果](http://hao.caibaojian.com/24758.html) （前端开发博客）
 
 ***
-* [&#8220;我以后可能会用到&#8221;](http://hao.caibaojian.com/24468.html) （湾区日报BayArea）
-* [Linkedin 的蓝色药丸](http://hao.caibaojian.com/24504.html) （开发者头条）
-* [为何 Basecamp 的产品定价不按人头收费](http://hao.caibaojian.com/24587.html) （湾区日报BayArea）
-* [聊天机器人初学者完全指南](http://hao.caibaojian.com/24598.html) （开发者头条）
-* [Redis CSRF漏洞分析及防范措施](http://hao.caibaojian.com/24483.html) （阿里云云栖社区）
+* [程序员的10000个小时理论](http://hao.caibaojian.com/24752.html) （程序师视野）
+* [Gradle 插件开发与执行原理浅析](http://hao.caibaojian.com/24670.html) （开发者头条）
+* [通过例子学习 Rust（中文版）](http://hao.caibaojian.com/24749.html) （开发者头条）
+* [Apache Eagle毕业成为顶级项目](http://hao.caibaojian.com/24728.html) （InfoQ）
+* [为什么我们开源了员工手册](http://hao.caibaojian.com/24732.html) （湾区日报BayArea）
 
 ***
-* [避免回调地狱](http://hao.caibaojian.com/24612.html) （稀土掘金）
-* [Android Volley 异步网络请求分析](http://hao.caibaojian.com/24493.html) （程序员俱乐部）
-* [马云为什么要研发HybridDB数据库](http://hao.caibaojian.com/24604.html) （程序师视野）
-* [Cloudera Manager 架构设计和原理剖析（PPT）](http://hao.caibaojian.com/24503.html) （开发者头条）
-* [纽约的科技圈](http://hao.caibaojian.com/24586.html) （湾区日报BayArea）
+* [Android 新特性介绍，ConstraintLayout 完全解析](http://hao.caibaojian.com/24699.html) （稀土掘金）
+* [SDWebImage 下载模块解析](http://hao.caibaojian.com/24812.html) （开发者头条）
+* [哪个技术火就选哪个？切记知乎驱动的技术选型不靠谱](http://hao.caibaojian.com/24655.html) （聊聊架构）
+* [总有一个场景颠覆你的想象](http://hao.caibaojian.com/24690.html) （优秀网页设计）
+* [Java后端工程师技能树](http://hao.caibaojian.com/24657.html) （阿里云云栖社区）
 
 ***
-* [LXD 2.0 系列（六）：远程主机及容器迁移](http://hao.caibaojian.com/24477.html) （Linux中国）
-* [Raft 一致性算法论文译文](http://hao.caibaojian.com/24601.html) （开发者头条）
-* [RxPermissions 源码解析](http://hao.caibaojian.com/24613.html) （稀土掘金）
-* [为什么我不再使用MVC框架](http://hao.caibaojian.com/24488.html) （JAVA大本营）
-* [其实，中国的开发者们从来没有开心过](http://hao.caibaojian.com/24603.html) （程序师视野）
+* [丢失 6 小时生产数据，操作员应该被开除](http://hao.caibaojian.com/24672.html) （开发者头条）
+* [什么是 SRE（网站可靠性工程）](http://hao.caibaojian.com/24738.html) （Linux中国）
+* [（实例演示）](http://hao.caibaojian.com/24692.html) （优秀网页设计）
+* [Java8 HashMap实现原理探究](http://hao.caibaojian.com/24660.html) （JAVA大本营）
+* [在日本谷歌上班是一种什么样的体验](http://hao.caibaojian.com/24679.html) （程序师视野）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
