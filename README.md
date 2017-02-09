@@ -1,45 +1,45 @@
-# [20170206 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/06.md)
+# [20170208 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/08.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [通用 CSS 笔记、建议与指导](http://hao.caibaojian.com/24998.html) （IT程序狮）
-* [前端切图神器 avocode](http://hao.caibaojian.com/25075.html) （稀土掘金）
-* [学习前端只需要三个月（语言篇）](http://hao.caibaojian.com/25040.html) （开发者头条）
-* [2016年度最热门的开发工具集](http://hao.caibaojian.com/25008.html) （CSDN）
-* [从 Chrome 源码看浏览器的事件机制](http://hao.caibaojian.com/25035.html) （开发者头条）
+* [前端开发者，2017 年你应该学习什么](http://hao.caibaojian.com/25260.html) （Linux中国）
+* [异步javascript的原理和实现](http://hao.caibaojian.com/25380.html) （IT程序猿）
+* [如何选择移动应用前端框架](http://hao.caibaojian.com/25407.html) （前端开发博客）
+* [一图告诉你 BAT 明星程序员是如何跳槽的](http://hao.caibaojian.com/25353.html) （全栈开发者）
+* [哪些技术大热？哪些技术遇冷](http://hao.caibaojian.com/25351.html) （全栈开发者）
 
 ***
-* [让 Node.js 核心更强大](http://hao.caibaojian.com/25073.html) （稀土掘金）
-* [移动端 H5 页面注意事项](http://hao.caibaojian.com/25078.html) （开发者头条）
-* [Hadoop 面试中 6 个常见的问题及答案](http://hao.caibaojian.com/24980.html) （全栈开发者）
-* [极客学院前端练习题](http://hao.caibaojian.com/25130.html) （开发者头条）
-* [阿里巴巴 Java 开发手册](http://hao.caibaojian.com/24997.html) （IT程序狮）
+* [Vue2.x 踩坑与总结](http://hao.caibaojian.com/25417.html) （稀土掘金）
+* [我眼中的 React](http://hao.caibaojian.com/25376.html) （开发者头条）
+* [搭建 vue+webpack+mock 脚手架（一）](http://hao.caibaojian.com/25392.html) （SegmentFault）
+* [JavaScript 简史](http://hao.caibaojian.com/25248.html) （全栈开发者）
+* [由数据绑定和排序引入的几个 JavaScript 知识点](http://hao.caibaojian.com/25405.html) （IT程序狮）
 
 ***
-* [继续前行的前端周刊（第十五期）](http://hao.caibaojian.com/25037.html) （开发者头条）
-* [webpack 2 使用总结](http://hao.caibaojian.com/25136.html) （开发者头条）
-* [什么是 Physical Web](http://hao.caibaojian.com/25036.html) （开发者头条）
-* [图解 TCP 协议中的三次握手和四次挥手](http://hao.caibaojian.com/25065.html) （IT程序狮）
-* [如何提升Web后端性能？我的4个实践和总结](http://hao.caibaojian.com/25022.html) （聊聊架构）
+* [css-protips](http://hao.caibaojian.com/25416.html) （稀土掘金）
+* [程序员从编程总结的 22 个经验](http://hao.caibaojian.com/25308.html) （前端开发博客）
+* [关于 Git 你需要知道的一些事情](http://hao.caibaojian.com/25268.html) （开发者头条）
+* [详解用 CSS3 制作圆形滚动进度条动画效果](http://hao.caibaojian.com/25306.html) （IT程序狮）
+* [Google 将发布 Angular 4](http://hao.caibaojian.com/25404.html) （酷勤网-程序员的那点事）
 
 ***
-* [翻译向丨webpack2 指南](http://hao.caibaojian.com/25046.html) （SegmentFault）
-* [React 服务端渲染缓慢原因浅析](http://hao.caibaojian.com/25049.html) （SegmentFault）
-* [当 AI 邂逅艺术：机器写诗综述](http://hao.caibaojian.com/25043.html) （开发者头条）
-* [改变Android按钮背景颜色的高效方法](http://hao.caibaojian.com/25029.html) （程序员俱乐部）
-* [Node.js 异步最佳实践 &#038; 避免回调地狱](http://hao.caibaojian.com/25066.html) （IT程序狮）
+* [WebSlides](http://hao.caibaojian.com/25305.html) （IT程序狮）
+* [GitLab 计划采用 Vue 和 webpack 进行重写](http://hao.caibaojian.com/25408.html) （开源中国）
+* [2016年全球10大数据中心提供商概览](http://hao.caibaojian.com/25298.html) （大数据资讯）
+* [Facebook为快速安全的移动连接打造零往返协议](http://hao.caibaojian.com/25347.html) （InfoQ）
+* [程序员必须知道的10大基础实用算法及其讲解](http://hao.caibaojian.com/25276.html) （IT程序猿）
 
 ***
-* [AngularJS仿拉勾网WebApp 开发移动端单页应用](http://hao.caibaojian.com/25014.html) （慕课网）
-* [容器和微服务在Hadoop生态系统中找到一席之地](http://hao.caibaojian.com/24978.html) （Docker精选）
-* [（原创）我为什么要学Python](http://hao.caibaojian.com/24995.html) （程序师视野）
-* [RxAndroid 中文教程](http://hao.caibaojian.com/25070.html) （稀土掘金）
-* [字符编码来自@tingxins 文章传送门:](http://hao.caibaojian.com/25048.html) （SegmentFault）
+* [Netflix推出Hollow，处理内存数据集的Java库](http://hao.caibaojian.com/25240.html) （InfoQ）
+* [Facebook的AE矢量动画渲染组件](http://hao.caibaojian.com/25264.html) （移动开发前线）
+* [函数防抖与函数节流](http://hao.caibaojian.com/25289.html) （SegmentFault）
+* [复杂界面开发之所思](http://hao.caibaojian.com/25245.html) （iOS大全）
+* [Scaling Product Teams at Zapier](http://hao.caibaojian.com/25355.html) （湾区日报BayArea）
 
 ***
-* [这代码不需要重写](http://hao.caibaojian.com/25055.html) （程序师视野）
-* [给初学者的 Rust 中文教程](http://hao.caibaojian.com/24993.html) （开发者头条）
-* [安全相关的 HTTP 响应头总结](http://hao.caibaojian.com/25030.html) （程序员俱乐部）
-* [在计算机时代初期，程序员是如何编程的](http://hao.caibaojian.com/25077.html) （伯乐在线官方微博）
-* [Java 9进入第一轮问题修复阶段](http://hao.caibaojian.com/25010.html) （InfoQ）
+* [测试人员面临的测试挑战和必备技能](http://hao.caibaojian.com/25345.html) （InfoQ）
+* [MySQL 如何存储大数据](http://hao.caibaojian.com/25413.html) （开发者头条）
+* [工作中最让程序员疯狂的5件事](http://hao.caibaojian.com/25368.html) （JAVA大本营）
+* [关于直播，所有的技术细节都在这里了（四）](http://hao.caibaojian.com/25379.html) （开发者头条）
+* [程序员最常说的30个口头禅](http://hao.caibaojian.com/25394.html) （程序师视野）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
