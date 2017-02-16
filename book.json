@@ -2,11 +2,13 @@
 	"title": "前端开发日报",
 	"description": "前端开发技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch http://hao.caibaojian.com/",
 	"links": {
-    	// Custom links at top of sidebar
     	"sidebar": {
+<<<<<<< HEAD
     		"WEB前端开发": "http://caibaojian.com"
+=======
+    		"WEB前端开发": "http://caibaojian.com/"
+>>>>>>> ab9f3f45a4ac2a6cf6796aac633cdcb4d1c5f233
     	},
-        // Sharing links
         "sharing": {
         	"google": null,
         	"facebook": null,
