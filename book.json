@@ -4,7 +4,7 @@
 	"links": {
     	// Custom links at top of sidebar
     	"sidebar": {
-    		"WEB前端开发": "https://caibaojian.com"
+    		"WEB前端开发": "http://caibaojian.com"
     	},
         // Sharing links
         "sharing": {
@@ -14,5 +14,5 @@
         	"weibo": null,
         	"all": null
         }
-    },
+    }
 }
