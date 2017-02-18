@@ -1,45 +1,45 @@
-# [20170216 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/16.md)
+# [20170218 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/18.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [200 行代码实现 web 在线聊天室 (websocket)](http://hao.caibaojian.com/26502.html) （稀土掘金）
-* [Vue2+Echarts 实现多种图表数据可视化 Dashboard 详解（附源码](http://hao.caibaojian.com/26507.html) （稀土掘金）
-* [JavaScript创建动态Dom](http://hao.caibaojian.com/26496.html) （前端开发博客）
-* [适合于小团队的前端规范](http://hao.caibaojian.com/26493.html) （IT程序狮）
-* [ReactJS 生命周期、数据流与事件](http://hao.caibaojian.com/26442.html) （JAVA大本营）
+* [JavaScript 中如何实现函数队列？（一）](http://hao.caibaojian.com/26722.html) （前端大全）
+* [Standard.js](http://hao.caibaojian.com/26770.html) （IT程序狮）
+* [浅谈 MVC、MTV 和 MVVM](http://hao.caibaojian.com/26733.html) （开发者头条）
+* [前端资源教程](http://hao.caibaojian.com/26783.html) （开发者头条）
+* [搞深度学习的实用的 Infrastructure](http://hao.caibaojian.com/26711.html) （湾区日报BayArea）
 
 ***
-* [React Native 一年实践回顾](http://hao.caibaojian.com/26455.html) （开发者头条）
-* [CSS Flexbox 学习指南、工具与框架](http://hao.caibaojian.com/26453.html) （开发者头条）
-* [[译] 成为一个成功的 Web 开发者所需的 21 步](http://hao.caibaojian.com/26472.html) （SegmentFault）
-* [React Native 实现的移动内容社区](http://hao.caibaojian.com/26450.html) （开发者头条）
-* [我如何使用 Django + Vue.js 快速构建项目](http://hao.caibaojian.com/26515.html) （开发者头条）
+* [程序员为何不能像传统行业那样越老越吃香](http://hao.caibaojian.com/26757.html) （程序师视野）
+* [sticky 实现粘性布局](http://hao.caibaojian.com/26723.html) （前端大全）
+* [催眠式学习ES6](http://hao.caibaojian.com/26771.html) （前端开发博客）
+* [容器监控种类大盘点](http://hao.caibaojian.com/26734.html) （开发者头条）
+* [Swift 3.0 高仿微信](http://hao.caibaojian.com/26784.html) （开发者头条）
 
 ***
-* [javascript setAttribute使用兼容](http://hao.caibaojian.com/26497.html) （前端开发博客）
-* [一篇文章告诉你，该学R还是Python](http://hao.caibaojian.com/26460.html) （IT程序猿）
-* [50 道 Java 基础编程练习题](http://hao.caibaojian.com/26494.html) （IT程序狮）
-* [《Python 数据结构》中文版](http://hao.caibaojian.com/26510.html) （开发者头条）
-* [大数据与电商四大核心要素](http://hao.caibaojian.com/26414.html) （InfoQ）
+* [Job Descriptions Should Be Better](http://hao.caibaojian.com/26712.html) （湾区日报BayArea）
+* [月薪3万的程序员告诉你](http://hao.caibaojian.com/26758.html) （程序师视野）
+* [如何排查Java内存泄露(内附各种排查工具介绍)](http://hao.caibaojian.com/26724.html) （阿里云云栖社区）
+* [Java 再陷官司泥潭；新版 Go 优势明显；“加班语言”Rust 终于当了一回主角](http://hao.caibaojian.com/26772.html) （开源中国）
+* [善用 HTTP 缓存利器 Varnish](http://hao.caibaojian.com/26735.html) （开发者头条）
 
 ***
-* [程序员的外快是这么挣来的](http://hao.caibaojian.com/26473.html) （程序师视野）
-* [Linux 下 Tomcat 怎样以非 root 用户执行特权操作](http://hao.caibaojian.com/26456.html) （开发者头条）
-* [小技巧：如何在 Kali Linux 中安装 Google Chrome 浏览器](http://hao.caibaojian.com/26426.html) （Linux中国）
-* [Newtonsoft.Json高级用法](http://hao.caibaojian.com/26446.html) （程序员俱乐部）
-* [你的首个 Progressive Web App](http://hao.caibaojian.com/26428.html) （前端大全）
+* [Dropbox 创始人在 2013 年的 MIT 毕业典礼的演讲全文](http://hao.caibaojian.com/26713.html) （湾区日报BayArea）
+* [2017 年最值得学习的编程语言是什么](http://hao.caibaojian.com/26759.html) （程序师视野）
+* [如何使Mac Docker支持SQL on Linux容器Volume特性](http://hao.caibaojian.com/26725.html) （阿里云云栖社区）
+* [巴菲特的最佳投资](http://hao.caibaojian.com/26773.html) （Google谷歌爱好者）
+* [Visual Studio 2017将于3月7日发布](http://hao.caibaojian.com/26701.html) （InfoQ）
 
 ***
-* [码农们，还记得大明湖畔的 Windows 95 吗](http://hao.caibaojian.com/26444.html) （JAVA大本营）
-* [【死磕Java并发】—–深入分析synchronized的实现原理](http://hao.caibaojian.com/26415.html) （ImportNew）
-* [如何入门 Python 爬虫](http://hao.caibaojian.com/26461.html) （IT程序猿）
-* [Android 从 json 文件到炫酷动画](http://hao.caibaojian.com/26521.html) （稀土掘金）
-* [2017年2月设计圈实用干货大合集](http://hao.caibaojian.com/26500.html) （优秀网页设计）
+* [Android AOP 之字节码插桩详解](http://hao.caibaojian.com/26736.html) （开发者头条）
+* [剖析 Twitter 的 Redux Store 的结构](http://hao.caibaojian.com/26714.html) （湾区日报BayArea）
+* [早发布 常发布 倾听用户](http://hao.caibaojian.com/26760.html) （程序师视野）
+* [最受程序员欢迎的图书推荐](http://hao.caibaojian.com/26726.html) （阿里云云栖社区）
+* [10种超酷体型的制作方式](http://hao.caibaojian.com/26774.html) （优秀网页设计）
 
 ***
-* [Android 性能优化的方方面面](http://hao.caibaojian.com/26511.html) （开发者头条）
-* [使用 flow.ci 快速发布你的项目文档](http://hao.caibaojian.com/26457.html) （开发者头条）
-* [小技巧：检查你本地及公共 IP 地址](http://hao.caibaojian.com/26427.html) （Linux中国）
-* [iOS App 框架搭建简析](http://hao.caibaojian.com/26514.html) （开发者头条）
-* [自己动手绘制一个折线图控件 ChartView](http://hao.caibaojian.com/26504.html) （稀土掘金）
+* [使用相关App的个性化建议](http://hao.caibaojian.com/26702.html) （InfoQ）
+* [支付安全不能说的那些事](http://hao.caibaojian.com/26737.html) （开发者头条）
+* [Hello Kitty 商业帝国](http://hao.caibaojian.com/26715.html) （湾区日报BayArea）
+* [开发者最常用的8款Sublime text插件](http://hao.caibaojian.com/26762.html) （实验楼官方微博）
+* [成为更优秀程序员的关键](http://hao.caibaojian.com/26727.html) （JAVA大本营）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
