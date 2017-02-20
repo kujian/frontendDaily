@@ -1,45 +1,45 @@
-# [20170218 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/18.md)
+# [20170219 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/19.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript 中如何实现函数队列？（一）](http://hao.caibaojian.com/26722.html) （前端大全）
-* [Standard.js](http://hao.caibaojian.com/26770.html) （IT程序狮）
-* [浅谈 MVC、MTV 和 MVVM](http://hao.caibaojian.com/26733.html) （开发者头条）
-* [前端资源教程](http://hao.caibaojian.com/26783.html) （开发者头条）
-* [搞深度学习的实用的 Infrastructure](http://hao.caibaojian.com/26711.html) （湾区日报BayArea）
+* [简单理解 JavaScript 中的柯里化和反柯里化](http://hao.caibaojian.com/26862.html) （IT程序狮）
+* [NodeJS 工程师必备的 8 个工具](http://hao.caibaojian.com/26847.html) （开发者头条）
+* [JavaScript 面试中常见算法问题详解](http://hao.caibaojian.com/26852.html) （开发者头条）
+* [ReactOS 0.4.4发布，类XP的操作系统](http://hao.caibaojian.com/26833.html) （LUPA开源社区）
+* [高效编写微信小程序](http://hao.caibaojian.com/26846.html) （开发者头条）
 
 ***
-* [程序员为何不能像传统行业那样越老越吃香](http://hao.caibaojian.com/26757.html) （程序师视野）
-* [sticky 实现粘性布局](http://hao.caibaojian.com/26723.html) （前端大全）
-* [催眠式学习ES6](http://hao.caibaojian.com/26771.html) （前端开发博客）
-* [容器监控种类大盘点](http://hao.caibaojian.com/26734.html) （开发者头条）
-* [Swift 3.0 高仿微信](http://hao.caibaojian.com/26784.html) （开发者头条）
+* [JavaScript动态加载脚本](http://hao.caibaojian.com/26866.html) （前端开发博客）
+* [2016 腾讯软件开发面试题（部分）](http://hao.caibaojian.com/26871.html) （伯乐在线官方微博）
+* [做完两个实战案例后，我总结了高效编写微信小程序的方法](http://hao.caibaojian.com/26870.html) （优秀网页设计）
+* [JS中的prototype](http://hao.caibaojian.com/26856.html) （IT程序猿）
+* [每个人都应该懂点函数式编程](http://hao.caibaojian.com/26844.html) （程序员俱乐部）
 
 ***
-* [Job Descriptions Should Be Better](http://hao.caibaojian.com/26712.html) （湾区日报BayArea）
-* [月薪3万的程序员告诉你](http://hao.caibaojian.com/26758.html) （程序师视野）
-* [如何排查Java内存泄露(内附各种排查工具介绍)](http://hao.caibaojian.com/26724.html) （阿里云云栖社区）
-* [Java 再陷官司泥潭；新版 Go 优势明显；“加班语言”Rust 终于当了一回主角](http://hao.caibaojian.com/26772.html) （开源中国）
-* [善用 HTTP 缓存利器 Varnish](http://hao.caibaojian.com/26735.html) （开发者头条）
+* [RancherOS 0.8.0发布，基于Docker的操作系统](http://hao.caibaojian.com/26834.html) （LUPA开源社区）
+* [别转管理，十年程序员老鸟给新手的几条忠告](http://hao.caibaojian.com/26875.html) （LUPA开源社区）
+* [探寻 ECMAScript 中的装饰器 Decorator](http://hao.caibaojian.com/26881.html) （开发者头条）
+* [这样设计 RESTFul API，也许能让你效率倍增](http://hao.caibaojian.com/26849.html) （开发者头条）
+* [JavaScript cookie设置](http://hao.caibaojian.com/26867.html) （前端开发博客）
 
 ***
-* [Dropbox 创始人在 2013 年的 MIT 毕业典礼的演讲全文](http://hao.caibaojian.com/26713.html) （湾区日报BayArea）
-* [2017 年最值得学习的编程语言是什么](http://hao.caibaojian.com/26759.html) （程序师视野）
-* [如何使Mac Docker支持SQL on Linux容器Volume特性](http://hao.caibaojian.com/26725.html) （阿里云云栖社区）
-* [巴菲特的最佳投资](http://hao.caibaojian.com/26773.html) （Google谷歌爱好者）
-* [Visual Studio 2017将于3月7日发布](http://hao.caibaojian.com/26701.html) （InfoQ）
+* [云计算入门之机器学习算法平台](http://hao.caibaojian.com/26831.html) （阿里云云栖社区）
+* [在 Google 上做广告的虚假点击量](http://hao.caibaojian.com/26823.html) （湾区日报BayArea）
+* [shell 脚本之始](http://hao.caibaojian.com/26824.html) （Linux中国）
+* [时间和空间的平衡](http://hao.caibaojian.com/26872.html) （伯乐在线官方微博）
+* [创业公司在网上融资的途径](http://hao.caibaojian.com/26815.html) （湾区日报BayArea）
 
 ***
-* [Android AOP 之字节码插桩详解](http://hao.caibaojian.com/26736.html) （开发者头条）
-* [剖析 Twitter 的 Redux Store 的结构](http://hao.caibaojian.com/26714.html) （湾区日报BayArea）
-* [早发布 常发布 倾听用户](http://hao.caibaojian.com/26760.html) （程序师视野）
-* [最受程序员欢迎的图书推荐](http://hao.caibaojian.com/26726.html) （阿里云云栖社区）
-* [10种超酷体型的制作方式](http://hao.caibaojian.com/26774.html) （优秀网页设计）
+* [记一次发现 “聚美优品网站漏洞被用于微信钓鱼” 的过程](http://hao.caibaojian.com/26850.html) （开发者头条）
+* [Better Java](http://hao.caibaojian.com/26830.html) （阿里云云栖社区）
+* [经多次延期后，Ubuntu 16.04.2终于发布](http://hao.caibaojian.com/26835.html) （LUPA开源社区）
+* [让你的 side projects 能赚钱的小窍门](http://hao.caibaojian.com/26814.html) （湾区日报BayArea）
+* [启用全新用户界面](http://hao.caibaojian.com/26836.html) （LUPA开源社区）
 
 ***
-* [使用相关App的个性化建议](http://hao.caibaojian.com/26702.html) （InfoQ）
-* [支付安全不能说的那些事](http://hao.caibaojian.com/26737.html) （开发者头条）
-* [Hello Kitty 商业帝国](http://hao.caibaojian.com/26715.html) （湾区日报BayArea）
-* [开发者最常用的8款Sublime text插件](http://hao.caibaojian.com/26762.html) （实验楼官方微博）
-* [成为更优秀程序员的关键](http://hao.caibaojian.com/26727.html) （JAVA大本营）
+* [python wsgi 简介](http://hao.caibaojian.com/26826.html) （Python开发者）
+* [Android 名企面试题及涉及知识点整理](http://hao.caibaojian.com/26863.html) （IT程序狮）
+* [DBShield](http://hao.caibaojian.com/26864.html) （IT程序狮）
+* [谷歌新发布的分布式数据库服务，是要打破CAP定理了吗](http://hao.caibaojian.com/26828.html) （聊聊架构）
+* [暴雪游戏今年终止Windows XP、Vista系统支持](http://hao.caibaojian.com/26839.html) （LUPA开源社区）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
