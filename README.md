@@ -1,45 +1,45 @@
-# [20170219 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/19.md)
+# [20170220 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/20.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [简单理解 JavaScript 中的柯里化和反柯里化](http://hao.caibaojian.com/26862.html) （IT程序狮）
-* [NodeJS 工程师必备的 8 个工具](http://hao.caibaojian.com/26847.html) （开发者头条）
-* [JavaScript 面试中常见算法问题详解](http://hao.caibaojian.com/26852.html) （开发者头条）
-* [ReactOS 0.4.4发布，类XP的操作系统](http://hao.caibaojian.com/26833.html) （LUPA开源社区）
-* [高效编写微信小程序](http://hao.caibaojian.com/26846.html) （开发者头条）
+* [2017 年前端初学者的生存指南](http://hao.caibaojian.com/26944.html) （开发者头条）
+* [Vuex 2.0 边学边记+两个小例子](http://hao.caibaojian.com/26972.html) （IT程序狮）
+* [18个最好的响应式Web设计工具和库](http://hao.caibaojian.com/26937.html) （程序员俱乐部）
+* [JavaScript队列函数和异步执行](http://hao.caibaojian.com/26975.html) （前端开发博客）
+* [使用 Snap.svg 制作动画](http://hao.caibaojian.com/26974.html) （IT程序狮）
 
 ***
-* [JavaScript动态加载脚本](http://hao.caibaojian.com/26866.html) （前端开发博客）
-* [2016 腾讯软件开发面试题（部分）](http://hao.caibaojian.com/26871.html) （伯乐在线官方微博）
-* [做完两个实战案例后，我总结了高效编写微信小程序的方法](http://hao.caibaojian.com/26870.html) （优秀网页设计）
-* [JS中的prototype](http://hao.caibaojian.com/26856.html) （IT程序猿）
-* [每个人都应该懂点函数式编程](http://hao.caibaojian.com/26844.html) （程序员俱乐部）
+* [误删 300G，GitLab 官方对删库事故的事后分析](http://hao.caibaojian.com/26980.html) （伯乐在线官方微博）
+* [Java 9的日期时间格式化趋近Unicode区域设置标准](http://hao.caibaojian.com/26914.html) （InfoQ）
+* [永不 crash 的 Android](http://hao.caibaojian.com/26988.html) （开发者头条）
+* [推荐给程序员的一些书（不止是技术书）](http://hao.caibaojian.com/26963.html) （程序师视野）
+* [Java中的ThreadLocal深入理解](http://hao.caibaojian.com/26934.html) （JAVA大本营）
 
 ***
-* [RancherOS 0.8.0发布，基于Docker的操作系统](http://hao.caibaojian.com/26834.html) （LUPA开源社区）
-* [别转管理，十年程序员老鸟给新手的几条忠告](http://hao.caibaojian.com/26875.html) （LUPA开源社区）
-* [探寻 ECMAScript 中的装饰器 Decorator](http://hao.caibaojian.com/26881.html) （开发者头条）
-* [这样设计 RESTFul API，也许能让你效率倍增](http://hao.caibaojian.com/26849.html) （开发者头条）
-* [JavaScript cookie设置](http://hao.caibaojian.com/26867.html) （前端开发博客）
+* [分享10个原生JavaScript技巧代码](http://hao.caibaojian.com/26965.html) （实验楼官方微博）
+* [Angular2集成开发环境](http://hao.caibaojian.com/26916.html) （慕课网）
+* [面试的角度诠释Java工程师（一）](http://hao.caibaojian.com/26917.html) （ImportNew）
+* [如何成为一名开源程序员](http://hao.caibaojian.com/26930.html) （Linux中国）
+* [使用 Python 和 Pandas 分析 Pronto CycleShare 数据](http://hao.caibaojian.com/26984.html) （开发者头条）
 
 ***
-* [云计算入门之机器学习算法平台](http://hao.caibaojian.com/26831.html) （阿里云云栖社区）
-* [在 Google 上做广告的虚假点击量](http://hao.caibaojian.com/26823.html) （湾区日报BayArea）
-* [shell 脚本之始](http://hao.caibaojian.com/26824.html) （Linux中国）
-* [时间和空间的平衡](http://hao.caibaojian.com/26872.html) （伯乐在线官方微博）
-* [创业公司在网上融资的途径](http://hao.caibaojian.com/26815.html) （湾区日报BayArea）
+* [机器学习之深入理解 K-means、与 KNN 算法区别及其代码实现](http://hao.caibaojian.com/26946.html) （开发者头条）
+* [Linux 中每个 TCP 连接最少占用多少内存](http://hao.caibaojian.com/26948.html) （开发者头条）
+* [Python性能优化的20条建议](http://hao.caibaojian.com/26968.html) （实验楼官方微博）
+* [框架开发之Java注解的妙用](http://hao.caibaojian.com/26918.html) （ImportNew）
+* [Lock 框架详解](http://hao.caibaojian.com/26951.html) （IT程序猿）
 
 ***
-* [记一次发现 “聚美优品网站漏洞被用于微信钓鱼” 的过程](http://hao.caibaojian.com/26850.html) （开发者头条）
-* [Better Java](http://hao.caibaojian.com/26830.html) （阿里云云栖社区）
-* [经多次延期后，Ubuntu 16.04.2终于发布](http://hao.caibaojian.com/26835.html) （LUPA开源社区）
-* [让你的 side projects 能赚钱的小窍门](http://hao.caibaojian.com/26814.html) （湾区日报BayArea）
-* [启用全新用户界面](http://hao.caibaojian.com/26836.html) （LUPA开源社区）
+* [2017 年成为更好的 Node 开发人员的 10 个技巧](http://hao.caibaojian.com/26970.html) （DevStore）
+* [YQDownloadButton—带有波浪效果和震动波效果的动画](http://hao.caibaojian.com/26920.html) （iOS大全）
+* [淘宝开放平台的高性能API网关、高可靠消息服务、零漏单数据同步的技术内幕](http://hao.caibaojian.com/26932.html) （聊聊架构）
+* [优秀程序员与普通程序员在行为上的差别](http://hao.caibaojian.com/26933.html) （阿里云云栖社区）
+* [中国最富有的十大程序员，你认识几个](http://hao.caibaojian.com/26964.html) （程序师视野）
 
 ***
-* [python wsgi 简介](http://hao.caibaojian.com/26826.html) （Python开发者）
-* [Android 名企面试题及涉及知识点整理](http://hao.caibaojian.com/26863.html) （IT程序狮）
-* [DBShield](http://hao.caibaojian.com/26864.html) （IT程序狮）
-* [谷歌新发布的分布式数据库服务，是要打破CAP定理了吗](http://hao.caibaojian.com/26828.html) （聊聊架构）
-* [暴雪游戏今年终止Windows XP、Vista系统支持](http://hao.caibaojian.com/26839.html) （LUPA开源社区）
+* [用Nginx实现Session共享的均衡负载](http://hao.caibaojian.com/26936.html) （JAVA大本营）
+* [干货——自己动手打造专属代码生成工具（完结篇）](http://hao.caibaojian.com/26915.html) （慕课网）
+* [微信后台技术 “干货们” 带来的启发](http://hao.caibaojian.com/26947.html) （开发者头条）
+* [Co-founder conflict](http://hao.caibaojian.com/26926.html) （湾区日报BayArea）
+* [使用Spark和D3.js分析航班大数据](http://hao.caibaojian.com/26966.html) （实验楼官方微博）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
