@@ -1,45 +1,45 @@
-# [20170224 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/24.md)
+# [20170225 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/25.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [如何通过饿了么 Node.js 面试](http://hao.caibaojian.com/27498.html) （SegmentFault）
-* [GitHub 将对你的软件职业生涯产生什么影响](http://hao.caibaojian.com/27472.html) （开发者头条）
-* [react-native大型项目开发实践](http://hao.caibaojian.com/27456.html) （前端大全）
-* [在前端性能优化中应用 HTTP 缓存的三部曲](http://hao.caibaojian.com/27473.html) （开发者头条）
-* [Twitter基于React的网络协议栈媲美原生性能](http://hao.caibaojian.com/27436.html) （InfoQ）
+* [13个Chrome基础使用技巧](http://hao.caibaojian.com/27655.html) （前端开发博客）
+* [套公式让你不再害怕JavaScript中的原型链](http://hao.caibaojian.com/27658.html) （SegmentFault）
+* [浏览器怎么赚钱](http://hao.caibaojian.com/27611.html) （湾区日报BayArea）
+* [前端编码那些事](http://hao.caibaojian.com/27654.html) （前端开发博客）
+* [REST anti-patterns](http://hao.caibaojian.com/27607.html) （湾区日报BayArea）
 
 ***
-* [HTTPS渐成主流，过半web流量已加密](http://hao.caibaojian.com/27578.html) （LUPA开源社区）
-* [前端进阶系列](http://hao.caibaojian.com/27500.html) （SegmentFault）
-* [React Native拆包及热更新方案](http://hao.caibaojian.com/27497.html) （SegmentFault）
-* [Git 工作流的一些经验分享](http://hao.caibaojian.com/27541.html) （开发者头条）
-* [美观又实用，10款强大的开源 Javascript 图表库](http://hao.caibaojian.com/27505.html) （程序师视野）
+* [为何整个硅谷都误解了Apple的无线耳机](http://hao.caibaojian.com/27609.html) （湾区日报BayArea）
+* [Go 1.8 http graceful 体验](http://hao.caibaojian.com/27693.html) （码农周刊）
+* [浏览器你为什么要干掉我的请求](http://hao.caibaojian.com/27640.html) （SegmentFault）
+* [基于express，MySQL，ejs实现的基本的网站后台管理应用](http://hao.caibaojian.com/27634.html) （SegmentFault）
+* [从0到1，Python网络编程的入门之路](http://hao.caibaojian.com/27639.html) （SegmentFault）
 
 ***
-* [前端程序员谈高薪技巧](http://hao.caibaojian.com/27521.html) （前端开发博客）
-* [PHP类的自动加载机制](http://hao.caibaojian.com/27499.html) （SegmentFault）
-* [最适合做程序员的6类人 有你的类别吗](http://hao.caibaojian.com/27507.html) （程序师视野）
-* [深入分析 Docker 镜像原理](http://hao.caibaojian.com/27469.html) （程序员俱乐部）
-* [推荐引擎的离线算法和在线算法初探](http://hao.caibaojian.com/27458.html) （阿里云云栖社区）
+* [如何在 Ubuntu 上使用 ADB 备份 Android 数据](http://hao.caibaojian.com/27612.html) （Linux中国）
+* [Python面试题总结](http://hao.caibaojian.com/27625.html) （IT程序猿）
+* [你与其他程序员可能常犯的 6 个错误](http://hao.caibaojian.com/27626.html) （IT程序猿）
+* [为什么 Python 对程序员重要](http://hao.caibaojian.com/27642.html) （程序师视野）
+* [深度学习有哪些好玩的且易于实现的论文](http://hao.caibaojian.com/27615.html) （开发者头条）
 
 ***
-* [Firefox 100%支持ECMAScript 2016](http://hao.caibaojian.com/27577.html) （LUPA开源社区）
-* [CSS 五种方式实现 Footer 置底](http://hao.caibaojian.com/27519.html) （IT程序狮）
-* [百度奉命牵头筹建深度学习实验室，这事你怎么看](http://hao.caibaojian.com/27534.html) （开发者头条）
-* [面对你同事写的垃圾代码，你该怎么做](http://hao.caibaojian.com/27444.html) （湾区日报BayArea）
-* [PHP core整合加密库Libsodium](http://hao.caibaojian.com/27576.html) （LUPA开源社区）
+* [我们是如何远程工作的](http://hao.caibaojian.com/27687.html) （湾区日报BayArea）
+* [No Exit](http://hao.caibaojian.com/27606.html) （湾区日报BayArea）
+* [Node.js v7.6.0 发布，默认支持 async/await](http://hao.caibaojian.com/27644.html) （程序师视野）
+* [关于 Spring AOP (AspectJ) 你该知晓的一切](http://hao.caibaojian.com/27635.html) （SegmentFault）
+* [16个简单实用的排版小TIPS](http://hao.caibaojian.com/27657.html) （优秀网页设计）
 
 ***
-* [PWA 程序开发实践](http://hao.caibaojian.com/27474.html) （开发者头条）
-* [会编程的 AI + 会修 Bug 的 AI，等于什么](http://hao.caibaojian.com/27529.html) （伯乐在线官方微博）
-* [这几个问题解决了，怎么设计大型网站架构不再是困难](http://hao.caibaojian.com/27437.html) （InfoQ）
-* [如何在前端开发中增加编码效率，这里有十款 Chrome 扩展可以帮你](http://hao.caibaojian.com/27530.html) （SegmentFault）
-* [RxJS 入门指引和初步应用](http://hao.caibaojian.com/27476.html) （开发者头条）
+* [API 设计的七大误区](http://hao.caibaojian.com/27636.html) （SegmentFault）
+* [开源软件中惊现比特币挖掘代码](http://hao.caibaojian.com/27620.html) （开发者头条）
+* [Redis常见7种使用场景(PHP实战)](http://hao.caibaojian.com/27637.html) （SegmentFault）
+* [Android 权限机制与适配经验](http://hao.caibaojian.com/27621.html) （开发者头条）
+* [Java GC的那些事（上）](http://hao.caibaojian.com/27602.html) （ImportNew）
 
 ***
-* [十个正确使用 Redis 的技巧](http://hao.caibaojian.com/27466.html) （程序员俱乐部）
-* [Google宣布攻破SHA-1，从此SHA-1不再安全](http://hao.caibaojian.com/27454.html) （聊聊架构）
-* [几年的Git使用技巧总结](http://hao.caibaojian.com/27470.html) （程序员俱乐部）
-* [人人都可以做深度学习应用：入门篇](http://hao.caibaojian.com/27501.html) （SegmentFault）
-* [2017 不能错过的 Java 库](http://hao.caibaojian.com/27471.html) （开发者头条）
+* [让我们一起拆解VUE](http://hao.caibaojian.com/27638.html) （SegmentFault）
+* [被玩坏的PHP](http://hao.caibaojian.com/27649.html) （程序师视野）
+* [从机器人三定律到人工智能三原则](http://hao.caibaojian.com/27600.html) （InfoQ）
+* [使用R进行数据匹配的方法](http://hao.caibaojian.com/27651.html) （大数据资讯）
+* [计算机编程是一门艺术](http://hao.caibaojian.com/27603.html) （湾区日报BayArea）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
