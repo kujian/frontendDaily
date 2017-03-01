@@ -1,45 +1,45 @@
-# [20170228 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/02/28.md)
+# [20170301 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/01.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [正则详解及实战（JavaScript）](http://hao.caibaojian.com/28077.html) （IT程序狮）
-* [献给前端求职路上的你们（上）](http://hao.caibaojian.com/28084.html) （稀土掘金）
-* [为什么JavaScript也将征服VR世界](http://hao.caibaojian.com/28030.html) （JAVA大本营）
-* [jQuery学习笔记系列(一)](http://hao.caibaojian.com/28006.html) （慕课网）
-* [一道 JS 面试题所引发的 &#8220;血案&#8221;，透过现象寻本质，再从本质看现象](http://hao.caibaojian.com/28081.html) （稀土掘金）
+* [我眼中的Web 语义化](http://hao.caibaojian.com/28203.html) （SegmentFault）
+* [React 技术栈在蚂蚁金服的实践](http://hao.caibaojian.com/28167.html) （阿里云云栖社区）
+* [前端面试题之 sum(2)(3)](http://hao.caibaojian.com/28230.html) （酷勤网-程序员的那点事）
+* [每个程序员都应该知道的五大开源安全工具](http://hao.caibaojian.com/28212.html) （程序师视野）
+* [如果程序员找不到对象，一般有三种情况](http://hao.caibaojian.com/28214.html) （程序师视野）
 
 ***
-* [一行经脉让你看懂 Weex Runtime 的任督二脉](http://hao.caibaojian.com/28095.html) （开发者头条）
-* [HTTP长连接？短连接？长短连接和轮询](http://hao.caibaojian.com/28133.html) （SegmentFault）
-* [CSS3 transform 属性及应用](http://hao.caibaojian.com/28078.html) （IT程序狮）
-* [尽管我不再为 StackOverflow 贡献答案了，但这个网站并未衰落](http://hao.caibaojian.com/27987.html) （湾区日报BayArea）
-* [什么情况下适合用 SQLite](http://hao.caibaojian.com/27988.html) （湾区日报BayArea）
+* [CSS3 变形、过渡、动画、关联属性浅析](http://hao.caibaojian.com/28179.html) （程序员俱乐部）
+* [GMTC北京2017 大前端专场](http://hao.caibaojian.com/28145.html) （InfoQ）
+* [基于 React + NodeJS + Express + MongoDB 开发的一个社区系统](http://hao.caibaojian.com/28238.html) （SegmentFault）
+* [react + reudx开源的完整项目，和作者对react和redux的解读](http://hao.caibaojian.com/28207.html) （SegmentFault）
+* [给了陌生人 commit 权限后，我的开源项目竟然发展得不错](http://hao.caibaojian.com/28150.html) （湾区日报BayArea）
 
 ***
-* [提升用户体验的利器——使用 Vue-Occupy 实现占位效果](http://hao.caibaojian.com/28082.html) （稀土掘金）
-* [程序员「奇葩」说](http://hao.caibaojian.com/28061.html) （程序师视野）
-* [Weex 极致性能优化](http://hao.caibaojian.com/28003.html) （InfoQ）
-* [使用Node.js实现一个简单的ZooKeeper客户端](http://hao.caibaojian.com/28004.html) （慕课网）
-* [Discord、Web 编辑器和保护分支](http://hao.caibaojian.com/28128.html) （开发者头条）
+* [iOS 开发技术栈与进阶](http://hao.caibaojian.com/28209.html) （SegmentFault）
+* [为玩转 JavaScript 而生的硬件](http://hao.caibaojian.com/28243.html) （开发者头条）
+* [对中国火爆的视频直播领域的16个观察](http://hao.caibaojian.com/28126.html) （湾区日报BayArea）
+* [关于电话号码与身份验证](http://hao.caibaojian.com/28127.html) （湾区日报BayArea）
+* [技术大牛养成指南，一篇不鸡汤的成功学实践](http://hao.caibaojian.com/28146.html) （InfoQ）
 
 ***
-* [使用Node.js实现文件流转存服务](http://hao.caibaojian.com/28131.html) （SegmentFault）
-* [揭露程序员不为人知的日常生活](http://hao.caibaojian.com/28058.html) （程序师视野）
-* [对于 Android 中 ImageView 的 ScaleType 你的理解可能是错的](http://hao.caibaojian.com/28094.html) （开发者头条）
-* [使用Angular与TypeScript构建Electron应用(一)](http://hao.caibaojian.com/28023.html) （前端大全）
-* [跟随大数据分析黄焖鸡如何成为国民小吃中的战斗＂鸡＂的](http://hao.caibaojian.com/28069.html) （大数据资讯）
+* [55%移动应用开发者月收入1000美元](http://hao.caibaojian.com/28215.html) （程序师视野）
+* [两种软件工程师与他们的工作态度](http://hao.caibaojian.com/28152.html) （湾区日报BayArea）
+* [基于 Amazon AWS EC2 部署 Ghost 博客](http://hao.caibaojian.com/28221.html) （实验楼官方微博）
+* [以禅悟禅,体验AngularJs的优雅哲学](http://hao.caibaojian.com/28163.html) （前端大全）
+* [HTML基础知识总结](http://hao.caibaojian.com/28195.html) （IT程序猿）
 
 ***
-* [给程序员的18个简短的忠告](http://hao.caibaojian.com/28060.html) （程序师视野）
-* [从斐波那契数列谈谈代码的性能优化](http://hao.caibaojian.com/28037.html) （开发者头条）
-* [新课速递——高性能高可用的Yii2.0电商平台 高级组件开发 MySQL架构 LVS负载均衡](http://hao.caibaojian.com/28007.html) （慕课网）
-* [封装并实现统一的图片加载架构](http://hao.caibaojian.com/28085.html) （稀土掘金）
-* [美五角大楼准备开源代码库](http://hao.caibaojian.com/28046.html) （伯乐头条）
+* [黑莓的成功导致了它的最终失败](http://hao.caibaojian.com/28153.html) （湾区日报BayArea）
+* [麦肯锡用数据说明，关于深度学习有 120 个商业机会](http://hao.caibaojian.com/28185.html) （开发者头条）
+* [大数据​应用案例分析看热门IP剧《三生三世十里桃花》数据](http://hao.caibaojian.com/28223.html) （大数据资讯）
+* [笼统的前端分享自 @SegmentFault](http://hao.caibaojian.com/28236.html) （SegmentFault）
+* [Google是如何做到从不宕机的](http://hao.caibaojian.com/28216.html) （程序师视野）
 
 ***
-* [当我告诉一个微软高级码工他的代码有错误后](http://hao.caibaojian.com/28011.html) （湾区日报BayArea）
-* [Chrome 35个开发者工具的小技巧](http://hao.caibaojian.com/28066.html) （实验楼官方微博）
-* [快递业需要从汗水驱动变为大数据驱动](http://hao.caibaojian.com/28067.html) （大数据资讯）
-* [Linux 开发者必须了解的常见文件系统对比](http://hao.caibaojian.com/28032.html) （程序员俱乐部）
-* [Kubernetes 中的服务发现与负载均衡](http://hao.caibaojian.com/28036.html) （开发者头条）
+* [开发者大多靠自学，还需要大学学位吗](http://hao.caibaojian.com/28169.html) （LUPA开源社区）
+* [找到 MySQL 数据库中的不良索引](http://hao.caibaojian.com/28180.html) （程序员俱乐部）
+* [流行WordPress插件发现严重SQL注入漏洞](http://hao.caibaojian.com/28170.html) （LUPA开源社区）
+* [关于程序员的急转弯、笑话和趣图(附急转弯答案)](http://hao.caibaojian.com/28218.html) （程序师视野）
+* [Go 语言 Web 服务框架 Gear 设计考量](http://hao.caibaojian.com/28192.html) （开发者头条）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
