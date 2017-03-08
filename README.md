@@ -1,45 +1,45 @@
-# [20170307 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/07.md)
+# [20170308 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/08.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端基础进阶：全方位详细图解面向对象、构造函数、原型与原型链](http://hao.caibaojian.com/29114.html) （SegmentFault）
-* [为什么JavaScript开发如此疯狂](http://hao.caibaojian.com/29090.html) （JAVA大本营）
-* [5个经典的前端面试问题](http://hao.caibaojian.com/29081.html) （前端大全）
-* [Vue 相关开源项目库汇总](http://hao.caibaojian.com/29099.html) （开发者头条）
-* [创建漂亮的 CSS 按钮的 10 个代码片段](http://hao.caibaojian.com/29113.html) （SegmentFault）
+* [推荐10个好用的JavaScript代码压缩工具](http://hao.caibaojian.com/29205.html) （LUPA开源社区）
+* [用 65 行代码实现 JavaScript 动画序列播放](http://hao.caibaojian.com/29278.html) （开发者头条）
+* [那些容易被忽视的 JavaScript 细节总结](http://hao.caibaojian.com/29209.html) （JAVA大本营）
+* [运维人员的身份危机](http://hao.caibaojian.com/29175.html) （湾区日报BayArea）
+* [面试题汇总 HTML+CSS篇 （一）](http://hao.caibaojian.com/29182.html) （慕课网）
 
 ***
-* [Vue.js 的实用技巧](http://hao.caibaojian.com/29115.html) （SegmentFault）
-* [Struts 2 远程命令执行漏洞（S2-045）在线一键检测](http://hao.caibaojian.com/29097.html) （开发者头条）
-* [Git 中的那些可怕的事](http://hao.caibaojian.com/29075.html) （Linux中国）
-* [Git 如何处理大仓库](http://hao.caibaojian.com/29096.html) （开发者头条）
-* [爬虫学习资源整理](http://hao.caibaojian.com/29111.html) （SegmentFault）
+* [App Store 狠抓精神文明建设，JSPatch要亡了](http://hao.caibaojian.com/29184.html) （iOS大全）
+* [On Writing Product Specs](http://hao.caibaojian.com/29173.html) （湾区日报BayArea）
+* [轻量级的 NodeJS 进程监控工具](http://hao.caibaojian.com/29220.html) （开发者头条）
+* [支持川普的这一半美国人难道是疯了吗](http://hao.caibaojian.com/29174.html) （湾区日报BayArea）
+* [重要Linux Kernel补丁发布](http://hao.caibaojian.com/29203.html) （LUPA开源社区）
 
 ***
-* [人生苦短，让你的Git飞起来吧](http://hao.caibaojian.com/29105.html) （IT程序猿）
-* [深入理解python3.4中Asyncio库与Node.js的异步IO机制](http://hao.caibaojian.com/29079.html) （Python开发者）
-* [我希望进入大学时就能知道的一些事儿](http://hao.caibaojian.com/29146.html) （开发者头条）
-* [基于 Vue2.0 的 weex 实践（前端视角）](http://hao.caibaojian.com/29130.html) （IT程序狮）
-* [从请求到响应过程的一切（下）](http://hao.caibaojian.com/29145.html) （开发者头条）
+* [Vue 2.1.7 源码学习（一）](http://hao.caibaojian.com/29274.html) （开发者头条）
+* [AsyncDisplayKit介绍（一）原理和思路](http://hao.caibaojian.com/29239.html) （SegmentFault）
+* [小程序公开课 办办&amp;咫尺学院带你深度解读小程序](http://hao.caibaojian.com/29250.html) （大数据资讯）
+* [Android 架构思考(模块化、多进程)](http://hao.caibaojian.com/29261.html) （IT程序狮）
+* [不是安卓&amp;Linux Switch运行FreeBSD内核](http://hao.caibaojian.com/29202.html) （LUPA开源社区）
 
 ***
-* [数据与可视化的完美碰撞，让你真正欲罢不能](http://hao.caibaojian.com/29121.html) （大数据资讯）
-* [技术的热门度曲线](http://hao.caibaojian.com/29136.html) （伯乐在线官方微博）
-* [Deep Learning Book（中文版）](http://hao.caibaojian.com/29119.html) （实验楼官方微博）
-* [不再从事 Android 开发了](http://hao.caibaojian.com/29055.html) （湾区日报BayArea）
-* [2017年5个最佳网络监控工具 你知道哪些](http://hao.caibaojian.com/29120.html) （大数据资讯）
+* [张一鸣10年面试过2000人：混得好的年轻人都有这 5 种特质](http://hao.caibaojian.com/29240.html) （SegmentFault）
+* [让我们聊一聊安卓应用角标那些事儿](http://hao.caibaojian.com/29241.html) （SegmentFault）
+* [还不会 PostCSS？你 OUT 啦](http://hao.caibaojian.com/29214.html) （程序员俱乐部）
+* [WordPress.com现支持通过Google Docs进行协作编辑](http://hao.caibaojian.com/29204.html) （LUPA开源社区）
+* [DBA的40条军规](http://hao.caibaojian.com/29242.html) （程序师视野）
 
 ***
-* [绝大部分VR开发者使用Unity，但使用虚幻引擎更赚钱](http://hao.caibaojian.com/29087.html) （LUPA开源社区）
-* [Android与iOS在企业中谁的安全性更佳](http://hao.caibaojian.com/29112.html) （SegmentFault）
-* [Java中Websocket使用实例解读](http://hao.caibaojian.com/29088.html) （JAVA大本营）
-* [Jvm调优-命令篇](http://hao.caibaojian.com/29067.html) （ImportNew）
-* [理解浏览器的关键渲染路径](http://hao.caibaojian.com/29100.html) （开发者头条）
+* [创业公司早期应该招什么样的人](http://hao.caibaojian.com/29185.html) （湾区日报BayArea）
+* [JavaScript 错误处理和堆栈追踪浅析](http://hao.caibaojian.com/29215.html) （程序员俱乐部）
+* [《深入理解Node.js：核心思想与源码分析》](http://hao.caibaojian.com/29311.html) （SegmentFault）
+* [炸窝了，苹果禁止使用热更新](http://hao.caibaojian.com/29216.html) （开发者头条）
+* [看看2016年Go语言调查结果](http://hao.caibaojian.com/29206.html) （LUPA开源社区）
 
 ***
-* [阿里巴巴开源其Java技术规范、最佳实践和避坑指南手册](http://hao.caibaojian.com/29080.html) （聊聊架构）
-* [42个移动端启动页面优化技巧](http://hao.caibaojian.com/29092.html) （程序员俱乐部）
-* [一个月赚 $2 万的 affiliate 网站](http://hao.caibaojian.com/29070.html) （湾区日报BayArea）
-* [PC VR 游戏的 CPU 性能分析与优化](http://hao.caibaojian.com/29084.html) （CSDN移动）
-* [PHP The Right Way 中文版本已更新](http://hao.caibaojian.com/29142.html) （开发者头条）
+* [Payment Request API 集成指南](http://hao.caibaojian.com/29217.html) （开发者头条）
+* [一个大小约 2k 的图片高斯模糊库 —— blurify.js](http://hao.caibaojian.com/29266.html) （稀土掘金）
+* [曝谷歌正为安卓8.0系统打造全新智能特性](http://hao.caibaojian.com/29207.html) （LUPA开源社区）
+* [The Commoditization of Machine Learning](http://hao.caibaojian.com/29186.html) （湾区日报BayArea）
+* [Raft 的优化](http://hao.caibaojian.com/29218.html) （开发者头条）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
