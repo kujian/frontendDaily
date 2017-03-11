@@ -1,45 +1,45 @@
-# [20170310 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/10.md)
+# [20170311 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/11.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript 半知半解](http://hao.caibaojian.com/29564.html) （IT程序狮）
-* [理解 JavaScript 的 async/await](http://hao.caibaojian.com/29504.html) （前端大全）
-* [驾驭前端框架的正确姿势](http://hao.caibaojian.com/29489.html) （慕课网）
-* [Web前端攻城狮培养计划——前端小白入门手册](http://hao.caibaojian.com/29491.html) （慕课网）
-* [六百字读懂 Git](http://hao.caibaojian.com/29529.html) （IT程序猿）
+* [First Mover or Fast Follower](http://hao.caibaojian.com/29494.html) （湾区日报BayArea）
+* [从 MVP 到即将上市](http://hao.caibaojian.com/29495.html) （湾区日报BayArea）
+* [成功科技产品的三个支柱](http://hao.caibaojian.com/29496.html) （湾区日报BayArea）
+* [JavaScript 常用方法总结](http://hao.caibaojian.com/29670.html) （IT程序猿）
+* [2017 年前端开发者必看学习清单](http://hao.caibaojian.com/29709.html) （酷勤网-程序员的那点事）
 
 ***
-* [JS组件系列——又一款MVVM组件：Vue（一：30分钟搞定前端增删改查）](http://hao.caibaojian.com/29542.html) （SegmentFault）
-* [优雅es6＋智慧polyfill＋redux迷之命名](http://hao.caibaojian.com/29568.html) （稀土掘金）
-* [写给年轻程序员的建议](http://hao.caibaojian.com/29455.html) （湾区日报BayArea）
-* [多人团队就是一个分布式系统](http://hao.caibaojian.com/29456.html) （湾区日报BayArea）
-* [朝九晚五的程序员如何提高开发技能](http://hao.caibaojian.com/29515.html) （JAVA大本营）
+* [由 CIA 带来的 Git 使用技巧](http://hao.caibaojian.com/29716.html) （开发者头条）
+* [如何挑选高质量的 Node.js 模块](http://hao.caibaojian.com/29722.html) （开发者头条）
+* [Java 8 Lambda 揭秘](http://hao.caibaojian.com/29655.html) （JAVA大本营）
+* [Java hashCode() 方法深入理解](http://hao.caibaojian.com/29656.html) （JAVA大本营）
+* [Java中创建不可变的类](http://hao.caibaojian.com/29657.html) （JAVA大本营）
 
 ***
-* [真爱还是作秀？开发者参与开源项目的9个理由](http://hao.caibaojian.com/29508.html) （LUPA开源社区）
-* [不用惊慌 关于苹果警告的一些分析](http://hao.caibaojian.com/29509.html) （LUPA开源社区）
-* [小细节，大用途，35 个 Java 代码性能优化总结](http://hao.caibaojian.com/29541.html) （SegmentFault）
-* [WiFi将退出历史舞台，无限流量大势所趋](http://hao.caibaojian.com/29510.html) （LUPA开源社区）
-* [就目前而言，人工智能还算不上什么威胁](http://hao.caibaojian.com/29511.html) （LUPA开源社区）
+* [Java 注解全面解析](http://hao.caibaojian.com/29658.html) （JAVA大本营）
+* [TypeScript 2.2为JavaScript开发者带来更多期待的功能](http://hao.caibaojian.com/29638.html) （InfoQ）
+* [Git 实战 &#8211; 合并分支操作](http://hao.caibaojian.com/29710.html) （IT程序狮）
+* [全异步 Swoole Http API 开发框架](http://hao.caibaojian.com/29720.html) （开发者头条）
+* [JSPatch 平台关于苹果警告的解决方案](http://hao.caibaojian.com/29683.html) （SegmentFault）
 
 ***
-* [美团开源SQL优化工具SQLAdvisor，与内部版本保持一致](http://hao.caibaojian.com/29512.html) （LUPA开源社区）
-* [TensorFlow领衔，七大深度学习框架大对比](http://hao.caibaojian.com/29488.html) （InfoQ）
-* [最值得一读的20大科技名言](http://hao.caibaojian.com/29544.html) （程序师视野）
-* [Java 8 接口里的默认方法特性](http://hao.caibaojian.com/29514.html) （JAVA大本营）
-* [代码这样写不止于优雅（Python 版）](http://hao.caibaojian.com/29526.html) （开发者头条）
+* [如何在 Linux 上运行命令前临时清空 Bash 环境变量](http://hao.caibaojian.com/29660.html) （程序员俱乐部）
+* [至尊智酷手机安卓通博娱乐出纳柜台2.1V版](http://hao.caibaojian.com/29701.html) （大数据资讯）
+* [测试人员应该像营销人员一样思考](http://hao.caibaojian.com/29640.html) （InfoQ）
+* [CSS3 实现绚丽照片墙](http://hao.caibaojian.com/29712.html) （IT程序狮）
+* [Password Rules Are Bullshit](http://hao.caibaojian.com/29650.html) （湾区日报BayArea）
 
 ***
-* [最快的代码，是不运行的代码](http://hao.caibaojian.com/29546.html) （程序师视野）
-* [初级程序员应该了解的Linux命令](http://hao.caibaojian.com/29516.html) （程序员俱乐部）
-* [程序员世界常见的6个问题](http://hao.caibaojian.com/29517.html) （程序员俱乐部）
-* [Material Design 学习资料收集](http://hao.caibaojian.com/29569.html) （稀土掘金）
-* [被杭州的女程序媛到了吗](http://hao.caibaojian.com/29548.html) （程序师视野）
+* [异步编程模式已被人注册为专利](http://hao.caibaojian.com/29691.html) （程序师视野）
+* [你不知道的 JavaScript 错误和调用栈常识](http://hao.caibaojian.com/29661.html) （程序员俱乐部）
+* [传感器是物联网发展关键 大数据将成商业核心](http://hao.caibaojian.com/29702.html) （大数据资讯）
+* [Java Synchronised机制](http://hao.caibaojian.com/29641.html) （ImportNew）
+* [如何制作时下最热门的叠字效果](http://hao.caibaojian.com/29714.html) （优秀网页设计）
 
 ***
-* [RxJava Essentials 中文翻译版](http://hao.caibaojian.com/29518.html) （开发者头条）
-* [Nginx 通过 Lua + Redis 实现动态封禁 IP](http://hao.caibaojian.com/29570.html) （稀土掘金）
-* [只差一个程序员了？好吧，其实只有我一个程序员](http://hao.caibaojian.com/29519.html) （开发者头条）
-* [你每天醒着的时候有 100 个 10 分钟](http://hao.caibaojian.com/29497.html) （湾区日报BayArea）
-* [青橙科技一家自带健身房和咖啡馆的公司居然要招攻城狮？前端/后端/产品/设计都需要？是的没错](http://hao.caibaojian.com/29571.html) （稀土掘金）
+* [漫画赏析：Linux 内核到底长啥样](http://hao.caibaojian.com/29651.html) （Linux中国）
+* [33种症状证明你应该离开电脑到户外走走](http://hao.caibaojian.com/29692.html) （程序师视野）
+* [人工智能将会如何改变一切](http://hao.caibaojian.com/29662.html) （开发者头条）
+* [大数据助力微信营销变革](http://hao.caibaojian.com/29703.html) （大数据资讯）
+* [2017年不可错过的超酷原型制作工具Kite Compositor](http://hao.caibaojian.com/29713.html) （优秀网页设计）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
