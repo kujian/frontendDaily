@@ -1,45 +1,45 @@
-# [20170315 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/15.md)
+# [20170316 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/16.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Vue 大型 SPA 项目的最佳实践](http://hao.caibaojian.com/30129.html) （开发者头条）
-* [写给移动开发者的 React Native 指南](http://hao.caibaojian.com/30137.html) （开发者头条）
-* [[译] WebAssembly 工作原理](http://hao.caibaojian.com/30147.html) （开发者头条）
-* [[译] Redis 之父：10x 程序员应该具备哪些素质？](http://hao.caibaojian.com/30134.html) （开发者头条）
-* [Zookeeper 并不保证读取的是最新数据](http://hao.caibaojian.com/30139.html) （开发者头条）
+* [Ajax 知识体系大梳理](http://hao.caibaojian.com/30337.html) （稀土掘金）
+* [前端基础进阶：面向对象实战之封装拖拽对象](http://hao.caibaojian.com/30339.html) （稀土掘金）
+* [Git 详细的操作指南笔记(从零开始)](http://hao.caibaojian.com/30340.html) （稀土掘金）
+* [浅析 JS 模块规范：AMD 和 CMD](http://hao.caibaojian.com/30331.html) （稀土掘金）
+* [推荐一些 React Native 3 月份优秀开源项目](http://hao.caibaojian.com/30334.html) （稀土掘金）
 
 ***
-* [高仿知乎日报（RxJava + Retrofit + Glide）](http://hao.caibaojian.com/30145.html) （开发者头条）
-* [Hadoop 源码学习笔记（二）：Hdfs 的启动流程分析](http://hao.caibaojian.com/30148.html) （开发者头条）
-* [“ThoughtWorks 洞见” 在讲什么？](http://hao.caibaojian.com/30149.html) （开发者头条）
-* [iOS App 签名的原理](http://hao.caibaojian.com/30128.html) （开发者头条）
-* [使用快照和 AOF 将 Redis 数据持久化到硬盘中](http://hao.caibaojian.com/30131.html) （开发者头条）
+* [图片延迟加载策略（JavaScript）](http://hao.caibaojian.com/30328.html) （稀土掘金）
+* [React.js 小书](http://hao.caibaojian.com/30283.html) （开发者头条）
+* [React-Router V4 简单实现](http://hao.caibaojian.com/30341.html) （稀土掘金）
+* [为什么 WebAssembly 更快？](http://hao.caibaojian.com/30335.html) （稀土掘金）
+* [撸 js 基础之数组](http://hao.caibaojian.com/30327.html) （稀土掘金）
 
 ***
-* [Tensorflow 代码解析（四）](http://hao.caibaojian.com/30135.html) （开发者头条）
-* [基于 ELK + Filebeat 搭建日志中心](http://hao.caibaojian.com/30136.html) （开发者头条）
-* [笨办法学 Golang（二）：Go 包基础](http://hao.caibaojian.com/30138.html) （开发者头条）
-* [Android 中一个简单有用的发现性能问题的方法](http://hao.caibaojian.com/30140.html) （开发者头条）
-* [写给 iOS 程序员的 Python 手册](http://hao.caibaojian.com/30141.html) （开发者头条）
+* [在 Sublime Text 3 中设置自己的代码片段](http://hao.caibaojian.com/30325.html) （稀土掘金）
+* [Vuex 模块化实现待办事项的状态管理](http://hao.caibaojian.com/30336.html) （稀土掘金）
+* [一个简单的分布式 Web 扫描器的设计与实践](http://hao.caibaojian.com/30288.html) （开发者头条）
+* [Vue2 全家桶与微信开发](http://hao.caibaojian.com/30289.html) （开发者头条）
+* [Yet Another Vue Boilerplate](http://hao.caibaojian.com/30452.html) （稀土掘金）
 
 ***
-* [深入浅出开源性能测试工具 Locust（使用篇）](http://hao.caibaojian.com/30142.html) （开发者头条）
-* [人工智能上色网站会在未来取代插画师吗？](http://hao.caibaojian.com/30146.html) （开发者头条）
-* [微服务架构下的分布式数据管理](http://hao.caibaojian.com/30126.html) （开发者头条）
-* [一周 IT 技术干货（码农周刊第 157 期）](http://hao.caibaojian.com/30127.html) （开发者头条）
-* [flask 源码解析：上下文](http://hao.caibaojian.com/30133.html) （开发者头条）
+* [DDFE 技术周刊（第十八期）2017.3.14](http://hao.caibaojian.com/30332.html) （稀土掘金）
+* [WebAssembly 的现在与未来](http://hao.caibaojian.com/30506.html) （开发者头条）
+* [CSS Custom Properties &#8211; The Basics](http://hao.caibaojian.com/30329.html) （稀土掘金）
+* [React Native 开源特效动画封装库模块 (lottie-react-native)](http://hao.caibaojian.com/30330.html) （稀土掘金）
+* [面试程序员时都应该考察些什么？](http://hao.caibaojian.com/30282.html) （开发者头条）
 
 ***
-* [计算机程序的思维逻辑（73）：并发容器 &#8211; 写时拷贝的 List 和 Set](http://hao.caibaojian.com/30143.html) （开发者头条）
-* [自己实现随机数](http://hao.caibaojian.com/30132.html) （开发者头条）
-* [玩转 ASGI：从零到一实现一个实时博客](http://hao.caibaojian.com/30144.html) （开发者头条）
-* [微服务技术栈2.0](http://hao.caibaojian.com/30371.html) （InfoQ）
-* [Google公开了云服务API设计指南](http://hao.caibaojian.com/30372.html) （InfoQ）
+* [饿了么如何落地和管理 “大前端” 团队？](http://hao.caibaojian.com/30484.html) （开发者头条）
+* [Angular 的模块间通信](http://hao.caibaojian.com/30457.html) （稀土掘金）
+* [爬虫这件小事](http://hao.caibaojian.com/30296.html) （开发者头条）
+* [Spring Boot HTTP over JSON 的错误码异常处理](http://hao.caibaojian.com/30497.html) （开发者头条）
+* [深度剖析 Spark 分布式执行原理](http://hao.caibaojian.com/30301.html) （开发者头条）
 
 ***
-* [最快最简单的排序算法](http://hao.caibaojian.com/30392.html) （JAVA大本营）
-* [如何落地和管理一个“大前端”团队](http://hao.caibaojian.com/30373.html) （InfoQ）
-* [基于Minio和Thumbor搭建独立图片服务](http://hao.caibaojian.com/30409.html) （SegmentFault）
-* [顺丰上市，风头一时无两，作为开发人员，想不想了解顺丰背后的软件系统呢？顺丰科技平台架构部负责人文彦峰将在QCon分享顺丰服务化探索及实践历程](http://hao.caibaojian.com/30394.html) （程序员俱乐部）
-* [说说如何用 JavaScript 实现一个模板引擎](http://hao.caibaojian.com/30396.html) （程序员俱乐部）
+* [CSS Modules 入门及 React 中实践](http://hao.caibaojian.com/30502.html) （开发者头条）
+* [让我们再聊聊 TDD 续：人人都在做 TDD](http://hao.caibaojian.com/30302.html) （开发者头条）
+* [分布式数据库灵活存储机制与应用实践](http://hao.caibaojian.com/30503.html) （开发者头条）
+* [20 分钟理解 React Native For Android 原理](http://hao.caibaojian.com/30493.html) （开发者头条）
+* [简谈 JS 的 Promise](http://hao.caibaojian.com/30454.html) （稀土掘金）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
