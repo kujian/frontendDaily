@@ -1,45 +1,45 @@
-# [20170317 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/17.md)
+# [20170318 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/18.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [一个基于 nodejs 的 api 网关 &#8212; 蚊香狗](http://hao.caibaojian.com/30635.html) （稀土掘金）
-* [我眼中的 JavaScript 函数式编程](http://hao.caibaojian.com/30626.html) （稀土掘金）
-* [执行 innerHTML 里的 script](http://hao.caibaojian.com/30627.html) （稀土掘金）
-* [[译] 2017 前端工具趋势](http://hao.caibaojian.com/30654.html) （开发者头条）
-* [Xweb：为 Python 之禅写的极简主义 Web 框架](http://hao.caibaojian.com/30666.html) （开发者头条）
+* [Web Hacking 101 中文版 五、HTML 注入](http://hao.caibaojian.com/30774.html) （稀土掘金）
+* [清新脱俗的 Web 服务器 Caddy](http://hao.caibaojian.com/30805.html) （开发者头条）
+* [Web Hacking 101 中文版 六、HTTP 参数污染](http://hao.caibaojian.com/30773.html) （稀土掘金）
+* [从一个改写后的 vue 小应用认识 vuex](http://hao.caibaojian.com/30776.html) （稀土掘金）
+* [一个 React Form 组件的重构思路](http://hao.caibaojian.com/30777.html) （稀土掘金）
 
 ***
-* [执行 innerHTML 里的 &lt;script&gt;](http://hao.caibaojian.com/30631.html) （稀土掘金）
-* [js 中对 Object 对象的一些常用操作总结 &#8211; haorooms](http://hao.caibaojian.com/30632.html) （稀土掘金）
-* [Vuex 通俗版教程](http://hao.caibaojian.com/30633.html) （稀土掘金）
-* [前端工程与性能优化](http://hao.caibaojian.com/30623.html) （稀土掘金）
-* [vswipe.js](http://hao.caibaojian.com/30628.html) （稀土掘金）
+* [聊一聊深度学习的 weight initialization](http://hao.caibaojian.com/30801.html) （开发者头条）
+* [【译】看动画，学 RxJS](http://hao.caibaojian.com/30769.html) （稀土掘金）
+* [如何合理布置React/Redux的目录结构](http://hao.caibaojian.com/30781.html) （稀土掘金）
+* [yoga 初探](http://hao.caibaojian.com/30807.html) （开发者头条）
+* [美团点评移动网络优化实践](http://hao.caibaojian.com/30798.html) （开发者头条）
 
 ***
-* [Angular 2 + 折腾记 ：(1) 初识 Angular-cli[官方脚手架] 及脱坑要点](http://hao.caibaojian.com/30629.html) （稀土掘金）
-* [Animista: 交互地展示一系列拿来即用的 CSS 动画](http://hao.caibaojian.com/30630.html) （稀土掘金）
-* [用 Swift 的框架 Vapor 写服务器这事儿怎么样？](http://hao.caibaojian.com/30676.html) （开发者头条）
-* [Ant Design 的国际化方案](http://hao.caibaojian.com/30620.html) （稀土掘金）
-* [[译] 为什么应该在你的项目中使用 EditorConfig](http://hao.caibaojian.com/30667.html) （开发者头条）
+* [多媒体编辑模块架构设计](http://hao.caibaojian.com/30811.html) （开发者头条）
+* [[译] Serverless 架构（四）](http://hao.caibaojian.com/30812.html) （开发者头条）
+* [基于 Consul 的 Docker Swarm 服务发现](http://hao.caibaojian.com/30809.html) （开发者头条）
+* [iChart&#8211; 地图显示人口统计](http://hao.caibaojian.com/30778.html) （稀土掘金）
+* [Beauty：VUE + VUEX + FIREBASE + BULMA … 实现的 SPA SSR 项目](http://hao.caibaojian.com/30802.html) （开发者头条）
 
 ***
-* [iOS 直播系列：很会飞的弹幕](http://hao.caibaojian.com/30668.html) （开发者头条）
-* [零基础入门深度学习：感知器](http://hao.caibaojian.com/30669.html) （开发者头条）
-* [需求分析方法：KANO 模型](http://hao.caibaojian.com/30670.html) （开发者头条）
-* [Electron 深度实践总结](http://hao.caibaojian.com/30634.html) （稀土掘金）
-* [深挖 data URI 性能瓶颈](http://hao.caibaojian.com/30671.html) （开发者头条）
+* [Canvas 绘制地板](http://hao.caibaojian.com/30779.html) （稀土掘金）
+* [js 数值精度](http://hao.caibaojian.com/30770.html) （稀土掘金）
+* [软件开发中的神话与现实](http://hao.caibaojian.com/30804.html) （开发者头条）
+* [JSConf China 2016 上推广了aframe 这个框架，想写 Web VR 的同学可以去看看！](http://hao.caibaojian.com/30771.html) （稀土掘金）
+* [web 性能之 window.performance](http://hao.caibaojian.com/30772.html) （稀土掘金）
 
 ***
-* [react-router@4.0 使用和源码解析](http://hao.caibaojian.com/30625.html) （稀土掘金）
-* [codis 迁移 solt 时的一个微坑](http://hao.caibaojian.com/30672.html) （开发者头条）
-* [一篇搞定在 iOS 下集成 RSA 签名](http://hao.caibaojian.com/30673.html) （开发者头条）
-* [[译] Python Weekly Issue 286](http://hao.caibaojian.com/30674.html) （开发者头条）
-* [一个 Java 线程池的简单实现](http://hao.caibaojian.com/30653.html) （开发者头条）
+* [两个 ScrollView 在一起的故事](http://hao.caibaojian.com/30808.html) （开发者头条）
+* [深度压缩网络详解](http://hao.caibaojian.com/30810.html) （开发者头条）
+* [95 后消费时代到来，线下销售面临新机遇（二）](http://hao.caibaojian.com/30803.html) （开发者头条）
+* [项目填坑记 &#8211; cookie](http://hao.caibaojian.com/30780.html) （稀土掘金）
+* [7 行 Python 的人脸识别](http://hao.caibaojian.com/30796.html) （开发者头条）
 
 ***
-* [OpenStack 镜像（一）：Linux 镜像修改](http://hao.caibaojian.com/30675.html) （开发者头条）
-* [iOS 源码解析：YYCache (YYDiskCache)](http://hao.caibaojian.com/30677.html) （开发者头条）
-* [ELK 实战之解析各类日志文件](http://hao.caibaojian.com/30661.html) （开发者头条）
-* [在 Java 路上，我看过的一些书、源码和框架](http://hao.caibaojian.com/30651.html) （开发者头条）
-* [养一只 “无限猴子” 帮你测试](http://hao.caibaojian.com/30662.html) （开发者头条）
+* [一只基于 Vue2.x 的移动端 &amp; 微信 UI。 -YDUI Touch](http://hao.caibaojian.com/30775.html) （稀土掘金）
+* [比特币的私钥、公钥和地址是什么？](http://hao.caibaojian.com/30806.html) （开发者头条）
+* [微信 macOS 客户端无限多开功能实践](http://hao.caibaojian.com/30800.html) （开发者头条）
+* [加快 APK 的构建速度，如何把编译时间从 130 秒降到 17 秒](http://hao.caibaojian.com/30795.html) （开发者头条）
+* [京东如何从OpenStack迁移至Kubernetes](http://hao.caibaojian.com/30831.html) （InfoQ）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
