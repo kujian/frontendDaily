@@ -1,45 +1,45 @@
-# [20170319 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/19.md)
+# [20170320 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/03/20.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [fetch 没有你想象的那么美](http://hao.caibaojian.com/30930.html) （开发者头条）
-* [Javascript 定时器那些事儿](http://hao.caibaojian.com/30902.html) （稀土掘金）
-* [深入浅出 JavaScriptCore](http://hao.caibaojian.com/30934.html) （开发者头条）
-* [你真的了解 javascript 吗？（一）](http://hao.caibaojian.com/30899.html) （稀土掘金）
-* [Roadmap to becoming a web developer in 2017](http://hao.caibaojian.com/30900.html) （稀土掘金）
+* [JS 调试之 console 对象使用](http://hao.caibaojian.com/30996.html) （稀土掘金）
+* [Vue 知乎日报又又又来了，一样的配方不一样的味道](http://hao.caibaojian.com/30998.html) （稀土掘金）
+* [80% 应聘者都不及格的 JS 面试题](http://hao.caibaojian.com/31013.html) （开发者头条）
+* [《你不知道的JavaScript》读书笔记（一）](http://hao.caibaojian.com/30988.html) （稀土掘金）
+* [towebp-loader 诞生记~ 一个 webpack 图片 loader](http://hao.caibaojian.com/30990.html) （稀土掘金）
 
 ***
-* [前端面试指南](http://hao.caibaojian.com/30901.html) （稀土掘金）
-* [无他，唯手熟尔-前端实习面试题篇](http://hao.caibaojian.com/30903.html) （稀土掘金）
-* [前端基础进阶（十一）：详细图解 jQuery 对象，以及如何扩展 jQuery 插件](http://hao.caibaojian.com/30893.html) （稀土掘金）
-* [前端开发编写高质量 JavaScript 代码的基本要点](http://hao.caibaojian.com/30898.html) （稀土掘金）
-* [[译] OKHttp Recipes](http://hao.caibaojian.com/30933.html) （开发者头条）
+* [详解 Webpack2 的那些路径](http://hao.caibaojian.com/30993.html) （稀土掘金）
+* [前端程序员必知：单页面应用的核心](http://hao.caibaojian.com/31017.html) （开发者头条）
+* [CSS 变换、过渡、动画实现案例](http://hao.caibaojian.com/30994.html) （稀土掘金）
+* [Android APK 瘦身实践](http://hao.caibaojian.com/31036.html) （开发者头条）
+* [CSS 样式画各种图形](http://hao.caibaojian.com/30995.html) （稀土掘金）
 
 ***
-* [打造 Vue.js 可复用组件](http://hao.caibaojian.com/30897.html) （稀土掘金）
-* [Hybrid 开发：JsBridge &#8211; Web 和客户端的桥](http://hao.caibaojian.com/30904.html) （稀土掘金）
-* [react native webview 加载本地 html 资源文件的解决方案](http://hao.caibaojian.com/30894.html) （稀土掘金）
-* [HDFS NameNode 重启优化](http://hao.caibaojian.com/30929.html) （开发者头条）
-* [Message Queue 的设计和实现（五）](http://hao.caibaojian.com/30931.html) （开发者头条）
+* [[译] WebAssembly 为什么比 asm.js 快？](http://hao.caibaojian.com/31028.html) （开发者头条）
+* [简单 web 安全 checklist 及解决方案](http://hao.caibaojian.com/30997.html) （稀土掘金）
+* [系列文章：Angular 2 修仙之路](http://hao.caibaojian.com/31021.html) （开发者头条）
+* [一种生产环境中高效定位 JS 异常的方案](http://hao.caibaojian.com/30991.html) （稀土掘金）
+* [如何使用 Vue2 做服务端渲染](http://hao.caibaojian.com/30992.html) （稀土掘金）
 
 ***
-* [[译] 只需十四步：从零开始掌握 Python 机器学习](http://hao.caibaojian.com/30932.html) （开发者头条）
-* [手把手教你绘制 Android 粘性果冻动画组件](http://hao.caibaojian.com/30935.html) （开发者头条）
-* [GUI 发展史](http://hao.caibaojian.com/30896.html) （稀土掘金）
-* [微信小程序 picker 及 picker-view 组件使用问题说明](http://hao.caibaojian.com/30891.html) （稀土掘金）
-* [Node 命令行工具开发【看段子小工具】](http://hao.caibaojian.com/30892.html) （稀土掘金）
+* [iOS 动画从不会到熟练应用](http://hao.caibaojian.com/31027.html) （开发者头条）
+* [Swift 之你应该懂点 Core Graphics](http://hao.caibaojian.com/31043.html) （开发者头条）
+* [Jenkins 与 Docker 的持续集成实践（一）](http://hao.caibaojian.com/31020.html) （开发者头条）
+* [走近人脸检测：从 VJ 到深度学习（下）](http://hao.caibaojian.com/31029.html) （开发者头条）
+* [如果你用 Go，不要忘了 vet](http://hao.caibaojian.com/31030.html) （开发者头条）
 
 ***
-* [深入浅出 Nodejs 读书笔记 &#8211; 知乎专栏 ·「前端专栏」](http://hao.caibaojian.com/30885.html) （稀土掘金）
-* [Tweak 开发：CCRevealLoader](http://hao.caibaojian.com/30936.html) （开发者头条）
-* [Hadoop 源码学习笔记（四）：Hdfs 数据读写流程分析](http://hao.caibaojian.com/30937.html) （开发者头条）
-* [聊聊 RPC 之 Register](http://hao.caibaojian.com/30926.html) （开发者头条）
-* [我爬了价值 1800 亿的房产信息](http://hao.caibaojian.com/30922.html) （开发者头条）
+* [YY（欢聚时代）iOS 开发工程师三面面经](http://hao.caibaojian.com/31033.html) （开发者头条）
+* [[译] 从概念设计到 Android 实现](http://hao.caibaojian.com/31039.html) （开发者头条）
+* [[译] Effective Java 怎样影响 Kotlin 的设计（一）](http://hao.caibaojian.com/31041.html) （开发者头条）
+* [小用例，大智慧](http://hao.caibaojian.com/31035.html) （开发者头条）
+* [深入理解 PageRank](http://hao.caibaojian.com/31042.html) （开发者头条）
 
 ***
-* [3DSDK-NURB 曲线曲面](http://hao.caibaojian.com/30895.html) （稀土掘金）
-* [消息总线能否实现消息必达？](http://hao.caibaojian.com/30923.html) （开发者头条）
-* [深入 Facebook 图数据库系统（TAO）系列之三：TAO 是如何有效支持多租户（Multi-tenancy）的？](http://hao.caibaojian.com/30927.html) （开发者头条）
-* [如何重新架构 JPVideoPlayer（iOS）](http://hao.caibaojian.com/30928.html) （开发者头条）
-* [Meteor 中文翻译 (React Version)](http://hao.caibaojian.com/30886.html) （稀土掘金）
+* [iOS 实时录音](http://hao.caibaojian.com/31037.html) （开发者头条）
+* [金融企业安全建设探索之异常访问检测系统](http://hao.caibaojian.com/31040.html) （开发者头条）
+* [PLDroidPlayer：适用于 Android 平台的音视频播放器 SDK](http://hao.caibaojian.com/31038.html) （开发者头条）
+* [扒一扒随机数（Random Number）的诞生历史](http://hao.caibaojian.com/30987.html) （稀土掘金）
+* [文件系统的 “代理”](http://hao.caibaojian.com/31044.html) （开发者头条）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
