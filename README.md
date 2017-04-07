@@ -1,45 +1,45 @@
-# [20170406 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/04/06.md)
+# [20170407 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/04/07.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [轻松掌握react-router-redux](http://hao.caibaojian.com/33391.html) （SegmentFault）
-* [前端架构那些事儿](http://hao.caibaojian.com/33485.html) （SegmentFault）
-* [世界最大色情网站采用 HTTPS 加密，有隐私才能 “1024”](http://hao.caibaojian.com/33521.html) （开发者头条）
-* [react-route v4  立志今天看完加油](http://hao.caibaojian.com/33479.html) （SegmentFault）
-* [快速学习新技术，以 Vue2 为例](http://hao.caibaojian.com/33523.html) （开发者头条）
+* [深究JavaScript——原型](http://hao.caibaojian.com/33695.html) （SegmentFault）
+* [nodejs微信公众号开发(1)接入微信公众号](http://hao.caibaojian.com/33697.html) （SegmentFault）
+* [原生JS中DOM节点相关API合集](http://hao.caibaojian.com/33545.html) （SegmentFault）
+* [Angular 2 Component Inheritance](http://hao.caibaojian.com/33701.html) （SegmentFault）
+* [JavaScript 是如何面向对象的](http://hao.caibaojian.com/33737.html) （稀土掘金）
 
 ***
-* [前端开发框架简介: angular 和 react](http://hao.caibaojian.com/33461.html) （稀土掘金）
-* [前端工程师是怎样一种职业](http://hao.caibaojian.com/33484.html) （SegmentFault）
-* [写给初学前端工程师的一封信](http://hao.caibaojian.com/33477.html) （SegmentFault）
-* [前端工程师新手必读](http://hao.caibaojian.com/33480.html) （SegmentFault）
-* [使用Gradle整合SpringBoot+Vue.js-开发调试与打包](http://hao.caibaojian.com/33513.html) （SegmentFault）
+* [作为前端开发者我是如何保持与时俱进的](http://hao.caibaojian.com/33666.html) （SegmentFault）
+* [React 中 47种 JS 语言写 CSS的库，那种能成为主流？](http://hao.caibaojian.com/33668.html) （SegmentFault）
+* [Electron + Vue 实现一个代理客户端](http://hao.caibaojian.com/33692.html) （SegmentFault）
+* [如何学习Javascript](http://hao.caibaojian.com/33662.html) （SegmentFault）
+* [使用Hexo+GitHub搭建个人博客系统](http://hao.caibaojian.com/33664.html) （SegmentFault）
 
 ***
-* [ionic2的环境搭建与调试](http://hao.caibaojian.com/33514.html) （SegmentFault）
-* [实现环形进度条（CSS3+jQuery）](http://hao.caibaojian.com/33506.html) （SegmentFault）
-* [如何通过 HSB 颜色模式构建夜间模式](http://hao.caibaojian.com/33539.html) （开发者头条）
-* [Script error.全面解析 | Fundebug博客](http://hao.caibaojian.com/33476.html) （SegmentFault）
-* [Git reset](http://hao.caibaojian.com/33530.html) （开发者头条）
+* [JavaScript 模块演化简史 &#8211; 某熊的全栈之路 &#8211; 知乎专栏](http://hao.caibaojian.com/33661.html) （SegmentFault）
+* [使用Web存储API存取本地数据](http://hao.caibaojian.com/33752.html) （SegmentFault）
+* [Unity5常用插件](http://hao.caibaojian.com/33699.html) （SegmentFault）
+* [适用于仪表盘项目的 7 个优秀 JavaScript 库](http://hao.caibaojian.com/33667.html) （SegmentFault）
+* [深刻理解 React (一) ——JSX 和虚拟 DOM](http://hao.caibaojian.com/33632.html) （稀土掘金）
 
 ***
-* [从 Bundle 文件看 Webpack 模块机制](http://hao.caibaojian.com/33455.html) （稀土掘金）
-* [js 正则表达式匹配字符串与优化过程](http://hao.caibaojian.com/33465.html) （稀土掘金）
-* [What&#x27;s New in the Bootstrap 4 Grid](http://hao.caibaojian.com/33466.html) （稀土掘金）
-* [百度前端学院任务：动态数据绑定 (四)](http://hao.caibaojian.com/33458.html) （稀土掘金）
-* [iBlog：基于Gracejs及github issues的全功能博客方案](http://hao.caibaojian.com/33502.html) （SegmentFault）
+* [iOS 开发时如何使用 Launch Screen Storyboard（2016）](http://hao.caibaojian.com/33655.html) （开发者头条）
+* [HTTP之Cache-Control篇](http://hao.caibaojian.com/33746.html) （SegmentFault）
+* [移动端登录PC网址自动跳转到移动端对应的网址](http://hao.caibaojian.com/33693.html) （SegmentFault）
+* [通过 ffi 在 Node.js 中调用动态链接库 (.so/.dll 文件)](http://hao.caibaojian.com/33634.html) （稀土掘金）
+* [ReactNative 中 TabBarIOS 和 NavigatorIOS 嵌套使用 &#8211; 简书](http://hao.caibaojian.com/33736.html) （稀土掘金）
 
 ***
-* [教你如何在 web 应用程序中使用本地文件~](http://hao.caibaojian.com/33459.html) （稀土掘金）
-* [HTML 上事件句柄的作用域](http://hao.caibaojian.com/33460.html) （稀土掘金）
-* [在 NodeJS 中玩转 Protocol Buffer](http://hao.caibaojian.com/33462.html) （稀土掘金）
-* [JavaScript阿拉伯数字与中文数字互相转换](http://hao.caibaojian.com/33507.html) （SegmentFault）
-* [Mobi.css 2 发布 beta 版，一个轻量、可拓展、移动端优先的 css 框架](http://hao.caibaojian.com/33486.html) （SegmentFault）
+* [Alfred 平台的知乎搜索 workflow（JavaScript 版本）](http://hao.caibaojian.com/33658.html) （开发者头条）
+* [javascript的事件](http://hao.caibaojian.com/33751.html) （SegmentFault）
+* [Unity各平台宏定义](http://hao.caibaojian.com/33698.html) （SegmentFault）
+* [基于Laravel 5.4 开发单页应用](http://hao.caibaojian.com/33743.html) （SegmentFault）
+* [深入理解 React(二) —— 数据流和事件原理](http://hao.caibaojian.com/33631.html) （稀土掘金）
 
 ***
-* [CSS实现Tab布局](http://hao.caibaojian.com/33508.html) （SegmentFault）
-* [TypeScript &amp; React 开发的 TodoMVC](http://hao.caibaojian.com/33456.html) （稀土掘金）
-* [html2canvas 踩坑总结](http://hao.caibaojian.com/33478.html) （SegmentFault）
-* [理解逆虚拟机拷贝(Reverse Virtual Machine Replication) &#8211; 下](http://hao.caibaojian.com/33511.html) （SegmentFault）
-* [mes溯源方案 追溯系统开发](http://hao.caibaojian.com/33512.html) （SegmentFault）
+* [人机德扑大赛观看指南](http://hao.caibaojian.com/33755.html) （开发者头条）
+* [分享一个非常全的正则验证车牌格式的函数](http://hao.caibaojian.com/33702.html) （SegmentFault）
+* [从无到有，学习 webpack 的多页面配置](http://hao.caibaojian.com/33623.html) （稀土掘金）
+* [剖析 Babel——Babel 总览](http://hao.caibaojian.com/33633.html) （稀土掘金）
+* [Hashtable源码分析](http://hao.caibaojian.com/33747.html) （SegmentFault）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
