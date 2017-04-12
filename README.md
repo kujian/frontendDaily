@@ -1,45 +1,45 @@
-# [20170411 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/04/11.md)
+# [20170412 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/04/12.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端面试&#8211;四月二十家前端面试题分享](http://hao.caibaojian.com/34166.html) （稀土掘金）
-* [haorooms 总结提高你 css 技能的 css 开发技巧](http://hao.caibaojian.com/34165.html) （稀土掘金）
-* [Javascript学习之创建对象](http://hao.caibaojian.com/34196.html) （SegmentFault）
-* [【英】React Bits](http://hao.caibaojian.com/34174.html) （稀土掘金）
-* [文件查找、](http://hao.caibaojian.com/34197.html) （SegmentFault）
+* [现在什么职业最容易被人工智能取代？](http://hao.caibaojian.com/34375.html) （开发者头条）
+* [请用心练完这16个webpack小例子](http://hao.caibaojian.com/34325.html) （稀土掘金）
+* [使用 Nodejs 开发自己的 Cli 命令工具](http://hao.caibaojian.com/34319.html) （稀土掘金）
+* [手动实现一个jsonwebtoken](http://hao.caibaojian.com/34354.html) （SegmentFault）
+* [页面性能优化的利器 — Timeline](http://hao.caibaojian.com/34326.html) （稀土掘金）
 
 ***
-* [JavaScript继承（备查）](http://hao.caibaojian.com/34199.html) （SegmentFault）
-* [Tornado secure cookie 的实现分析](http://hao.caibaojian.com/34226.html) （开发者头条）
-* [浅谈 AngularJS 最近的学习心得](http://hao.caibaojian.com/34173.html) （稀土掘金）
-* [百度前端学院任务 markdown 解析器](http://hao.caibaojian.com/34176.html) （稀土掘金）
-* [React 系列之 &#8212; 组件的生命周期](http://hao.caibaojian.com/34167.html) （稀土掘金）
+* [理解CSS浮动与清理](http://hao.caibaojian.com/34359.html) （SegmentFault）
+* [html2canvas.js 小问题总结](http://hao.caibaojian.com/34323.html) （稀土掘金）
+* [看redux的一些笔记](http://hao.caibaojian.com/34356.html) （SegmentFault）
+* [请练完这16个webpack小例子](http://hao.caibaojian.com/34347.html) （SegmentFault）
+* [Comparator&lt;T&gt;与Comparable&lt;T&gt;辨析](http://hao.caibaojian.com/34360.html) （SegmentFault）
 
 ***
-* [Javascript学习之继承](http://hao.caibaojian.com/34201.html) （SegmentFault）
-* [PHP运维开发常见文件操作](http://hao.caibaojian.com/34202.html) （SegmentFault）
-* [小白式 &#8211; 让你快速理解 JS 中的继承方式](http://hao.caibaojian.com/34172.html) （稀土掘金）
-* [深度剖析俄罗斯黑客组织 APT29 的后门](http://hao.caibaojian.com/34228.html) （开发者头条）
-* [C++考题](http://hao.caibaojian.com/34194.html) （SegmentFault）
+* [从 Timeline 探索 Vue2 源码（一）](http://hao.caibaojian.com/34321.html) （稀土掘金）
+* [基于electron-react-redux的桌面程序制作](http://hao.caibaojian.com/34361.html) （SegmentFault）
+* [通过 Math.atan2 计算角度](http://hao.caibaojian.com/34322.html) （稀土掘金）
+* [iOS HTTP/2 Server Push 探索](http://hao.caibaojian.com/34383.html) （开发者头条）
+* [Emrys.FlashLog：.NET 用队列超高速写日志](http://hao.caibaojian.com/34384.html) （开发者头条）
 
 ***
-* [seq2seq 模型初探](http://hao.caibaojian.com/34231.html) （开发者头条）
-* [从零开始搭建基于 Mesos 的私有容器平台](http://hao.caibaojian.com/34232.html) （开发者头条）
-* [高程（第二章） 在HTML中使用JavaScript](http://hao.caibaojian.com/34188.html) （SegmentFault）
-* [谁说 JavaScript 很简单了？](http://hao.caibaojian.com/34169.html) （稀土掘金）
-* [高程（第一章） JavaScript简介](http://hao.caibaojian.com/34189.html) （SegmentFault）
+* [Javascript中的+运算符](http://hao.caibaojian.com/34355.html) （SegmentFault）
+* [一个很不错的爬虫管理工具](http://hao.caibaojian.com/34327.html) （稀土掘金）
+* [js-middleware：让代码像 Redux 一样容易扩展](http://hao.caibaojian.com/34378.html) （开发者头条）
+* [数组清空数组](http://hao.caibaojian.com/34357.html) （SegmentFault）
+* [Feature Branch Workflow 实践](http://hao.caibaojian.com/34389.html) （开发者头条）
 
 ***
-* [排序算法和二分法查找（备查）](http://hao.caibaojian.com/34200.html) （SegmentFault）
-* [深入浅出this的理解](http://hao.caibaojian.com/34170.html) （稀土掘金）
-* [学习javascript中发布-订阅设计模式](http://hao.caibaojian.com/34171.html) （稀土掘金）
-* [CB Insights 人工智能白皮书（下）](http://hao.caibaojian.com/34227.html) （开发者头条）
-* [C++ 突破私有成员访问限制](http://hao.caibaojian.com/34193.html) （SegmentFault）
+* [Vim 与 Markdown，实现键不离手](http://hao.caibaojian.com/34390.html) （开发者头条）
+* [React 升级：Redux](http://hao.caibaojian.com/34348.html) （SegmentFault）
+* [Git rebase 和 Git merge 的用法](http://hao.caibaojian.com/34380.html) （开发者头条）
+* [JavaScript深入之作用域链](http://hao.caibaojian.com/34349.html) （SegmentFault）
+* [netfilter/iptables简介](http://hao.caibaojian.com/34362.html) （SegmentFault）
 
 ***
-* [为什么美术和策划在使用 git 时会遇到更多麻烦](http://hao.caibaojian.com/34218.html) （开发者头条）
-* [VueJS 组件化开发实践总结](http://hao.caibaojian.com/34164.html) （稀土掘金）
-* [沪江学习 Android 端应用架构重构](http://hao.caibaojian.com/34219.html) （开发者头条）
-* [慎用“微服务”架构](http://hao.caibaojian.com/34186.html) （SegmentFault）
-* [数组操作（备查）](http://hao.caibaojian.com/34198.html) （SegmentFault）
+* [关于下一代前端框架的一些个人想法](http://hao.caibaojian.com/34352.html) （SegmentFault）
+* [知乎登录首页 canvas 效果 折腾了下，直接做成一个方法，直接调用就好了](http://hao.caibaojian.com/34324.html) （稀土掘金）
+* [一篇为你讲透Yii2的widget这货](http://hao.caibaojian.com/34353.html) （SegmentFault）
+* [Android小白研究下Bitmap](http://hao.caibaojian.com/34364.html) （SegmentFault）
+* [聊一聊 iOS 的那些生命周期](http://hao.caibaojian.com/34387.html) （开发者头条）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
