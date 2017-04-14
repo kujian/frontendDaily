@@ -1,45 +1,45 @@
-# [20170413 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/04/13.md)
+# [20170414 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/04/14.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [nodejs微信公众号开发——6.自定义菜单](http://hao.caibaojian.com/34500.html) （SegmentFault）
-* [Vert.x 3.4.x 之 Web Client](http://hao.caibaojian.com/34522.html) （开发者头条）
-* [使用 Vue.js 和 Chart.js 制作绚丽多彩的图表](http://hao.caibaojian.com/34491.html) （SegmentFault）
-* [从 use strict 看 JS（二）：函数传参模式与 arguments](http://hao.caibaojian.com/34464.html) （稀土掘金）
-* [http/https协议备忘](http://hao.caibaojian.com/34503.html) （SegmentFault）
+* [渐进式开发光伏云系统实践（二）：MongoDB](http://hao.caibaojian.com/34662.html) （开发者头条）
+* [HTTP状态码: 301/302/303/307](http://hao.caibaojian.com/34632.html) （SegmentFault）
+* [在 Node.js 中引入模块：你所需要知道的一切都在这里](http://hao.caibaojian.com/34622.html) （SegmentFault）
+* [vue2 图片选择组件，支持多选和拖放](http://hao.caibaojian.com/34633.html) （SegmentFault）
+* [超越浏览器：从 web 应用到桌面应用](http://hao.caibaojian.com/34592.html) （稀土掘金）
 
 ***
-* [HTML页面&#8212;复制按钮的使用](http://hao.caibaojian.com/34495.html) （SegmentFault）
-* [js原生dom对象和jQuery对象可以混合使用吗？](http://hao.caibaojian.com/34468.html) （稀土掘金）
-* [JavaScript 深入之从 ECMAScript 规范解读 this](http://hao.caibaojian.com/34528.html) （开发者头条）
-* [前端通用国际化解决方案](http://hao.caibaojian.com/34507.html) （SegmentFault）
-* [翻译 | 上手 Webpack ? 这篇就够了](http://hao.caibaojian.com/34469.html) （稀土掘金）
+* [js中的this总结](http://hao.caibaojian.com/34623.html) （SegmentFault）
+* [Node.js, Express.js 搭建 HTTP/2 服务器](http://hao.caibaojian.com/34634.html) （SegmentFault）
+* [JavaScript 需要检查变量类型吗](http://hao.caibaojian.com/34636.html) （SegmentFault）
+* [vue-devtools 必备开发工具](http://hao.caibaojian.com/34595.html) （稀土掘金）
+* [React Native 性能之谜](http://hao.caibaojian.com/34659.html) （开发者头条）
 
 ***
-* [使用 Travis 自动部署 Hexo 到 Github 与 自己的服务器](http://hao.caibaojian.com/34489.html) （SegmentFault）
-* [致刚入行的前端工程师](http://hao.caibaojian.com/34512.html) （开发者头条）
-* [使用 Python 实现后台系统的 JWT 认证](http://hao.caibaojian.com/34513.html) （开发者头条）
-* [深入理解 JavaScript 执行上下文、函数堆栈、提升的概念](http://hao.caibaojian.com/34466.html) （稀土掘金）
-* [Vue源码分析之Observer](http://hao.caibaojian.com/34494.html) （SegmentFault）
+* [GitHub 风格的 Markdown 正式规范发布](http://hao.caibaojian.com/34638.html) （开发者头条）
+* [Slack 的 TypeScript 之路](http://hao.caibaojian.com/34649.html) （开发者头条）
+* [实现一个前端模板引擎](http://hao.caibaojian.com/34598.html) （稀土掘金）
+* [移动端Vue.js图片预览插件](http://hao.caibaojian.com/34629.html) （SegmentFault）
+* [Swift 代码小抄](http://hao.caibaojian.com/34630.html) （SegmentFault）
 
 ***
-* [分享几点关于 web 前端开发的看法](http://hao.caibaojian.com/34470.html) （稀土掘金）
-* [踩坑记：当 JavaScript 遇上 UINT64](http://hao.caibaojian.com/34471.html) （稀土掘金）
-* [git commit 规范指南](http://hao.caibaojian.com/34490.html) （SegmentFault）
-* [nsq 源码分析（Golang）](http://hao.caibaojian.com/34523.html) （开发者头条）
-* [Swift: NotificationCenter 协议](http://hao.caibaojian.com/34502.html) （SegmentFault）
+* [Angular 4.x 自定义表单控件](http://hao.caibaojian.com/34589.html) （稀土掘金）
+* [Javascript OOP &#8212; 深入理解函数](http://hao.caibaojian.com/34621.html) （SegmentFault）
+* [合理的可视化图表设计](http://hao.caibaojian.com/34593.html) （稀土掘金）
+* [php通过共享内存，控制mysql连接数，多进程插入数据（pcnt学习四）](http://hao.caibaojian.com/34635.html) （SegmentFault）
+* [使用开发者工具在浏览器中调整设计](http://hao.caibaojian.com/34594.html) （稀土掘金）
 
 ***
-* [mysql怎么通过frm和ibd文件还原数据](http://hao.caibaojian.com/34504.html) （SegmentFault）
-* [FingerprintIdentify：Android 指纹识别 API 兼容库](http://hao.caibaojian.com/34527.html) （开发者头条）
-* [软件工程的演进：从模块化到设计模式](http://hao.caibaojian.com/34529.html) （开发者头条）
-* [Linux干货篇一](http://hao.caibaojian.com/34498.html) （SegmentFault）
-* [A/B 测试：概念 ≠ 执行](http://hao.caibaojian.com/34530.html) （开发者头条）
+* [团队开发Git分支管理策略](http://hao.caibaojian.com/34625.html) （SegmentFault）
+* [Gomoku：使用 Swoole 实现的在线五子棋项目](http://hao.caibaojian.com/34658.html) （开发者头条）
+* [Serverless 架构（六）](http://hao.caibaojian.com/34660.html) （开发者头条）
+* [Android &amp; 卡顿 &amp; App](http://hao.caibaojian.com/34639.html) （开发者头条）
+* [用 Swift 绘制漂亮的 Julia 分形图](http://hao.caibaojian.com/34661.html) （开发者头条）
 
 ***
-* [实现一个前端表单验证插件](http://hao.caibaojian.com/34460.html) （稀土掘金）
-* [swift delegate 从开始到放弃](http://hao.caibaojian.com/34499.html) （SegmentFault）
-* [今日头条的分发模型与视频展望](http://hao.caibaojian.com/34531.html) （开发者头条）
-* [Angular 4.x 自定义验证指令](http://hao.caibaojian.com/34461.html) （稀土掘金）
-* [手把手教你为 iOS 系统开发 TensorFlow 应用](http://hao.caibaojian.com/34521.html) （开发者头条）
+* [实现一个简单但有趣的 AR 效果（Web）](http://hao.caibaojian.com/34588.html) （稀土掘金）
+* [leetcode 26 Remove Duplicates from Sorted Array](http://hao.caibaojian.com/34631.html) （SegmentFault）
+* [PHP面试中常见的字符串与文件操作题目](http://hao.caibaojian.com/34626.html) （SegmentFault）
+* [Angular Material 之 Get Started](http://hao.caibaojian.com/34596.html) （稀土掘金）
+* [一道简单的算法题](http://hao.caibaojian.com/34648.html) （开发者头条）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
