@@ -1,45 +1,45 @@
-# [20170425 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/04/25.md)
+# [20170426 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/04/26.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [那些年前端遇到的面试题 我的 你的  他的 都有 （不断更新中）](http://hao.caibaojian.com/35971.html) （SegmentFault）
-* [JS用原型对象写的贪吃蛇，很粗糙的代码](http://hao.caibaojian.com/35976.html) （SegmentFault）
-* [一个简单的拆分 Bundle &amp; 资源做法（React Native）](http://hao.caibaojian.com/35994.html) （开发者头条）
-* [使用 gulp + seajs + zepto 构建项目](http://hao.caibaojian.com/35977.html) （SegmentFault）
-* [Web 探索之旅 | 第四部分 ： Web 程序员](http://hao.caibaojian.com/35938.html) （稀土掘金）
+* [前端开发中的地理定位问题小总结](http://hao.caibaojian.com/36142.html) （开发者头条）
+* [JavaScriptCore 全面解析（下篇）](http://hao.caibaojian.com/36145.html) （开发者头条）
+* [深入理解 CSS：font metrics, line-height 以及 vertical-align](http://hao.caibaojian.com/36134.html) （开发者头条）
+* [git心得](http://hao.caibaojian.com/36115.html) （SegmentFault）
+* [ECMAScript6入门&#8211;Class对象](http://hao.caibaojian.com/36116.html) （SegmentFault）
 
 ***
-* [Web 探索之旅 | 第三部分第三课：协议](http://hao.caibaojian.com/35939.html) （稀土掘金）
-* [一文读懂 HTTP/2 特性](http://hao.caibaojian.com/35989.html) （开发者头条）
-* [从网络通信角度谈web性能优化](http://hao.caibaojian.com/35979.html) （SegmentFault）
-* [这道题&#8211;致敬各位10年阿里的前端开发](http://hao.caibaojian.com/35940.html) （稀土掘金）
-* [优雅的使用 Js 或 CSS 处理文本的截断与展示](http://hao.caibaojian.com/35930.html) （稀土掘金）
+* [javascript 基础总结（一）——综合](http://hao.caibaojian.com/36079.html) （稀土掘金）
+* [JavaScript数组去重最佳选择](http://hao.caibaojian.com/36117.html) （SegmentFault）
+* [axios跨域访问js端配置](http://hao.caibaojian.com/36119.html) （SegmentFault）
+* [复杂网络分析数据准备篇](http://hao.caibaojian.com/36143.html) （开发者头条）
+* [React Native 源码解析之 Initialize Native Modules](http://hao.caibaojian.com/36144.html) （开发者头条）
 
 ***
-* [[摘] 如何编写高效的 CSS 选择器](http://hao.caibaojian.com/35941.html) （稀土掘金）
-* [Fetch 进阶指南](http://hao.caibaojian.com/35991.html) （开发者头条）
-* [bilibili-vue：前端 vue + 后端 koa，全栈式开发 bilibili 首页](http://hao.caibaojian.com/35983.html) （开发者头条）
-* [如何在 react 项目中配置 ESlint](http://hao.caibaojian.com/35934.html) （稀土掘金）
-* [如何在 Vue.js 中使用第三方库](http://hao.caibaojian.com/35984.html) （开发者头条）
+* [深度学习在推荐算法上的应用进展](http://hao.caibaojian.com/36146.html) （开发者头条）
+* [Javascript 将html转成pdf,下载（html2canvas 和 jsPDF）](http://hao.caibaojian.com/36114.html) （SegmentFault）
+* [HTML5 进阶系列：web Storage](http://hao.caibaojian.com/36080.html) （稀土掘金）
+* [一个只有 99 行代码的 JS 流程框架（二）](http://hao.caibaojian.com/36081.html) （稀土掘金）
+* [Vuex Demo 讲解](http://hao.caibaojian.com/36082.html) （稀土掘金）
 
 ***
-* [玩转 animate.css，提高动画开发效率](http://hao.caibaojian.com/35935.html) （稀土掘金）
-* [我为什么选择了AdonisJs](http://hao.caibaojian.com/35975.html) （SegmentFault）
-* [什么是 URI、URL、URN、URC 和 Data URI？](http://hao.caibaojian.com/35936.html) （稀土掘金）
-* [es5 编写类风格的代码](http://hao.caibaojian.com/35926.html) （稀土掘金）
-* [Node 的 readline (逐行读取)](http://hao.caibaojian.com/35937.html) （稀土掘金）
+* [Anime.js：轻巧的 JavaScript 动画库](http://hao.caibaojian.com/36083.html) （稀土掘金）
+* [javascript基础总结（三）——盒子模型](http://hao.caibaojian.com/36110.html) （SegmentFault）
+* [cordova研习笔记(一) —— 初试牛刀之cordova.js概要](http://hao.caibaojian.com/36112.html) （SegmentFault）
+* [Vuejs 2 Authentication Tutorial](http://hao.caibaojian.com/36077.html) （稀土掘金）
+* [HTML5 高级系列：web Storage](http://hao.caibaojian.com/36104.html) （SegmentFault）
 
 ***
-* [Structed streaming 正确的使用姿势](http://hao.caibaojian.com/35998.html) （开发者头条）
-* [推送的演变](http://hao.caibaojian.com/35999.html) （开发者头条）
-* [Android 中的 FORTIFY](http://hao.caibaojian.com/36000.html) （开发者头条）
-* [如何自己实现一个 mobx](http://hao.caibaojian.com/36001.html) （开发者头条）
-* [Web 图片性能优化系列一：背景与基础](http://hao.caibaojian.com/35970.html) （SegmentFault）
+* [笔记：如何获取网站根域名 &#8211; 文蔺的博客 @wemlion](http://hao.caibaojian.com/36067.html) （稀土掘金）
+* [走心的一系列 JS 基础 &gt; 进阶的大白话教程](http://hao.caibaojian.com/36078.html) （稀土掘金）
+* [漫谈并发编程：Future 模型（Java、Clojure、Scala 多语言角度分析）](http://hao.caibaojian.com/36138.html) （开发者头条）
+* [浅谈漏洞挖掘及代码审计](http://hao.caibaojian.com/36139.html) （开发者头条）
+* [Laravel + Vue.js 的 SPA 项目中进行微信网页授权的一种姿势](http://hao.caibaojian.com/36107.html) （SegmentFault）
 
 ***
-* [vue2+element 管理后台 集成解决方案 没有没做的，只要想不到的](http://hao.caibaojian.com/35960.html) （SegmentFault）
-* [前端每周清单第 5 期：jQuery 3.2 发布，滴滴采用 Vue 2.0 重构 Web App、饿了么 PWA 实践经验分享](http://hao.caibaojian.com/35932.html) （稀土掘金）
-* [计算机程序的思维逻辑（82）：理解 ThreadLocal](http://hao.caibaojian.com/35993.html) （开发者头条）
-* [单页式应用性能优化 &#8211; 首屏数据渐进式预加载](http://hao.caibaojian.com/35933.html) （稀土掘金）
-* [Mac下配置phpstorm](http://hao.caibaojian.com/35973.html) （SegmentFault）
+* [数据结构-BF算法及KMP算法](http://hao.caibaojian.com/36118.html) （SegmentFault）
+* [Optimizing TensorFlow code](http://hao.caibaojian.com/36141.html) （开发者头条）
+* [Vue 2.0 入门系列（1）数据绑定与响应式更新](http://hao.caibaojian.com/36109.html) （SegmentFault）
+* [微信 SQLite 数据库修复实践](http://hao.caibaojian.com/36121.html) （开发者头条）
+* [前端小项目：使用 canvas 绘画哆啦 A 梦](http://hao.caibaojian.com/36084.html) （稀土掘金）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
