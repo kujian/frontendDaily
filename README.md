@@ -1,45 +1,45 @@
-# [20170511 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/05/11.md)
+# [20170512 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/05/12.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [15 个有趣的 JS 和 CSS 库（2017 年 5 月）](http://hao.caibaojian.com/37697.html) （开发者头条）
-* [给熟悉jquery，想使用vue的人的页面搭建建议](http://hao.caibaojian.com/37678.html) （SegmentFault）
-* [简介我的 Git Work Flow](http://hao.caibaojian.com/37683.html) （开发者头条）
-* [JS框架 &#8211; 收藏集 &#8211; 掘金](http://hao.caibaojian.com/37674.html) （SegmentFault）
-* [React+AntD 后台管理系统解决方案](http://hao.caibaojian.com/37641.html) （稀土掘金）
+* [React 新引擎 React Fiber 究竟要解决什么问题？](http://hao.caibaojian.com/37760.html) （稀土掘金）
+* [webpack&amp;&amp;loader](http://hao.caibaojian.com/37794.html) （SegmentFault）
+* [React 高阶组件(HOC)入门指南](http://hao.caibaojian.com/37758.html) （稀土掘金）
+* [瞎扯扯 OOCSS,ACSS,BEM,SMACSS](http://hao.caibaojian.com/37748.html) （稀土掘金）
+* [前端魔法堂：onsubmit和submit事件处理函数怎么不生效呢？](http://hao.caibaojian.com/37786.html) （SegmentFault）
 
 ***
-* [ECMAScript6系列之六：对象的扩展](http://hao.caibaojian.com/37675.html) （SegmentFault）
-* [HTTP 缓存策略解析](http://hao.caibaojian.com/37698.html) （开发者头条）
-* [JavaScript 面向对象笔记和总结](http://hao.caibaojian.com/37643.html) （稀土掘金）
-* [从零开始搭建vue-ssr系列之二：Client端渲染以及webpack2+vue2踩坑之旅](http://hao.caibaojian.com/37673.html) （SegmentFault）
-* [Vue SPA（单页应用）首屏优化实践](http://hao.caibaojian.com/37686.html) （开发者头条）
+* [React组件编写思路（一）](http://hao.caibaojian.com/37787.html) （SegmentFault）
+* [为何 TypeScript 愈发流行了？](http://hao.caibaojian.com/37753.html) （稀土掘金）
+* [常见的canvas优化——模糊问题、旋转效果](http://hao.caibaojian.com/37781.html) （SegmentFault）
+* [JavaScript深入之继承的多种方式和优缺点](http://hao.caibaojian.com/37755.html) （稀土掘金）
+* [解决 Android ping IPv6 地址显示 network is unreachable 的问题](http://hao.caibaojian.com/37793.html) （SegmentFault）
 
 ***
-* [基于 Vue JS, Webpack 以及 Material Design 的渐进式 Web 应用（一）](http://hao.caibaojian.com/37687.html) （开发者头条）
-* [微软推荐的 TypeScript-Vue-Starter](http://hao.caibaojian.com/37639.html) （稀土掘金）
-* [遇见未知的 CSS](http://hao.caibaojian.com/37642.html) （稀土掘金）
-* [SVG之Animation](http://hao.caibaojian.com/37680.html) （SegmentFault）
-* [Vue 源码阅读笔记 第一篇](http://hao.caibaojian.com/37645.html) （稀土掘金）
+* [javascript——正则表达式](http://hao.caibaojian.com/37783.html) （SegmentFault）
+* [悄悄地说一个 bug](http://hao.caibaojian.com/37759.html) （稀土掘金）
+* [JavaScript——this、全局变量、局部变量混谈](http://hao.caibaojian.com/37788.html) （SegmentFault）
+* [微软开源的 TypeScript-React-Starter](http://hao.caibaojian.com/37751.html) （稀土掘金）
+* [Codeigniter 4.0-dev 版源码学习笔记之五——相对于 3.x 的变化](http://hao.caibaojian.com/37789.html) （SegmentFault）
 
 ***
-* [100 行代码理解 JavaScript 原型](http://hao.caibaojian.com/37635.html) （稀土掘金）
-* [Node+Express+Vue+Element+MySQL简易实现前后端分离](http://hao.caibaojian.com/37662.html) （SegmentFault）
-* [基本排序算法总结](http://hao.caibaojian.com/37699.html) （开发者头条）
-* [js图片加载效果（延迟加载+瀑布流加载）](http://hao.caibaojian.com/37667.html) （SegmentFault）
-* [koa和egg项目webpack内存编译和热更新实现](http://hao.caibaojian.com/37668.html) （SegmentFault）
+* [Vue2.1.7 源码学习 | HcySunYang&#x27;s Blog](http://hao.caibaojian.com/37752.html) （稀土掘金）
+* [带你走进 koa2 的世界（koa2 源码浅谈）](http://hao.caibaojian.com/37757.html) （稀土掘金）
+* [Linux CentOS7 搭建node服务详细教程](http://hao.caibaojian.com/37784.html) （SegmentFault）
+* [SPL (Standard PHP Library) 迭代器接口介绍](http://hao.caibaojian.com/37806.html) （开发者头条）
+* [PHP应用性能优化指南](http://hao.caibaojian.com/37785.html) （SegmentFault）
 
 ***
-* [视频中的深度学习](http://hao.caibaojian.com/37701.html) （开发者头条）
-* [JavaScript 异步与 Promise 实现](http://hao.caibaojian.com/37692.html) （开发者头条）
-* [ES6被你忽略的尾调用](http://hao.caibaojian.com/37681.html) （SegmentFault）
-* [微信小程序-用户拒绝授权使用 wx.openSetting({}) 重新调起授权用户信息](http://hao.caibaojian.com/37672.html) （SegmentFault）
-* [Python 入门深度学习完整指南](http://hao.caibaojian.com/37684.html) （开发者头条）
+* [Android 音量系统分析](http://hao.caibaojian.com/37807.html) （开发者头条）
+* [Web 安全资源合集](http://hao.caibaojian.com/37750.html) （稀土掘金）
+* [Python Nginx + uwsgi + WSGI 处理请求详解](http://hao.caibaojian.com/37809.html) （开发者头条）
+* [如何应对苹果 App 的 IPv6 时代？腾讯专家教您进行环境改造](http://hao.caibaojian.com/37810.html) （开发者头条）
+* [webApp实战开发，仿网易新闻webApp](http://hao.caibaojian.com/37790.html) （SegmentFault）
 
 ***
-* [基于Vue JS, Webpack 以及Material Design的渐进式web应用 [Part 1]](http://hao.caibaojian.com/37663.html) （SegmentFault）
-* [云计算的未来是什么？](http://hao.caibaojian.com/37696.html) （开发者头条）
-* [Html5 &#8211; 收藏集 &#8211; 掘金](http://hao.caibaojian.com/37664.html) （SegmentFault）
-* [【zabbix】zabbix邮件报警脚本](http://hao.caibaojian.com/37677.html) （SegmentFault）
-* [Applying NASA coding guidelines to JavaScript](http://hao.caibaojian.com/37640.html) （稀土掘金）
+* [使用 headless chrome进行测试](http://hao.caibaojian.com/37791.html) （SegmentFault）
+* [finger-mover 开源啦](http://hao.caibaojian.com/37754.html) （稀土掘金）
+* [别让你的偏爱拖了后腿：快拥抱箭头函数吧](http://hao.caibaojian.com/37744.html) （稀土掘金）
+* [Android 指定网络接口收发 Socket 数据](http://hao.caibaojian.com/37792.html) （SegmentFault）
+* [npm@5.0.0 is comming](http://hao.caibaojian.com/37756.html) （稀土掘金）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
