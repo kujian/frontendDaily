@@ -1,45 +1,45 @@
-# [20170520 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/05/20.md)
+# [20170521 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/05/21.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [使用req对象获取HTTP请求的参数](http://hao.caibaojian.com/38626.html) （SegmentFault）
-* [精读入坑 React 前没有人会告诉你的事](http://hao.caibaojian.com/38651.html) （开发者头条）
-* [2017-05-20 前端日报](http://hao.caibaojian.com/38621.html) （SegmentFault）
-* [JavaScript中分号自动插入](http://hao.caibaojian.com/38632.html) （SegmentFault）
-* [原生js小结](http://hao.caibaojian.com/38633.html) （SegmentFault）
+* [JavaScript 编码指南](http://hao.caibaojian.com/38753.html) （开发者头条）
+* [初识weex（前端视角） &#8211; 环境搭建](http://hao.caibaojian.com/38693.html) （稀土掘金）
+* [总有你要的编程书单（GitHub）](http://hao.caibaojian.com/38694.html) （稀土掘金）
+* [JQuery 中的 setTimeout(fn, 0) 的作用](http://hao.caibaojian.com/38695.html) （稀土掘金）
+* [从零开始打造一个 Angular 的 Hello World 应用](http://hao.caibaojian.com/38699.html) （稀土掘金）
 
 ***
-* [React 教程 &#8211; 8. 列表和键 (Lists and Keys)](http://hao.caibaojian.com/38607.html) （稀土掘金）
-* [Web Animation Api 入门](http://hao.caibaojian.com/38634.html) （SegmentFault）
-* [前端周刊第 56 期：应接不暇的技术大会](http://hao.caibaojian.com/38608.html) （稀土掘金）
-* [React之渲染元素](http://hao.caibaojian.com/38625.html) （SegmentFault）
-* [[持续更新] VueConf 大会现场笔记](http://hao.caibaojian.com/38610.html) （稀土掘金）
+* [Vue 用户的 React 上手小结](http://hao.caibaojian.com/38701.html) （稀土掘金）
+* [学习JavaScript之闭包](http://hao.caibaojian.com/38711.html) （SegmentFault）
+* [Angular 4.x NgIf](http://hao.caibaojian.com/38722.html) （SegmentFault）
+* [如何评价 Google I/O 2017 推出的室内定位技术 WorldSense？](http://hao.caibaojian.com/38754.html) （开发者头条）
+* [如何将Angular文档化？](http://hao.caibaojian.com/38714.html) （SegmentFault）
 
 ***
-* [Vue.js组件中v-model的使用](http://hao.caibaojian.com/38629.html) （SegmentFault）
-* [个人网站开发Github+GithubPage+Node+Hexo](http://hao.caibaojian.com/38630.html) （SegmentFault）
-* [Alloy 前端周刊第 6 期](http://hao.caibaojian.com/38611.html) （稀土掘金）
-* [一个后端程序员的前端之路框架篇](http://hao.caibaojian.com/38612.html) （稀土掘金）
-* [ConditionObject源码阅读](http://hao.caibaojian.com/38628.html) （SegmentFault）
+* [Mac OSX下的MySQL数据库升级](http://hao.caibaojian.com/38726.html) （SegmentFault）
+* [Visual Studio Code 前端调试不完全指南](http://hao.caibaojian.com/38719.html) （SegmentFault）
+* [Echarts 的动态加载数据](http://hao.caibaojian.com/38702.html) （稀土掘金）
+* [从强制解包看 Swift 的设计](http://hao.caibaojian.com/38752.html) （开发者头条）
+* [How it feels to learn JavaScript in 2016 – Hacker Noon](http://hao.caibaojian.com/38692.html) （稀土掘金）
 
 ***
-* [如何实现一个 Git Diff 解析器](http://hao.caibaojian.com/38639.html) （开发者头条）
-* [慕课网_《新一代构建工具gradle》学习总结](http://hao.caibaojian.com/38635.html) （SegmentFault）
-* [transform，transition，animation的混合使用——高手之路](http://hao.caibaojian.com/38609.html) （稀土掘金）
-* [如何使用 Kotlin 开发微服务](http://hao.caibaojian.com/38640.html) （开发者头条）
-* [OpenStack 系列（三）：架构规划](http://hao.caibaojian.com/38653.html) （开发者头条）
+* [Node学习记录： nodemon](http://hao.caibaojian.com/38723.html) （SegmentFault）
+* [Markdown 快速入门](http://hao.caibaojian.com/38724.html) （SegmentFault）
+* [【java源码一带一路系列】之LinkedHashMap.afterNodeAccess()](http://hao.caibaojian.com/38725.html) （SegmentFault）
+* [c++ 字符串的分割](http://hao.caibaojian.com/38727.html) （SegmentFault）
+* [MooTools 源码分析 &#8211; Core &#8211; 构造函数的扩展](http://hao.caibaojian.com/38698.html) （稀土掘金）
 
 ***
-* [在 .NET Core 中的并发编程](http://hao.caibaojian.com/38654.html) （开发者头条）
-* [Node学习记录：mongodb](http://hao.caibaojian.com/38627.html) （SegmentFault）
-* [HBase 在阿里搜索中的应用实践](http://hao.caibaojian.com/38638.html) （开发者头条）
-* [如何理解异步/同步 与 阻塞/非阻塞](http://hao.caibaojian.com/38618.html) （SegmentFault）
-* [视频大数据处理的挑战和机遇](http://hao.caibaojian.com/38650.html) （开发者头条）
+* [用Atom调试PHP](http://hao.caibaojian.com/38718.html) （SegmentFault）
+* [开源一个原生的拖拽库](http://hao.caibaojian.com/38700.html) （稀土掘金）
+* [通过利用 immutability 的能力编写更安全和更整洁的代码](http://hao.caibaojian.com/38750.html) （开发者头条）
+* [无监督识别词语算法的 Python 实现](http://hao.caibaojian.com/38751.html) （开发者头条）
+* [Facebook Live如何支持80w用户同时在线](http://hao.caibaojian.com/38712.html) （SegmentFault）
 
 ***
-* [将本地项目推送到远程git新仓库](http://hao.caibaojian.com/38620.html) （SegmentFault）
-* [用 Python 实现贝叶斯定理（附代码）](http://hao.caibaojian.com/38652.html) （开发者头条）
-* [Middleware&lt;中间件&gt;](http://hao.caibaojian.com/38631.html) （SegmentFault）
-* [关于 CMS 垃圾收集算法的一些疑惑](http://hao.caibaojian.com/38645.html) （开发者头条）
-* [为什么Swoole可以加速php](http://hao.caibaojian.com/38624.html) （SegmentFault）
+* [欢迎你 Grid Layout](http://hao.caibaojian.com/38696.html) （稀土掘金）
+* [慕课网_《JSON快速入门（Java版）》学习总结](http://hao.caibaojian.com/38715.html) （SegmentFault）
+* [代码审查应该关注什么：测试](http://hao.caibaojian.com/38749.html) （开发者头条）
+* [ReactNative仿《ONE》APP](http://hao.caibaojian.com/38720.html) （SegmentFault）
+* [可视化效果(Visual effects)](http://hao.caibaojian.com/38713.html) （SegmentFault）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
