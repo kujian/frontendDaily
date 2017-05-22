@@ -1,45 +1,45 @@
-# [20170521 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/05/21.md)
+# [20170522 码农日报](https://github.com/kujian/frontendDaily/blob/master/2017/05/22.md)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript 编码指南](http://hao.caibaojian.com/38753.html) （开发者头条）
-* [初识weex（前端视角） &#8211; 环境搭建](http://hao.caibaojian.com/38693.html) （稀土掘金）
-* [总有你要的编程书单（GitHub）](http://hao.caibaojian.com/38694.html) （稀土掘金）
-* [JQuery 中的 setTimeout(fn, 0) 的作用](http://hao.caibaojian.com/38695.html) （稀土掘金）
-* [从零开始打造一个 Angular 的 Hello World 应用](http://hao.caibaojian.com/38699.html) （稀土掘金）
+* [2017年PHP培训机构排名](http://hao.caibaojian.com/38825.html) （SegmentFault）
+* [vuet 是一个跨页面、跨组件的状态管理插件](http://hao.caibaojian.com/38795.html) （稀土掘金）
+* [WebSocket 与 TCP/IP](http://hao.caibaojian.com/38799.html) （稀土掘金）
+* [GB-respond：移动端响应式布局解决方案（JavaScript + REM）](http://hao.caibaojian.com/38850.html) （开发者头条）
+* [从 webpack v1 迁移到 webpack v2 新特性](http://hao.caibaojian.com/38814.html) （SegmentFault）
 
 ***
-* [Vue 用户的 React 上手小结](http://hao.caibaojian.com/38701.html) （稀土掘金）
-* [学习JavaScript之闭包](http://hao.caibaojian.com/38711.html) （SegmentFault）
-* [Angular 4.x NgIf](http://hao.caibaojian.com/38722.html) （SegmentFault）
-* [如何评价 Google I/O 2017 推出的室内定位技术 WorldSense？](http://hao.caibaojian.com/38754.html) （开发者头条）
-* [如何将Angular文档化？](http://hao.caibaojian.com/38714.html) （SegmentFault）
+* [React实战 &#8212; todoList](http://hao.caibaojian.com/38826.html) （SegmentFault）
+* [每天 10 个前端知识点：杂技](http://hao.caibaojian.com/38794.html) （稀土掘金）
+* [用 React 生成 PDF 文件](http://hao.caibaojian.com/38796.html) （稀土掘金）
+* [手摸手，带你用vue撸后台 系列二(登录权限篇)](http://hao.caibaojian.com/38812.html) （SegmentFault）
+* [无处不在的 Babel](http://hao.caibaojian.com/38842.html) （开发者头条）
 
 ***
-* [Mac OSX下的MySQL数据库升级](http://hao.caibaojian.com/38726.html) （SegmentFault）
-* [Visual Studio Code 前端调试不完全指南](http://hao.caibaojian.com/38719.html) （SegmentFault）
-* [Echarts 的动态加载数据](http://hao.caibaojian.com/38702.html) （稀土掘金）
-* [从强制解包看 Swift 的设计](http://hao.caibaojian.com/38752.html) （开发者头条）
-* [How it feels to learn JavaScript in 2016 – Hacker Noon](http://hao.caibaojian.com/38692.html) （稀土掘金）
+* [线程到底是什么（OS X）](http://hao.caibaojian.com/38853.html) （开发者头条）
+* [前端 (Not just) 工程师终究要掌握的知识](http://hao.caibaojian.com/38854.html) （开发者头条）
+* [ECMA_OOP](http://hao.caibaojian.com/38827.html) （SegmentFault）
+* [CSS3动画（二）：波浪效果](http://hao.caibaojian.com/38828.html) （SegmentFault）
+* [leetcode _58 length of the last word](http://hao.caibaojian.com/38829.html) （SegmentFault）
 
 ***
-* [Node学习记录： nodemon](http://hao.caibaojian.com/38723.html) （SegmentFault）
-* [Markdown 快速入门](http://hao.caibaojian.com/38724.html) （SegmentFault）
-* [【java源码一带一路系列】之LinkedHashMap.afterNodeAccess()](http://hao.caibaojian.com/38725.html) （SegmentFault）
-* [c++ 字符串的分割](http://hao.caibaojian.com/38727.html) （SegmentFault）
-* [MooTools 源码分析 &#8211; Core &#8211; 构造函数的扩展](http://hao.caibaojian.com/38698.html) （稀土掘金）
+* [做一个酷酷的音乐频谱](http://hao.caibaojian.com/38797.html) （稀土掘金）
+* [开源整理：Android App 新手指引开源控件](http://hao.caibaojian.com/38847.html) （开发者头条）
+* [Node 命令行翻译工具](http://hao.caibaojian.com/38798.html) （稀土掘金）
+* [JS 与多线程](http://hao.caibaojian.com/38848.html) （开发者头条）
+* [Spark 源码解析（一）：RDD](http://hao.caibaojian.com/38849.html) （开发者头条）
 
 ***
-* [用Atom调试PHP](http://hao.caibaojian.com/38718.html) （SegmentFault）
-* [开源一个原生的拖拽库](http://hao.caibaojian.com/38700.html) （稀土掘金）
-* [通过利用 immutability 的能力编写更安全和更整洁的代码](http://hao.caibaojian.com/38750.html) （开发者头条）
-* [无监督识别词语算法的 Python 实现](http://hao.caibaojian.com/38751.html) （开发者头条）
-* [Facebook Live如何支持80w用户同时在线](http://hao.caibaojian.com/38712.html) （SegmentFault）
+* [PHP程序员想要的是什么](http://hao.caibaojian.com/38822.html) （SegmentFault）
+* [Redis命令大全](http://hao.caibaojian.com/38823.html) （SegmentFault）
+* [从数组拷贝来看 Javascript 深复制问题](http://hao.caibaojian.com/38790.html) （稀土掘金）
+* [Python 福利：视频 + 直播免费领取](http://hao.caibaojian.com/38840.html) （开发者头条）
+* [Nodejs进阶：Express常用中间件body-parser实现解析](http://hao.caibaojian.com/38813.html) （SegmentFault）
 
 ***
-* [欢迎你 Grid Layout](http://hao.caibaojian.com/38696.html) （稀土掘金）
-* [慕课网_《JSON快速入门（Java版）》学习总结](http://hao.caibaojian.com/38715.html) （SegmentFault）
-* [代码审查应该关注什么：测试](http://hao.caibaojian.com/38749.html) （开发者头条）
-* [ReactNative仿《ONE》APP](http://hao.caibaojian.com/38720.html) （SegmentFault）
-* [可视化效果(Visual effects)](http://hao.caibaojian.com/38713.html) （SegmentFault）
+* [分布式存储系统可靠性如何估算？](http://hao.caibaojian.com/38851.html) （开发者头条）
+* [自学PHP与培训PHP的到底有多大的差距？](http://hao.caibaojian.com/38824.html) （SegmentFault）
+* [使用 Framework7+Vue.js 开发一个 Spotify 播放器 （有实例详解）](http://hao.caibaojian.com/38791.html) （稀土掘金）
+* [从 ELKa 谈一下 Docker 化的思路](http://hao.caibaojian.com/38841.html) （开发者头条）
+* [PHP学习路线图](http://hao.caibaojian.com/38816.html) （SegmentFault）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
