@@ -1,45 +1,45 @@
-# [20170529 码农日报](http://hao.caibaojian.com/date/2017/05/29)
+# [20170530 码农日报](http://hao.caibaojian.com/date/2017/05/30)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [WEB前端面试题汇总（JS）](http://hao.caibaojian.com/39558.html) （SegmentFault）
-* [redux-demo](http://hao.caibaojian.com/39560.html) （SegmentFault）
-* [Javascript 模块现状](http://hao.caibaojian.com/39561.html) （SegmentFault）
-* [canvas之基础](http://hao.caibaojian.com/39557.html) （SegmentFault）
-* [Angular 组件间通信](http://hao.caibaojian.com/39569.html) （开发者头条）
+* [和少妇白洁一起学JavaScript之Async/Await II](http://hao.caibaojian.com/39622.html) （SegmentFault）
+* [前端性能优化的三个维度](http://hao.caibaojian.com/39613.html) （稀土掘金）
+* [React 教程 &#8211; 11. 组合与继承](http://hao.caibaojian.com/39609.html) （稀土掘金）
+* [如何在JavaScript中实现一个Long型——Long.js源码学习与分析](http://hao.caibaojian.com/39628.html) （SegmentFault）
+* [vue全家桶填坑之路](http://hao.caibaojian.com/39630.html) （SegmentFault）
 
 ***
-* [https那些事](http://hao.caibaojian.com/39559.html) （SegmentFault）
-* [drupal7 views useful code cheatsheet](http://hao.caibaojian.com/39562.html) （SegmentFault）
-* [制作 JavaScript 测验表 demo](http://hao.caibaojian.com/39537.html) （稀土掘金）
-* [记一次 Go websocket 项目内存泄露排查 + 使用 Go pprof 定位内存泄露](http://hao.caibaojian.com/39565.html) （开发者头条）
-* [《HelloGitHub》第 14 期](http://hao.caibaojian.com/39538.html) （稀土掘金）
+* [前端开发规范：命名规范、html 规范、css 规范、js 规范](http://hao.caibaojian.com/39610.html) （稀土掘金）
+* [docsify 4.0 发布，支持服务端渲染（SSR）](http://hao.caibaojian.com/39611.html) （稀土掘金）
+* [Angular4实现个人作品展示站](http://hao.caibaojian.com/39629.html) （SegmentFault）
+* [响应式开发心得](http://hao.caibaojian.com/39614.html) （稀土掘金）
+* [杂篇 &#8211; Vue豆瓣系列文章](http://hao.caibaojian.com/39621.html) （SegmentFault）
 
 ***
-* [图形学科研之路书单推荐](http://hao.caibaojian.com/39568.html) （开发者头条）
-* [JavaScript 正则进阶之路——活学妙用奇淫正则表达式](http://hao.caibaojian.com/39541.html) （稀土掘金）
-* [煦涵说JSON](http://hao.caibaojian.com/39550.html) （SegmentFault）
-* [Vue 重写前端导航](http://hao.caibaojian.com/39554.html) （SegmentFault）
-* [Webpack 2 中一些常见的优化措施](http://hao.caibaojian.com/39540.html) （稀土掘金）
+* [angular中的作用域及继承](http://hao.caibaojian.com/39632.html) （SegmentFault）
+* [WebAssembly基础](http://hao.caibaojian.com/39635.html) （SegmentFault）
+* [Webpack 最详解](http://hao.caibaojian.com/39646.html) （开发者头条）
+* [基于javaFx的一个demo](http://hao.caibaojian.com/39636.html) （SegmentFault）
+* [【114天】尚学堂高琪JAVA300篇视频笔记（31-37）](http://hao.caibaojian.com/39627.html) （SegmentFault）
 
 ***
-* [Android 开发技术周报 Issue#131](http://hao.caibaojian.com/39578.html) （开发者头条）
-* [XGBoost 与 Spark 在广告排序中的应用](http://hao.caibaojian.com/39579.html) （开发者头条）
-* [程序员必备的变量命名神器：Codelf](http://hao.caibaojian.com/39542.html) （稀土掘金）
-* [制造世界上第一个性爱机器人的竞赛过程](http://hao.caibaojian.com/39570.html) （开发者头条）
-* [用 systemd 配置一个最简单的自动重启服务](http://hao.caibaojian.com/39564.html) （SegmentFault）
+* [读 Zepto 源码之集合元素查找](http://hao.caibaojian.com/39612.html) （稀土掘金）
+* [20 万、50 万、100 万年薪的算法工程师，区别在哪？](http://hao.caibaojian.com/39642.html) （开发者头条）
+* [数据库中间件MyCAT源码分析：【单库单表】查询](http://hao.caibaojian.com/39633.html) （SegmentFault）
+* [HTTP Session 的工作原理以及几个思维扩展](http://hao.caibaojian.com/39645.html) （开发者头条）
+* [深度学习初学者必须知道的 25 个专业名词](http://hao.caibaojian.com/39647.html) （开发者头条）
 
 ***
-* [深入学习 Java 同步器 AQS](http://hao.caibaojian.com/39576.html) （开发者头条）
-* [在OR项目中使用火焰图](http://hao.caibaojian.com/39555.html) （SegmentFault）
-* [关于 PHP 性能优化](http://hao.caibaojian.com/39566.html) （开发者头条）
-* [从打王者荣耀发散思维到网络安全个人谈](http://hao.caibaojian.com/39567.html) （开发者头条）
-* [搭建Tomcat集群&amp;通过Redis缓存共享session的一种流行方案](http://hao.caibaojian.com/39549.html) （SegmentFault）
+* [MySQL Community Server 5.7.18 deb安装](http://hao.caibaojian.com/39637.html) （SegmentFault）
+* [Fibonacci numbers](http://hao.caibaojian.com/39638.html) （SegmentFault）
+* [Scrapy框架之利用ImagesPipeline下载图片](http://hao.caibaojian.com/39640.html) （SegmentFault）
+* [Java Web 现代化开发：Spring Boot + Mybatis + Redis 二级缓存](http://hao.caibaojian.com/39641.html) （开发者头条）
+* [新手的node爬虫初体验](http://hao.caibaojian.com/39631.html) （SegmentFault）
 
 ***
-* [用代码破解斗地主残局](http://hao.caibaojian.com/39571.html) （开发者头条）
-* [手把手教你编写叮当机器人插件](http://hao.caibaojian.com/39572.html) （开发者头条）
-* [编程以外的依赖关系](http://hao.caibaojian.com/39573.html) （开发者头条）
-* [ES6新特性 iterators and Generators](http://hao.caibaojian.com/39563.html) （SegmentFault）
-* [PaperWeekly 第 39 期：从 PM 到 GAN &#8211; LSTM 之父 Schmidhuber 横跨 22 年的怨念](http://hao.caibaojian.com/39574.html) （开发者头条）
+* [用 Go 编写 JVM 之搭建运行时数据区](http://hao.caibaojian.com/39644.html) （开发者头条）
+* [熊写代码这三年：阅读写作与技术成长](http://hao.caibaojian.com/39634.html) （SegmentFault）
+* [从技术的角度看如何杜绝软件设计师和硬件设计师在产品出现问题时相互扯皮？](http://hao.caibaojian.com/39649.html) （开发者头条）
+* [高并发思路](http://hao.caibaojian.com/39639.html) （SegmentFault）
+* [你应该切换到 Kotlin 开发](http://hao.caibaojian.com/39650.html) （开发者头条）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
