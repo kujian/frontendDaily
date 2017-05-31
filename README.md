@@ -1,45 +1,45 @@
-# [20170530 码农日报](http://hao.caibaojian.com/date/2017/05/30)
+# [20170531 码农日报](http://hao.caibaojian.com/date/2017/05/31)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [和少妇白洁一起学JavaScript之Async/Await II](http://hao.caibaojian.com/39622.html) （SegmentFault）
-* [前端性能优化的三个维度](http://hao.caibaojian.com/39613.html) （稀土掘金）
-* [React 教程 &#8211; 11. 组合与继承](http://hao.caibaojian.com/39609.html) （稀土掘金）
-* [如何在JavaScript中实现一个Long型——Long.js源码学习与分析](http://hao.caibaojian.com/39628.html) （SegmentFault）
-* [vue全家桶填坑之路](http://hao.caibaojian.com/39630.html) （SegmentFault）
+* [jquery显示隐藏常用方式性能测试报告](http://hao.caibaojian.com/39732.html) （SegmentFault）
+* [记录使用 vue 遇到的一些问题](http://hao.caibaojian.com/39722.html) （SegmentFault）
+* [前端开发 100 天（第 15 天 JavaScript 之美 (1)）](http://hao.caibaojian.com/39688.html) （稀土掘金）
+* [基础——重中之重之 JS 的变量的声明](http://hao.caibaojian.com/39697.html) （稀土掘金）
+* [JS/React 开发者的 Atom 终极配置](http://hao.caibaojian.com/39723.html) （SegmentFault）
 
 ***
-* [前端开发规范：命名规范、html 规范、css 规范、js 规范](http://hao.caibaojian.com/39610.html) （稀土掘金）
-* [docsify 4.0 发布，支持服务端渲染（SSR）](http://hao.caibaojian.com/39611.html) （稀土掘金）
-* [Angular4实现个人作品展示站](http://hao.caibaojian.com/39629.html) （SegmentFault）
-* [响应式开发心得](http://hao.caibaojian.com/39614.html) （稀土掘金）
-* [杂篇 &#8211; Vue豆瓣系列文章](http://hao.caibaojian.com/39621.html) （SegmentFault）
+* [sChart.js：一个小型简单的图表库](http://hao.caibaojian.com/39724.html) （SegmentFault）
+* [#JS中undefined和undeclared](http://hao.caibaojian.com/39729.html) （SegmentFault）
+* [前端每周清单：Node.js v8.0 发布，从 React 迁移到 Vue，前端开发的未来](http://hao.caibaojian.com/39693.html) （稀土掘金）
+* [sublime打开TXT文件乱码的问题](http://hao.caibaojian.com/39731.html) （SegmentFault）
+* [轻量 JS mock 对象生成工具 &#8211; Mocker](http://hao.caibaojian.com/39694.html) （稀土掘金）
 
 ***
-* [angular中的作用域及继承](http://hao.caibaojian.com/39632.html) （SegmentFault）
-* [WebAssembly基础](http://hao.caibaojian.com/39635.html) （SegmentFault）
-* [Webpack 最详解](http://hao.caibaojian.com/39646.html) （开发者头条）
-* [基于javaFx的一个demo](http://hao.caibaojian.com/39636.html) （SegmentFault）
-* [【114天】尚学堂高琪JAVA300篇视频笔记（31-37）](http://hao.caibaojian.com/39627.html) （SegmentFault）
+* [传说中最好用的 git diff 格式化显示工具 diff-so-fancy](http://hao.caibaojian.com/39742.html) （开发者头条）
+* [ajax 基础那些事（1）](http://hao.caibaojian.com/39695.html) （稀土掘金）
+* [极简模式 JavaScript 音乐播放器](http://hao.caibaojian.com/39696.html) （稀土掘金）
+* [什么是 AJAX?](http://hao.caibaojian.com/39690.html) （稀土掘金）
+* [谈一谈使用 HAProxy 构建 API 网关服务的思路](http://hao.caibaojian.com/39741.html) （开发者头条）
 
 ***
-* [读 Zepto 源码之集合元素查找](http://hao.caibaojian.com/39612.html) （稀土掘金）
-* [20 万、50 万、100 万年薪的算法工程师，区别在哪？](http://hao.caibaojian.com/39642.html) （开发者头条）
-* [数据库中间件MyCAT源码分析：【单库单表】查询](http://hao.caibaojian.com/39633.html) （SegmentFault）
-* [HTTP Session 的工作原理以及几个思维扩展](http://hao.caibaojian.com/39645.html) （开发者头条）
-* [深度学习初学者必须知道的 25 个专业名词](http://hao.caibaojian.com/39647.html) （开发者头条）
+* [没想到你是这样的javascript](http://hao.caibaojian.com/39721.html) （SegmentFault）
+* [学习 Next.js: 使用路由掩码创建干净的URL](http://hao.caibaojian.com/39726.html) （SegmentFault）
+* [vue-ztree-2.0 开源一个无线树组件, 仿造 ztree](http://hao.caibaojian.com/39689.html) （稀土掘金）
+* [react animation library](http://hao.caibaojian.com/39691.html) （稀土掘金）
+* [Google 在 Android O 上启用了一套全新的 Emoji](http://hao.caibaojian.com/39751.html) （开发者头条）
 
 ***
-* [MySQL Community Server 5.7.18 deb安装](http://hao.caibaojian.com/39637.html) （SegmentFault）
-* [Fibonacci numbers](http://hao.caibaojian.com/39638.html) （SegmentFault）
-* [Scrapy框架之利用ImagesPipeline下载图片](http://hao.caibaojian.com/39640.html) （SegmentFault）
-* [Java Web 现代化开发：Spring Boot + Mybatis + Redis 二级缓存](http://hao.caibaojian.com/39641.html) （开发者头条）
-* [新手的node爬虫初体验](http://hao.caibaojian.com/39631.html) （SegmentFault）
+* [最接近零的子数组和](http://hao.caibaojian.com/39730.html) （SegmentFault）
+* [Kotlin 的协程](http://hao.caibaojian.com/39752.html) （开发者头条）
+* [Git 是怎样生成 diff 的：Myers 算法](http://hao.caibaojian.com/39733.html) （开发者头条）
+* [从 DSL 扯开去](http://hao.caibaojian.com/39748.html) （开发者头条）
+* [vue实用技巧总结](http://hao.caibaojian.com/39727.html) （SegmentFault）
 
 ***
-* [用 Go 编写 JVM 之搭建运行时数据区](http://hao.caibaojian.com/39644.html) （开发者头条）
-* [熊写代码这三年：阅读写作与技术成长](http://hao.caibaojian.com/39634.html) （SegmentFault）
-* [从技术的角度看如何杜绝软件设计师和硬件设计师在产品出现问题时相互扯皮？](http://hao.caibaojian.com/39649.html) （开发者头条）
-* [高并发思路](http://hao.caibaojian.com/39639.html) （SegmentFault）
-* [你应该切换到 Kotlin 开发](http://hao.caibaojian.com/39650.html) （开发者头条）
+* [追求阅读舒适度的 Hexo博客主题hexo-theme-cafe](http://hao.caibaojian.com/39728.html) （SegmentFault）
+* [超级简单和轻量的 css transtion 动画库](http://hao.caibaojian.com/39692.html) （稀土掘金）
+* [Android之ViewFlipper的简单使用](http://hao.caibaojian.com/39719.html) （SegmentFault）
+* [Node 爬虫入门](http://hao.caibaojian.com/39682.html) （稀土掘金）
+* [为什么各大厂商要抢先跟进H.265?](http://hao.caibaojian.com/39720.html) （SegmentFault）
 
 日报维护作者：[前端开发博客](http://caibaojian.com/) 
