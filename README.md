@@ -1,45 +1,45 @@
-# [20170614 码农日报](http://hao.caibaojian.com/date/2017/06/14)
+# [20170615 码农日报](http://hao.caibaojian.com/date/2017/06/15)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [github上的那些神器](http://hao.caibaojian.com/41065.html) （SegmentFault）
-* [20行代码的贪吃蛇](http://hao.caibaojian.com/41064.html) （SegmentFault）
-* [使用 Vue 组件来实现下拉刷新容器的一种思路](http://hao.caibaojian.com/41044.html) （稀土掘金）
-* [jQuery webcam plugin调用摄像头](http://hao.caibaojian.com/41077.html) （SegmentFault）
-* [Golang 公共变量包 expvar](http://hao.caibaojian.com/41088.html) （开发者头条）
+* [vue.js实现下拉刷新组件](http://hao.caibaojian.com/41127.html) （SegmentFault）
+* [Learn Vimscript the Hard Way 笔记（中）](http://hao.caibaojian.com/41202.html) （开发者头条）
+* [深度学习入门和学习书籍](http://hao.caibaojian.com/41182.html) （开发者头条）
+* [使用React全家桶搭建一个后台管理系统](http://hao.caibaojian.com/41122.html) （SegmentFault）
+* [Bottom Sheet 及相关知识](http://hao.caibaojian.com/41195.html) （开发者头条）
 
 ***
-* [前端计划——JavaScript中关于setTimeout的那些事](http://hao.caibaojian.com/41067.html) （SegmentFault）
-* [定制我的 Ubuntu 17.04](http://hao.caibaojian.com/41078.html) （SegmentFault）
-* [Vue 作者尤雨溪的深度访谈](http://hao.caibaojian.com/41089.html) （开发者头条）
-* [关于Serverless架构及平台选择，你知道多少？](http://hao.caibaojian.com/41068.html) （SegmentFault）
-* [《JS高程3》—— 内存回收、垃圾收集、内存泄漏](http://hao.caibaojian.com/41071.html) （SegmentFault）
+* [分享我的前端学习之旅](http://hao.caibaojian.com/41126.html) （SegmentFault）
+* [vue-cli配置webpack dll](http://hao.caibaojian.com/41178.html) （SegmentFault）
+* [用Vue高仿qq音乐官网-pc端](http://hao.caibaojian.com/41168.html) （SegmentFault）
+* [Spinnaker 1.0：持续的云交付平台](http://hao.caibaojian.com/41200.html) （开发者头条）
+* [用 css3 做一个求婚小动画](http://hao.caibaojian.com/41130.html) （稀土掘金）
 
 ***
-* [手把手教你自制编程 AI：训练 2 小时，RNN 就能写自己的代码](http://hao.caibaojian.com/41082.html) （开发者头条）
-* [Nginx 扩展开发实战](http://hao.caibaojian.com/41084.html) （开发者头条）
-* [如何让Angular支持Service Worker](http://hao.caibaojian.com/41063.html) （SegmentFault）
-* [Linux下使用简单的一条命令实现控制用户的目录访问权限](http://hao.caibaojian.com/41074.html) （SegmentFault）
-* [草莓 &#8211; 前端开发图标库](http://hao.caibaojian.com/41043.html) （稀土掘金）
+* [「Android」Android开发你需要知道的注解(Annotation)](http://hao.caibaojian.com/41179.html) （SegmentFault）
+* [DSBridge更新公告：已支持cocoapods和gradle](http://hao.caibaojian.com/41141.html) （稀土掘金）
+* [Python 协程（二）：yield from 分析](http://hao.caibaojian.com/41190.html) （开发者头条）
+* [关于Node.js streams你需要知道的一切](http://hao.caibaojian.com/41169.html) （SegmentFault）
+* [线上存储服务崩溃问题分析记录](http://hao.caibaojian.com/41201.html) （开发者头条）
 
 ***
-* [机器学习和深度学习的 Cheat Sheets](http://hao.caibaojian.com/41085.html) （开发者头条）
-* [TextAnalyzer：一个文本分析项目（Java）](http://hao.caibaojian.com/41096.html) （开发者头条）
-* [《深入理解java虚拟机》学习笔记系列——垃圾收集器&amp;内存分配策略](http://hao.caibaojian.com/41075.html) （SegmentFault）
-* [谷歌热气球上网计划实现方法解密](http://hao.caibaojian.com/41110.html) （程序员俱乐部）
-* [Python 协程（一）：yield 的使用](http://hao.caibaojian.com/41086.html) （开发者头条）
+* [分享 GitHub 上 有趣、入门级的开源项目](http://hao.caibaojian.com/41131.html) （稀土掘金）
+* [为什么 Scala 会成为下一个神器？](http://hao.caibaojian.com/41180.html) （开发者头条）
+* [Batch Normalization 原理及其 TensorFlow 实现](http://hao.caibaojian.com/41191.html) （开发者头条）
+* [Koa-jwt 说明文档(机翻润色)](http://hao.caibaojian.com/41121.html) （SegmentFault）
+* [如何做一个对账系统](http://hao.caibaojian.com/41181.html) （开发者头条）
 
 ***
-* [从 zmq 和 protobuf 谈 STF 中的消息传递](http://hao.caibaojian.com/41097.html) （开发者头条）
-* [常用排序算法小结](http://hao.caibaojian.com/41076.html) （SegmentFault）
-* [一个故事告诉你比特币的原理及运作机制](http://hao.caibaojian.com/41111.html) （IT程序猿）
-* [DSBridge实例－在网页中展示Native进度](http://hao.caibaojian.com/41045.html) （稀土掘金）
-* [如何搭建自动生成上万特征的管道](http://hao.caibaojian.com/41087.html) （开发者头条）
+* [GSForm：轻量级的表单框架（OC）](http://hao.caibaojian.com/41192.html) （开发者头条）
+* [「CSS3」ImageMagick &#8211; 从gif建立雪碧图动画 &#8211; Sprite Sheet Animation](http://hao.caibaojian.com/41171.html) （SegmentFault）
+* [React、Vue、Ember 及其他前端开发者，请暂缓更新到 Chrome 59 浏览器](http://hao.caibaojian.com/41144.html) （稀土掘金）
+* [敏捷转型：从搭建 TB 级大数据应用说起](http://hao.caibaojian.com/41193.html) （开发者头条）
+* [Android 组件化：路由设计最佳实践](http://hao.caibaojian.com/41183.html) （开发者头条）
 
 ***
-* [Angular CLI 终极指南](http://hao.caibaojian.com/41066.html) （SegmentFault）
-* [iOS 动态功能部署我们是这样实现的：理论设计篇](http://hao.caibaojian.com/41098.html) （开发者头条）
-* [全栈实用技能 &#8211; pm2 部署 node 应用到服务器](http://hao.caibaojian.com/41112.html) （IT程序狮）
-* [拯救 Java Code Style 强迫症](http://hao.caibaojian.com/41046.html) （稀土掘金）
-* [聊聊 Neo4j 图数据库的那些明显优势](http://hao.caibaojian.com/41099.html) （开发者头条）
+* [在 ECharts GL 中绘制三维地图](http://hao.caibaojian.com/41145.html) （稀土掘金）
+* [聊天中的情感分析有多难？](http://hao.caibaojian.com/41194.html) （开发者头条）
+* [React + webpack 之性能优化](http://hao.caibaojian.com/41173.html) （SegmentFault）
+* [《知道做到》：知道那么多，为什么做不到？](http://hao.caibaojian.com/41184.html) （开发者头条）
+* [一文理清散乱的物联网里开发者必须关注的技术](http://hao.caibaojian.com/41185.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
