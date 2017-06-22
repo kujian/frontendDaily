@@ -1,45 +1,45 @@
-# [20170621 码农日报](http://hao.caibaojian.com/date/2017/06/21)
+# [20170622 码农日报](http://hao.caibaojian.com/date/2017/06/22)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [如何优雅地在 React 中处理事件响应](http://hao.caibaojian.com/41985.html) （开发者头条）
-* [Golang 的 JSON 使用小技巧](http://hao.caibaojian.com/41979.html) （开发者头条）
-* [再造一个有赞微商城也不在话下，有赞 React 组件库（Zent）的开源与展望](http://hao.caibaojian.com/41960.html) （SegmentFault）
-* [C++ 调用 Web Services](http://hao.caibaojian.com/41971.html) （SegmentFault）
-* [js数组操作&#8211;使用迭代方法替代for循环](http://hao.caibaojian.com/41974.html) （SegmentFault）
+* [19 个 JavaScript 常用的简写技术](http://hao.caibaojian.com/42061.html) （稀土掘金）
+* [http 协议入门之缓存](http://hao.caibaojian.com/42073.html) （稀土掘金）
+* [重温ES6核心概念和基本用法](http://hao.caibaojian.com/42087.html) （SegmentFault）
+* [一看就懂的例子告诉你用react-redux的正确姿势](http://hao.caibaojian.com/42098.html) （SegmentFault）
+* [快到让你难以置信的 Weex 技术](http://hao.caibaojian.com/42064.html) （稀土掘金）
 
 ***
-* [深度学习的今生前世](http://hao.caibaojian.com/41988.html) （开发者头条）
-* [JavaScript 异常的防范与监控](http://hao.caibaojian.com/41968.html) （SegmentFault）
-* [web 前端图片懒加载实现原理](http://hao.caibaojian.com/41928.html) （稀土掘金）
-* [CodeIgniter 性能优化](http://hao.caibaojian.com/41958.html) （SegmentFault）
-* [在gitlab 中使用webhook 实现php 自动部署git 代码](http://hao.caibaojian.com/41969.html) （SegmentFault）
+* [常用css3选择器](http://hao.caibaojian.com/42099.html) （SegmentFault）
+* [mobx-react 原理解析](http://hao.caibaojian.com/42065.html) （稀土掘金）
+* [普通程序员，如何转行人工智能？](http://hao.caibaojian.com/42089.html) （SegmentFault）
+* [西部世界：游戏、道德与人类](http://hao.caibaojian.com/42132.html) （开发者头条）
+* [数据科学家如何优雅地运行 R 在 Spark 内存计算引擎上](http://hao.caibaojian.com/42122.html) （开发者头条）
 
 ***
-* [JavaScript 函数式编程到底是个啥](http://hao.caibaojian.com/41959.html) （SegmentFault）
-* [2017 年 6 月设计圈干货](http://hao.caibaojian.com/41991.html) （开发者头条）
-* [TypeScript 简介](http://hao.caibaojian.com/41970.html) （SegmentFault）
-* [JavaScript专题之数组去重](http://hao.caibaojian.com/41961.html) （SegmentFault）
-* [前端知识 &#8211; 收藏集 &#8211; 掘金](http://hao.caibaojian.com/41972.html) （SegmentFault）
+* [Webpack2 multiple entry：基于 webpack2 实现的多入口项目脚手架](http://hao.caibaojian.com/42133.html) （开发者头条）
+* [React技术栈一览](http://hao.caibaojian.com/42102.html) （SegmentFault）
+* [JVM 源码分析之 YGC 的来龙去脉](http://hao.caibaojian.com/42134.html) （开发者头条）
+* [JavaScript：回调是什么鬼？](http://hao.caibaojian.com/42068.html) （稀土掘金）
+* [使用RSA实现前端公钥加密后端私钥解密](http://hao.caibaojian.com/42092.html) （SegmentFault）
 
 ***
-* [React Native Android白屏优化终极方案](http://hao.caibaojian.com/41962.html) （SegmentFault）
-* [为什么你的 Angualr 双向数据绑定会失效？](http://hao.caibaojian.com/41994.html) （开发者头条）
-* [Node.js 垃圾回收与内存泄露的排查](http://hao.caibaojian.com/41984.html) （开发者头条）
-* [vue mixins组件复用的几种方式](http://hao.caibaojian.com/41963.html) （SegmentFault）
-* [数据可视化产生生产力](http://hao.caibaojian.com/41996.html) （开发者头条）
+* [JS 的反射学习和应用](http://hao.caibaojian.com/42059.html) （稀土掘金）
+* [用vue一个计算属性，实现一个常见表单交互效果](http://hao.caibaojian.com/42104.html) （SegmentFault）
+* [说说我的web前端之路,分享些前端的好书](http://hao.caibaojian.com/42094.html) （SegmentFault）
+* [React 可视化开发工具 shadow-widget 的非可视开发方法](http://hao.caibaojian.com/42095.html) （SegmentFault）
+* [Leafer：Java 实现的私人笔记管理项目](http://hao.caibaojian.com/42106.html) （开发者头条）
 
 ***
-* [一条sql语句解决向有唯一约束的表中插入数据不抛出duplicate异常](http://hao.caibaojian.com/41975.html) （SegmentFault）
-* [dyld 与 ObjC](http://hao.caibaojian.com/41986.html) （开发者头条）
-* [[vue全家桶]每个人都能做的网易云音乐](http://hao.caibaojian.com/41965.html) （SegmentFault）
-* [使用浏览器开发者工具检查 CSS 动画性能](http://hao.caibaojian.com/41997.html) （开发者头条）
-* [趣谈并发（三）：线程池的使用与执行流程](http://hao.caibaojian.com/41976.html) （开发者头条）
+* [Python虚拟环境，你有使用过吗](http://hao.caibaojian.com/42162.html) （慕课网）
+* [ES6 展开运算符的常见用法](http://hao.caibaojian.com/42072.html) （稀土掘金）
+* [阿里电商故障治理和故障演练实践](http://hao.caibaojian.com/42117.html) （开发者头条）
+* [被误解的 MVC 和被神化的 MVVM](http://hao.caibaojian.com/42173.html) （程序员俱乐部）
+* [GalleryPick 图片选择器](http://hao.caibaojian.com/42096.html) （SegmentFault）
 
 ***
-* [可自定义动效的卡片切换视图](http://hao.caibaojian.com/41999.html) （开发者头条）
-* [JS 中的递归](http://hao.caibaojian.com/41927.html) （稀土掘金）
-* [怎么从无到有写一个好的 TCP Server](http://hao.caibaojian.com/41978.html) （开发者头条）
-* [JavaScript之this指针深入详解](http://hao.caibaojian.com/42037.html) （程序员俱乐部）
-* [Node.js Color 模块实现入门浅析](http://hao.caibaojian.com/41938.html) （稀土掘金）
+* [死磕 Java 并发：J.U.C 之 Java 并发容器：ConcurrentHashMap](http://hao.caibaojian.com/42128.html) （开发者头条）
+* [小程序可互相跳转](http://hao.caibaojian.com/42184.html) （开源中国）
+* [boarder，快速开始一个 webpack 项目](http://hao.caibaojian.com/42062.html) （稀土掘金）
+* [深入了解 gRPC：协议](http://hao.caibaojian.com/42107.html) （开发者头条）
+* [八幅漫画理解使用 JSON Web Token 设计单点登录系统](http://hao.caibaojian.com/42163.html) （ImportNew）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
