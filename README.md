@@ -1,45 +1,45 @@
-# [20170628 码农日报](http://hao.caibaojian.com/date/2017/06/28)
+# [20170629 码农日报](http://hao.caibaojian.com/date/2017/06/29)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端高亮功能实现复盘](http://hao.caibaojian.com/42814.html) （SegmentFault）
-* [如何使用CSS创建巧妙的动画提示框](http://hao.caibaojian.com/42815.html) （SegmentFault）
-* [JS的平凡之路&#8211;模仿Vue写个简单的对象监听](http://hao.caibaojian.com/42776.html) （稀土掘金）
-* [CatGate：基于浏览器插件的数据抓取工具](http://hao.caibaojian.com/42837.html) （开发者头条）
-* [了解CSS3位移时间属性 &#8211; 众成翻译](http://hao.caibaojian.com/42777.html) （稀土掘金）
+* [CSS 中的 float 定位技术在 iOS 上的实现](http://hao.caibaojian.com/42961.html) （开发者头条）
+* [最常被遗忘的Web性能优化：浏览器缓存](http://hao.caibaojian.com/42940.html) （SegmentFault）
+* [如何将 iOS 项目的编译速度提高 5 倍](http://hao.caibaojian.com/42962.html) （开发者头条）
+* [功能开发SEO规范笔记](http://hao.caibaojian.com/42941.html) （SegmentFault）
+* [前端周刊第61期：你离 CTC 有多远？](http://hao.caibaojian.com/42942.html) （SegmentFault）
 
 ***
-* [谈谈分布式 Aggregation](http://hao.caibaojian.com/42827.html) （开发者头条）
-* [Vuejs 技术栈从 CLI 到打包上线实战全解析](http://hao.caibaojian.com/42788.html) （稀土掘金）
-* [polyfill 这词儿是怎么来的](http://hao.caibaojian.com/42779.html) （稀土掘金）
-* [Python 中一些特殊方法的自定义及作用](http://hao.caibaojian.com/42829.html) （开发者头条）
-* [前端学习指南](http://hao.caibaojian.com/42780.html) （稀土掘金）
+* [Web 自动化之 Headless Chrome 概览](http://hao.caibaojian.com/42954.html) （开发者头条）
+* [国内首个设计 + 人工智能深度案例分析报告](http://hao.caibaojian.com/42955.html) （开发者头条）
+* [iOS 响应式架构](http://hao.caibaojian.com/42956.html) （开发者头条）
+* [SegmentFault 官方翻译功能上线](http://hao.caibaojian.com/42935.html) （SegmentFault）
+* [SegmentFault 技术周刊 Vol.28 &#8211; GitHub —— 你不得不上的交友网站](http://hao.caibaojian.com/42936.html) （SegmentFault）
 
 ***
-* [终端代码重复率检测实践](http://hao.caibaojian.com/42791.html) （稀土掘金）
-* [vertical-align和line-heigh搞基那些事儿](http://hao.caibaojian.com/42781.html) （稀土掘金）
-* [高仿阴阳师官网轮播图—jQuery插件](http://hao.caibaojian.com/42782.html) （稀土掘金）
-* [TypeScript 2.4 发布 | 支持动态 import](http://hao.caibaojian.com/42793.html) （稀土掘金）
-* [如何做高可用的架构设计](http://hao.caibaojian.com/42823.html) （开发者头条）
+* [Object.keys()来获取对象的属性](http://hao.caibaojian.com/42937.html) （SegmentFault）
+* [vue2.0源码分析之理解响应式架构](http://hao.caibaojian.com/42908.html) （稀土掘金）
+* [2017前端现状&#8211;答题救不了前端新人](http://hao.caibaojian.com/42938.html) （SegmentFault）
+* [使用css完成引导用户按照流程完成任务的进度导航条](http://hao.caibaojian.com/42898.html) （稀土掘金）
+* [ios-app-signer 源码解析](http://hao.caibaojian.com/42960.html) （开发者头条）
 
 ***
-* [JavaScript 中 8 个常见的陷阱](http://hao.caibaojian.com/42824.html) （开发者头条）
-* [六大标志性的开源形象概览](http://hao.caibaojian.com/42866.html) （Linux中国）
-* [基于 Spring MVC 的 RESTful HTTP API 实践（服务端）](http://hao.caibaojian.com/42825.html) （开发者头条）
-* [原来这些电视剧都是这样黑我程序员的](http://hao.caibaojian.com/42877.html) （IT程序猿）
-* [百度外卖如何做到前端开发配置化](http://hao.caibaojian.com/42786.html) （稀土掘金）
+* [用css实现自定义虚线边框](http://hao.caibaojian.com/42910.html) （稀土掘金）
+* [博客性能优化之资源缓存与更新](http://hao.caibaojian.com/42900.html) （稀土掘金）
+* [怎样写一个自修复的 TCP 连接池](http://hao.caibaojian.com/42951.html) （开发者头条）
+* [SVG全攻略（基础篇）](http://hao.caibaojian.com/42911.html) （稀土掘金）
+* [co 源码分析](http://hao.caibaojian.com/42901.html) （稀土掘金）
 
 ***
-* [深入理解 React 组件状态](http://hao.caibaojian.com/42836.html) （开发者头条）
-* [Chromium 新的弹窗机制以及 HTML 的  元素](http://hao.caibaojian.com/42888.html) （稀土掘金）
-* [开发一个 Linux 调试器（二）：断点](http://hao.caibaojian.com/42867.html) （Linux中国）
-* [了解 Go 1.9 的类型别名](http://hao.caibaojian.com/42826.html) （开发者头条）
-* [StackOverflow 发布 2017 年最流行数据库排名](http://hao.caibaojian.com/42878.html) （伯乐头条）
+* [有关缓存高可用性的思考](http://hao.caibaojian.com/42952.html) （开发者头条）
+* [使用tmpfs加速前端构建](http://hao.caibaojian.com/42912.html) （稀土掘金）
+* [携程火车票 N 倍增长背后，有哪些创新的管理方法](http://hao.caibaojian.com/42963.html) （开发者头条）
+* [后台类系统组件——通知](http://hao.caibaojian.com/42902.html) （稀土掘金）
+* [也谈 Go 的可移植性](http://hao.caibaojian.com/42953.html) （开发者头条）
 
 ***
-* [必备的几个RxJS operator使用介绍, 拯救你的JavaScript](http://hao.caibaojian.com/42787.html) （稀土掘金）
-* [使用 Nmon 监控 Linux 的系统性能](http://hao.caibaojian.com/42889.html) （伯乐在线官方微博）
-* [PC如何禁用网页在360浏览器里面禁止切换兼容模式](http://hao.caibaojian.com/42816.html) （SegmentFault）
-* [极客漫画：Linus Torvalds 的家](http://hao.caibaojian.com/42868.html) （Linux中国）
-* [新勒索病毒 Petya 已席卷全球，多家跨国企业陷入瘫痪](http://hao.caibaojian.com/42879.html) （伯乐头条）
+* [音乐歌词显示得细不细腻？](http://hao.caibaojian.com/42913.html) （稀土掘金）
+* [基于密码学的数据治理](http://hao.caibaojian.com/42964.html) （开发者头条）
+* [MySQL主从复制读写分离及奇怪的问题](http://hao.caibaojian.com/42943.html) （SegmentFault）
+* [使用HeadlessChrome做单页应用SEO](http://hao.caibaojian.com/42903.html) （稀土掘金）
+* [构建生产环境下的 CSS Grid 布局](http://hao.caibaojian.com/42914.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
