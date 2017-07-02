@@ -1,43 +1,37 @@
-# [20170701 码农日报](http://hao.caibaojian.com/date/2017/07/01)
+# [20170702 码农日报](http://hao.caibaojian.com/date/2017/07/02)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [TC39，ECMAScript 和 JavaScript 的未来（Part 1）](http://hao.caibaojian.com/43073.html) （稀土掘金）
-* [【重发】前端周刊第61期：你离 CTC 有多远？](http://hao.caibaojian.com/43075.html) （稀土掘金）
-* [基于JavaScript学习KNN算法 | 机器学习与JavaScript（二）](http://hao.caibaojian.com/43076.html) （稀土掘金）
-* [PHP require 引起的 SIGBUS](http://hao.caibaojian.com/43104.html) （开发者头条）
-* [Node.js原生开发入门完全教程](http://hao.caibaojian.com/43082.html) （SegmentFault）
+* [我接触过的前端数据结构与算法](http://hao.caibaojian.com/43125.html) （稀土掘金）
+* [MySQL 双主一致性架构优化](http://hao.caibaojian.com/43140.html) （开发者头条）
+* [dom-dom: 用 JSX 直接生成 dom 元素](http://hao.caibaojian.com/43126.html) （稀土掘金）
+* [美团点评数据库高可用架构的演进与设想](http://hao.caibaojian.com/43141.html) （开发者头条）
+* [PHP容器&#8211;Pimple运行流程浅析](http://hao.caibaojian.com/43131.html) （SegmentFault）
 
 ***
-* [jsotp：基于 RFC4226 和 RFC6238 的一次性密码生成及验证 node 模块](http://hao.caibaojian.com/43107.html) （开发者头条）
-* [Web 自动化之 Headless Chrome 开发工具库](http://hao.caibaojian.com/43094.html) （开发者头条）
-* [钉钉微应用的开发——主前端](http://hao.caibaojian.com/43084.html) （SegmentFault）
-* [PHP 进阶之路 &#8211; 揭开 PHP 线程安全的神秘面纱](http://hao.caibaojian.com/43086.html) （SegmentFault）
-* [一些关于使用axios的心得](http://hao.caibaojian.com/43087.html) （SegmentFault）
+* [如何利用树莓派打造一款机器人](http://hao.caibaojian.com/43142.html) （开发者头条）
+* [Pageshot as a Service：截图即服务](http://hao.caibaojian.com/43132.html) （SegmentFault）
+* [微服务改造中解决跨库问题的思路](http://hao.caibaojian.com/43143.html) （开发者头条）
+* [20170702-异步编程之Promise](http://hao.caibaojian.com/43133.html) （SegmentFault）
+* [Go Interface 源码剖析](http://hao.caibaojian.com/43144.html) （开发者头条）
 
 ***
-* [亚马逊 “一键下单” 的背后：个性化推荐系统的发展历程](http://hao.caibaojian.com/43098.html) （开发者头条）
-* [地球上最全的weex踩坑攻略-出自大量实践与沉淀](http://hao.caibaojian.com/43072.html) （稀土掘金）
-* [深入浅出 AES 算法](http://hao.caibaojian.com/43088.html) （开发者头条）
-* [easy_mock_api：用于 Android/iOS 客户端模拟 json 接口的小工具](http://hao.caibaojian.com/43099.html) （开发者头条）
-* [初创公司的攻城狮文化实践之路](http://hao.caibaojian.com/43089.html) （开发者头条）
+* [WebPack + Vue打包流程理解](http://hao.caibaojian.com/43134.html) （SegmentFault）
+* [分布式系统概念](http://hao.caibaojian.com/43145.html) （开发者头条）
+* [Laravel 源码解读：php artisan make:auth](http://hao.caibaojian.com/43135.html) （SegmentFault）
+* [Kotlin 在 Android 开发中的 16 个建议](http://hao.caibaojian.com/43146.html) （开发者头条）
+* [Laravel + go-micro + grpc 实践基于 Zipkin 的分布式链路追踪系统](http://hao.caibaojian.com/43136.html) （开发者头条）
 
 ***
-* [Deep Learning 可以用来做推荐系统吗？](http://hao.caibaojian.com/43100.html) （开发者头条）
-* [Alloy前端周刊第 12 期](http://hao.caibaojian.com/43074.html) （稀土掘金）
-* [简单地理解 Python 的装饰器](http://hao.caibaojian.com/43090.html) （开发者头条）
-* [Swift 开发命令行工具](http://hao.caibaojian.com/43101.html) （开发者头条）
-* [携程高可用架构的演变和迭代](http://hao.caibaojian.com/43091.html) （开发者头条）
+* [NoMark 使用指南](http://hao.caibaojian.com/43147.html) （开发者头条）
+* [Elves：开源自动化运维开发平台](http://hao.caibaojian.com/43137.html) （开发者头条）
+* [CentOS 下 Docker 搭建 Hadoop 集群](http://hao.caibaojian.com/43148.html) （开发者头条）
+* [草根前端的6年职业生涯](http://hao.caibaojian.com/43123.html) （稀土掘金）
+* [Java 垃圾回收详解](http://hao.caibaojian.com/43138.html) （开发者头条）
 
 ***
-* [VirtualAPK：滴滴出品的 Android 插件化框架](http://hao.caibaojian.com/43103.html) （开发者头条）
-* [Chinese_poem_generator：使用 LSTM 实现的唐诗生成器](http://hao.caibaojian.com/43092.html) （开发者头条）
-* [谈谈我所理解的 MVP](http://hao.caibaojian.com/43093.html) （开发者头条）
-* [2017新整理xocde打包IPA上架App Store详细图文](http://hao.caibaojian.com/43083.html) （SegmentFault）
-* [用 GAN 生成二维样本的小例子](http://hao.caibaojian.com/43095.html) （开发者头条）
-
-***
-* [HTML编码规范建议](http://hao.caibaojian.com/43085.html) （SegmentFault）
-* [更清晰的 Dagger2 + MVP 架构](http://hao.caibaojian.com/43096.html) （开发者头条）
-* [关于 BFC, float, margin collapse 的深度总结](http://hao.caibaojian.com/43097.html) （开发者头条）
+* [Python 并发（四）：使用 thread 处理并发](http://hao.caibaojian.com/43149.html) （开发者头条）
+* [基于指令和混合的前端通用埋点方案](http://hao.caibaojian.com/43124.html) （稀土掘金）
+* [解读 RSA 公钥私钥储存格式](http://hao.caibaojian.com/43139.html) （开发者头条）
+* [系统调用的那些事儿](http://hao.caibaojian.com/43150.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
