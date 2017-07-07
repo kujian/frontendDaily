@@ -1,45 +1,45 @@
-# [20170706 码农日报](http://hao.caibaojian.com/date/2017/07/06)
+# [20170707 码农日报](http://hao.caibaojian.com/date/2017/07/07)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [TiDB 最佳实践](http://hao.caibaojian.com/43648.html) （开发者头条）
-* [Scala 类型的类型（四）](http://hao.caibaojian.com/43655.html) （开发者头条）
-* [vue-manager：基于 iView / ECharts 的 Vue 管理平台](http://hao.caibaojian.com/43647.html) （开发者头条）
-* [iOS 逆向工程之 fishhook](http://hao.caibaojian.com/43637.html) （开发者头条）
-* [【工具】git笔记（一）](http://hao.caibaojian.com/43629.html) （SegmentFault）
+* [使用JavaScript进行基本图形操作与处理](http://hao.caibaojian.com/43713.html) （稀土掘金）
+* [前端项目最佳实践](http://hao.caibaojian.com/43724.html) （稀土掘金）
+* [分布式系统中的时间和顺序：关于 Spanner 中的 Linearizability](http://hao.caibaojian.com/43769.html) （开发者头条）
+* [用JAVA做一个爬虫程序——Gecco](http://hao.caibaojian.com/43748.html) （SegmentFault）
+* [奇舞周刊第 217 期：TC39，ECMAScript 和 JavaScript 的未来](http://hao.caibaojian.com/43715.html) （稀土掘金）
 
 ***
-* [随方逐圆 &#8212; 全面理解 CSS 媒体查询](http://hao.caibaojian.com/43591.html) （稀土掘金）
-* [前端面试之htm5新特性](http://hao.caibaojian.com/43581.html) （稀土掘金）
-* [浅谈JavaScript中的闭包](http://hao.caibaojian.com/43630.html) （SegmentFault）
-* [PHP结合layer处理弹出窗口提交的值](http://hao.caibaojian.com/43620.html) （SegmentFault）
-* [ECMAScript简史 和 JavaScript的未来（译）](http://hao.caibaojian.com/43621.html) （SegmentFault）
+* [js继承的实现方法](http://hao.caibaojian.com/43739.html) （SegmentFault）
+* [PHP 程序员也能做的 Java 开发 30分钟使用 netty 轻松打造一个高性能 websocket 服务](http://hao.caibaojian.com/43750.html) （SegmentFault）
+* [使用 RxJS 处理多个 Http 请求](http://hao.caibaojian.com/43751.html) （SegmentFault）
+* [前端面试之 CSS3 新特性](http://hao.caibaojian.com/43717.html) （稀土掘金）
+* [virtual-dom(Vue实现)简析](http://hao.caibaojian.com/43741.html) （SegmentFault）
 
 ***
-* [关于chrome点击上传反应慢的问题](http://hao.caibaojian.com/43622.html) （SegmentFault）
-* [容器化部署 OpenStack 的正确姿势](http://hao.caibaojian.com/43654.html) （开发者头条）
-* [JavaScript の 整理下Git](http://hao.caibaojian.com/43633.html) （SegmentFault）
-* [我可能学到了“假”的CSS：伪类伪元素](http://hao.caibaojian.com/43595.html) （稀土掘金）
-* [人工智能的落地点：监督式机器学习](http://hao.caibaojian.com/43644.html) （开发者头条）
+* [React 状态管理库: Mobx](http://hao.caibaojian.com/43742.html) （SegmentFault）
+* [Python Weekly Issue 302](http://hao.caibaojian.com/43774.html) （开发者头条）
+* [vue项目加载第3方js优化](http://hao.caibaojian.com/43743.html) （SegmentFault）
+* [ul&gt;li*3 实现翻书动画效果](http://hao.caibaojian.com/43723.html) （稀土掘金）
+* [Android 框架学习（三）：从 EventBus 中学到的精华](http://hao.caibaojian.com/43768.html) （开发者头条）
 
 ***
-* [让你App的粘度更高的游戏化设计策略](http://hao.caibaojian.com/43694.html) （优秀网页设计）
-* [call、apply和 bind的简单使用方法](http://hao.caibaojian.com/43623.html) （SegmentFault）
-* [Muse-UI 2.1版本发布](http://hao.caibaojian.com/43585.html) （稀土掘金）
-* [自学编程 vs 参加培训](http://hao.caibaojian.com/43634.html) （开发者头条）
-* [机器取代人工作的时代来了](http://hao.caibaojian.com/43684.html) （程序员俱乐部）
+* [HTML5 CANVAS 弹幕插件（V3.0.0）](http://hao.caibaojian.com/43747.html) （SegmentFault）
+* [前端面试题总结 HTTP浏览器篇](http://hao.caibaojian.com/43800.html) （慕课网）
+* [大话 Web 前端性能优化基本套路](http://hao.caibaojian.com/43758.html) （开发者头条）
+* [他们的工资有泡沫吗](http://hao.caibaojian.com/43811.html) （伯乐头条）
+* [Java Selenium (四) 使用浏览器调试工具](http://hao.caibaojian.com/43801.html) （ImportNew）
 
 ***
-* [回归基础：在JavaScript中回调函数是什么？](http://hao.caibaojian.com/43596.html) （稀土掘金）
-* [从 Google 的 todo 学习 MVP](http://hao.caibaojian.com/43645.html) （开发者头条）
-* [一小时搭建微信聊天机器人](http://hao.caibaojian.com/43695.html) （稀土掘金）
-* [Python中的defaultdict方法](http://hao.caibaojian.com/43624.html) （SegmentFault）
-* [Android NDK 开发扫盲及最新 CMake 的编译使用](http://hao.caibaojian.com/43656.html) （开发者头条）
+* [匠心打造canvas签名组件](http://hao.caibaojian.com/43714.html) （稀土掘金）
+* [秒杀系统设计中的数据处理](http://hao.caibaojian.com/43759.html) （开发者头条）
+* [离开网页弹窗函数onbeforeunload与onunload](http://hao.caibaojian.com/43812.html) （前端开发博客）
+* [🔥 SegmentFault 2017 年第二季度 Top Writer](http://hao.caibaojian.com/43738.html) （SegmentFault）
+* [Paradox 的数据文件格式](http://hao.caibaojian.com/43770.html) （开发者头条）
 
 ***
-* [HTML5 简介（三）：利用 History API 无刷新更改地址栏，包含具体应用](http://hao.caibaojian.com/43586.html) （稀土掘金）
-* [随着日益增多的新技术，如何正确的提升自己？](http://hao.caibaojian.com/43635.html) （开发者头条）
-* [Android开发中的MVP架构详解](http://hao.caibaojian.com/43685.html) （程序员俱乐部）
-* [(cljs/run-at (JSVM. :browser) &quot;简单类型可不简单啊～&quot;)](http://hao.caibaojian.com/43597.html) （稀土掘金）
-* [构建用户管理微服务（一）：定义领域模型和 REST API](http://hao.caibaojian.com/43646.html) （开发者头条）
+* [这可能是最好的RxJava 2.x 教程（完结版）](http://hao.caibaojian.com/43749.html) （SegmentFault）
+* [DevOps是一种文化，不是角色](http://hao.caibaojian.com/43802.html) （Docker精选）
+* [扔掉 OpenSSL，拥抱 LibreSSL：远离心脏出血与溺亡](http://hao.caibaojian.com/43760.html) （开发者头条）
+* [关于form与表单提交操作的一切](http://hao.caibaojian.com/43813.html) （前端开发博客）
+* [Golang Concurrency Tricks](http://hao.caibaojian.com/43771.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
