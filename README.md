@@ -1,45 +1,45 @@
-# [20170726 码农日报](http://hao.caibaojian.com/date/2017/07/26)
+# [20170727 码农日报](http://hao.caibaojian.com/date/2017/07/27)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [使用jquery-webcam插件，实现人脸采集并转base64](http://hao.caibaojian.com/45586.html) （SegmentFault）
-* [详解VUE2.4.0带来的4个重大变化](http://hao.caibaojian.com/45575.html) （推酷网）
-* [ES6中异步编程的大杀器 &#8212; Generotor 函数](http://hao.caibaojian.com/45602.html) （稀土掘金）
-* [使用 JavaScript 实现机器学习线性回归模型（一）](http://hao.caibaojian.com/45576.html) （推酷网）
-* [如何实现JavaScript的Map和Filter函数？](http://hao.caibaojian.com/45596.html) （稀土掘金）
+* [JavaScript 进阶之深入理解数据双向绑定](http://hao.caibaojian.com/45709.html) （稀土掘金）
+* [阿里巴巴即将开源Angular组件库NG-ZORRO](http://hao.caibaojian.com/45699.html) （稀土掘金）
+* [分享8款最新HTML5/CSS3功能插件及源码](http://hao.caibaojian.com/45672.html) （推酷网）
+* [JavaScript 骨骼动画 (DragonBones) 在 iOS 端截屏功能](http://hao.caibaojian.com/45679.html) （推酷网）
+* [在 Node.js 中使用 MySQL &amp; MySQL JavaScript 客户端](http://hao.caibaojian.com/45671.html) （推酷网）
 
 ***
-* [[深圳线下活动] IMWebConf 2017](http://hao.caibaojian.com/45597.html) （稀土掘金）
-* [Vue 2.0 右键菜单组件](http://hao.caibaojian.com/45601.html) （稀土掘金）
-* [JavaScript 位运算，也许并没有那么快](http://hao.caibaojian.com/45572.html) （推酷网）
-* [Selenium模拟JQuery滑动解锁](http://hao.caibaojian.com/45573.html) （推酷网）
-* [Vue项目打包上传到github预览](http://hao.caibaojian.com/45594.html) （稀土掘金）
+* [Virtual-DOM在Vue中的实现&#8211;snabbdom源码解读](http://hao.caibaojian.com/45670.html) （推酷网）
+* [使用 JSON.stringify() 的小技巧](http://hao.caibaojian.com/45705.html) （稀土掘金）
+* [JavaScript数据结构（2）：栈与队列](http://hao.caibaojian.com/45662.html) （SegmentFault）
+* [ReactNative学习笔记十一之FlatList](http://hao.caibaojian.com/45706.html) （稀土掘金）
+* [如何优雅的在网页里使用中文字体](http://hao.caibaojian.com/45707.html) （稀土掘金）
 
 ***
-* [【干货】具体例子讲解HTTP Header](http://hao.caibaojian.com/45600.html) （稀土掘金）
-* [深入Vue2.0底层思想–模板渲染](http://hao.caibaojian.com/45574.html) （推酷网）
-* [JavaScript专题之学underscore在数组中查找指定元素](http://hao.caibaojian.com/45591.html) （稀土掘金）
-* [没有绝对安全的系统：写在 AES 256 破解之后](http://hao.caibaojian.com/45626.html) （开发者头条）
-* [ES 安全 searchguard 落地实践](http://hao.caibaojian.com/45629.html) （开发者头条）
+* [mongoDB windows环境搭建](http://hao.caibaojian.com/45664.html) （SegmentFault）
+* [设计一个无懈可击的浏览器缓存方案：关于思路，细节，ServiceWorker，以及HTTP/2 &#8211; 知乎专栏·「前端技术漫游指南」](http://hao.caibaojian.com/45708.html) （稀土掘金）
+* [几点建议帮你写出简洁的JS代码](http://hao.caibaojian.com/45657.html) （SegmentFault）
+* [深度解密京东登月平台基础架构](http://hao.caibaojian.com/45730.html) （开发者头条）
+* [构建渐进式 Web 应用入门指南](http://hao.caibaojian.com/45693.html) （稀土掘金）
 
 ***
-* [gka 2.2-一键制作自适应等比缩放的雪碧图动画](http://hao.caibaojian.com/45598.html) （稀土掘金）
-* [异常处理遇到过的那些坑](http://hao.caibaojian.com/45622.html) （开发者头条）
-* [调用Google Map Api实现自定义Google Map](http://hao.caibaojian.com/45599.html) （稀土掘金）
-* [iOS 借助 ARKit 实现六自由度的 VR](http://hao.caibaojian.com/45625.html) （开发者头条）
-* [从vue-cli源码学习如何写模板](http://hao.caibaojian.com/45592.html) （稀土掘金）
+* [常用Webpack2优化要点](http://hao.caibaojian.com/45675.html) （推酷网）
+* [Generator：同步代码书写异步情怀](http://hao.caibaojian.com/45655.html) （SegmentFault）
+* [React ES5 到 ES6 转化列表](http://hao.caibaojian.com/45700.html) （稀土掘金）
+* [Node.js 快速开发 cli 应用攻略 &#8211; 坑篇](http://hao.caibaojian.com/45668.html) （推酷网）
+* [Kubernetes 的阿喀琉斯之踵](http://hao.caibaojian.com/45741.html) （开发者头条）
 
 ***
-* [浅谈分布式消息技术 Kafka](http://hao.caibaojian.com/45616.html) （开发者头条）
-* [iOS 动画系列（一）：带时分秒指针的时钟动画（上）](http://hao.caibaojian.com/45627.html) （开发者头条）
-* [ES2017 中 async 函数梳理](http://hao.caibaojian.com/45593.html) （稀土掘金）
-* [各种虚拟数字货币是庞氏骗局吗？](http://hao.caibaojian.com/45617.html) （开发者头条）
-* [Hystrix 实现分布式系统中的故障容错](http://hao.caibaojian.com/45628.html) （开发者头条）
+* [ES6中的模块——Module](http://hao.caibaojian.com/45702.html) （稀土掘金）
+* [GraphQL vs. REST](http://hao.caibaojian.com/45703.html) （稀土掘金）
+* [教你如何轻松学习区块链和比特币基础技术原理](http://hao.caibaojian.com/45732.html) （开发者头条）
+* [利用树莓派自制 “恶意充电宝” 实验](http://hao.caibaojian.com/45733.html) （开发者头条）
+* [express 最佳实践(二)：中间件](http://hao.caibaojian.com/45673.html) （推酷网）
 
 ***
-* [五分钟了解 Google 全栈设计师打造的 Sketch 插件：Sketch Material](http://hao.caibaojian.com/45618.html) （开发者头条）
-* [【原创】Angular 路由的懒加载是如何实现的](http://hao.caibaojian.com/45595.html) （稀土掘金）
-* [几种常见的微服务架构方案简述：ZeroC IceGrid、Spring Cloud、基于消息队列](http://hao.caibaojian.com/45619.html) （开发者头条）
-* [K-means 聚类算法的理解与案例实战](http://hao.caibaojian.com/45630.html) （开发者头条）
-* [API 设计原则（QT 官方文档上的设计实践总结）](http://hao.caibaojian.com/45620.html) （开发者头条）
+* [携程第四代架构探秘之运维基础架构升级（下）](http://hao.caibaojian.com/45736.html) （开发者头条）
+* [Fira Code：一个程序员专用字体](http://hao.caibaojian.com/45737.html) （开发者头条）
+* [谈谈提问的基本姿势](http://hao.caibaojian.com/45654.html) （SegmentFault）
+* [Angular 中自定义 Debounce Click 指令](http://hao.caibaojian.com/45676.html) （推酷网）
+* [Epii.js：一个极其简单的 JS 模板引擎](http://hao.caibaojian.com/45738.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
