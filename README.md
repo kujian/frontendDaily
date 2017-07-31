@@ -1,45 +1,45 @@
-# [20170729 码农日报](http://hao.caibaojian.com/date/2017/07/29)
+# [20170730 码农日报](http://hao.caibaojian.com/date/2017/07/30)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [1分钟选好最合适你的JavaScript框架](http://hao.caibaojian.com/45916.html) （推酷网）
-* [图文并茂深入了解HTTP，你离入门，可能还差这一篇](http://hao.caibaojian.com/45941.html) （稀土掘金）
-* [使用docker优雅的部署你的nuxtjs项目](http://hao.caibaojian.com/45912.html) （SegmentFault）
-* [微软/苹果/谷歌封杀Flash终于走向死亡：HTML5无敌](http://hao.caibaojian.com/45923.html) （推酷网）
-* [iView 发布 2.0 正式版，基于 Vue.js 的 UI 组件库](http://hao.caibaojian.com/45918.html) （推酷网）
+* [HTTP｜GET 和 POST 区别？网上多数答案都是错的](http://hao.caibaojian.com/46054.html) （稀土掘金）
+* [Java 线程池艺术探索](http://hao.caibaojian.com/46033.html) （SegmentFault）
+* [打造 高性能，轻量级的 webform框架&#8212;js直接调后台（第二天）](http://hao.caibaojian.com/46039.html) （推酷网）
+* [避免这些常见的JavaScript错误](http://hao.caibaojian.com/46040.html) （推酷网）
+* [10个有趣的Javascript和CSS库-2017年7月](http://hao.caibaojian.com/46041.html) （推酷网）
 
 ***
-* [浏览器的重绘(REPAINT)与重排(REFLOW)](http://hao.caibaojian.com/45942.html) （稀土掘金）
-* [nodejs+mongodb构建一个简单登录注册功能](http://hao.caibaojian.com/45907.html) （SegmentFault）
-* [给 Web 开发人员推荐的开源图形库 —— 数据可视化](http://hao.caibaojian.com/45919.html) （推酷网）
-* [史上最明了的“编程语言琅琊榜”介绍](http://hao.caibaojian.com/45920.html) （推酷网）
-* [2017-07-28 前端日报](http://hao.caibaojian.com/45910.html) （SegmentFault）
+* [Angular 5.0.0 beta.1 和 4.3.2 发布，Web 前端框架](http://hao.caibaojian.com/46043.html) （推酷网）
+* [为什么比特币地址不直接使用公钥，而需要通过哈希生成？](http://hao.caibaojian.com/46067.html) （开发者头条）
+* [一个高度可定制的vue modal插件](http://hao.caibaojian.com/46053.html) （稀土掘金）
+* [Scala 中的集合（三）：实现一个新的 Collection 类](http://hao.caibaojian.com/46069.html) （开发者头条）
+* [position: fixed失效的奇怪现象](http://hao.caibaojian.com/46055.html) （稀土掘金）
 
 ***
-* [AWS发布Lambda@Edge,让Node.js函数执行在CloudFront CND的边缘](http://hao.caibaojian.com/45921.html) （推酷网）
-* [vue-router使用总结](http://hao.caibaojian.com/45943.html) （稀土掘金）
-* [云深度学习平台架构与实践的必经之路](http://hao.caibaojian.com/46002.html) （开发者头条）
-* [色感测试小游戏](http://hao.caibaojian.com/45987.html) （IT程序狮）
-* [前端资源收集整理](http://hao.caibaojian.com/45899.html) （SegmentFault）
+* [游戏性能优化：budget](http://hao.caibaojian.com/46070.html) （开发者头条）
+* [如何轻松爬取网页数据？](http://hao.caibaojian.com/46060.html) （开发者头条）
+* [Java 8：如何正确使用 Optional](http://hao.caibaojian.com/46061.html) （开发者头条）
+* [小时到分钟：一步步优化巨量关键词的匹配](http://hao.caibaojian.com/46062.html) （开发者头条）
+* [深入理解 Vue Computed 计算属性](http://hao.caibaojian.com/46028.html) （SegmentFault）
 
 ***
-* [【EASYDOM系列教程】之插入节点](http://hao.caibaojian.com/45901.html) （SegmentFault）
-* [有赞支付微服务实践](http://hao.caibaojian.com/45996.html) （开发者头条）
-* [PHP使用PDO封装一个简单易用的DB类](http://hao.caibaojian.com/45902.html) （SegmentFault）
-* [JavaScript数据结构（4）：树](http://hao.caibaojian.com/45903.html) （SegmentFault）
-* [iOS 弹幕解决方案 HJDanmaku 2.0 发布](http://hao.caibaojian.com/45998.html) （开发者头条）
+* [还在为 ViewPager 的改装而烦恼？推荐学习阿里巴巴的这个开源项目](http://hao.caibaojian.com/46064.html) （开发者头条）
+* [NodeJS+Express遇到的跨域问题](http://hao.caibaojian.com/46030.html) （SegmentFault）
+* [《深入理解ES6》笔记—— JavaScript中的类class（9）](http://hao.caibaojian.com/46042.html) （推酷网）
+* [一道笔试题引发的思考](http://hao.caibaojian.com/46031.html) （SegmentFault）
+* [mysql 分组](http://hao.caibaojian.com/46023.html) （SegmentFault）
 
 ***
-* [聊一聊特征工程的最佳实践](http://hao.caibaojian.com/45999.html) （开发者头条）
-* [CSS重置样式](http://hao.caibaojian.com/45905.html) （SegmentFault）
-* [为什么 HTTP 有时候比 HTTPS 好](http://hao.caibaojian.com/45968.html) （JAVA大本营）
-* [基于屏幕密度的图片缩放规则](http://hao.caibaojian.com/46001.html) （开发者头条）
-* [css中的视觉效果](http://hao.caibaojian.com/45938.html) （稀土掘金）
+* [React Native 升级经验](http://hao.caibaojian.com/46068.html) （开发者头条）
+* [Cocos Creator—定制H5游戏首页loading界面](http://hao.caibaojian.com/46034.html) （SegmentFault）
+* [2017-07-29 前端日报](http://hao.caibaojian.com/46024.html) （SegmentFault）
+* [初识Java（译）](http://hao.caibaojian.com/46035.html) （SegmentFault）
+* [为了vue-cli spa项目优化首屏所做的事情](http://hao.caibaojian.com/46025.html) （SegmentFault）
 
 ***
-* [CSS3 icon font完全指南](http://hao.caibaojian.com/45939.html) （稀土掘金）
-* [数据结构浅析：链表](http://hao.caibaojian.com/46003.html) （开发者头条）
-* [TypeScript &#8211; 不止稳，而且快](http://hao.caibaojian.com/45898.html) （SegmentFault）
-* [JavaScript难点系列（一）：内存空间](http://hao.caibaojian.com/45940.html) （稀土掘金）
-* [javer的表结构设计](http://hao.caibaojian.com/45909.html) （SegmentFault）
+* [使用Python处理文本，整理信息(2)](http://hao.caibaojian.com/46036.html) （SegmentFault）
+* [阿里巴巴Java面试题锦集](http://hao.caibaojian.com/46026.html) （SegmentFault）
+* [记一次五子棋开发](http://hao.caibaojian.com/46071.html) （开发者头条）
+* [可视化分析js的内存分配与回收](http://hao.caibaojian.com/46038.html) （推酷网）
+* [使用Angular4动画为页面添彩](http://hao.caibaojian.com/46027.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
