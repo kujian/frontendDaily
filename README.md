@@ -1,45 +1,45 @@
-# [20170804 码农日报](http://hao.caibaojian.com/date/2017/08/04)
+# [20170805 码农日报](http://hao.caibaojian.com/date/2017/08/05)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端框架这么多，该何去何从？](http://hao.caibaojian.com/46642.html) （推酷网）
-* [实现一个高度自适应的输入框](http://hao.caibaojian.com/46639.html) （推酷网）
-* [10分钟学会基本的 Flexbox 布局](http://hao.caibaojian.com/46662.html) （稀土掘金）
-* [原生轮播图组件化](http://hao.caibaojian.com/46669.html) （稀土掘金）
-* [2017-08-03 前端日报](http://hao.caibaojian.com/46626.html) （SegmentFault）
+* [HTML5中手势原理分析与数学知识的实践](http://hao.caibaojian.com/46737.html) （SegmentFault）
+* [Javascript跨域后台设置拦截](http://hao.caibaojian.com/46753.html) （推酷网）
+* [从软件工程角度看大前端技术栈](http://hao.caibaojian.com/46752.html) （推酷网）
+* [基于 JSX 的动态数据绑定](http://hao.caibaojian.com/46751.html) （推酷网）
+* [SOA 和微服务的区别并不是 size](http://hao.caibaojian.com/46790.html) （开发者头条）
 
 ***
-* [谈谈JavaScript中的this关键字](http://hao.caibaojian.com/46664.html) （稀土掘金）
-* [在项目中启用 ESLint 与 Stylelint 检查](http://hao.caibaojian.com/46643.html) （推酷网）
-* [空间查询(2)—ArcGIS API For JavaScript](http://hao.caibaojian.com/46644.html) （推酷网）
-* [vue时间控件美化成IOS样式(移动端)，vux组件datetime添加星期几/周几教程](http://hao.caibaojian.com/46667.html) （稀土掘金）
-* [IEEE帮你搞懂编程语言排名](http://hao.caibaojian.com/46645.html) （推酷网）
+* [vue 父组件通过props向子组件传递方法的方式](http://hao.caibaojian.com/46741.html) （SegmentFault）
+* [webpack开发与生产环境配置](http://hao.caibaojian.com/46742.html) （SegmentFault）
+* [兴趣部落的前端性能优化实践概览](http://hao.caibaojian.com/46732.html) （SegmentFault）
+* [成不了 AI 高手？因为你根本不懂数据](http://hao.caibaojian.com/46788.html) （开发者头条）
+* [基于canvas实现波浪式绘制图片](http://hao.caibaojian.com/46748.html) （推酷网）
 
 ***
-* [MixPush：融合多家推送平台，共享系统级推送，杀死 App 也能收到推送（Android）](http://hao.caibaojian.com/46705.html) （开发者头条）
-* [轻松理解vue框架的基本原理，简单实现一个todo-list](http://hao.caibaojian.com/46615.html) （SegmentFault）
-* [JavaScript 高阶函数应用 &#8211; 如何监听页面 DOM 变动并高效响应](http://hao.caibaojian.com/46660.html) （稀土掘金）
-* [JS 的平凡之路&#8211;学习人气眼中的效果（中）](http://hao.caibaojian.com/46638.html) （推酷网）
-* [withCredentials 属性](http://hao.caibaojian.com/46617.html) （SegmentFault）
+* [十个 JDBC 的最佳实践](http://hao.caibaojian.com/46813.html) （ImportNew）
+* [漫谈前端体系建设](http://hao.caibaojian.com/46789.html) （开发者头条）
+* [vue源码阅读笔记(7)](http://hao.caibaojian.com/46749.html) （推酷网）
+* [webpack-dev-server 2.x 实时加载](http://hao.caibaojian.com/46750.html) （推酷网）
+* [3 个开源的音乐播放器：Aqulung、Lollypop 和 GogglesMM](http://hao.caibaojian.com/46815.html) （Linux中国）
 
 ***
-* [前端学习资料](http://hao.caibaojian.com/46629.html) （SegmentFault）
-* [为什么只会 Vue 的都是前端小白？](http://hao.caibaojian.com/46698.html) （开发者头条）
-* [React.js组件化开发第二步(添加样式及数据请求)](http://hao.caibaojian.com/46630.html) （SegmentFault）
-* [【Vue实例】](http://hao.caibaojian.com/46631.html) （SegmentFault）
-* [React 演化史](http://hao.caibaojian.com/46623.html) （SegmentFault）
+* [HTML5新特性总结0804](http://hao.caibaojian.com/46730.html) （SegmentFault）
+* [一文读懂遗传算法工作原理（附 Python 实现）](http://hao.caibaojian.com/46793.html) （开发者头条）
+* [CSS3热身实战——过渡与动画（实现炫酷下拉，手风琴，无缝滚动）](http://hao.caibaojian.com/46818.html) （前端大全）
+* [基于vue的移动端图片裁剪压缩处理](http://hao.caibaojian.com/46761.html) （稀土掘金）
+* [java 验证手机号码、电话号码（包括最新的电信、联通和移动号码）](http://hao.caibaojian.com/46733.html) （SegmentFault）
 
 ***
-* [MobX 核心源码解析](http://hao.caibaojian.com/46637.html) （推酷网）
-* [反驳《 Vue 从 Angular 里面抄了哪些东西？》](http://hao.caibaojian.com/46661.html) （稀土掘金）
-* [拿Nginx 部署你的静态网页](http://hao.caibaojian.com/46628.html) （SegmentFault）
-* [Apollo：携程框架部门研发的配置管理平台](http://hao.caibaojian.com/46697.html) （开发者头条）
-* [Android 开发者必知必会的权限管理知识](http://hao.caibaojian.com/46699.html) （开发者头条）
+* [Jenkins &amp; Docker 持续集成实践](http://hao.caibaojian.com/46784.html) （开发者头条）
+* [需求跟踪的最高境界](http://hao.caibaojian.com/46795.html) （开发者头条）
+* [IO 复用模型同步、异步、阻塞、非阻塞及实例详解](http://hao.caibaojian.com/46785.html) （开发者头条）
+* [Laravel Passport API 认证使用小结](http://hao.caibaojian.com/46747.html) （SegmentFault）
+* [javascript中的this应用场景](http://hao.caibaojian.com/46824.html) （前端开发博客）
 
 ***
-* [如何监听页面 DOM 变动并高效响应](http://hao.caibaojian.com/46641.html) （推酷网）
-* [给伸手党的福利：Python 新手入门引导](http://hao.caibaojian.com/46620.html) （SegmentFault）
-* [PHP json_decode 遇到的坑](http://hao.caibaojian.com/46621.html) （SegmentFault）
-* [自制前端框架之依赖追踪器](http://hao.caibaojian.com/46665.html) （稀土掘金）
-* [史上最详细的 Hadoop 环境搭建（下篇）](http://hao.caibaojian.com/46701.html) （开发者头条）
+* [基于Koa2和superagent实现的英语四六级成绩查询系统，同时提供免费API接口](http://hao.caibaojian.com/46766.html) （稀土掘金）
+* [可能是最详细的电商首页设计总结](http://hao.caibaojian.com/46825.html) （优秀网页设计）
+* [像数据库一样设计你的 redux 数据](http://hao.caibaojian.com/46738.html) （SegmentFault）
+* [云端的SRE发展与实践](http://hao.caibaojian.com/46814.html) （Docker精选）
+* [用demo的形式快速入门跨域](http://hao.caibaojian.com/46767.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
