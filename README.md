@@ -1,45 +1,45 @@
-# [20170807 码农日报](http://hao.caibaojian.com/date/2017/08/07)
+# [20170808 码农日报](http://hao.caibaojian.com/date/2017/08/08)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [一个少女心满满的例子带你入门 canvas](http://hao.caibaojian.com/46934.html) （推酷网）
-* [【mock.js】后端不来过夜半，闲敲mock落灯花 ——南宋·赵师秀 （附Vue + Vuex + mockjs的简单demo）](http://hao.caibaojian.com/46935.html) （推酷网）
-* [渐进增强的 CSS 布局：从浮动到 Flexbox 到 Grid](http://hao.caibaojian.com/46960.html) （稀土掘金）
-* [快速图片合成插件&#8211;mcanvas.js](http://hao.caibaojian.com/46920.html) （SegmentFault）
-* [web性能优化——优化内容](http://hao.caibaojian.com/46921.html) （SegmentFault）
+* [GitHub 万星推荐：黑客成长技术清单](http://hao.caibaojian.com/47120.html) （开发者头条）
+* [全网最重要的 AI 资源汇总](http://hao.caibaojian.com/47145.html) （开发者头条）
+* [2017-08-07 前端日报](http://hao.caibaojian.com/47045.html) （SegmentFault）
+* [微服务架构上云最佳实践](http://hao.caibaojian.com/47111.html) （开发者头条）
+* [初识RxJS](http://hao.caibaojian.com/47087.html) （稀土掘金）
 
 ***
-* [人人都会写的富文本编辑器](http://hao.caibaojian.com/46953.html) （稀土掘金）
-* [Web 框架：基础技术](http://hao.caibaojian.com/46937.html) （推酷网）
-* [CSS的组件化方案：OOCSS + BEM](http://hao.caibaojian.com/46915.html) （SegmentFault）
-* [为什么我的新项目使用 Angular 而不是 Vue](http://hao.caibaojian.com/46954.html) （稀土掘金）
-* [分享一个可用于拖动排序的vue组件](http://hao.caibaojian.com/46914.html) （SegmentFault）
+* [基于vuejs的消息气泡插件](http://hao.caibaojian.com/47054.html) （推酷网）
+* [只需四个步骤：使用 React 实现页面过渡动画](http://hao.caibaojian.com/47034.html) （SegmentFault）
+* [关于烂代码的那些事 ( 下 )](http://hao.caibaojian.com/47150.html) （ImportNew）
+* [前端清单：Vue2 响应式原理，RN 运行内置 Node，JS 巧用 Proxy 反混淆，GraphQL 优劣思辨，深入 React 动画 &#8211; 知乎专栏](http://hao.caibaojian.com/47089.html) （稀土掘金）
+* [前端清单：Vue2 响应式原理，RN 运行内置 Node，JS 巧用 Proxy 反混淆，GraphQL 优劣思辨](http://hao.caibaojian.com/47047.html) （SegmentFault）
 
 ***
-* [Alloy 前端周刊 Aug.7](http://hao.caibaojian.com/46959.html) （稀土掘金）
-* [JS异步编程的解决方案](http://hao.caibaojian.com/46949.html) （稀土掘金）
-* [Flexbox 实战：使用 Flexbox 轻松实现下拉导航菜单](http://hao.caibaojian.com/46955.html) （稀土掘金）
-* [回归基础：JavaScript 中的数据格式转换一例](http://hao.caibaojian.com/46956.html) （稀土掘金）
-* [Angular vs React vs Vue](http://hao.caibaojian.com/46958.html) （稀土掘金）
+* [硅谷风投最青睐的 25 个开源项目](http://hao.caibaojian.com/47153.html) （Linux中国）
+* [Go channel 关键特性解读和示例](http://hao.caibaojian.com/47122.html) （开发者头条）
+* [molten：PHP 应用透明链路追踪工具](http://hao.caibaojian.com/47112.html) （开发者头条）
+* [FEX 技术周刊 &#8211; 2017/08/07](http://hao.caibaojian.com/47060.html) （推酷网）
+* [JS基础之常用小技巧和知识总结(二)](http://hao.caibaojian.com/47039.html) （SegmentFault）
 
 ***
-* [React 和 Vue 的抉择，我为什么选择 React](http://hao.caibaojian.com/46948.html) （稀土掘金）
-* [使用搬瓦工bandwagonhost VPS安装Shadow***socks Server 完全指南](http://hao.caibaojian.com/46918.html) （SegmentFault）
-* [HTML5按钮元素新属性formaction,formenctype等简介](http://hao.caibaojian.com/46931.html) （推酷网）
-* [[js高手之路] es6系列教程 &#8211; 函数的默认参数详解](http://hao.caibaojian.com/46932.html) （推酷网）
-* [Angular 和 React 的在线 VS Code 编辑器](http://hao.caibaojian.com/46962.html) （稀土掘金）
+* [使用Angular组件的四个技巧](http://hao.caibaojian.com/47061.html) （推酷网）
+* [如何用好JavaScript console](http://hao.caibaojian.com/47074.html) （稀土掘金）
+* [常用scss总结（持续更新）](http://hao.caibaojian.com/47085.html) （稀土掘金）
+* [翻译 | 一行JavaScript代码的逆向工程](http://hao.caibaojian.com/47052.html) （推酷网）
+* [一份关于webpack2和模块打包的新手指南](http://hao.caibaojian.com/47042.html) （SegmentFault）
 
 ***
-* [vue + node 重构总结](http://hao.caibaojian.com/46933.html) （推酷网）
-* [做到这一点，你也可以成为优秀的程序员](http://hao.caibaojian.com/46978.html) （开发者头条）
-* [深入剖析 nginx 时间缓存](http://hao.caibaojian.com/46979.html) （开发者头条）
-* [深刻理解Vue中的组件](http://hao.caibaojian.com/46912.html) （SegmentFault）
-* [用AE + bodymovin制作html动画](http://hao.caibaojian.com/46936.html) （推酷网）
+* [优秀的程序员半小时内能搞定下面5个编程问题，你呢](http://hao.caibaojian.com/47158.html) （IT程序猿）
+* [前端清单：Vue2 响应式原理，RN 运行内置 Node，JS 巧用 Proxy 反混淆，GraphQL 优劣思辨，深入 R&#8230;](http://hao.caibaojian.com/47053.html) （推酷网）
+* [Angular、Vue、React 和前端的未来](http://hao.caibaojian.com/47117.html) （开发者头条）
+* [编写自己的代码库（javascript常用实例的实现与封装&#8211;续）](http://hao.caibaojian.com/47033.html) （SegmentFault）
+* [游历JavaScript IoT应用开发平台](http://hao.caibaojian.com/47149.html) （CSDN）
 
 ***
-* [阿里云前端周刊 &#8211; 第 19 期](http://hao.caibaojian.com/46913.html) （SegmentFault）
-* [Go Channel 源码剖析](http://hao.caibaojian.com/46993.html) （开发者头条）
-* [快速制作高性能帧动画解决方案](http://hao.caibaojian.com/46957.html) （稀土掘金）
-* [Marionette v3.4.0 发布，Backbone.js 组合框架](http://hao.caibaojian.com/46939.html) （推酷网）
-* [《javascript高级程序设计》笔记_文档模式](http://hao.caibaojian.com/46927.html) （SegmentFault）
+* [canvas实现 flappy_bird](http://hao.caibaojian.com/47078.html) （稀土掘金）
+* [CSS Grid 布局完全指南](http://hao.caibaojian.com/47161.html) （IT程序狮）
+* [如何做一只健康的程序员？](http://hao.caibaojian.com/47035.html) （SegmentFault）
+* [Vue可以用NativeScript写了!](http://hao.caibaojian.com/47079.html) （稀土掘金）
+* [express与koa中间件模式对比](http://hao.caibaojian.com/47046.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
