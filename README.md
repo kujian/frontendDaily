@@ -1,45 +1,45 @@
-# [20170816 码农日报](http://hao.caibaojian.com/date/2017/08/16)
+# [20170817 码农日报](http://hao.caibaojian.com/date/2017/08/17)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [如何开发一个简单的智能对话查询工具](http://hao.caibaojian.com/48003.html) （推酷网）
-* [黑客是这样写JavaScript的](http://hao.caibaojian.com/48001.html) （推酷网）
-* [ng-zorro-antd 初体验](http://hao.caibaojian.com/47986.html) （SegmentFault）
-* [Angular2、AngularJS、React、vue.js过去一年的Google趋势分析](http://hao.caibaojian.com/47994.html) （SegmentFault）
-* [2017-08-15 前端日报](http://hao.caibaojian.com/47995.html) （SegmentFault）
+* [js 如何获取手机软键盘高度 ？「输入框被弹起的软键盘给遮挡了？」之 IOING 原理解析](http://hao.caibaojian.com/48112.html) （推酷网）
+* [如何用 js 获取虚拟键盘高度？](http://hao.caibaojian.com/48093.html) （SegmentFault）
+* [小哥哥教你撸一个JS计算器](http://hao.caibaojian.com/48144.html) （稀土掘金）
+* [基于webpack的前后端分离开发环境实践](http://hao.caibaojian.com/48114.html) （推酷网）
+* [Hotkeys.js 2.0.2 发布，捕获键盘输入和输入的组合键](http://hao.caibaojian.com/48116.html) （推酷网）
 
 ***
-* [【HTTP】协议详解](http://hao.caibaojian.com/47997.html) （SegmentFault）
-* [讲真，别再使用JWT了](http://hao.caibaojian.com/48023.html) （稀土掘金）
-* [[JavaScript实用方法] 选取(picking)和反选(rejecting)对象的属性](http://hao.caibaojian.com/48024.html) （稀土掘金）
-* [通过 JSX Control Statements 编写 JSX](http://hao.caibaojian.com/48002.html) （推酷网）
-* [理解 Node.js 事件驱动机制](http://hao.caibaojian.com/47992.html) （SegmentFault）
+* [WebSocket应用安全问题分析](http://hao.caibaojian.com/48109.html) （推酷网）
+* [2017-08-16 前端日报](http://hao.caibaojian.com/48097.html) （SegmentFault）
+* [面向 JavaScript 开发人员的 ECMAScript 6 指南（1 ）：新 JavaScript 中的变量声明等功能](http://hao.caibaojian.com/48139.html) （稀土掘金）
+* [React源码之Diff算法](http://hao.caibaojian.com/48100.html) （SegmentFault）
+* [深入解析Node.js中5种发起HTTP请求的方法](http://hao.caibaojian.com/48090.html) （SegmentFault）
 
 ***
-* [小教程：自己创建一个jQuery长阴影插件](http://hao.caibaojian.com/48012.html) （稀土掘金）
-* [基于Electron&amp;Vue的七牛文件管理工具](http://hao.caibaojian.com/48014.html) （稀土掘金）
-* [浏览器的 16ms 渲染帧](http://hao.caibaojian.com/48000.html) （推酷网）
-* [Angular 最新官方中文文档](http://hao.caibaojian.com/48015.html) （稀土掘金）
-* [掌舵 Kubernetes（二）：轻松驾驭 Kubernetes 的三个开源项目](http://hao.caibaojian.com/48055.html) （开发者头条）
+* [Hotkeys.js 2.0.3 发布，设置快捷键，键盘捕捉JS库](http://hao.caibaojian.com/48142.html) （稀土掘金）
+* [GitChat · 前端 | 从软件工程角度看大前端技术栈](http://hao.caibaojian.com/48104.html) （SegmentFault）
+* [对近期前端圈口水之争的一些思考](http://hao.caibaojian.com/48095.html) （SegmentFault）
+* [使用ES2017的异步函数](http://hao.caibaojian.com/48106.html) （推酷网）
+* [React Component写法的最佳实践](http://hao.caibaojian.com/48137.html) （稀土掘金）
 
 ***
-* [在 Ceph 中用对 Flashcache 了吗？（二）](http://hao.caibaojian.com/48056.html) （开发者头条）
-* [Vue-cli创建vue项目以及配置文件梳理](http://hao.caibaojian.com/48009.html) （稀土掘金）
-* [监控平台前端SDK开发实践](http://hao.caibaojian.com/48020.html) （稀土掘金）
-* [构建流式计算卖家日志系统应用实践](http://hao.caibaojian.com/48048.html) （开发者头条）
-* [前端每周清单半年盘点之 Vue.js 篇](http://hao.caibaojian.com/47985.html) （SegmentFault）
+* [学习JavaScript ES 2017: padStart &amp; padEnd](http://hao.caibaojian.com/48108.html) （推酷网）
+* [自定义 Babel 和 ESLint 插件是如何提高生产率与用户体验的](http://hao.caibaojian.com/48128.html) （稀土掘金）
+* [GitLab [Webhooks] 实现自动化服务器部署](http://hao.caibaojian.com/48099.html) （SegmentFault）
+* [Kotlin 初体验：主要特征与应用](http://hao.caibaojian.com/48186.html) （开发者头条）
+* [Node.js 性能调优之内存篇(四)——cpu-memory-monitor](http://hao.caibaojian.com/48113.html) （推酷网）
 
 ***
-* [一次Mysql改表引发LVS下RS机器全下线的问题](http://hao.caibaojian.com/47996.html) （SegmentFault）
-* [再谈 Docker 瘦身](http://hao.caibaojian.com/48049.html) （开发者头条）
-* [利用 d3.js 实现图标变形动画](http://hao.caibaojian.com/48011.html) （稀土掘金）
-* [Android 模块化探索和实践（二）：Dagger2 在模块化中的应用](http://hao.caibaojian.com/48060.html) （开发者头条）
-* [Python小白如何使用半自动爬虫抓取《三生三世十里桃花》豆瓣电影短评](http://hao.caibaojian.com/48022.html) （稀土掘金）
+* [前端每周清单半年盘点之 React 与 ReactNative 篇](http://hao.caibaojian.com/48092.html) （SegmentFault）
+* [线上操作与线上问题排查实战](http://hao.caibaojian.com/48166.html) （开发者头条）
+* [Node.js v8.4.0 发布，添加内置 http2 实验支持](http://hao.caibaojian.com/48115.html) （推酷网）
+* [Python 学习笔记：控制流](http://hao.caibaojian.com/48177.html) （开发者头条）
+* [Laravel 大将之 Auth 模块](http://hao.caibaojian.com/48094.html) （SegmentFault）
 
 ***
-* [Jenkins &amp; Docker 在 HULK 的落地实践](http://hao.caibaojian.com/48050.html) （开发者头条）
-* [PokemonGo：LBS游戏开发](http://hao.caibaojian.com/47987.html) （SegmentFault）
-* [开发之路（设计模式二：观察者模式）](http://hao.caibaojian.com/47999.html) （SegmentFault）
-* [技术人如何修炼内功](http://hao.caibaojian.com/48042.html) （开发者头条）
-* [中华万年历头条数据聚合优化之路](http://hao.caibaojian.com/48054.html) （开发者头条）
+* [为什么要从 FMDB 迁移到 WCDB？](http://hao.caibaojian.com/48178.html) （开发者头条）
+* [你所不知道的JSON.stringify](http://hao.caibaojian.com/48136.html) （稀土掘金）
+* [Asp.Net MVC 插件化开发简化方案](http://hao.caibaojian.com/48096.html) （SegmentFault）
+* [Node.js 性能调优之代码篇(一)——使用原生模块](http://hao.caibaojian.com/48107.html) （推酷网）
+* [JavaScript常见的继承方式](http://hao.caibaojian.com/48138.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
