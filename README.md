@@ -1,45 +1,45 @@
-# [20170818 码农日报](http://hao.caibaojian.com/date/2017/08/18)
+# [20170819 码农日报](http://hao.caibaojian.com/date/2017/08/19)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [2017-08-17 前端日报](http://hao.caibaojian.com/48239.html) （SegmentFault）
-* [Vue + Electron制作网易云音乐客户端](http://hao.caibaojian.com/48236.html) （SegmentFault）
-* [纯前端解决跨域问题](http://hao.caibaojian.com/48233.html) （SegmentFault）
-* [vue.js学习之组件（上篇）](http://hao.caibaojian.com/48287.html) （推酷网）
-* [前端工作师都能做什么？](http://hao.caibaojian.com/48283.html) （推酷网）
+* [求职 | 听说集齐了这些Js题，笔试都不怕了呢](http://hao.caibaojian.com/48404.html) （推酷网）
+* [JavaScript的值传递和引用传递](http://hao.caibaojian.com/48383.html) （SegmentFault）
+* [Promise中多个回调函数之间的数据传递](http://hao.caibaojian.com/48393.html) （推酷网）
+* [NG Bootstrap ——基于 Angular 的 Bootstrap 界面库](http://hao.caibaojian.com/48405.html) （推酷网）
+* [Vue Transition 实现类原生组件跳转过渡动画](http://hao.caibaojian.com/48384.html) （SegmentFault）
 
 ***
-* [一个小时搭建一个全栈Web应用框架](http://hao.caibaojian.com/48281.html) （推酷网）
-* [三十分钟完成一个“我们是谁”编辑器](http://hao.caibaojian.com/48222.html) （稀土掘金）
-* [关于 React Router 4 的一切](http://hao.caibaojian.com/48211.html) （稀土掘金）
-* [说说Vue的异步组件](http://hao.caibaojian.com/48301.html) （稀土掘金）
-* [Android NDK 开发：JNI 基础篇](http://hao.caibaojian.com/48329.html) （开发者头条）
+* [2017-08-18 前端日报](http://hao.caibaojian.com/48385.html) （SegmentFault）
+* [这几道前端面试题很绕吗？做对了几道？](http://hao.caibaojian.com/48386.html) （SegmentFault）
+* [记一次webpack打包优化](http://hao.caibaojian.com/48397.html) （推酷网）
+* [让Select选择框可编辑可输入可自动补全可下拉选择](http://hao.caibaojian.com/48401.html) （推酷网）
+* [前端如何做小流量实验](http://hao.caibaojian.com/48424.html) （稀土掘金）
 
 ***
-* [【技术分享】如何使用windbg调试javascript](http://hao.caibaojian.com/48288.html) （推酷网）
-* [嗨， 你知道 this 吗？](http://hao.caibaojian.com/48210.html) （稀土掘金）
-* [小白进击前端攻城狮的经历](http://hao.caibaojian.com/48235.html) （SegmentFault）
-* [JavaScript学习篇&#8211;本地存储](http://hao.caibaojian.com/48226.html) （SegmentFault）
-* [为什么我们选择使用 React 而不是 Angular 构建新 UI](http://hao.caibaojian.com/48286.html) （推酷网）
+* [[WebGL入门]二十九，透明混色](http://hao.caibaojian.com/48392.html) （推酷网）
+* [一锅端掉微·信公众号-小程序的用户资料获取](http://hao.caibaojian.com/48458.html) （慕课网）
+* [使用react技术栈完全重写一个vue书城项目](http://hao.caibaojian.com/48382.html) （SegmentFault）
+* [理解JavaScript中的for&#8230;of循环](http://hao.caibaojian.com/48394.html) （推酷网）
+* [高性能迷你React框架anujs1.0.8发布](http://hao.caibaojian.com/48373.html) （SegmentFault）
 
 ***
-* [如何从零开始搭建高性能直播平台](http://hao.caibaojian.com/48322.html) （开发者头条）
-* [HTML表格布局](http://hao.caibaojian.com/48278.html) （SegmentFault）
-* [Composer命令行集锦及小案例 &#8211; 1](http://hao.caibaojian.com/48279.html) （SegmentFault）
-* [vue-cli源码分析（试探篇）](http://hao.caibaojian.com/48299.html) （稀土掘金）
-* [为什么在 Framer 中循环给图层添加事件总是出错？](http://hao.caibaojian.com/48282.html) （推酷网）
+* [JS 的平凡之路&#8211;学习人气眼中的效果（下）](http://hao.caibaojian.com/48396.html) （推酷网）
+* [GitChat · 架构 | 如何从零开始搭建高性能直播平台？](http://hao.caibaojian.com/48375.html) （SegmentFault）
+* [在 Vue.js 中实用任意 JavaScript 第三方库](http://hao.caibaojian.com/48418.html) （稀土掘金）
+* [Java 中原生的 socket 通信机制](http://hao.caibaojian.com/48444.html) （开发者头条）
+* [什么是闭包？变量作用域和闭包](http://hao.caibaojian.com/48376.html) （SegmentFault）
 
 ***
-* [系统级集成测试的断舍离](http://hao.caibaojian.com/48336.html) （开发者头条）
-* [快速搭建一个 Web 应用框架](http://hao.caibaojian.com/48300.html) （稀土掘金）
-* [5行js代码搞定导航吸顶效果](http://hao.caibaojian.com/48225.html) （SegmentFault）
-* [FreeWheel前后端分离改造实践](http://hao.caibaojian.com/48302.html) （稀土掘金）
-* [前端每周清单半年盘点之 Node.js 篇](http://hao.caibaojian.com/48214.html) （稀土掘金）
+* [Scanners-Box：开源扫描器集合](http://hao.caibaojian.com/48445.html) （开发者头条）
+* [Angular JS模板注入漏洞分析](http://hao.caibaojian.com/48398.html) （推酷网）
+* [Egg+Vue+Webpack渐进式前端骨架工程](http://hao.caibaojian.com/48421.html) （稀土掘金）
+* [Redis 拾遗](http://hao.caibaojian.com/48447.html) （开发者头条）
+* [直播APP开发](http://hao.caibaojian.com/48456.html) （慕课网）
 
 ***
-* [如何利用Kubernetes编排实现Node.js程序的微服务化](http://hao.caibaojian.com/48285.html) （推酷网）
-* [基于 Angular 的 Bootstrap 4 组件：NG Bootstrap](http://hao.caibaojian.com/48303.html) （稀土掘金）
-* [[PPT] SVG can do THAT? &#8211; 深入分享 SVG 可以实现的各种功能](http://hao.caibaojian.com/48304.html) （稀土掘金）
-* [Sworm：基于 Swoole 的异步 MySQL 数据库 ORM 框架](http://hao.caibaojian.com/48330.html) （开发者头条）
-* [基于 Vue 的树形选择组件](http://hao.caibaojian.com/48217.html) （稀土掘金）
+* [利用豆瓣短评数据生成词云](http://hao.caibaojian.com/48380.html) （SegmentFault）
+* [了解 V8 的字节码「译」](http://hao.caibaojian.com/48423.html) （稀土掘金）
+* [Puppeteer初探&#8211;爬取并生成《ES6标准入门》PDF](http://hao.caibaojian.com/48381.html) （SegmentFault）
+* [20170818 前端开发日报](http://hao.caibaojian.com/48471.html) （前端开发博客）
+* [canvas 基础系列（三）之实现九宫格抽奖](http://hao.caibaojian.com/48425.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
