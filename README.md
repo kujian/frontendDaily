@@ -1,45 +1,45 @@
-# [20170824 码农日报](http://hao.caibaojian.com/date/2017/08/24)
+# [20170825 码农日报](http://hao.caibaojian.com/date/2017/08/25)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JS 命名与注释规范详解](http://hao.caibaojian.com/49014.html) （推酷网）
-* [Express 实战（七）：利用 MongoDB 进行数据持久化](http://hao.caibaojian.com/49013.html) （推酷网）
-* [Express 实战（七）：视图与模板：Pug 和 EJS](http://hao.caibaojian.com/49015.html) （推酷网）
-* [GitChat · 人工智能 | 肿瘤医疗影像 AI 识别技术实践](http://hao.caibaojian.com/49021.html) （SegmentFault）
-* [Webpack 最佳实践总结(三)](http://hao.caibaojian.com/49007.html) （SegmentFault）
+* [又闹分裂？Node.js 被分叉出一个项目 — Ayo.js](http://hao.caibaojian.com/49118.html) （推酷网）
+* [28个让你惊叹的JavaScript黑科技代码](http://hao.caibaojian.com/49119.html) （推酷网）
+* [前端 101：给不了解前端的同学讲前端](http://hao.caibaojian.com/49113.html) （推酷网）
+* [几个前端工程师应当掌握的“词语”](http://hao.caibaojian.com/49097.html) （SegmentFault）
+* [Javascript奇技淫巧之位运算符](http://hao.caibaojian.com/49120.html) （推酷网）
 
 ***
-* [iframe和HTML5 blob实现JS,CSS,HTML直接当前页预览](http://hao.caibaojian.com/49012.html) （推酷网）
-* [vue从创建到完整的项目（2）路由](http://hao.caibaojian.com/49011.html) （SegmentFault）
-* [GitChat · Python | 零基础小白如何入门 Python 编程](http://hao.caibaojian.com/49002.html) （SegmentFault）
-* [[ng-alain系列]一套基于 Ng-zorro-antd 企业后台模板](http://hao.caibaojian.com/49004.html) （SegmentFault）
-* [Red Hat 将 Ceylon 送给 Eclipse 基金会](http://hao.caibaojian.com/49083.html) （伯乐头条）
+* [vue组件之间的通信（一）](http://hao.caibaojian.com/49109.html) （推酷网）
+* [Ajax的全面总结](http://hao.caibaojian.com/49095.html) （SegmentFault）
+* [Chrome 61 Beta：JavaScript 模块、桌面版 Payment Request API、Web Share API 以及 WebUSB](http://hao.caibaojian.com/49110.html) （推酷网）
+* [JavaScript数据类型的存储](http://hao.caibaojian.com/49112.html) （推酷网）
+* [2017-08-24 前端日报](http://hao.caibaojian.com/49105.html) （SegmentFault）
 
 ***
-* [常见 Code Review 过程中发现的问题（续）](http://hao.caibaojian.com/49043.html) （开发者头条）
-* [Kafka 源码分析之 Producer NIO 网络模型（四）](http://hao.caibaojian.com/49044.html) （开发者头条）
-* [CSS 中的行](http://hao.caibaojian.com/49006.html) （SegmentFault）
-* [CentOs7.3 搭建 Solr单机服务](http://hao.caibaojian.com/49022.html) （SegmentFault）
-* [iOS Crash 捕获及堆栈符号化思路剖析](http://hao.caibaojian.com/49046.html) （开发者头条）
+* [web 服务器阿里云基本使用(Ubuntu16.04LTS)](http://hao.caibaojian.com/49107.html) （SegmentFault）
+* [扩展 Node.js 应用](http://hao.caibaojian.com/49111.html) （推酷网）
+* [Android 的线程和线程池](http://hao.caibaojian.com/49157.html) （开发者头条）
+* [我所认知的 ANT DESIGN](http://hao.caibaojian.com/49108.html) （SegmentFault）
+* [vue-simple-uploader：强大的 Vue 上传组件](http://hao.caibaojian.com/49151.html) （开发者头条）
 
 ***
-* [Chrome 网页调试技巧](http://hao.caibaojian.com/49008.html) （SegmentFault）
-* [基于 Swoole 扩展分布式全栈开发框架](http://hao.caibaojian.com/49023.html) （开发者头条）
-* [SegmentFault 讲堂：如何让更多的开发者来听我的在线技术讲座](http://hao.caibaojian.com/48998.html) （SegmentFault）
-* [区块链技术相关的论文、文档](http://hao.caibaojian.com/49037.html) （开发者头条）
-* [Java并发编程之NIO简明教程](http://hao.caibaojian.com/48999.html) （SegmentFault）
+* [每秒高达千万分发，如何应对直播互动平台中海量消息挑战？](http://hao.caibaojian.com/49131.html) （开发者头条）
+* [深入浅出 Web Audio Api](http://hao.caibaojian.com/49116.html) （推酷网）
+* [关于 iOS 10.3.1 ziVA 内核漏洞利用的简单分析](http://hao.caibaojian.com/49158.html) （开发者头条）
+* [使用 ES2017 中的 Async(异步) 函数 和 Await(等待)](http://hao.caibaojian.com/49117.html) （推酷网）
+* [redux-arena：全新的 Redux 模块化框架](http://hao.caibaojian.com/49148.html) （开发者头条）
 
 ***
-* [一周 IT 技术干货（码农周刊第 180 期）](http://hao.caibaojian.com/49038.html) （开发者头条）
-* [JavaScript工作机制：第1部分](http://hao.caibaojian.com/49000.html) （SegmentFault）
-* [掌舵 Kubernetes：云原生时代的 Kubernetes 部署](http://hao.caibaojian.com/49049.html) （开发者头条）
-* [学会这5个法则，轻松掌握格式塔理论](http://hao.caibaojian.com/49090.html) （优秀网页设计）
-* [学点Webpack吧](http://hao.caibaojian.com/49001.html) （SegmentFault）
+* [Linux下Socket通信（TCP实现）](http://hao.caibaojian.com/49098.html) （SegmentFault）
+* [C++ 测试很难？来自 Google 的 Gmock 让你打桩测试畅通无阻](http://hao.caibaojian.com/49149.html) （开发者头条）
+* [git学习之路（中）](http://hao.caibaojian.com/49100.html) （SegmentFault）
+* [一对好基友 &#8211; yii2行为和事件那些事 源码分析篇](http://hao.caibaojian.com/49133.html) （SegmentFault）
+* [Structured Streaming 编程指南](http://hao.caibaojian.com/49153.html) （开发者头条）
 
 ***
-* [红帽计划把 .NET Core 2.0 添加到其 Linux 和云端产品中](http://hao.caibaojian.com/49080.html) （伯乐头条）
-* [欢乐逛大数据平台的架构设计](http://hao.caibaojian.com/49051.html) （开发者头条）
-* [Kotlin 能比 Java 做得更好](http://hao.caibaojian.com/49041.html) （开发者头条）
-* [php模拟登录，美餐自动点餐，公开源码](http://hao.caibaojian.com/49003.html) （SegmentFault）
-* [深入理解 JavaScript 中的 this](http://hao.caibaojian.com/49052.html) （开发者头条）
+* [这也许是最全面透彻的一篇 RabbitMQ 指南](http://hao.caibaojian.com/49141.html) （开发者头条）
+* [“浅入深出” MySQL 中事务的实现](http://hao.caibaojian.com/49142.html) （开发者头条）
+* [Node.js 性能调优之代码篇(三)—— 升级到Node@8](http://hao.caibaojian.com/49114.html) （推酷网）
+* [“科技猫”联合创始人古茜：懂科技的女生更性感](http://hao.caibaojian.com/49104.html) （SegmentFault）
+* [前端每周清单半年盘点之 Angular 篇](http://hao.caibaojian.com/49094.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
