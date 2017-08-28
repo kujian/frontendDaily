@@ -1,45 +1,45 @@
-# [20170826 码农日报](http://hao.caibaojian.com/date/2017/08/26)
+# [20170827 码农日报](http://hao.caibaojian.com/date/2017/08/27)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Web开发中，什么级别才算是高并发](http://hao.caibaojian.com/49213.html) （SegmentFault）
-* [Mongodb学习记录：入门](http://hao.caibaojian.com/49219.html) （SegmentFault）
-* [[js高手之路]js单页hash路由原理与应用实战](http://hao.caibaojian.com/49223.html) （SegmentFault）
-* [阿里校招前端笔试题小结](http://hao.caibaojian.com/49215.html) （SegmentFault）
-* [【React系列】状态（State）和生命周期](http://hao.caibaojian.com/49226.html) （SegmentFault）
+* [iNotify.js —— Javascript 实现的浏览器系统通知](http://hao.caibaojian.com/49320.html) （推酷网）
+* [[js高手之路]构造函数的基本特性与优缺点](http://hao.caibaojian.com/49310.html) （SegmentFault）
+* [全面了解JS作用域](http://hao.caibaojian.com/49313.html) （SegmentFault）
+* [[js高手之路]一步步图解javascript的原型(prototype)对象,原型链](http://hao.caibaojian.com/49314.html) （SegmentFault）
+* [[js高手之路]搞清楚面向对象,必须要理解对象在创建过程中的内存表示](http://hao.caibaojian.com/49312.html) （SegmentFault）
 
 ***
-* [2017-08-26 前端日报](http://hao.caibaojian.com/49260.html) （SegmentFault）
-* [git学习之路之分支管理](http://hao.caibaojian.com/49217.html) （SegmentFault）
-* [JavaScript 是如何工作的？](http://hao.caibaojian.com/49188.html) （推酷网）
-* [我了解到的JavaScript异步编程](http://hao.caibaojian.com/49218.html) （SegmentFault）
-* [Node.js 开发者再一次创建分支](http://hao.caibaojian.com/49189.html) （推酷网）
+* [Go Plugin 的一个 bug](http://hao.caibaojian.com/49339.html) （开发者头条）
+* [史上前端面试最全问答（附答案）](http://hao.caibaojian.com/49306.html) （SegmentFault）
+* [JavaScript 工作机制：V8 引擎内部机制及如何编写优化代码的 5 个诀窍](http://hao.caibaojian.com/49327.html) （开发者头条）
+* [10个有趣的Javascript和CSS库-2017年8月](http://hao.caibaojian.com/49318.html) （推酷网）
+* [20170825 前端开发日报](http://hao.caibaojian.com/49296.html) （前端开发博客）
 
 ***
-* [MongooseJS 4.11.8 发布，MongoDB 连接包](http://hao.caibaojian.com/49190.html) （推酷网）
-* [HTML5 实时监听输入框值变化](http://hao.caibaojian.com/49253.html) （SegmentFault）
-* [七个不可错过的React组件库与开发框架](http://hao.caibaojian.com/49293.html) （IT程序猿）
-* [Python 家族有多庞大](http://hao.caibaojian.com/49234.html) （开发者头条）
-* [前端工程化实践：大前端的转变之路](http://hao.caibaojian.com/49245.html) （开发者头条）
+* [整理下《前端江湖面试》对自己有益的题目](http://hao.caibaojian.com/49302.html) （SegmentFault）
+* [微服务从设计到部署（一）：微服务简介](http://hao.caibaojian.com/49340.html) （开发者头条）
+* [Go 1.9 新特性 Type Alias 详解](http://hao.caibaojian.com/49330.html) （开发者头条）
+* [Date对象在Android和IOS上的兼容](http://hao.caibaojian.com/49317.html) （SegmentFault）
+* [React Native 按需加载：手 Q 狼人杀探索之路](http://hao.caibaojian.com/49333.html) （开发者头条）
 
 ***
-* [JavaScript正则表达式的匹配模式](http://hao.caibaojian.com/49185.html) （推酷网）
-* [webpack 简易配置入门教程](http://hao.caibaojian.com/49187.html) （推酷网）
-* [Angular2开发踩坑系列-生产环境编译](http://hao.caibaojian.com/49250.html) （SegmentFault）
-* [网易前端面经](http://hao.caibaojian.com/49191.html) （推酷网）
-* [Nodejs实战——实现一个资源分析系统](http://hao.caibaojian.com/49180.html) （推酷网）
+* [PHP的cookie与session的使用](http://hao.caibaojian.com/49309.html) （SegmentFault）
+* [如何快速成为数据分析师？](http://hao.caibaojian.com/49334.html) （开发者头条）
+* [如何免费地让网站启用 HTTPS](http://hao.caibaojian.com/49324.html) （开发者头条）
+* [从 hello world 看 JavaScript 隐藏的黑魔法](http://hao.caibaojian.com/49337.html) （开发者头条）
+* [系列文章：分布式系统架构设计](http://hao.caibaojian.com/49326.html) （开发者头条）
 
 ***
-* [全世界最简单的机器学习入门指南](http://hao.caibaojian.com/49232.html) （开发者头条）
-* [敏感词检测算法小结](http://hao.caibaojian.com/49222.html) （SegmentFault）
-* [Laravel Blade 模板用法](http://hao.caibaojian.com/49255.html) （SegmentFault）
-* [RxJava 线程模型分析](http://hao.caibaojian.com/49244.html) （开发者头条）
-* [MySQL学习记录：SQL编程常见问题](http://hao.caibaojian.com/49224.html) （SegmentFault）
+* [CJSX 试用：使用 React 靠谱的新姿势](http://hao.caibaojian.com/49338.html) （开发者头条）
+* [如何合理地设计Redux的State](http://hao.caibaojian.com/49303.html) （SegmentFault）
+* [10 个不得不知道的 “系统进程”](http://hao.caibaojian.com/49328.html) （开发者头条）
+* [Zepto源码分析（二）奇淫技巧总结](http://hao.caibaojian.com/49304.html) （SegmentFault）
+* [设计模式之【单例模式】](http://hao.caibaojian.com/49315.html) （SegmentFault）
 
 ***
-* [关于 Node.js 的认证方面的教程（很可能）是有误的](http://hao.caibaojian.com/49183.html) （推酷网）
-* [10 个 React 小模式](http://hao.caibaojian.com/49235.html) （开发者头条）
-* [缓存服务器Varnish](http://hao.caibaojian.com/49246.html) （SegmentFault）
-* [腾讯 Web UI 解决方案 QMUI Web 正式回迁开源](http://hao.caibaojian.com/49184.html) （推酷网）
-* [结合源码，探索 Android 中的 Window 与 DecorView](http://hao.caibaojian.com/49236.html) （开发者头条）
+* [Linux 中的虚拟网络：简介](http://hao.caibaojian.com/49329.html) （开发者头条）
+* [命令行获取公网 IP](http://hao.caibaojian.com/49305.html) （SegmentFault）
+* [Google CTF &#8211; Geokitties &amp; X Sanitizer &amp; JS 汇编](http://hao.caibaojian.com/49342.html) （开发者头条）
+* [关于多电脑布署hexo博客，和在线更新文章](http://hao.caibaojian.com/49316.html) （SegmentFault）
+* [JVM 垃圾回收算法及回收器详解](http://hao.caibaojian.com/49364.html) （ImportNew）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
