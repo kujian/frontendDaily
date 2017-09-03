@@ -1,45 +1,45 @@
-# [20170901 码农日报](http://hao.caibaojian.com/date/2017/09/01)
+# [20170902 码农日报](http://hao.caibaojian.com/date/2017/09/02)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [2017 年 8 月：15 个有趣的 JS 和 CSS 库](http://hao.caibaojian.com/49787.html) （推酷网）
-* [巧用 db.system.js 提升20% 开发效率](http://hao.caibaojian.com/49786.html) （推酷网）
-* [使用webgl做跨平台的AR模型渲染](http://hao.caibaojian.com/49789.html) （推酷网）
-* [一个小时搭建一个全栈Web应用框架（下）——美化与功能](http://hao.caibaojian.com/49756.html) （推酷网）
-* [深入理解 Node.js Stream 内部机制](http://hao.caibaojian.com/49752.html) （推酷网）
+* [Go 汇编示例中文网站](http://hao.caibaojian.com/49874.html) （开发者头条）
+* [JavaScript中的作用域和闭包](http://hao.caibaojian.com/49847.html) （推酷网）
+* [Form表单提交，Ajax请求，$http请求的区别](http://hao.caibaojian.com/49849.html) （推酷网）
+* [JavaScript专题之函数组合](http://hao.caibaojian.com/49853.html) （推酷网）
+* [迟到 39 年的图灵奖：Diffie-Hellman 密钥交换原理及例程源代码](http://hao.caibaojian.com/49871.html) （开发者头条）
 
 ***
-* [JavaScript 之银弹の技法](http://hao.caibaojian.com/49755.html) （推酷网）
-* [JavaScript 函数式编程术语大全](http://hao.caibaojian.com/49759.html) （推酷网）
-* [舒适的前端开发环境是怎样一种体验？](http://hao.caibaojian.com/49749.html) （推酷网）
-* [V8 中一个微妙的内存泄露方式](http://hao.caibaojian.com/49804.html) （开发者头条）
-* [JS组件系列——再推荐一款好用的bootstrap-select组件，亲测还不错](http://hao.caibaojian.com/49751.html) （推酷网）
+* [vue 填坑系列总结——scoped](http://hao.caibaojian.com/49848.html) （推酷网）
+* [web前端优化之图片优化](http://hao.caibaojian.com/49850.html) （推酷网）
+* [easy-mock](http://hao.caibaojian.com/49921.html) （IT程序狮）
+* [从 FPS 到 RTS，一文概述游戏人工智能中的深度学习算法](http://hao.caibaojian.com/49889.html) （开发者头条）
+* [使用 SVG + CSS 实现动态霓虹灯文字效果](http://hao.caibaojian.com/49922.html) （IT程序狮）
 
 ***
-* [前端小团队如何培养技术积累？](http://hao.caibaojian.com/49807.html) （开发者头条）
-* [『翻译』深入理解Vue.js响应式原理](http://hao.caibaojian.com/49754.html) （推酷网）
-* [Vue 组件间的样式污染](http://hao.caibaojian.com/49758.html) （推酷网）
-* [基于 RxJs 的前端数据层实践](http://hao.caibaojian.com/49750.html) （推酷网）
-* [从读写分离到 CQRS，张大胖是如何解决性能问题的？](http://hao.caibaojian.com/49796.html) （开发者头条）
+* [我讨厌你的单页面应用](http://hao.caibaojian.com/49852.html) （推酷网）
+* [css负边距自适应布局](http://hao.caibaojian.com/49923.html) （前端开发博客）
+* [前端好课推荐-Html/css](http://hao.caibaojian.com/49911.html) （慕课网）
+* [如何看待某 App “杀了一个程序员祭天” 的版本更新说明？](http://hao.caibaojian.com/49870.html) （开发者头条）
+* [iOS 跑步软件开发：从无到有](http://hao.caibaojian.com/49881.html) （开发者头条）
 
 ***
-* [JavaScript 立即执行函数表达式 ( IIFE ) 用例](http://hao.caibaojian.com/49834.html) （前端大全）
-* [数据开发者的五年工作备忘](http://hao.caibaojian.com/49797.html) （开发者头条）
-* [15 个有趣的 JS 和 CSS 库（2017 年 8 月）](http://hao.caibaojian.com/49798.html) （开发者头条）
-* [浏览器同源策略与 Ajax 跨域方法汇总](http://hao.caibaojian.com/49839.html) （IT程序狮）
-* [最适合使用 RxJava 处理的四种场景](http://hao.caibaojian.com/49799.html) （开发者头条）
+* [Uber 高性能 Web App 优化实践](http://hao.caibaojian.com/49882.html) （开发者头条）
+* [Ember.js 2.15.0 和 2.16.0-beta.1 发布，Bug 修复版本](http://hao.caibaojian.com/49845.html) （推酷网）
+* [点我达分布式任务调度系统 DaJob](http://hao.caibaojian.com/49872.html) （开发者头条）
+* [minirefresh：优雅的 H5 下拉刷新](http://hao.caibaojian.com/49883.html) （开发者头条）
+* [JavaScript 核心概念之作用域和闭包](http://hao.caibaojian.com/49846.html) （推酷网）
 
 ***
-* [手 Q 人脸识别动画实现详解](http://hao.caibaojian.com/49810.html) （开发者头条）
-* [css reset研究和项目常用样式总结](http://hao.caibaojian.com/49840.html) （前端开发博客）
-* [大数据时代下的隐私保护](http://hao.caibaojian.com/49800.html) （开发者头条）
-* [一文教你迅速解决分布式事务 XA 一致性问题](http://hao.caibaojian.com/49812.html) （开发者头条）
-* [设计的中宫指什么？不懂这个谈字体结构和造型都白搭](http://hao.caibaojian.com/49841.html) （优秀网页设计）
+* [数据模拟神器 Easy Mock 正式开源](http://hao.caibaojian.com/49873.html) （开发者头条）
+* [Android Google ARCore 尝鲜记录](http://hao.caibaojian.com/49884.html) （开发者头条）
+* [六个优雅的 Linux 命令行技巧](http://hao.caibaojian.com/49918.html) （IT程序猿）
+* [用真实生活例子来解释 BLOCKED, WAITING, TIMED_WAITING 有什么区别](http://hao.caibaojian.com/49886.html) （开发者头条）
+* [中国科技行业流行 “996” ，硅谷以工作狂为荣](http://hao.caibaojian.com/49919.html) （伯乐头条）
 
 ***
-* [我要进BAT——2017校招BAT大牛亲授的面试技巧合辑](http://hao.caibaojian.com/49829.html) （慕课网）
-* [React 控件，来啊，一起范特西](http://hao.caibaojian.com/49803.html) （开发者头条）
-* [编码习惯之 Controller 规范](http://hao.caibaojian.com/49831.html) （ImportNew）
-* [解读 DOMContentLoaded 与 load 事件](http://hao.caibaojian.com/49788.html) （推酷网）
-* [区块链在版权保护方面的探索与实践](http://hao.caibaojian.com/49805.html) （开发者头条）
+* [你做的拷贝是真的深拷贝吗？](http://hao.caibaojian.com/49875.html) （开发者头条）
+* [在 Google 为开发者做用户体验设计是一种怎样的体验？](http://hao.caibaojian.com/49887.html) （开发者头条）
+* [Google 工程师一天需要写多少行代码](http://hao.caibaojian.com/49920.html) （伯乐头条）
+* [深入解析 Spark 中的 RPC](http://hao.caibaojian.com/49876.html) （开发者头条）
+* [基于空闲资源的弹性计算实践](http://hao.caibaojian.com/49888.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
