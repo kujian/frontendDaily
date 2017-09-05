@@ -1,45 +1,45 @@
-# [20170903 码农日报](http://hao.caibaojian.com/date/2017/09/03)
+# [20170904 码农日报](http://hao.caibaojian.com/date/2017/09/04)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [2017前端面试题大全（含答案）](http://hao.caibaojian.com/49928.html) （推酷网）
-* [基于 Java、Kafka、ElasticSearch 的搜索框架的设计与实现](http://hao.caibaojian.com/49948.html) （开发者头条）
-* [从这两套题，重新认识JS的this、作用域、闭包、对象](http://hao.caibaojian.com/49931.html) （推酷网）
-* [vue.js环境配置以及实例运行简明教程](http://hao.caibaojian.com/49934.html) （推酷网）
-* [Universal Link 前端部署采坑记](http://hao.caibaojian.com/49958.html) （开发者头条）
+* [Angular vs React：谁更适合前端开发](http://hao.caibaojian.com/49989.html) （推酷网）
+* [jquery === 面条式代码？](http://hao.caibaojian.com/49987.html) （推酷网）
+* [js 深拷贝 vs 浅拷贝](http://hao.caibaojian.com/49985.html) （推酷网）
+* [JS高级技巧](http://hao.caibaojian.com/49988.html) （推酷网）
+* [Riot 3.7.0 发布，JavaScript 的 MVP 框架](http://hao.caibaojian.com/49990.html) （推酷网）
 
 ***
-* [说点Angular Cli打包的事](http://hao.caibaojian.com/49929.html) （推酷网）
-* [从零构建 TCP/IP 协议（二）：连接，断开与拥塞控制](http://hao.caibaojian.com/49953.html) （开发者头条）
-* [Webpack入门 以及 CSS模块化](http://hao.caibaojian.com/49925.html) （推酷网）
-* [Vue.js 2.0 快速上手精华梳理](http://hao.caibaojian.com/49926.html) （推酷网）
-* [写 CSS 的姿势](http://hao.caibaojian.com/50004.html) （IT程序狮）
+* [视频编解码的过去、现在和未来](http://hao.caibaojian.com/50034.html) （开发者头条）
+* [无限容量数据库架构设计](http://hao.caibaojian.com/50028.html) （开发者头条）
+* [MySQL 索引实战经验总结](http://hao.caibaojian.com/50039.html) （开发者头条）
+* [持续交付 2.0：云原生持续交付](http://hao.caibaojian.com/50043.html) （开发者头条）
+* [从Vue.js源码角度再看数据绑定](http://hao.caibaojian.com/49986.html) （推酷网）
 
 ***
-* [在工作中学习](http://hao.caibaojian.com/49975.html) （开发者头条）
-* [如何遍历JavaScript中对象属性](http://hao.caibaojian.com/49933.html) （推酷网）
-* [QA：使用深度学习算法实现的中文问答系统](http://hao.caibaojian.com/49956.html) （开发者头条）
-* [深度学习岗位面试问题整理笔记](http://hao.caibaojian.com/49957.html) （开发者头条）
-* [开始CSS模块](http://hao.caibaojian.com/49927.html) （推酷网）
+* [CSS布局方案](http://hao.caibaojian.com/50067.html) （全栈开发者）
+* [最全前端性能优化秘籍（一）](http://hao.caibaojian.com/50041.html) （开发者头条）
+* [也许你不相信，Oracle竟然是世界上最大的开源公司](http://hao.caibaojian.com/50069.html) （全栈开发者）
+* [css专题学习-浏览器兼容性问题目录](http://hao.caibaojian.com/50083.html) （前端开发博客）
+* [编程，更多？更好？更快？](http://hao.caibaojian.com/50030.html) （开发者头条）
 
 ***
-* [简单聊聊搜索](http://hao.caibaojian.com/49950.html) （开发者头条）
-* [AST 业界实现收集整理](http://hao.caibaojian.com/49976.html) （开发者头条）
-* [Linux 系统上的可视化比较与合并工具 Meld](http://hao.caibaojian.com/50008.html) （伯乐在线官方微博）
-* [JavaScript 轻量级函数式编程（第 5 章）：减少副作用](http://hao.caibaojian.com/49978.html) （开发者头条）
-* [如何使用高大上的方法调参数](http://hao.caibaojian.com/49954.html) （开发者头条）
+* [统一回复〈怎么学JavaScript？〉](http://hao.caibaojian.com/50073.html) （前端大全）
+* [无论是面向端的应用](http://hao.caibaojian.com/50076.html) （程序员俱乐部）
+* [wtfPython：一组有趣、微妙、复杂的 Python 代码片段](http://hao.caibaojian.com/50033.html) （开发者头条）
+* [Go 语言中没有引用传递](http://hao.caibaojian.com/50045.html) （开发者头条）
+* [除了华为新食堂，全中国员工食堂就服这几家](http://hao.caibaojian.com/50077.html) （IT程序猿）
 
 ***
-* [JS中几种循环的区别与相同点](http://hao.caibaojian.com/49932.html) （推酷网）
-* [点我达大数据业务介绍](http://hao.caibaojian.com/49955.html) （开发者头条）
-* [Jodd 一 款优雅的 Java 工具集](http://hao.caibaojian.com/49998.html) （ImportNew）
-* [三个开源项目使得Kubernetes使用易如反掌](http://hao.caibaojian.com/49999.html) （Docker精选）
-* [8600 万澳元的大项目，网友用 57 行代码就搞定](http://hao.caibaojian.com/49935.html) （推酷网）
+* [沪江网校前端架构漫谈](http://hao.caibaojian.com/50046.html) （开发者头条）
+* [ICO本质上是未经批准非法公开融资行为](http://hao.caibaojian.com/50078.html) （伯乐头条）
+* [HashedWheelTimer 算法详解](http://hao.caibaojian.com/50035.html) （开发者头条）
+* [Kubernetes是否存在“杀敌一千，自损八百”的问题](http://hao.caibaojian.com/50066.html) （Docker精选）
+* [甲骨文解雇所有 Solaris 技术员工](http://hao.caibaojian.com/50079.html) （伯乐头条）
 
 ***
-* [IT公司不为人知的秘密](http://hao.caibaojian.com/50000.html) （全栈开发者）
-* [关于操作 Python 列表最常见的 10 个问答](http://hao.caibaojian.com/49949.html) （开发者头条）
-* [由浅入深学习 Lisp 宏（理论篇）](http://hao.caibaojian.com/49960.html) （开发者头条）
-* [Java 会比 Go 长寿？编程语言的生命周期要如何判断](http://hao.caibaojian.com/50006.html) （开源中国）
-* [无论趋势怎么变，掌握这些设计节奏就不怕过时](http://hao.caibaojian.com/50007.html) （优秀网页设计）
+* [利用 Spring Cloud 实现微服务（三）：业务领域驱动微服务设计](http://hao.caibaojian.com/50036.html) （开发者头条）
+* [虚拟 DOM 介绍](http://hao.caibaojian.com/50080.html) （IT程序狮）
+* [Android WebView 中的 Html 网页定位操作](http://hao.caibaojian.com/50037.html) （开发者头条）
+* [程序员之冷笑话](http://hao.caibaojian.com/50068.html) （全栈开发者）
+* [Visual Inspector](http://hao.caibaojian.com/50082.html) （IT程序狮）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
