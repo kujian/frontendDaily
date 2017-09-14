@@ -1,45 +1,45 @@
-# [20170912 码农日报](http://hao.caibaojian.com/date/2017/09/12)
+# [20170913 码农日报](http://hao.caibaojian.com/date/2017/09/13)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [使用 Chrome DevTools 调试 JavaScript](http://hao.caibaojian.com/50929.html) （稀土掘金）
-* [前端性能优化之加载技术](http://hao.caibaojian.com/50925.html) （稀土掘金）
-* [如何快速把 Vue 项目升级到 webpack3](http://hao.caibaojian.com/50917.html) （稀土掘金）
-* [Javascript 代码重构，美化你代码](http://hao.caibaojian.com/50919.html) （稀土掘金）
-* [CSS Checkbox 合集](http://hao.caibaojian.com/50930.html) （稀土掘金）
+* [Facebook 和 GitHub 两大巨头联手推出 Atom-IDE](http://hao.caibaojian.com/51035.html) （稀土掘金）
+* [Node.JS中如何快速扫描端口并发现局域网内的Web服务器地址（80）](http://hao.caibaojian.com/51016.html) （推酷网）
+* [聊聊那些使用前端Javascript实现的机器学习类库](http://hao.caibaojian.com/51020.html) （推酷网）
+* [iPhone X 交互设计官方指南](http://hao.caibaojian.com/51073.html) （开发者头条）
+* [史上最通俗易懂的人工智能概念解释](http://hao.caibaojian.com/51076.html) （开发者头条）
 
 ***
-* [vue应用产品之iShow H5编辑器](http://hao.caibaojian.com/50894.html) （推酷网）
-* [当 webpack 遇上 symlink](http://hao.caibaojian.com/50884.html) （SegmentFault）
-* [用Nodejs开发命令行工具](http://hao.caibaojian.com/50927.html) （稀土掘金）
-* [一步步带你做vue后台管理框架(二)——上手使用](http://hao.caibaojian.com/50923.html) （稀土掘金）
-* [Dagger2 神器入门（四）](http://hao.caibaojian.com/50990.html) （ImportNew）
+* [使用 pprof 和火焰图调试 Golang 应用](http://hao.caibaojian.com/51067.html) （开发者头条）
+* [走向 JavaScript 函数式编程](http://hao.caibaojian.com/51115.html) （IT程序狮）
+* [JS计算字符串所占字节数](http://hao.caibaojian.com/51015.html) （推酷网）
+* [深入 JavaScript 数组：进化与性能](http://hao.caibaojian.com/51033.html) （稀土掘金）
+* [BetterScroll：在移动端滚动场景的应用](http://hao.caibaojian.com/51018.html) （推酷网）
 
 ***
-* [Facebook发布JavaScript包管理器Yarn 1.0](http://hao.caibaojian.com/50898.html) （推酷网）
-* [node.js &#8211; 收藏集 &#8211; 掘金](http://hao.caibaojian.com/50920.html) （稀土掘金）
-* [FEX 技术周刊 &#8211; 2017/09/11](http://hao.caibaojian.com/50899.html) （推酷网）
-* [elasticsearch-js：ElasticSearch 的前端工具类](http://hao.caibaojian.com/50963.html) （开发者头条）
-* [Car2go 如何选择前端框架](http://hao.caibaojian.com/50893.html) （推酷网）
+* [用函数式编程对JavaScript进行断舍离](http://hao.caibaojian.com/51037.html) （稀土掘金）
+* [使用 Docker 搭建简易的 Java Web 环境 (二)](http://hao.caibaojian.com/51004.html) （SegmentFault）
+* [C# 最佳工具集合：IDE、分析、自动化工具等](http://hao.caibaojian.com/51061.html) （开发者头条）
+* [前端实现导出数据到excel文件](http://hao.caibaojian.com/51038.html) （稀土掘金）
+* [警惕：重 Java 轻 SQL 乃性能大忌](http://hao.caibaojian.com/51055.html) （开发者头条）
 
 ***
-* [由 ECMA 规范解读 Javascript 可执行上下文概念](http://hao.caibaojian.com/50883.html) （SegmentFault）
-* [Java 中的十个 “单行代码编程”](http://hao.caibaojian.com/50958.html) （开发者头条）
-* [关于Node服务端渲染](http://hao.caibaojian.com/50916.html) （稀土掘金）
-* [js 的正则表达式](http://hao.caibaojian.com/50895.html) （推酷网）
-* [王者荣耀、NBA 突发支撑](http://hao.caibaojian.com/50959.html) （开发者头条）
+* [Facebook 和 GitHub 两大巨头联手推出 Atom IDE](http://hao.caibaojian.com/51113.html) （伯乐头条）
+* [关于一致性协议、分布式锁以及如何使用分布式锁](http://hao.caibaojian.com/51057.html) （开发者头条）
+* [Docker 容器如何进行资源控制和验证？](http://hao.caibaojian.com/51069.html) （开发者头条）
+* [十个免费的web前端开发工具](http://hao.caibaojian.com/51034.html) （稀土掘金）
+* [甲骨文要改变 Java 发布频率，将每半年发布一个版本](http://hao.caibaojian.com/51103.html) （ImportNew）
 
 ***
-* [京东PLUS会员移动端改版实战](http://hao.caibaojian.com/50928.html) （稀土掘金）
-* [Go 在百万亿级搜索引擎中的应用](http://hao.caibaojian.com/50972.html) （开发者头条）
-* [搜索策略A/B测试总结](http://hao.caibaojian.com/50888.html) （SegmentFault）
-* [去哪儿网基于Mesos和Docker构建私有云服务的实践](http://hao.caibaojian.com/50992.html) （Docker精选）
-* [Angular做一个笔记文章管理应用](http://hao.caibaojian.com/50889.html) （推酷网）
+* [null &gt;=0 ? true：false](http://hao.caibaojian.com/51017.html) （推酷网）
+* [Now 直播发现页短视频瀑布流优化](http://hao.caibaojian.com/51070.html) （开发者头条）
+* [Now UI Kit](http://hao.caibaojian.com/51116.html) （IT程序狮）
+* [NG-ZORRO 0.5.0 发布，Ant Design 的 Angular 4.0 实现](http://hao.caibaojian.com/51019.html) （推酷网）
+* [Redux 中间件对闭包的一个巧妙使用](http://hao.caibaojian.com/51072.html) （开发者头条）
 
 ***
-* [MongooseJS 4.11.11 发布，MongoDB 连接包](http://hao.caibaojian.com/50900.html) （推酷网）
-* [区块链是如何工作的——用JavaScript演示](http://hao.caibaojian.com/50922.html) （稀土掘金）
-* [用 Java 写一个 JVM（一）：刚好够运行 HelloWorld](http://hao.caibaojian.com/50954.html) （开发者头条）
-* [Windows上安装nvm&#8211;nodejs版本管理器](http://hao.caibaojian.com/50901.html) （推酷网）
-* [UIWebView 代码注入时机与姿势（iOS）](http://hao.caibaojian.com/50965.html) （开发者头条）
+* [Python 的类和对象入门级讲解](http://hao.caibaojian.com/51062.html) （开发者头条）
+* [数据异构的武器-BINLOG+MQ](http://hao.caibaojian.com/51119.html) （伯乐在线官方微博）
+* [基于 Electron 的爬虫框架 Nightmare](http://hao.caibaojian.com/51063.html) （开发者头条）
+* [为提高用户体验，Yelp 是如何无损压缩图片的](http://hao.caibaojian.com/51120.html) （伯乐在线官方微博）
+* [Android 端基于 OpenCV 的边框识别功能](http://hao.caibaojian.com/51007.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
