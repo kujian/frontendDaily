@@ -1,45 +1,45 @@
-# [20170915 码农日报](http://hao.caibaojian.com/date/2017/09/15)
+# [20170916 码农日报](http://hao.caibaojian.com/date/2017/09/16)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [手把手 | 30行JavaScript代码，教你分分钟创建神经网络](http://hao.caibaojian.com/51251.html) （推酷网）
-* [Vue中的路由：分页获取数据以及路由更新](http://hao.caibaojian.com/51270.html) （稀土掘金）
-* [Vue组件库的那些事儿，你都知道吗？](http://hao.caibaojian.com/51274.html) （稀土掘金）
-* [五年 Web 开发者 star 的 github 整理说明](http://hao.caibaojian.com/51254.html) （推酷网）
-* [程序世界里的不信任原则](http://hao.caibaojian.com/51317.html) （开发者头条）
+* [Node.js 8.5 正式发布，新特性一览](http://hao.caibaojian.com/51362.html) （推酷网）
+* [GitHub 上最火的 PHP 框架](http://hao.caibaojian.com/51417.html) （IT程序猿）
+* [AjaxUpload v1.3.0 发布，Javascript 异步上传插件](http://hao.caibaojian.com/51359.html) （推酷网）
+* [给程序员看的Javascript攻略（完结）－ 异步](http://hao.caibaojian.com/51361.html) （推酷网）
+* [新时代的web与app开发](http://hao.caibaojian.com/51379.html) （稀土掘金）
 
 ***
-* [使用 CSS 栅格和 Flexbox 打造 Trello 布局](http://hao.caibaojian.com/51277.html) （稀土掘金）
-* [JavaScript实现自动重连和Web技术实现移动监测](http://hao.caibaojian.com/51349.html) （前端开发博客）
-* [工具 | 代码调试利器fiddle介绍](http://hao.caibaojian.com/51281.html) （稀土掘金）
-* [响应式 Web 应用（二）](http://hao.caibaojian.com/51253.html) （推酷网）
-* [Swift-MMP：Swift 语言编写的 Material Design 风格的 iOS 流媒体音乐播放器](http://hao.caibaojian.com/51323.html) （开发者头条）
+* [简易版jQuery——mQuery](http://hao.caibaojian.com/51365.html) （推酷网）
+* [翻译连载 | JavaScript轻量级函数式编程-第 8 章：列表操作 |《你不知道的JS》姊妹篇](http://hao.caibaojian.com/51384.html) （稀土掘金）
+* [用threejs制作一款简单的赛车游戏](http://hao.caibaojian.com/51360.html) （推酷网）
+* [代码质量管控 &#8212; 复杂度检测](http://hao.caibaojian.com/51377.html) （稀土掘金）
+* [Immutable.js与React,Redux及reselect的实践](http://hao.caibaojian.com/51380.html) （稀土掘金）
 
 ***
-* [Immutable.js与React和Redux实践](http://hao.caibaojian.com/51250.html) （推酷网）
-* [500px技术周报003](http://hao.caibaojian.com/51252.html) （推酷网）
-* [一份关于任何可以写入到你的文档中 &lt;head&gt; 部分的清单](http://hao.caibaojian.com/51272.html) （稀土掘金）
-* [中国程序员如何升职加薪，也许我们该学学印度人](http://hao.caibaojian.com/51314.html) （开发者头条）
-* [【技术分享】妙用JavaScript绕过XSS过滤](http://hao.caibaojian.com/51260.html) （推酷网）
+* [Oracle 要将 Java EE 移交给 Eclipse 基金会](http://hao.caibaojian.com/51410.html) （Linux中国）
+* [JAreaSelect 2.0.1，JavaScript 省市区三级联动选择插件](http://hao.caibaojian.com/51364.html) （推酷网）
+* [『翻译』基于 Vue.js 与 Webpack 的三种代码分割范式](http://hao.caibaojian.com/51382.html) （稀土掘金）
+* [Python集合使用详解](http://hao.caibaojian.com/51413.html) （程序员俱乐部）
+* [WordPress 决定停止使用 React](http://hao.caibaojian.com/51374.html) （稀土掘金）
 
 ***
-* [浅谈浏览器本地存储-indexedDB](http://hao.caibaojian.com/51261.html) （推酷网）
-* [甲骨文正式宣布将 Java EE 移交给 Eclipse 基金会](http://hao.caibaojian.com/51341.html) （ImportNew）
-* [跨页面通信的各种姿势](http://hao.caibaojian.com/51264.html) （稀土掘金）
-* [四个小视频，带你走出React表单的哪些坑](http://hao.caibaojian.com/51275.html) （稀土掘金）
-* [学习 JavaScript：9 个常见错误阻碍你进步](http://hao.caibaojian.com/51265.html) （稀土掘金）
+* [Elasticsearch 压测方案之 esrally 简介](http://hao.caibaojian.com/51358.html) （SegmentFault）
+* [15个超强的jQuery/HTML5图片轮播插件](http://hao.caibaojian.com/51416.html) （程序员俱乐部）
+* [ES6 | JavaScript中的类class](http://hao.caibaojian.com/51375.html) （稀土掘金）
+* [技术领导者即服务](http://hao.caibaojian.com/51400.html) （开发者头条）
+* [【基础】实现一个Person和他的子类Student](http://hao.caibaojian.com/51376.html) （稀土掘金）
 
 ***
-* [css3 pointer-events 介绍](http://hao.caibaojian.com/51276.html) （稀土掘金）
-* [从 PHP 源码与扩展开发谈 PHP 任意代码执行与防御](http://hao.caibaojian.com/51318.html) （开发者头条）
-* [项目实战：知识图谱初探](http://hao.caibaojian.com/51319.html) （开发者头条）
-* [zzz 周刊 &#8211; 第 1021 期 &#8211; LoveLive](http://hao.caibaojian.com/51267.html) （稀土掘金）
-* [工具 | 推荐 VSCode 开发工具](http://hao.caibaojian.com/51278.html) （稀土掘金）
+* [vue-bnhcp：基于 Vue + Nuxt 打造的 O2O 教育商城系统](http://hao.caibaojian.com/51401.html) （开发者头条）
+* [那些年你“听不懂”的安全名词](http://hao.caibaojian.com/51418.html) （IT程序猿）
+* [百度又双送免费票啦](http://hao.caibaojian.com/51407.html) （InfoQ）
+* [数据库索引设计与优化](http://hao.caibaojian.com/51419.html) （酷勤网-程序员的那点事）
+* [《美团点评前端技术体系的思考与实践》知乎 live 文字稿](http://hao.caibaojian.com/51378.html) （稀土掘金）
 
 ***
-* [用 Docker 定制你的 Golang 开发环境](http://hao.caibaojian.com/51320.html) （开发者头条）
-* [Hexo主题开发经验杂谈](http://hao.caibaojian.com/51268.html) （稀土掘金）
-* [网络安全 | 如何预防网站被DoS攻击](http://hao.caibaojian.com/51280.html) （稀土掘金）
-* [.NET 及 .NET Core 系统架构](http://hao.caibaojian.com/51322.html) （开发者头条）
-* [有关placeholder在ie9中的一点折腾](http://hao.caibaojian.com/51271.html) （稀土掘金）
+* [性能及自动化测试篇](http://hao.caibaojian.com/51408.html) （慕课网）
+* [APPLE 官方的图层命名方法之控制器篇](http://hao.caibaojian.com/51420.html) （优秀网页设计）
+* [Docker 日志的5个最佳实践](http://hao.caibaojian.com/51409.html) （Docker精选）
+* [野狗实时云使用](http://hao.caibaojian.com/51363.html) （推酷网）
+* [人家的闹钟APP为何设计得如此有意思](http://hao.caibaojian.com/51421.html) （优秀网页设计）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
