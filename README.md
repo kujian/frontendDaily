@@ -1,45 +1,45 @@
-# [20170919 码农日报](http://hao.caibaojian.com/date/2017/09/19)
+# [20170920 码农日报](http://hao.caibaojian.com/date/2017/09/20)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [【React系列】如何构建React应用程序](http://hao.caibaojian.com/51600.html) （SegmentFault）
-* [【翻译】19种JS高效缩写法](http://hao.caibaojian.com/51670.html) （SegmentFault）
-* [JS中将变量转为字符串](http://hao.caibaojian.com/51616.html) （推酷网）
-* [程序员神一样的存在：JavaScript 乱码艺术](http://hao.caibaojian.com/51610.html) （推酷网）
-* [前端框架模式的变迁](http://hao.caibaojian.com/51680.html) （稀土掘金）
+* [一步步带你做vue后台管理框架(三)——登录功能](http://hao.caibaojian.com/51759.html) （推酷网）
+* [为处理升级过程的问题 Angular 5 将会推迟发布](http://hao.caibaojian.com/51762.html) （推酷网）
+* [JavaScriptCore 开发相关 &#8211; 目录](http://hao.caibaojian.com/51760.html) （推酷网）
+* [CoffeeScript 2.0.0 正式发布，编译成 JS 的小巧语言](http://hao.caibaojian.com/51761.html) （推酷网）
+* [60 行 JS 代码搞定一个下拉刷新组件](http://hao.caibaojian.com/51748.html) （推酷网）
 
 ***
-* [深入理解 js this 绑定 ( 无需死记硬背，尾部有总结和面试题解析 )](http://hao.caibaojian.com/51599.html) （SegmentFault）
-* [react 写的一个快递查询、电影头条](http://hao.caibaojian.com/51645.html) （稀土掘金）
-* [Web 的现状：网页性能提升指南](http://hao.caibaojian.com/51595.html) （SegmentFault）
-* [你不知道的CSS（三）](http://hao.caibaojian.com/51644.html) （稀土掘金）
-* [Anime.js 2.1.0 发布，轻量级 JavaScript 动画库](http://hao.caibaojian.com/51615.html) （推酷网）
+* [Rem自适应js-优化flexible.js](http://hao.caibaojian.com/51840.html) （前端开发博客）
+* [在Vue中使用高德地图API](http://hao.caibaojian.com/51751.html) （推酷网）
+* [DOClever：可能是目前最好用的接口管理平台](http://hao.caibaojian.com/51789.html) （开发者头条）
+* [IOING在开发SPA大型应用时有哪些必要的技术条件？](http://hao.caibaojian.com/51745.html) （SegmentFault）
+* [W3C正式将DRM保护纳入HTML5建议标准](http://hao.caibaojian.com/51756.html) （推酷网）
 
 ***
-* [去哪儿网迷你React的研发心得](http://hao.caibaojian.com/51668.html) （SegmentFault）
-* [67 个节省前端开发者时间的实用工具、库与资源](http://hao.caibaojian.com/51697.html) （开发者头条）
-* [性能优化之组件懒加载: Vue Lazy Component 介绍](http://hao.caibaojian.com/51609.html) （推酷网）
-* [【 js 基础 】为什么 call 比 apply 快？](http://hao.caibaojian.com/51673.html) （稀土掘金）
-* [基于web创建逼真的3D图形 | CSS技巧](http://hao.caibaojian.com/51633.html) （稀土掘金）
+* [Java Server APM sky-walking 3.2 发布](http://hao.caibaojian.com/51793.html) （开发者头条）
+* [Web开发中的](http://hao.caibaojian.com/51839.html) （前端开发博客）
+* [微服务生态系统的 4 层模型](http://hao.caibaojian.com/51784.html) （开发者头条）
+* [从 JDK 源码角度看 Long](http://hao.caibaojian.com/51785.html) （开发者头条）
+* [Android 解析 JSON，你真的需要三方库？](http://hao.caibaojian.com/51786.html) （开发者头条）
 
 ***
-* [CoffeeScript 2 发布](http://hao.caibaojian.com/51634.html) （稀土掘金）
-* [基于 Laravel 5.5 + Vue 2.1 构建的开发笔记记录系统 —— Code 好事](http://hao.caibaojian.com/51612.html) （推酷网）
-* [Prettier 1.7.0 发布，前端代码格式化“神器”](http://hao.caibaojian.com/51614.html) （推酷网）
-* [Vue 2.0学习笔记：Vue的运行环境](http://hao.caibaojian.com/51604.html) （推酷网）
-* [colority.js —— (~1kb) library to extract colors from pictures.](http://hao.caibaojian.com/51629.html) （稀土掘金）
+* [Table组件中slot内容的跨级传递](http://hao.caibaojian.com/51752.html) （推酷网）
+* [PHP 7 新特性（完结篇）](http://hao.caibaojian.com/51787.html) （开发者头条）
+* [JVM 系列（五）：Java GC 分析](http://hao.caibaojian.com/51777.html) （开发者头条）
+* [使用 puppeteer 截图及线上问题调试](http://hao.caibaojian.com/51755.html) （推酷网）
+* [为什么说 Flutter 是革命性的？](http://hao.caibaojian.com/51779.html) （开发者头条）
 
 ***
-* [如何看待百度要求内部全面停止使用 React / React Native？](http://hao.caibaojian.com/51696.html) （开发者头条）
-* [一篇包含了react所有基本点的文章](http://hao.caibaojian.com/51596.html) （SegmentFault）
-* [腾讯IMweb Conf 2017大会图文笔记 &#8212; 下](http://hao.caibaojian.com/51641.html) （稀土掘金）
-* [我跟存储的这 10 年](http://hao.caibaojian.com/51698.html) （开发者头条）
-* [java降低竞争锁的一些方法](http://hao.caibaojian.com/51598.html) （SegmentFault）
+* [大数据计数原理 1+0=1 这你都不会算（四）](http://hao.caibaojian.com/51780.html) （开发者头条）
+* [【翻译】19种JS高（炫）效（技）缩写法](http://hao.caibaojian.com/51746.html) （SegmentFault）
+* [SSH电商项目实战之六：基于DataGrid的数据显示](http://hao.caibaojian.com/51757.html) （推酷网）
+* [React Beautiful DnD](http://hao.caibaojian.com/51838.html) （IT程序狮）
+* [Emscripten教程之优化你的代码](http://hao.caibaojian.com/51747.html) （SegmentFault）
 
 ***
-* [CQRS 初探](http://hao.caibaojian.com/51701.html) （开发者头条）
-* [关于Facebook 的 React 专利许可证 &#8211; 陈皓](http://hao.caibaojian.com/51676.html) （稀土掘金）
-* [《一步步带你做vue后台管理框架》——登录功能](http://hao.caibaojian.com/51677.html) （稀土掘金）
-* [浅析负载均衡及 LVS 实现](http://hao.caibaojian.com/51705.html) （开发者头条）
-* [苹果还像过去一样在意细节吗](http://hao.caibaojian.com/51740.html) （优秀网页设计）
+* [程序员常讲的「直出」是个什么鬼？](http://hao.caibaojian.com/51758.html) （推酷网）
+* [上层应用开发是否真的没有底层开发有前途？](http://hao.caibaojian.com/51783.html) （开发者头条）
+* [Vue 2.0学习笔记：v-if 和 v-show](http://hao.caibaojian.com/51749.html) （推酷网）
+* [靠着吉祥物，这款闹钟App成功俘获了用户的心](http://hao.caibaojian.com/51842.html) （优秀网页设计）
+* [Kubernetes会重蹈OpenStack的覆辙吗，看OpenStack基金会COO Mark怎么说](http://hao.caibaojian.com/51831.html) （Docker精选）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
