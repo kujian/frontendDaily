@@ -1,45 +1,45 @@
-# [20170922 码农日报](http://hao.caibaojian.com/date/2017/09/22)
+# [20170923 码农日报](http://hao.caibaojian.com/date/2017/09/23)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端 排序算法总结](http://hao.caibaojian.com/51960.html) （SegmentFault）
-* [HTML&amp;CSS Lesson5: 定位](http://hao.caibaojian.com/51957.html) （SegmentFault）
-* [JavaScript 与 异步编程](http://hao.caibaojian.com/51959.html) （SegmentFault）
-* [Laravel 5.1 之美 &#8211; 单元测试](http://hao.caibaojian.com/51958.html) （SegmentFault）
-* [Android 字体修改，所有的细节都在这里 | 开篇](http://hao.caibaojian.com/51955.html) （SegmentFault）
+* [Facebook 将重新修改 React, Jest, Flow 和 Immutable.js 授权协议](http://hao.caibaojian.com/52086.html) （开发者头条）
+* [工具推荐 | 给 Web 开发者推荐的文档生成工具](http://hao.caibaojian.com/52052.html) （推酷网）
+* [GitHub 值得收藏的前端项目](http://hao.caibaojian.com/52050.html) （推酷网）
+* [Spring Boot &#8211; 表单校验（JSR303&amp;Hibernate Validator）](http://hao.caibaojian.com/52060.html) （SegmentFault）
+* [Vue 2.0学习笔记：v-for](http://hao.caibaojian.com/52047.html) （推酷网）
 
 ***
-* [SegmentFault 技术周刊 Vol.34 &#8211; 酷炫的 iOS](http://hao.caibaojian.com/51956.html) （SegmentFault）
-* [iOS 逆向工程及安全检查工具](http://hao.caibaojian.com/52002.html) （开发者头条）
-* [Node.js 异步异闻录](http://hao.caibaojian.com/51962.html) （推酷网）
-* [由插件封装引出的一丢丢思考](http://hao.caibaojian.com/51977.html) （SegmentFault）
-* [6 倍性能差 100TB 容量，阿里云 POLARDB 如何实现？](http://hao.caibaojian.com/52006.html) （开发者头条）
+* [CodeMirror 5.30.0 发布，在线代码编辑器](http://hao.caibaojian.com/52053.html) （推酷网）
+* [iOS 性能优化探讨](http://hao.caibaojian.com/52083.html) （开发者头条）
+* [前端够得到的Web安全&#8211;CSRF跨站请求伪造](http://hao.caibaojian.com/52061.html) （SegmentFault）
+* [Golang 语言编译的二进制可执行文件为什么比 C 语言大](http://hao.caibaojian.com/52062.html) （开发者头条）
+* [用 Python 分析《红楼梦》](http://hao.caibaojian.com/52066.html) （开发者头条）
 
 ***
-* [你好，SegmentFault 新导航 &amp;&amp; 【开发手册】; 再见，侧边导航栏](http://hao.caibaojian.com/51970.html) （SegmentFault）
-* [Spring Boot + Spring Cloud（五）：Hystrix 服务容错与保护](http://hao.caibaojian.com/52007.html) （开发者头条）
-* [轻松把你的项目升级到 PWA](http://hao.caibaojian.com/52008.html) （开发者头条）
-* [识别王者英雄：一个 PM 的机器学习入门之旅](http://hao.caibaojian.com/51998.html) （开发者头条）
-* [Kubernetes、微服务以及 Service Mesh](http://hao.caibaojian.com/52009.html) （开发者头条）
+* [TensorFlow 集成 Android 工程的框架](http://hao.caibaojian.com/52080.html) （开发者头条）
+* [【技术分享】利用感染的PPT文件绕过UAC策略](http://hao.caibaojian.com/52051.html) （推酷网）
+* [360 内部监控系统 “Wonder 实践之路”](http://hao.caibaojian.com/52070.html) （开发者头条）
+* [没有报酬，有多少开源项目维护者能坚持](http://hao.caibaojian.com/52141.html) （伯乐在线官方微博）
+* [dubbo 源码解析：集群容错架构设计](http://hao.caibaojian.com/52071.html) （开发者头条）
 
 ***
-* [手写可配置的express &amp; nodejs的代理](http://hao.caibaojian.com/51973.html) （SegmentFault）
-* [webpack-multi-page：webpack 前端多页项目工程](http://hao.caibaojian.com/52010.html) （开发者头条）
-* [从0实现一个tinyredux](http://hao.caibaojian.com/51974.html) （SegmentFault）
-* [jquery点击滑动到某个位置](http://hao.caibaojian.com/52042.html) （前端开发博客）
-* [如何优雅地升级内核？](http://hao.caibaojian.com/52000.html) （开发者头条）
+* [精益价值、原则和软件实践（上）](http://hao.caibaojian.com/52084.html) （开发者头条）
+* [腾讯 FPGA 云背后的技术](http://hao.caibaojian.com/52074.html) （开发者头条）
+* [苹果 AR 人机界面设计指南](http://hao.caibaojian.com/52085.html) （开发者头条）
+* [Service Mesh 服务网格新生代：Istio](http://hao.caibaojian.com/52087.html) （开发者头条）
+* [CSS粘住固定底部的5种方法](http://hao.caibaojian.com/52137.html) （前端开发博客）
 
 ***
-* [Kubernetes网络概述](http://hao.caibaojian.com/52030.html) （Docker精选）
-* [PHP 怎样在同一个域名下两个不同的项目做独立的登录机制？](http://hao.caibaojian.com/51975.html) （SegmentFault）
-* [html2canvas将HTML内容写入Canvas生成图片](http://hao.caibaojian.com/52043.html) （前端开发博客）
-* [用 Go 进行区块链开发（一）：基本原型](http://hao.caibaojian.com/52001.html) （开发者头条）
-* [Flask 中模块化应用的实现](http://hao.caibaojian.com/52031.html) （Python开发者）
+* [简明 Python 教程](http://hao.caibaojian.com/52077.html) （开发者头条）
+* [Node.js 性能调优之调试篇(二)——Visual Studio Code](http://hao.caibaojian.com/52048.html) （推酷网）
+* [Flask 中的蓝图管理](http://hao.caibaojian.com/52128.html) （Python开发者）
+* [Android 原生开发工具包 r16 正式发布](http://hao.caibaojian.com/52081.html) （开发者头条）
+* [如何使用 Flexbox 和 CSS Grid，实现高效布局](http://hao.caibaojian.com/52129.html) （前端大全）
 
 ***
-* [JavaScript 在 V8 中的元素种类及性能优化](http://hao.caibaojian.com/51976.html) （SegmentFault）
-* [终于，期待已久的 Java 9 正式发布了](http://hao.caibaojian.com/52044.html) （开源中国）
-* [Python 中的作用域规则和闭包简析](http://hao.caibaojian.com/52032.html) （Python开发者）
-* [Sketch 新出了Libraries功能，以后团队协作更方便了](http://hao.caibaojian.com/52045.html) （优秀网页设计）
-* [一些非常有用的 VSCode 扩展](http://hao.caibaojian.com/52003.html) （开发者头条）
+* [Redux 的问题：React、MobX 和 Realm 能解决吗？](http://hao.caibaojian.com/52082.html) （开发者头条）
+* [知名网站的 404 页面长啥样](http://hao.caibaojian.com/52130.html) （前端大全）
+* [机器学习实战：数据探索（异常值处理）](http://hao.caibaojian.com/52072.html) （开发者头条）
+* [如何正确配置 Nginx + PHP](http://hao.caibaojian.com/52132.html) （程序员俱乐部）
+* [使用 bcc/BPF 分析 Go 程序](http://hao.caibaojian.com/52073.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
