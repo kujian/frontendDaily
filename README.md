@@ -1,45 +1,45 @@
-# [20170926 码农日报](http://hao.caibaojian.com/date/2017/09/26)
+# [20170927 码农日报](http://hao.caibaojian.com/date/2017/09/27)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端必须要懂的浏览器缓存机制](http://hao.caibaojian.com/52409.html) （稀土掘金）
-* [前端系列——jquery前端国际化解决方案“填坑日记”](http://hao.caibaojian.com/52376.html) （推酷网）
-* [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](http://hao.caibaojian.com/52402.html) （稀土掘金）
-* [现代 JS 备忘录](http://hao.caibaojian.com/52400.html) （稀土掘金）
-* [腾讯校招前端三面,虐完继续撸|掘金技术征文](http://hao.caibaojian.com/52407.html) （稀土掘金）
+* [React v16.0 发布，许可证更换为 MIT](http://hao.caibaojian.com/52511.html) （稀土掘金）
+* [vue.js与其他前端框架的对比](http://hao.caibaojian.com/52486.html) （推酷网）
+* [前端高性能计算之二：asm.js &amp; webassembly](http://hao.caibaojian.com/52546.html) （开发者头条）
+* [CSS布局说——可能是最全的](http://hao.caibaojian.com/52460.html) （SegmentFault）
+* [从Facebook的React框架事件学习一下开源协议](http://hao.caibaojian.com/52512.html) （稀土掘金）
 
 ***
-* [Node.js 性能调优之调试篇(三)——三款实用调试工具](http://hao.caibaojian.com/52374.html) （推酷网）
-* [简单案例学习使用vue-router](http://hao.caibaojian.com/52408.html) （稀土掘金）
-* [理解Promise的3种姿势](http://hao.caibaojian.com/52401.html) （稀土掘金）
-* [CSS 布局说（可能是最全的）](http://hao.caibaojian.com/52432.html) （开发者头条）
-* [夯实JS系列&#8211;变量、作用域和内存问题](http://hao.caibaojian.com/52405.html) （稀土掘金）
+* [考拉升级https经验](http://hao.caibaojian.com/52514.html) （稀土掘金）
+* [网站代码中暗藏JS挖矿机脚本](http://hao.caibaojian.com/52485.html) （推酷网）
+* [如何管理好10万行代码的前端单页面应用](http://hao.caibaojian.com/52505.html) （稀土掘金）
+* [全面了解Android热修复技术](http://hao.caibaojian.com/52458.html) （SegmentFault）
+* [Node.js 十问](http://hao.caibaojian.com/52487.html) （推酷网）
 
 ***
-* [FEX 技术周刊 &#8211; 2017/09/25](http://hao.caibaojian.com/52377.html) （推酷网）
-* [如何读懂火焰图？](http://hao.caibaojian.com/52435.html) （开发者头条）
-* [JS中的算法与数据结构——队列(Queue)](http://hao.caibaojian.com/52395.html) （稀土掘金）
-* [从 Template 到 DOM（Vue.js 源码角度看内部运行机制）](http://hao.caibaojian.com/52373.html) （推酷网）
-* [手把手教你构建 WebView 的缓存机制 &amp; 资源预加载方案（Android）](http://hao.caibaojian.com/52438.html) （开发者头条）
+* [vue中eventbus被多次触发（vue中使用eventbus踩过的坑）](http://hao.caibaojian.com/52518.html) （稀土掘金）
+* [Vue 2.0学习笔记：v-model](http://hao.caibaojian.com/52480.html) （推酷网）
+* [Nginx 架构初探](http://hao.caibaojian.com/52496.html) （开发者头条）
+* [BP 神经网络](http://hao.caibaojian.com/52550.html) （开发者头条）
+* [我如何将 Webpack 包大小缩减一半](http://hao.caibaojian.com/52489.html) （推酷网）
 
 ***
-* [JS语法： 由 ++[[]][+[]]+[+[]] = 10 引发的问题JS数据操作](http://hao.caibaojian.com/52398.html) （稀土掘金）
-* [浅谈前端中的过早优化问题](http://hao.caibaojian.com/52399.html) （稀土掘金）
-* [Vue双向绑定的实现原理Object.defineproperty](http://hao.caibaojian.com/52366.html) （推酷网）
-* [编程心智（一）：代码架构与系统架构](http://hao.caibaojian.com/52431.html) （开发者头条）
-* [ES6+ 中的 JavaScript 工厂函数（第八部分）](http://hao.caibaojian.com/52369.html) （推酷网）
+* [JavaScriptCore 整体介绍](http://hao.caibaojian.com/52490.html) （推酷网）
+* [从搭建工程讲到CSS Modules](http://hao.caibaojian.com/52510.html) （稀土掘金）
+* [MongooseJS 4.11.13发布，MongoDB 连接包](http://hao.caibaojian.com/52491.html) （推酷网）
+* [JavaScript是如何工作的：内存管理 + 如何处理4个常见的内存泄漏(译)](http://hao.caibaojian.com/52483.html) （推酷网）
+* [用25行JavaScript语句实现一个简单的编译器](http://hao.caibaojian.com/52503.html) （稀土掘金）
 
 ***
-* [ES6 Destructuring](http://hao.caibaojian.com/52403.html) （稀土掘金）
-* [Egg 1.9.0 发布，阿里开源的企业级 Node.js 框架](http://hao.caibaojian.com/52371.html) （推酷网）
-* [《王者荣耀》技术总监：我们为什么要在技术架构与网络同步方案上做出这些改变？](http://hao.caibaojian.com/52434.html) （开发者头条）
-* [HTML&amp;CSS Lesson1: 构建第一张页面](http://hao.caibaojian.com/52394.html) （稀土掘金）
-* [Tomcat 执行任意代码漏洞，请检查](http://hao.caibaojian.com/52436.html) （开发者头条）
+* [Vant &#8211; 高效的 Vue 组件库，再造一个有赞移动商城也不在话下](http://hao.caibaojian.com/52504.html) （稀土掘金）
+* [React 16.0.0 发布，去除专利条款，改用 MIT 许可证](http://hao.caibaojian.com/52507.html) （稀土掘金）
+* [PHP-X 系列教程：扩展内定义类和对象](http://hao.caibaojian.com/52459.html) （SegmentFault）
+* [基于 RequireJS 的跨项目共用前端组件方案](http://hao.caibaojian.com/52488.html) （推酷网）
+* [为什么要用深度学习来做个性化推荐 CTR 预估](http://hao.caibaojian.com/52548.html) （开发者头条）
 
 ***
-* [元素显隐切换过渡效果的实现](http://hao.caibaojian.com/52397.html) （稀土掘金）
-* [Nodejs文件上传](http://hao.caibaojian.com/52367.html) （推酷网）
-* [Go 在证券行情系统中的应用](http://hao.caibaojian.com/52430.html) （开发者头条）
-* [Vue全家桶实现一个购物Web App](http://hao.caibaojian.com/52368.html) （推酷网）
-* [HTML&amp;CSS Lesson4: 盒子模型](http://hao.caibaojian.com/52391.html) （稀土掘金）
+* [青芒 for Mac 客户端开发笔记](http://hao.caibaojian.com/52538.html) （开发者头条）
+* [Java 9 中的 GC 调优基础](http://hao.caibaojian.com/52549.html) （开发者头条）
+* [Vue.js源码——事件机制](http://hao.caibaojian.com/52481.html) （推酷网）
+* [用 Go 实现一个简单的恶意 ip 库](http://hao.caibaojian.com/52539.html) （开发者头条）
+* [keep-loader for webpack](http://hao.caibaojian.com/52482.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
