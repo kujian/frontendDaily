@@ -1,45 +1,45 @@
-# [20170929 码农日报](http://hao.caibaojian.com/date/2017/09/29)
+# [20170930 码农日报](http://hao.caibaojian.com/date/2017/09/30)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [使用 KUTE.js 实现有趣的 Web 动画效果](http://hao.caibaojian.com/52728.html) （推酷网）
-* [Webug通关攻略（二）](http://hao.caibaojian.com/52723.html) （推酷网）
-* [webpack 4: 新的变化1 (第24–25周)](http://hao.caibaojian.com/52754.html) （稀土掘金）
-* [前端切图 | 百度EUX](http://hao.caibaojian.com/52749.html) （稀土掘金）
-* [玩转 React（一）- 前言](http://hao.caibaojian.com/52753.html) （稀土掘金）
+* [我是怎么让网站用上HTML5 Manifest](http://hao.caibaojian.com/52854.html) （推酷网）
+* [JavaScript 版数据结构与算法（一）栈](http://hao.caibaojian.com/52844.html) （推酷网）
+* [node.js邮箱注册，激活，登陆相关案例](http://hao.caibaojian.com/52852.html) （推酷网）
+* [在 JavaScript 中使用构造器函数模拟类](http://hao.caibaojian.com/52853.html) （推酷网）
+* [JavaScript 版数据结构与算法（二）队列](http://hao.caibaojian.com/52843.html) （推酷网）
 
 ***
-* [玩转 React（三）- JavaScript代码里写HTML一样可以很优雅](http://hao.caibaojian.com/52716.html) （SegmentFault）
-* [React V15.6 实现一个简单的个人主页](http://hao.caibaojian.com/52718.html) （SegmentFault）
-* [JavaScript中奇特的~运算符](http://hao.caibaojian.com/52740.html) （稀土掘金）
-* [与时俱进版前端资源教程](http://hao.caibaojian.com/52721.html) （推酷网）
-* [粗暴的方式，替换全局字体](http://hao.caibaojian.com/52717.html) （SegmentFault）
+* [JavaScript 版数据结构与算法（三）链表](http://hao.caibaojian.com/52845.html) （推酷网）
+* [ES6 Promise：模式与反模式](http://hao.caibaojian.com/52847.html) （推酷网）
+* [JavaScript 版数据结构与算法（四）集合](http://hao.caibaojian.com/52842.html) （推酷网）
+* [ReactNative 到 Weex 的艰难一迈](http://hao.caibaojian.com/52880.html) （稀土掘金）
+* [Vue.js的从入门到放弃进击录（二）](http://hao.caibaojian.com/52840.html) （推酷网）
 
 ***
-* [【漏洞预警】Mac OS X存在Javascript沙箱绕过漏洞，可造成任意文件读取（含PoC）](http://hao.caibaojian.com/52722.html) （推酷网）
-* [JavaScript 异步队列实现及拓展](http://hao.caibaojian.com/52724.html) （推酷网）
-* [玩转 React（二）- 新型前端开发方式](http://hao.caibaojian.com/52752.html) （稀土掘金）
-* [2017秋招前端工程师百度阿里网易腾讯(全offer)面经|掘金技术征文](http://hao.caibaojian.com/52742.html) （稀土掘金）
-* [Promise 异步流程控制](http://hao.caibaojian.com/52744.html) （稀土掘金）
+* [手把手教你用React实现一个简单的个人博客](http://hao.caibaojian.com/52837.html) （SegmentFault）
+* [【JS】装饰器让你的代码更简洁](http://hao.caibaojian.com/52874.html) （稀土掘金）
+* [使用JSARToolKit5 开发AR应用 (1) 简介](http://hao.caibaojian.com/52850.html) （推酷网）
+* [前端小项目之在线便利贴](http://hao.caibaojian.com/52875.html) （稀土掘金）
+* [Node.js 性能调优之代码篇(四)—— 使用 Rust 编写 Node.js 扩展](http://hao.caibaojian.com/52851.html) （推酷网）
 
 ***
-* [2017 年如何在移动端优雅的使用 flex](http://hao.caibaojian.com/52745.html) （稀土掘金）
-* [为什么你应该停止使用 Git rebase 命令](http://hao.caibaojian.com/52783.html) （开发者头条）
-* [CoreFrameBuilder 1.7.9.27（跨运行时项目自动构建工具）](http://hao.caibaojian.com/52729.html) （推酷网）
-* [探索传统 JavaScript 基准测试](http://hao.caibaojian.com/52820.html) （Linux中国）
-* [call, apply, bind 函数能干啥？如何在日常搬砖中使用(zhuang b)？（全）](http://hao.caibaojian.com/52719.html) （SegmentFault）
+* [在Vue中有条件地使用CSS类](http://hao.caibaojian.com/52841.html) （推酷网）
+* [国外优秀区块链创业公司梳理](http://hao.caibaojian.com/52902.html) （开发者头条）
+* [To hup or not to hup](http://hao.caibaojian.com/52856.html) （推酷网）
+* [国内技术原创氛围为什么那么差？](http://hao.caibaojian.com/52905.html) （开发者头条）
+* [从 0 打造一个 GPUImage（一）](http://hao.caibaojian.com/52907.html) （开发者头条）
 
 ***
-* [《HelloGitHub》第 18 期](http://hao.caibaojian.com/52739.html) （稀土掘金）
-* [我是怎样让网站用上HTML5 Manifest](http://hao.caibaojian.com/52750.html) （稀土掘金）
-* [微服务从设计到部署（七）：重构单体为微服务](http://hao.caibaojian.com/52789.html) （开发者头条）
-* [移动前端知识总结](http://hao.caibaojian.com/52828.html) （前端开发博客）
-* [中小型研发团队架构实践三要点](http://hao.caibaojian.com/52773.html) （开发者头条）
+* [Chrome对自动播放作出变更](http://hao.caibaojian.com/52882.html) （稀土掘金）
+* [React16中的错误处理](http://hao.caibaojian.com/52873.html) （稀土掘金）
+* [天猫否认盗取代码，承认功能说明和文案抄袭](http://hao.caibaojian.com/52937.html) （伯乐头条）
+* [12 个 GitHub 上的实用技巧](http://hao.caibaojian.com/52938.html) （IT程序狮）
+* [MultiHttp：高性能的 PHP 封装的 HTTP Restful 多线程并发请求库](http://hao.caibaojian.com/52898.html) （开发者头条）
 
 ***
-* [Serverless 实战：打造个人阅读追踪系统](http://hao.caibaojian.com/52784.html) （开发者头条）
-* [从 Template 到 DOM：Vue.js 源码角度看内部运行机制](http://hao.caibaojian.com/52774.html) （开发者头条）
-* [Electron &amp; Vue2 hexo博客编辑发布工具](http://hao.caibaojian.com/52748.html) （稀土掘金）
-* [如何利用 SOTER，1 个版本内完成指纹支付开发？](http://hao.caibaojian.com/52786.html) （开发者头条）
-* [JS中的算法与数据结构——字典(Dictionary)](http://hao.caibaojian.com/52751.html) （稀土掘金）
+* [使用火焰图做性能分析](http://hao.caibaojian.com/52922.html) （开发者头条）
+* [如何在分层架构与微服务之间做出合理的选择？](http://hao.caibaojian.com/52900.html) （开发者头条）
+* [前端每周清单第 33 期：React 16 发布与特性介绍，Expo AR 教程，ExtJS 从崛起到沉寂](http://hao.caibaojian.com/52877.html) （稀土掘金）
+* [log.io-ts &#8211; 基于nodejs+socket.io的实时日志系统](http://hao.caibaojian.com/52833.html) （SegmentFault）
+* [Preact 源码解析之元素创建流程](http://hao.caibaojian.com/52879.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
