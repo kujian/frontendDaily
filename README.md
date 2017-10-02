@@ -1,45 +1,45 @@
-# [20170930 码农日报](http://hao.caibaojian.com/date/2017/09/30)
+# [20171001 码农日报](http://hao.caibaojian.com/date/2017/10/01)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [我是怎么让网站用上HTML5 Manifest](http://hao.caibaojian.com/52854.html) （推酷网）
-* [JavaScript 版数据结构与算法（一）栈](http://hao.caibaojian.com/52844.html) （推酷网）
-* [node.js邮箱注册，激活，登陆相关案例](http://hao.caibaojian.com/52852.html) （推酷网）
-* [在 JavaScript 中使用构造器函数模拟类](http://hao.caibaojian.com/52853.html) （推酷网）
-* [JavaScript 版数据结构与算法（二）队列](http://hao.caibaojian.com/52843.html) （推酷网）
+* [Coursera 的 GraphQL 之旅](http://hao.caibaojian.com/52947.html) （SegmentFault）
+* [如何学习 React：一个五步计划](http://hao.caibaojian.com/52971.html) （开发者头条）
+* [漫谈数据仓库：维度建模](http://hao.caibaojian.com/52973.html) （开发者头条）
+* [XNU：苹果开源的 iOS 内核源码](http://hao.caibaojian.com/53021.html) （开发者头条）
+* [2700 万美金：阿里巴巴领投 MariaDB](http://hao.caibaojian.com/53027.html) （Linux中国）
 
 ***
-* [JavaScript 版数据结构与算法（三）链表](http://hao.caibaojian.com/52845.html) （推酷网）
-* [ES6 Promise：模式与反模式](http://hao.caibaojian.com/52847.html) （推酷网）
-* [JavaScript 版数据结构与算法（四）集合](http://hao.caibaojian.com/52842.html) （推酷网）
-* [ReactNative 到 Weex 的艰难一迈](http://hao.caibaojian.com/52880.html) （稀土掘金）
-* [Vue.js的从入门到放弃进击录（二）](http://hao.caibaojian.com/52840.html) （推酷网）
+* [Webpack中的静态资源文件指纹](http://hao.caibaojian.com/53001.html) （稀土掘金）
+* [注意点——setTimeout、setInterval使用](http://hao.caibaojian.com/52958.html) （推酷网）
+* [完美解决前端跨域之 easyXDM 的使用和解析](http://hao.caibaojian.com/53002.html) （稀土掘金）
+* [可能是国内最火的开源项目 —— JavaScript 篇](http://hao.caibaojian.com/52959.html) （推酷网）
+* [少年，GAN 不 GAN？一次不成功的 GAN 测试](http://hao.caibaojian.com/52980.html) （开发者头条）
 
 ***
-* [手把手教你用React实现一个简单的个人博客](http://hao.caibaojian.com/52837.html) （SegmentFault）
-* [【JS】装饰器让你的代码更简洁](http://hao.caibaojian.com/52874.html) （稀土掘金）
-* [使用JSARToolKit5 开发AR应用 (1) 简介](http://hao.caibaojian.com/52850.html) （推酷网）
-* [前端小项目之在线便利贴](http://hao.caibaojian.com/52875.html) （稀土掘金）
-* [Node.js 性能调优之代码篇(四)—— 使用 Rust 编写 Node.js 扩展](http://hao.caibaojian.com/52851.html) （推酷网）
+* [为什么在使用了类之后会使得组合变得愈发困难（软件编写）（第九部分）](http://hao.caibaojian.com/52951.html) （推酷网）
+* [前端秋招的冰与火之歌 | 掘金技术征文](http://hao.caibaojian.com/53006.html) （稀土掘金）
+* [详述：一个链接是怎样打开你的页面的](http://hao.caibaojian.com/52957.html) （推酷网）
+* [在 iPhone X 上构建你的 App](http://hao.caibaojian.com/52978.html) （开发者头条）
+* [CSS3 SVG实现可爱的动物哈士奇和狐狸动画](http://hao.caibaojian.com/53029.html) （前端大全）
 
 ***
-* [在Vue中有条件地使用CSS类](http://hao.caibaojian.com/52841.html) （推酷网）
-* [国外优秀区块链创业公司梳理](http://hao.caibaojian.com/52902.html) （开发者头条）
-* [To hup or not to hup](http://hao.caibaojian.com/52856.html) （推酷网）
-* [国内技术原创氛围为什么那么差？](http://hao.caibaojian.com/52905.html) （开发者头条）
-* [从 0 打造一个 GPUImage（一）](http://hao.caibaojian.com/52907.html) （开发者头条）
+* [主流浏览器发展史及其内核初探](http://hao.caibaojian.com/52949.html) （SegmentFault）
+* [漫画：什么是MD5算法？](http://hao.caibaojian.com/53003.html) （稀土掘金）
+* [Golang string 和 []byte 的对比](http://hao.caibaojian.com/52981.html) （开发者头条）
+* [通过对比更好的了解Git](http://hao.caibaojian.com/53033.html) （IT程序猿）
+* [Swift 4 迁移总结](http://hao.caibaojian.com/52982.html) （开发者头条）
 
 ***
-* [Chrome对自动播放作出变更](http://hao.caibaojian.com/52882.html) （稀土掘金）
-* [React16中的错误处理](http://hao.caibaojian.com/52873.html) （稀土掘金）
-* [天猫否认盗取代码，承认功能说明和文案抄袭](http://hao.caibaojian.com/52937.html) （伯乐头条）
-* [12 个 GitHub 上的实用技巧](http://hao.caibaojian.com/52938.html) （IT程序狮）
-* [MultiHttp：高性能的 PHP 封装的 HTTP Restful 多线程并发请求库](http://hao.caibaojian.com/52898.html) （开发者头条）
+* [如何绕过面试题中的小坑丨百度 EUX](http://hao.caibaojian.com/53005.html) （稀土掘金）
+* [如何做一个靠谱的发号器](http://hao.caibaojian.com/52972.html) （开发者头条）
+* [Angular路由复用策略](http://hao.caibaojian.com/52941.html) （SegmentFault）
+* [canvas，html2canvas等合成图片不清晰问题](http://hao.caibaojian.com/52952.html) （推酷网）
+* [HTML meta标签总结,HTML5 head meta属性整理](http://hao.caibaojian.com/53035.html) （前端开发博客）
 
 ***
-* [使用火焰图做性能分析](http://hao.caibaojian.com/52922.html) （开发者头条）
-* [如何在分层架构与微服务之间做出合理的选择？](http://hao.caibaojian.com/52900.html) （开发者头条）
-* [前端每周清单第 33 期：React 16 发布与特性介绍，Expo AR 教程，ExtJS 从崛起到沉寂](http://hao.caibaojian.com/52877.html) （稀土掘金）
-* [log.io-ts &#8211; 基于nodejs+socket.io的实时日志系统](http://hao.caibaojian.com/52833.html) （SegmentFault）
-* [Preact 源码解析之元素创建流程](http://hao.caibaojian.com/52879.html) （稀土掘金）
+* [js实用的十个小技巧](http://hao.caibaojian.com/52953.html) （推酷网）
+* [QueryList 4.0 简洁、优雅、可扩展的PHP采集工具(爬虫)](http://hao.caibaojian.com/52943.html) （SegmentFault）
+* [Python 代码内存泄漏分析（续）](http://hao.caibaojian.com/53022.html) （开发者头条）
+* [小而美的框架—hyperapp](http://hao.caibaojian.com/52944.html) （SegmentFault）
+* [坐稳咯，webgl入门小贴士](http://hao.caibaojian.com/52998.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
