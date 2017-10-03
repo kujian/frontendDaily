@@ -1,45 +1,44 @@
-# [20171001 码农日报](http://hao.caibaojian.com/date/2017/10/01)
+# [20171002 码农日报](http://hao.caibaojian.com/date/2017/10/02)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Coursera 的 GraphQL 之旅](http://hao.caibaojian.com/52947.html) （SegmentFault）
-* [如何学习 React：一个五步计划](http://hao.caibaojian.com/52971.html) （开发者头条）
-* [漫谈数据仓库：维度建模](http://hao.caibaojian.com/52973.html) （开发者头条）
-* [XNU：苹果开源的 iOS 内核源码](http://hao.caibaojian.com/53021.html) （开发者头条）
-* [2700 万美金：阿里巴巴领投 MariaDB](http://hao.caibaojian.com/53027.html) （Linux中国）
+* [前端图像处理指南](http://hao.caibaojian.com/53056.html) （稀土掘金）
+* [小巧玲珑的react框架（第二弹）正式命名&#8211;aomini](http://hao.caibaojian.com/53057.html) （稀土掘金）
+* [漫谈数据仓库：缓慢变化维度（SCD）](http://hao.caibaojian.com/53075.html) （开发者头条）
+* [一款优秀的JavaScript框架—AngularJS](http://hao.caibaojian.com/53043.html) （推酷网）
+* [Weex UI &#8211; 阿里巴巴开源的基于 Weex 的 UI 库](http://hao.caibaojian.com/53059.html) （稀土掘金）
 
 ***
-* [Webpack中的静态资源文件指纹](http://hao.caibaojian.com/53001.html) （稀土掘金）
-* [注意点——setTimeout、setInterval使用](http://hao.caibaojian.com/52958.html) （推酷网）
-* [完美解决前端跨域之 easyXDM 的使用和解析](http://hao.caibaojian.com/53002.html) （稀土掘金）
-* [可能是国内最火的开源项目 —— JavaScript 篇](http://hao.caibaojian.com/52959.html) （推酷网）
-* [少年，GAN 不 GAN？一次不成功的 GAN 测试](http://hao.caibaojian.com/52980.html) （开发者头条）
+* [大数据计数原理 1+0=1 这你都不会算（六）](http://hao.caibaojian.com/53071.html) （开发者头条）
+* [Angular JS的正确打开姿势——简单实用（上）](http://hao.caibaojian.com/53042.html) （推酷网）
+* [Swift KeyPath 最佳实践](http://hao.caibaojian.com/53078.html) （开发者头条）
+* [每日一博 | 常见 JS 动画效果](http://hao.caibaojian.com/53044.html) （推酷网）
+* [MongooseJS 4.11.14发布，MongoDB 连接包](http://hao.caibaojian.com/53046.html) （推酷网）
 
 ***
-* [为什么在使用了类之后会使得组合变得愈发困难（软件编写）（第九部分）](http://hao.caibaojian.com/52951.html) （推酷网）
-* [前端秋招的冰与火之歌 | 掘金技术征文](http://hao.caibaojian.com/53006.html) （稀土掘金）
-* [详述：一个链接是怎样打开你的页面的](http://hao.caibaojian.com/52957.html) （推酷网）
-* [在 iPhone X 上构建你的 App](http://hao.caibaojian.com/52978.html) （开发者头条）
-* [CSS3 SVG实现可爱的动物哈士奇和狐狸动画](http://hao.caibaojian.com/53029.html) （前端大全）
+* [高性能迷你React框架anujs1.1.2发布](http://hao.caibaojian.com/53038.html) （SegmentFault）
+* [ES6系列文章 Promise](http://hao.caibaojian.com/53039.html) （SegmentFault）
+* [几个 Cookie 操作例子的分析](http://hao.caibaojian.com/53041.html) （推酷网）
+* [浅析分布式下的事件驱动机制（PubSub 模式）](http://hao.caibaojian.com/53076.html) （开发者头条）
+* [Spring 5：以函数式方式注册 Bean](http://hao.caibaojian.com/53070.html) （开发者头条）
 
 ***
-* [主流浏览器发展史及其内核初探](http://hao.caibaojian.com/52949.html) （SegmentFault）
-* [漫画：什么是MD5算法？](http://hao.caibaojian.com/53003.html) （稀土掘金）
-* [Golang string 和 []byte 的对比](http://hao.caibaojian.com/52981.html) （开发者头条）
-* [通过对比更好的了解Git](http://hao.caibaojian.com/53033.html) （IT程序猿）
-* [Swift 4 迁移总结](http://hao.caibaojian.com/52982.html) （开发者头条）
+* [React中的组件有几种写法](http://hao.caibaojian.com/53037.html) （SegmentFault）
+* [ELSE 技术周刊(2017.10.02期)](http://hao.caibaojian.com/53052.html) （稀土掘金）
+* [如何在 CSS 背景图片中对 SVG 图片进行着色](http://hao.caibaojian.com/53053.html) （稀土掘金）
+* [像 JavaScript 一样思考](http://hao.caibaojian.com/53073.html) （开发者头条）
+* [[转]IOING 渐进式 Web App 开发引擎，为你的 SPA 产品实施性能策略和组件化方案](http://hao.caibaojian.com/53054.html) （稀土掘金）
 
 ***
-* [如何绕过面试题中的小坑丨百度 EUX](http://hao.caibaojian.com/53005.html) （稀土掘金）
-* [如何做一个靠谱的发号器](http://hao.caibaojian.com/52972.html) （开发者头条）
-* [Angular路由复用策略](http://hao.caibaojian.com/52941.html) （SegmentFault）
-* [canvas，html2canvas等合成图片不清晰问题](http://hao.caibaojian.com/52952.html) （推酷网）
-* [HTML meta标签总结,HTML5 head meta属性整理](http://hao.caibaojian.com/53035.html) （前端开发博客）
+* [通过 creact-react-app 构建使用 typescript的项目](http://hao.caibaojian.com/53055.html) （稀土掘金）
+* [简单易用的用户需求开发方法：问答分析法](http://hao.caibaojian.com/53077.html) （开发者头条）
+* [个人开发者的困境与突破](http://hao.caibaojian.com/53058.html) （稀土掘金）
+* [Immutable.js v4.0.0-rc.3 发布，不可变数据集合](http://hao.caibaojian.com/53045.html) （推酷网）
+* [zendAPI：让 PHP 的扩展开发成为一种享受（360 出品）](http://hao.caibaojian.com/53069.html) （开发者头条）
 
 ***
-* [js实用的十个小技巧](http://hao.caibaojian.com/52953.html) （推酷网）
-* [QueryList 4.0 简洁、优雅、可扩展的PHP采集工具(爬虫)](http://hao.caibaojian.com/52943.html) （SegmentFault）
-* [Python 代码内存泄漏分析（续）](http://hao.caibaojian.com/53022.html) （开发者头条）
-* [小而美的框架—hyperapp](http://hao.caibaojian.com/52944.html) （SegmentFault）
-* [坐稳咯，webgl入门小贴士](http://hao.caibaojian.com/52998.html) （稀土掘金）
+* [Alloy周刊 Oct 2](http://hao.caibaojian.com/53051.html) （稀土掘金）
+* [我需要知道：H.264](http://hao.caibaojian.com/53072.html) （开发者头条）
+* [使用 Chaos 测试分布式系统线性一致性](http://hao.caibaojian.com/53074.html) （开发者头条）
+* [提高webpack的打包速度：happypack和dll打包](http://hao.caibaojian.com/53040.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
