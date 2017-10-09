@@ -1,29 +1,29 @@
-# [20171007 码农日报](http://hao.caibaojian.com/date/2017/10/07)
+# [20171008 码农日报](http://hao.caibaojian.com/date/2017/10/08)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JS设计模式-观察者模式](http://hao.caibaojian.com/53256.html) （稀土掘金）
-* [JavaScript基础-1](http://hao.caibaojian.com/53245.html) （推酷网）
-* [scrollIntoView 与 scrollIntoViewIfNeeded API 介绍](http://hao.caibaojian.com/53254.html) （稀土掘金）
-* [Vuejs官方编码指南,快来看看你的代码符合多少最佳实践](http://hao.caibaojian.com/53250.html) （稀土掘金）
-* [当 Web 前端架构方案遇上《金瓶梅》](http://hao.caibaojian.com/53272.html) （开发者头条）
+* [简单又炫酷的two.js 二维动画教程](http://hao.caibaojian.com/53285.html) （推酷网）
+* [js之字典学习和使用](http://hao.caibaojian.com/53299.html) （稀土掘金）
+* [JavaScript 中字符串转数字的陷阱和示例](http://hao.caibaojian.com/53307.html) （开发者头条）
+* [Node.js Design Patterns &#8211; Second Edition读书思考（一）——Welcome to the Node.js Platform](http://hao.caibaojian.com/53284.html) （推酷网）
+* [JS中的算法与数据结构——集合(Set)](http://hao.caibaojian.com/53296.html) （稀土掘金）
 
 ***
-* [ES6常用知识点概述](http://hao.caibaojian.com/53255.html) （稀土掘金）
-* [gensim：用 Word2Vec 进行文本分析](http://hao.caibaojian.com/53268.html) （开发者头条）
-* [Windows 版深度学习软件安装指南](http://hao.caibaojian.com/53269.html) （开发者头条）
-* [JS设计模式-代理模式](http://hao.caibaojian.com/53249.html) （稀土掘金）
-* [Kotlin coroutine 详解](http://hao.caibaojian.com/53271.html) （开发者头条）
+* [React特性精华](http://hao.caibaojian.com/53298.html) （稀土掘金）
+* [让Express支持async/await](http://hao.caibaojian.com/53281.html) （推酷网）
+* [使用typescript开发调试nodejs](http://hao.caibaojian.com/53282.html) （推酷网）
+* [十年前，我在抓虾](http://hao.caibaojian.com/53306.html) （开发者头条）
+* [Generator函数的理解和使用](http://hao.caibaojian.com/53297.html) （稀土掘金）
 
 ***
-* [《深入理解ES6》阅读笔记 &#8212; 改进的数组功能](http://hao.caibaojian.com/53251.html) （稀土掘金）
-* [图片预加载的实现](http://hao.caibaojian.com/53252.html) （稀土掘金）
-* [Vue.js 定义组件模板的七种方式](http://hao.caibaojian.com/53244.html) （推酷网）
-* [Lombok 使用与原理](http://hao.caibaojian.com/53267.html) （开发者头条）
-* [一次有缺憾的单元测试修改](http://hao.caibaojian.com/53248.html) （稀土掘金）
+* [Vue的计算属性](http://hao.caibaojian.com/53279.html) （推酷网）
+* [Vue 2.0学习笔记： Vue中的computed属性](http://hao.caibaojian.com/53280.html) （推酷网）
+* [Colly：Go 实现的快速、优雅的高性能网页采集框架](http://hao.caibaojian.com/53305.html) （开发者头条）
+* [Node.js Design Patterns &#8211; Second Edition读书思考（二）——Node.js Essential Patterns](http://hao.caibaojian.com/53283.html) （推酷网）
+* [分布式文件管理系统 JDFS（五）：整体架构描述](http://hao.caibaojian.com/53308.html) （开发者头条）
 
 ***
-* [视频笔记：理解 Golang channels &#8211; Kavya Joshi](http://hao.caibaojian.com/53270.html) （开发者头条）
-* [由left-pad扯到JS中的位运算](http://hao.caibaojian.com/53253.html) （稀土掘金）
-* [Vue组件通讯：单个组件](http://hao.caibaojian.com/53243.html) （推酷网）
+* [Discuz X 前台任意文件删除漏洞重现及分析](http://hao.caibaojian.com/53309.html) （开发者头条）
+* [Angular 5.0.0-rc.1 发布，bug 修复和性能改进](http://hao.caibaojian.com/53286.html) （推酷网）
+* [使用Service Worker发送Push推送](http://hao.caibaojian.com/53295.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
