@@ -1,29 +1,45 @@
-# [20171008 码农日报](http://hao.caibaojian.com/date/2017/10/08)
+# [20171009 码农日报](http://hao.caibaojian.com/date/2017/10/09)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [简单又炫酷的two.js 二维动画教程](http://hao.caibaojian.com/53285.html) （推酷网）
-* [js之字典学习和使用](http://hao.caibaojian.com/53299.html) （稀土掘金）
-* [JavaScript 中字符串转数字的陷阱和示例](http://hao.caibaojian.com/53307.html) （开发者头条）
-* [Node.js Design Patterns &#8211; Second Edition读书思考（一）——Welcome to the Node.js Platform](http://hao.caibaojian.com/53284.html) （推酷网）
-* [JS中的算法与数据结构——集合(Set)](http://hao.caibaojian.com/53296.html) （稀土掘金）
+* [每日一博 | 通过 jQuery 实现放大镜效果](http://hao.caibaojian.com/53323.html) （推酷网）
+* [6 张思维导图学习 JS](http://hao.caibaojian.com/53344.html) （稀土掘金）
+* [一篇关于ajax的故事](http://hao.caibaojian.com/53346.html) （稀土掘金）
+* [一款优秀的前端框架——AngularJS](http://hao.caibaojian.com/53318.html) （推酷网）
+* [《深入理解ES6》阅读笔记 &#8212; 代理（Proxy）和反射（Reflection）API](http://hao.caibaojian.com/53350.html) （稀土掘金）
 
 ***
-* [React特性精华](http://hao.caibaojian.com/53298.html) （稀土掘金）
-* [让Express支持async/await](http://hao.caibaojian.com/53281.html) （推酷网）
-* [使用typescript开发调试nodejs](http://hao.caibaojian.com/53282.html) （推酷网）
-* [十年前，我在抓虾](http://hao.caibaojian.com/53306.html) （开发者头条）
-* [Generator函数的理解和使用](http://hao.caibaojian.com/53297.html) （稀土掘金）
+* [JavaScript内存管理机制以及四种常见的内存泄漏解析](http://hao.caibaojian.com/53322.html) （推酷网）
+* [聊聊Vue.js的template编译](http://hao.caibaojian.com/53317.html) （推酷网）
+* [Vue 2.0学习笔记：Vue的模板](http://hao.caibaojian.com/53319.html) （推酷网）
+* [谷歌加入 Node.js 基金会白金会员](http://hao.caibaojian.com/53333.html) （稀土掘金）
+* [.NET 十年回顾](http://hao.caibaojian.com/53374.html) （开发者头条）
 
 ***
-* [Vue的计算属性](http://hao.caibaojian.com/53279.html) （推酷网）
-* [Vue 2.0学习笔记： Vue中的computed属性](http://hao.caibaojian.com/53280.html) （推酷网）
-* [Colly：Go 实现的快速、优雅的高性能网页采集框架](http://hao.caibaojian.com/53305.html) （开发者头条）
-* [Node.js Design Patterns &#8211; Second Edition读书思考（二）——Node.js Essential Patterns](http://hao.caibaojian.com/53283.html) （推酷网）
-* [分布式文件管理系统 JDFS（五）：整体架构描述](http://hao.caibaojian.com/53308.html) （开发者头条）
+* [构建高性能的弹幕应用 &#8211; 小项目也能做性能提升](http://hao.caibaojian.com/53316.html) （推酷网）
+* [Java 阻塞队列详解](http://hao.caibaojian.com/53377.html) （开发者头条）
+* [鹿晗关晓彤公开恋情，是如何把微博的服务器搞垮的？](http://hao.caibaojian.com/53381.html) （开发者头条）
+* [GET新技能之Git commit message](http://hao.caibaojian.com/53343.html) （稀土掘金）
+* [实践中的前后端分离](http://hao.caibaojian.com/53345.html) （稀土掘金）
 
 ***
-* [Discuz X 前台任意文件删除漏洞重现及分析](http://hao.caibaojian.com/53309.html) （开发者头条）
-* [Angular 5.0.0-rc.1 发布，bug 修复和性能改进](http://hao.caibaojian.com/53286.html) （推酷网）
-* [使用Service Worker发送Push推送](http://hao.caibaojian.com/53295.html) （稀土掘金）
+* [vue移动助手实践（一）——基于vue的换肤功能](http://hao.caibaojian.com/53337.html) （稀土掘金）
+* [Node8’s util.promisify is so freakin’ awesome](http://hao.caibaojian.com/53339.html) （稀土掘金）
+* [消息中间件 NSQ 深入与实践](http://hao.caibaojian.com/53382.html) （开发者头条）
+* [创建一个分布式网络爬虫的故事](http://hao.caibaojian.com/53373.html) （开发者头条）
+* [如何让App首屏启动更快 &#8212; httpdns持久化缓存方案](http://hao.caibaojian.com/53331.html) （稀土掘金）
+
+***
+* [Hyperapp:构建前端应用的 JS 库，仅 1kb](http://hao.caibaojian.com/53332.html) （稀土掘金）
+* [RxWebSocket：基于 OkHttp 和 RxJava 封装的 WebSocket 客户端](http://hao.caibaojian.com/53385.html) （开发者头条）
+* [Go 并发机制](http://hao.caibaojian.com/53375.html) （开发者头条）
+* [软软的 Echarts](http://hao.caibaojian.com/53334.html) （稀土掘金）
+* [Upcoming TypeScript Changes in Vue 2.5](http://hao.caibaojian.com/53348.html) （稀土掘金）
+
+***
+* [谷歌 teachable-machie ：无需编程，通过浏览器和摄像头即可探索机器学习](http://hao.caibaojian.com/53338.html) （稀土掘金）
+* [移动HTNL5前端框架—MUI](http://hao.caibaojian.com/53321.html) （推酷网）
+* [一个智能快速且开源的浏览器](http://hao.caibaojian.com/53340.html) （稀土掘金）
+* [迅雷创始人程浩：人工智能创业的6大核心问题](http://hao.caibaojian.com/53372.html) （开发者头条）
+* [如何利用/防御 Service Worker](http://hao.caibaojian.com/53383.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
