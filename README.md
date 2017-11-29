@@ -1,45 +1,45 @@
-# [20171127 码农日报](http://hao.caibaojian.com/date/2017/11/27)
+# [20171128 码农日报](http://hao.caibaojian.com/date/2017/11/28)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [js中的正则表达式(1)](http://hao.caibaojian.com/57837.html) （推酷网）
-* [Node.JS 8.x和9.x新特性:N-API,NPM5,ERROR CODE](http://hao.caibaojian.com/57841.html) （推酷网）
-* [Koadic的安装和使用](http://hao.caibaojian.com/57840.html) （推酷网）
-* [Android Studio 3.x 的输入法之坑](http://hao.caibaojian.com/57810.html) （开发者头条）
-* [iOS开发者的大前端感悟：向前端说对不起](http://hao.caibaojian.com/57849.html) （稀土掘金）
+* [如何使用ES6箭头函数使JavaScript代码更易读](http://hao.caibaojian.com/57948.html) （推酷网）
+* [css实现图片背景填充的正六边形](http://hao.caibaojian.com/57981.html) （稀土掘金）
+* [一个行为标准Popup组件(vue), 强大的过度动画支持, 和定位支持](http://hao.caibaojian.com/57978.html) （稀土掘金）
+* [10个有趣的Javascript和CSS库-2017年11月](http://hao.caibaojian.com/57937.html) （推酷网）
+* [JSRobot &#8211; 通过游戏学习 JS](http://hao.caibaojian.com/57974.html) （稀土掘金）
 
 ***
-* [GitHub 上 82% 的代码是重复代码](http://hao.caibaojian.com/57807.html) （开发者头条）
-* [数据库中间件 Atlas 调研笔记](http://hao.caibaojian.com/57803.html) （开发者头条）
-* [使用 ClojureScript 开发浏览器插件的过程与收获](http://hao.caibaojian.com/57815.html) （开发者头条）
-* [聊一聊 ETL 的设计](http://hao.caibaojian.com/57804.html) （开发者头条）
-* [koa 实现 jwt 认证](http://hao.caibaojian.com/57836.html) （推酷网）
+* [JS中动态添加元素并绑定事件，造成程序重复执行](http://hao.caibaojian.com/57944.html) （推酷网）
+* [20171128 前端开发日报](http://hao.caibaojian.com/58033.html) （前端开发博客）
+* [妈妈再也不用担心我不会webpack了2](http://hao.caibaojian.com/57938.html) （推酷网）
+* [vue 踩坑小记 &#8211; 如何正确的使用 debounce](http://hao.caibaojian.com/57940.html) （推酷网）
+* [直播报名 | 沪江前端工程实践线上直播](http://hao.caibaojian.com/57975.html) （稀土掘金）
 
 ***
-* [Node-prune﹣﹣专门移除 node_modules 不必要档案的轻量工具](http://hao.caibaojian.com/57847.html) （稀土掘金）
-* [自然语言处理领域重要论文 &amp; 资源全索引](http://hao.caibaojian.com/57812.html) （开发者头条）
-* [20171127 前端开发日报](http://hao.caibaojian.com/57917.html) （前端开发博客）
-* [用 Jest 测试 JavaScript 应用](http://hao.caibaojian.com/57850.html) （稀土掘金）
-* [Golang 介绍及踩坑（三）](http://hao.caibaojian.com/57805.html) （开发者头条）
+* [Android中WebView的配置和填坑记录](http://hao.caibaojian.com/57935.html) （推酷网）
+* [基于vue+canvas的excel-like组件](http://hao.caibaojian.com/57941.html) （推酷网）
+* [vue实战中遇到的`坑`](http://hao.caibaojian.com/57943.html) （推酷网）
+* [watchOS 开发：使用 Apple Watch 扬声器播放声音](http://hao.caibaojian.com/57879.html) （开发者头条）
+* [网页适配 iPhoneX，就是这么简单](http://hao.caibaojian.com/58030.html) （前端大全）
 
 ***
-* [Node.js 应用的可视化调试与性能分析](http://hao.caibaojian.com/57838.html) （推酷网）
-* [数据库新动向 Oracle 与微软割据局面产生](http://hao.caibaojian.com/57924.html) （伯乐在线官方微博）
-* [OSCP 经验分享](http://hao.caibaojian.com/57811.html) （开发者头条）
-* [redux 源码研究：中间件](http://hao.caibaojian.com/57848.html) （稀土掘金）
-* [基于 Harbor 搭建 Docker 私有镜像仓库](http://hao.caibaojian.com/57802.html) （开发者头条）
+* [常见排序算法 &#8211; 堆排序 (Heap Sort)](http://hao.caibaojian.com/57982.html) （稀土掘金）
+* [处理 JavaScript 异常的正确姿势](http://hao.caibaojian.com/57865.html) （开发者头条）
+* [漫谈大数据和数据仓库](http://hao.caibaojian.com/57877.html) （开发者头条）
+* [一个行为标准Popup组件(vue), 强大的过度动画支持](http://hao.caibaojian.com/57931.html) （推酷网）
+* [webpack构建下换肤功能的实现思路](http://hao.caibaojian.com/57942.html) （推酷网）
 
 ***
-* [Python 3 的字符串与输入输出的编码研究（一）：字符编码的历史](http://hao.caibaojian.com/57814.html) （开发者头条）
-* [Bootstrap Modal遮罩弹出层](http://hao.caibaojian.com/57918.html) （前端开发博客）
-* [中国加快基于 IPv6 的互联网发展，2025 年实现全覆盖](http://hao.caibaojian.com/57919.html) （开源中国）
-* [项目中常用的19条MySQL优化](http://hao.caibaojian.com/57835.html) （SegmentFault）
-* [VS Code 折腾记 &#8211; (10) 你想发布自己捣鼓的snippets到VSCode插件市场](http://hao.caibaojian.com/57851.html) （稀土掘金）
+* [gulp自动化构建工具学习分享](http://hao.caibaojian.com/57932.html) （推酷网）
+* [[webpack3.8.1]Guides-3-Asset Management（资源管理）](http://hao.caibaojian.com/57976.html) （稀土掘金）
+* [学习新技术时你应当掌握的 “最少必要知识”](http://hao.caibaojian.com/57858.html) （开发者头条）
+* [编写一个简单，优雅，可扩展的JS数据校验库Struct](http://hao.caibaojian.com/57936.html) （推酷网）
+* [开源项目挣钱实用手册（2016）](http://hao.caibaojian.com/57873.html) （开发者头条）
 
 ***
-* [正确使用字体的10个黄金规则](http://hao.caibaojian.com/57920.html) （优秀网页设计）
-* [曲线点抽稀算法- Python 实现](http://hao.caibaojian.com/57910.html) （Python开发者）
-* [MMORPG：用来学习 ARPG 核心战斗的项目](http://hao.caibaojian.com/57806.html) （开发者头条）
-* [如何制作WPAP艺术风格头像](http://hao.caibaojian.com/57921.html) （优秀网页设计）
-* [探索 Php 和 Python 下对象的深拷贝和浅拷贝](http://hao.caibaojian.com/57911.html) （Python开发者）
+* [11月27日 &#8211; 每日安全知识热点](http://hao.caibaojian.com/57951.html) （推酷网）
+* [第一本 PWA 中文书](http://hao.caibaojian.com/57973.html) （稀土掘金）
+* [webpack稳定moduleid和chunkid以实现持久化缓存的梳理](http://hao.caibaojian.com/57930.html) （推酷网）
+* [图文解析 Zookeeper 原子广播 (ZAB) 原理及 FastLeaderElection](http://hao.caibaojian.com/57867.html) （开发者头条）
+* [如何处理前任程序员留下的代码](http://hao.caibaojian.com/58038.html) （伯乐在线官方微博）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
