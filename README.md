@@ -1,45 +1,45 @@
-# [20171129 码农日报](http://hao.caibaojian.com/date/2017/11/29)
+# [20171130 码农日报](http://hao.caibaojian.com/date/2017/11/30)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端开发人员如何搭建数据库](http://hao.caibaojian.com/58066.html) （稀土掘金）
-* [一步步打造自己的纯CSS单标签图标库](http://hao.caibaojian.com/58068.html) （稀土掘金）
-* [vue中慎用style的scoped属性](http://hao.caibaojian.com/58041.html) （SegmentFault）
-* [关于JavaScript对象，你所不知道的事（一）- 先谈对象](http://hao.caibaojian.com/58052.html) （推酷网）
-* [JavaScript 正则表达式笔记](http://hao.caibaojian.com/58043.html) （推酷网）
+* [分享7款个性化jQuery/HTML5地图插件](http://hao.caibaojian.com/58224.html) （稀土掘金）
+* [前端重构之路（组件化）](http://hao.caibaojian.com/58273.html) （奇舞团）
+* [关于JavaScript对象，你所不知道的事（二）- 再说属性](http://hao.caibaojian.com/58201.html) （推酷网）
+* [JavaScript优化模式](http://hao.caibaojian.com/58220.html) （稀土掘金）
+* [now.js 0.1.0 发布了](http://hao.caibaojian.com/58231.html) （稀土掘金）
 
 ***
-* [你不知道的14种常用的javascript调试技巧](http://hao.caibaojian.com/58045.html) （推酷网）
-* [NPM — JavaScript 的包管理器](http://hao.caibaojian.com/58050.html) （推酷网）
-* [React Diff 算法 &#8211; 众成翻译](http://hao.caibaojian.com/58062.html) （稀土掘金）
-* [CSS浮动简介以及实现](http://hao.caibaojian.com/58065.html) （稀土掘金）
-* [Node.js v8.0 新特性一览](http://hao.caibaojian.com/58092.html) （奇舞团）
+* [Objective-C 与 JavaScript 交互的那些事](http://hao.caibaojian.com/58278.html) （奇舞团）
+* [「译」JavaScript 模块（一）：菜鸟指南](http://hao.caibaojian.com/58277.html) （奇舞团）
+* [CSS Paint Times and Page Render Weight](http://hao.caibaojian.com/58247.html) （奇舞团）
+* [前后端数据交互](http://hao.caibaojian.com/58227.html) （稀土掘金）
+* [WebKit Web Inspector 十年回顾](http://hao.caibaojian.com/58282.html) （奇舞团）
 
 ***
-* [5个Vuex插件，给你的下个VueJS项目](http://hao.caibaojian.com/58040.html) （SegmentFault）
-* [Hybrid APP 开发：JSSDK](http://hao.caibaojian.com/58095.html) （奇舞团）
-* [Safari 将开始支持 WebRTC](http://hao.caibaojian.com/58085.html) （奇舞团）
-* [最终，JavaScript 成为了一流语言](http://hao.caibaojian.com/58129.html) （奇舞团）
-* [JavaScript性能优化技巧：概述](http://hao.caibaojian.com/58059.html) （稀土掘金）
+* [React 16.2.0 发布，构建用户界面的 JavaScript 库](http://hao.caibaojian.com/58203.html) （推酷网）
+* [谈谈前端『新』技术](http://hao.caibaojian.com/58274.html) （奇舞团）
+* [我为什么从Redux迁移到了Mobx](http://hao.caibaojian.com/58184.html) （SegmentFault）
+* [Vue实现一个页面缓存、左滑返回的navigator](http://hao.caibaojian.com/58195.html) （推酷网）
+* [jQuery插件的二种类型](http://hao.caibaojian.com/58196.html) （推酷网）
 
 ***
-* [WebAssembly 与代码的编译](http://hao.caibaojian.com/58097.html) （奇舞团）
-* [ES6 modules 即将到来，该考虑新的打包方案了嘛？](http://hao.caibaojian.com/58088.html) （奇舞团）
-* [不仅仅是复制粘贴： 聊聊前端脚手架](http://hao.caibaojian.com/58099.html) （奇舞团）
-* [JavaScript 成本分析](http://hao.caibaojian.com/58047.html) （推酷网）
-* [CSS 新的长度单位 fr 你知道么？](http://hao.caibaojian.com/58079.html) （奇舞团）
+* [2017 年前端开发者必学清单](http://hao.caibaojian.com/58289.html) （奇舞团）
+* [Easing JavaScript Memory Profiling In Chrome DevTools](http://hao.caibaojian.com/58246.html) （奇舞团）
+* [Promise 与 Confirm 提示框](http://hao.caibaojian.com/58197.html) （推酷网）
+* [Remote Debugging Mobile Web Apps](http://hao.caibaojian.com/58257.html) （奇舞团）
+* [你要善良并努力，上天不会亏待你的](http://hao.caibaojian.com/58145.html) （开发者头条）
 
 ***
-* [JavaScript 与多线程](http://hao.caibaojian.com/58102.html) （奇舞团）
-* [vue-loader 源码解析系列之 整体分析](http://hao.caibaojian.com/58051.html) （推酷网）
-* [Vue 的 Virtual DOM 实现：snabbdom 解密](http://hao.caibaojian.com/58136.html) （奇舞团）
-* [OK Log 姐妹篇](http://hao.caibaojian.com/58003.html) （开发者头条）
-* [JavaScript 新语法：私有属性](http://hao.caibaojian.com/58083.html) （奇舞团）
+* [React.js 2016 最佳实践](http://hao.caibaojian.com/58269.html) （奇舞团）
+* [2017 年中国技能大赛（网站设计）参赛感悟](http://hao.caibaojian.com/58188.html) （推酷网）
+* [JavaScript MVC框架PK：Angular、Backbone、CanJS与Ember](http://hao.caibaojian.com/58248.html) （奇舞团）
+* [Bulma: a modern CSS framework](http://hao.caibaojian.com/58280.html) （奇舞团）
+* [如何用 Cache 在 C++ 程序中进行系统级优化（一）](http://hao.caibaojian.com/58147.html) （开发者头条）
 
 ***
-* [CSS Animations v.s Web Animations API](http://hao.caibaojian.com/58137.html) （奇舞团）
-* [浅谈 HTTP/2 Server Push](http://hao.caibaojian.com/58138.html) （奇舞团）
-* [全球首届 Vue Conf 资料合集](http://hao.caibaojian.com/58096.html) （奇舞团）
-* [JavaScript设计模式系列五之适配器模式(附案例源码)](http://hao.caibaojian.com/58044.html) （推酷网）
-* [前端动画大乱炖](http://hao.caibaojian.com/58008.html) （开发者头条）
+* [Q:你知道如何用line-height使多行文字垂直居中么？](http://hao.caibaojian.com/58226.html) （稀土掘金）
+* [剖析 Promise 内部结构，一步步实现一个完整的的 Promise](http://hao.caibaojian.com/58270.html) （奇舞团）
+* [JavaScript宝座：七大框架论剑](http://hao.caibaojian.com/58249.html) （奇舞团）
+* [阿里移动电商背后的技术航母](http://hao.caibaojian.com/58281.html) （奇舞团）
+* [jQuery 2.0发布：不再支持IE6/7/8](http://hao.caibaojian.com/58250.html) （奇舞团）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
