@@ -1,45 +1,45 @@
-# [20171201 码农日报](http://hao.caibaojian.com/date/2017/12/01)
+# [20171202 码农日报](http://hao.caibaojian.com/date/2017/12/02)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [[北京线下活动] FEE 前端探索交流会 &#8211; TalkingData](http://hao.caibaojian.com/58381.html) （稀土掘金）
-* [如何用 CSS 修出好看的照片](http://hao.caibaojian.com/58300.html) （开发者头条）
-* [JavaScript 终于成了一流语言](http://hao.caibaojian.com/58354.html) （推酷网）
-* [聊一聊迅雷前端敏捷开发那些事儿](http://hao.caibaojian.com/58371.html) （稀土掘金）
-* [开发更好用的 JavaScript 模块](http://hao.caibaojian.com/58372.html) （稀土掘金）
+* [【JavaScript从入门到精通】第十九课](http://hao.caibaojian.com/58475.html) （推酷网）
+* [7 款前端开发者重制的经典游戏 总有一款能让你回味童年时光](http://hao.caibaojian.com/58479.html) （稀土掘金）
+* [2017 年 11 月期 ThoughtWorks 技术雷达正式发布](http://hao.caibaojian.com/58407.html) （开发者头条）
+* [斯坦福发布 “AI 指数” 年度报告](http://hao.caibaojian.com/58419.html) （开发者头条）
+* [JavaScript学习笔记：视口宽高、位置与滚动高度](http://hao.caibaojian.com/58466.html) （推酷网）
 
 ***
-* [RetrofitCache：让 retrofit2 + okhttp3 + rx 网络访问添加缓存如此简单](http://hao.caibaojian.com/58307.html) （开发者头条）
-* [你还要我怎样的JS系列（4） &#8212; 作用域链](http://hao.caibaojian.com/58379.html) （稀土掘金）
-* [Vue2.0用户权限控制解决方案](http://hao.caibaojian.com/58373.html) （稀土掘金）
-* [Typescript 构建命令行工具上手指南](http://hao.caibaojian.com/58360.html) （推酷网）
-* [在没有DOM操作的日子里，我是怎么熬过来的（中）](http://hao.caibaojian.com/58362.html) （推酷网）
+* [React v16.2 支持 Fragments](http://hao.caibaojian.com/58481.html) （稀土掘金）
+* [深度解析关于技术翻译的六个认知误区](http://hao.caibaojian.com/58413.html) （开发者头条）
+* [SegmentFault 技术周刊 Vol.38 &#8211; 神奇的 CSS](http://hao.caibaojian.com/58461.html) （SegmentFault）
+* [行人再识别中的迁移学习：图像风格转换（Learning via Translation）](http://hao.caibaojian.com/58418.html) （开发者头条）
+* [基于JavaScript的机器学习算法和工具库](http://hao.caibaojian.com/58474.html) （推酷网）
 
 ***
-* [Webpack3.0快速入门（二）&#8211; CSS处理与ES6编译](http://hao.caibaojian.com/58363.html) （推酷网）
-* [[分享]一款基于vue2.0的滚动条插件](http://hao.caibaojian.com/58380.html) （稀土掘金）
-* [使用 JRoll 开发的 Vue 下拉刷新插件第二版](http://hao.caibaojian.com/58316.html) （开发者头条）
-* [自己动手做一个识别手写数字的 Web 应用（四）](http://hao.caibaojian.com/58301.html) （开发者头条）
-* [HTTPS的协议需求与密钥交换过程](http://hao.caibaojian.com/58374.html) （稀土掘金）
+* [xgboost 库使用入门](http://hao.caibaojian.com/58411.html) （开发者头条）
+* [20171202 前端开发日报](http://hao.caibaojian.com/58533.html) （前端开发博客）
+* [Vue.js安装教程](http://hao.caibaojian.com/58467.html) （推酷网）
+* [CSS自适应导航菜单](http://hao.caibaojian.com/58535.html) （前端开发博客）
+* [大数据和风控基础信息](http://hao.caibaojian.com/58403.html) （开发者头条）
 
 ***
-* [支付系统 0x01：基础设施 &amp; 初版架构](http://hao.caibaojian.com/58292.html) （开发者头条）
-* [用 Android 设备 DIY 一个 NAS](http://hao.caibaojian.com/58315.html) （开发者头条）
-* [tio-webpack 2.0.2 发布，传统前端的编译打包压缩工具](http://hao.caibaojian.com/58361.html) （推酷网）
-* [reduce与redux中compose函数](http://hao.caibaojian.com/58377.html) （稀土掘金）
-* [Webpack3.0小案例躺坑css处理与ES6编译](http://hao.caibaojian.com/58378.html) （稀土掘金）
+* [前端工程师的 CI 进阶之路](http://hao.caibaojian.com/58404.html) （开发者头条）
+* [Angular 5.0.4 和 5.1.0 rc.0 发布，Web 前端框架](http://hao.caibaojian.com/58470.html) （推酷网）
+* [[web前端性能优化]性能优化只有三步，你了解吗](http://hao.caibaojian.com/58484.html) （稀土掘金）
+* [容器的可移植性真实含义究竟是什么？](http://hao.caibaojian.com/58416.html) （开发者头条）
+* [你所不知道的 Java 之 Integer](http://hao.caibaojian.com/58406.html) （开发者头条）
 
 ***
-* [浮点数计算引发的血泪史——以此为戒](http://hao.caibaojian.com/58352.html) （推酷网）
-* [20171201 前端开发日报](http://hao.caibaojian.com/58452.html) （前端开发博客）
-* [Cats（一）：从函数式编程思维谈起](http://hao.caibaojian.com/58298.html) （开发者头条）
-* [如何高效地学习 Laravel 框架？](http://hao.caibaojian.com/58309.html) （开发者头条）
-* [当使用数组splice删除元素时，你应该知道这个小坑](http://hao.caibaojian.com/58382.html) （稀土掘金）
+* [使用webpack/ redux+webpack 开发大型 web 项目时如何按需加载](http://hao.caibaojian.com/58472.html) （推酷网）
+* [黄东旭：“无人区” 的探索者，TiDB 的前行之路](http://hao.caibaojian.com/58417.html) （开发者头条）
+* [再也不学AJAX了（二）使用AJAX](http://hao.caibaojian.com/58462.html) （SegmentFault）
+* [浅谈Fetch](http://hao.caibaojian.com/58473.html) （推酷网）
+* [迟到的网易云音乐](http://hao.caibaojian.com/58487.html) （稀土掘金）
 
 ***
-* [为什么说万能程序员可能只是个美丽的传说](http://hao.caibaojian.com/58311.html) （开发者头条）
-* [壹二 Android App 开发实践回顾总结出 40 条精要](http://hao.caibaojian.com/58302.html) （开发者头条）
-* [Javascript中有趣的反柯里化技术](http://hao.caibaojian.com/58375.html) （稀土掘金）
-* [iOS 实现动态区域裁剪图片](http://hao.caibaojian.com/58314.html) （开发者头条）
-* [rktlet初长成，rkt CRI带你飞](http://hao.caibaojian.com/58447.html) （Docker精选）
+* [从0到1优雅的实现PHP多进程管理](http://hao.caibaojian.com/58463.html) （SegmentFault）
+* [谈谈如何优雅地关闭正在运行中的 Spark Streaming 的流程序](http://hao.caibaojian.com/58408.html) （开发者头条）
+* [如何做到一秒渲染一个移动页面](http://hao.caibaojian.com/58488.html) （稀土掘金）
+* [大型网站的 HTTPS 实践：基于协议和配置的优化](http://hao.caibaojian.com/58398.html) （开发者头条）
+* [websocket（三） 进阶netty框架实现websocket达到高并发](http://hao.caibaojian.com/58464.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
