@@ -1,45 +1,45 @@
-# [20171204 码农日报](http://hao.caibaojian.com/date/2017/12/04)
+# [20171205 码农日报](http://hao.caibaojian.com/date/2017/12/05)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [5分钟学会 CSS Grid 布局](http://hao.caibaojian.com/58611.html) （稀土掘金）
-* [新开源工具诞生让C++秒变JavaScript](http://hao.caibaojian.com/58604.html) （推酷网）
-* [一个列表带你领略 Kotlin 简洁之风](http://hao.caibaojian.com/58566.html) （开发者头条）
-* [JavaScript 的时间消耗](http://hao.caibaojian.com/58596.html) （推酷网）
-* [【面试问题】——秋招面试中遇到的一些问题&amp;思维导图&amp;反思](http://hao.caibaojian.com/58602.html) （推酷网）
+* [基于 vue-cli 的 webpack 通用封装, 更易简单的开始你的项目](http://hao.caibaojian.com/58742.html) （稀土掘金）
+* [前端每周清单第 42 期：V8 的执行流与优化， Pinterest 的 PWA 实践， Rust 与 WebAssembly 应用](http://hao.caibaojian.com/58731.html) （稀土掘金）
+* [[javascript]搞清this的指向只需问两个问题](http://hao.caibaojian.com/58695.html) （推酷网）
+* [Webapck+Vue多页面商城模板](http://hao.caibaojian.com/58702.html) （推酷网）
+* [利用闲置 PC 搭建 NAS 媒体中心 远程下载](http://hao.caibaojian.com/58686.html) （SegmentFault）
 
 ***
-* [10个机器学习的JavaScript示例](http://hao.caibaojian.com/58603.html) （推酷网）
-* [Egg 2.0 正式发布，性能提升 30%，拥抱 Async](http://hao.caibaojian.com/58597.html) （推酷网）
-* [开源整理：有趣的 Android 动画交互设计](http://hao.caibaojian.com/58561.html) （开发者头条）
-* [拒绝超大 coredump：用 backtrace 和 addr2line 搞定异常函数栈](http://hao.caibaojian.com/58564.html) （开发者头条）
-* [tsdump：Go 实现的数据库表结构导出工具](http://hao.caibaojian.com/58565.html) （开发者头条）
+* [分享一个比较全的webpack配置，分为基础和适配antdesign的配置](http://hao.caibaojian.com/58736.html) （稀土掘金）
+* [简单例子学习Vue.js单元测试](http://hao.caibaojian.com/58733.html) （稀土掘金）
+* [vue-loader 源码解析系列之 selector](http://hao.caibaojian.com/58708.html) （推酷网）
+* [如何利用Git中的tag管理项目版本号](http://hao.caibaojian.com/58737.html) （稀土掘金）
+* [使用JavaScript 写Web路由](http://hao.caibaojian.com/58690.html) （推酷网）
 
 ***
-* [Android 高级进阶（源码剖析篇）：Twitter 的高性能序列化框架 Serial（一）](http://hao.caibaojian.com/58567.html) （开发者头条）
-* [一起来刷 LeetCode :D](http://hao.caibaojian.com/58610.html) （稀土掘金）
-* [美团点评联盟广告的场景化定向排序机制](http://hao.caibaojian.com/58569.html) （开发者头条）
-* [IPv6 终于要取代 IPv4 了，你准备好了么？](http://hao.caibaojian.com/58559.html) （开发者头条）
-* [新课速递——全面系统讲解CSS 工作应用+面试一步搞定](http://hao.caibaojian.com/58657.html) （慕课网）
+* [WebGL2系列之图元重启](http://hao.caibaojian.com/58738.html) （稀土掘金）
+* [再也不学AJAX了（三）跨域获取资源 ① &#8211; 同源策略](http://hao.caibaojian.com/58680.html) （SegmentFault）
+* [关于静态类型的令人震惊的秘密&#8211;关于使用TypeScript看法](http://hao.caibaojian.com/58740.html) （稀土掘金）
+* [20171205 前端开发日报](http://hao.caibaojian.com/58794.html) （前端开发博客）
+* [如何实现一个简单的Node.js脚手架](http://hao.caibaojian.com/58685.html) （SegmentFault）
 
 ***
-* [契约测试框架-Pact实践](http://hao.caibaojian.com/58599.html) （推酷网）
-* [浏览器野史 UserAgent列传](http://hao.caibaojian.com/58659.html) （全栈开发者）
-* [Python Web 开发框架 Django 2.0 发布，不再支持 Python 2](http://hao.caibaojian.com/58670.html) （伯乐头条）
-* [IE10对象的内存布局及创建](http://hao.caibaojian.com/58601.html) （推酷网）
-* [当时空大数据遇上 WebGL，数据变成可操作的信息](http://hao.caibaojian.com/58661.html) （码农周刊）
+* [JavaScript性能优化的小知识总结](http://hao.caibaojian.com/58697.html) （推酷网）
+* [PHP7.2、PHP7.1 性能对比](http://hao.caibaojian.com/58687.html) （SegmentFault）
+* [6 大主流 Web 框架优缺点对比](http://hao.caibaojian.com/58698.html) （推酷网）
+* [从零开始编写一个babel插件](http://hao.caibaojian.com/58699.html) （推酷网）
+* [JS中数组操作](http://hao.caibaojian.com/58790.html) （全栈开发者）
 
 ***
-* [从 0 开始搭建产品经理 AI 知识框架之机器学习（二）：方法篇](http://hao.caibaojian.com/58563.html) （开发者头条）
-* [20171204 前端开发周报](http://hao.caibaojian.com/58672.html) （前端开发博客）
-* [轻巧的 SVG.js](http://hao.caibaojian.com/58662.html) （码农周刊）
-* [20171204 前端开发日报](http://hao.caibaojian.com/58673.html) （前端开发博客）
-* [如何快速、便捷开发小程序](http://hao.caibaojian.com/58663.html) （码农周刊）
+* [使用 Redux-Arena 组合 React 组件](http://hao.caibaojian.com/58727.html) （稀土掘金）
+* [H5+JS+JQuery+ECharts实现异步加载](http://hao.caibaojian.com/58692.html) （推酷网）
+* [让Vue的v-for支持迭代器遍历](http://hao.caibaojian.com/58703.html) （推酷网）
+* [由浅入深学习 JavaScript Debug 技巧](http://hao.caibaojian.com/58623.html) （开发者头条）
+* [基于 HTML5 Canvas 的简易 2D 3D 编辑器](http://hao.caibaojian.com/58684.html) （SegmentFault）
 
 ***
-* [Profile，slots，compact dict](http://hao.caibaojian.com/58664.html) （IT程序猿）
-* [用canvas实现视频播放与弹幕功能](http://hao.caibaojian.com/58609.html) （稀土掘金）
-* [华中科大少年班，25岁华为总工程师，27岁华为副总裁，曾任百度CTO&#8230;](http://hao.caibaojian.com/58665.html) （IT程序猿）
-* [GitHub上11月份最热门的Java项目](http://hao.caibaojian.com/58666.html) （IT程序猿）
-* [后端服务性能压测实践](http://hao.caibaojian.com/58558.html) （开发者头条）
+* [W3C近期要闻：W3C战略重点报告新版发布](http://hao.caibaojian.com/58732.html) （稀土掘金）
+* [Go 并发原理](http://hao.caibaojian.com/58624.html) （开发者头条）
+* [IAP in iOS](http://hao.caibaojian.com/58635.html) （开发者头条）
+* [Boosting 原理](http://hao.caibaojian.com/58625.html) （开发者头条）
+* [我与Node.js重新认识的第2周 &#8211; Node.js 底层](http://hao.caibaojian.com/58696.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
