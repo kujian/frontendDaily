@@ -1,45 +1,45 @@
-# [20171206 码农日报](http://hao.caibaojian.com/date/2017/12/06)
+# [20171207 码农日报](http://hao.caibaojian.com/date/2017/12/07)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [如何更好的管理前端环境变量](http://hao.caibaojian.com/58836.html) （稀土掘金）
-* [CSS float相关详解](http://hao.caibaojian.com/58834.html) （稀土掘金）
-* [CSS 实现左右交换的效果](http://hao.caibaojian.com/58824.html) （稀土掘金）
-* [javascript项目开发规范实例](http://hao.caibaojian.com/58813.html) （推酷网）
-* [使用vue-cli的webpack模板的一次优化](http://hao.caibaojian.com/58807.html) （推酷网）
+* [再也不学AJAX了（三）跨域获取资源 ② &#8211; JSONP &amp; CORS](http://hao.caibaojian.com/58917.html) （推酷网）
+* [JavaScript 权威面试指南](http://hao.caibaojian.com/58930.html) （稀土掘金）
+* [一步一步将支付宝集成到 react-native 应用](http://hao.caibaojian.com/58939.html) （稀土掘金）
+* [JS如何实现ES6 Map源码](http://hao.caibaojian.com/58940.html) （稀土掘金）
+* [具有代表性的 HTTP 14 个状态码](http://hao.caibaojian.com/58932.html) （稀土掘金）
 
 ***
-* [iOS 与 JS 交互手册 &#8211; JavaScriptCore](http://hao.caibaojian.com/58808.html) （推酷网）
-* [CSS  VS  JS Animation: 哪个更快?](http://hao.caibaojian.com/58827.html) （稀土掘金）
-* [JavaScript 工作原理：内存管理 + 处理常见的4种内存泄漏](http://hao.caibaojian.com/58812.html) （推酷网）
-* [突现 vs 沉浸：塞尔达旷野之息的得与失](http://hao.caibaojian.com/58766.html) （开发者头条）
-* [一步一步将支付宝集成 react-native 应用](http://hao.caibaojian.com/58825.html) （稀土掘金）
+* [初探 amaze-vue（ 基于vue.js封装的Amaze UI 组件库）](http://hao.caibaojian.com/58916.html) （推酷网）
+* [卷两根Weeds，搞懂Promise](http://hao.caibaojian.com/58937.html) （稀土掘金）
+* [听说你用JavaScript写代码？本文是你的机器学习指南](http://hao.caibaojian.com/58912.html) （推酷网）
+* [20171207 前端开发日报](http://hao.caibaojian.com/59011.html) （前端开发博客）
+* [一文读懂 Go 的 net/http 标准库](http://hao.caibaojian.com/58856.html) （开发者头条）
 
 ***
-* [撸js基础之函数](http://hao.caibaojian.com/58829.html) （稀土掘金）
-* [Vue 模板编译原理](http://hao.caibaojian.com/58809.html) （推酷网）
-* [Ant Design 3.0.0 正式发布，大量修复和改进](http://hao.caibaojian.com/58833.html) （稀土掘金）
-* [PearPlayer.js](http://hao.caibaojian.com/58900.html) （IT程序狮）
-* [JavaScript 框架的探索与变迁（下）](http://hao.caibaojian.com/58806.html) （SegmentFault）
+* [JSONP的P是什么？](http://hao.caibaojian.com/58933.html) （稀土掘金）
+* [为什么CSS Grid比Bootstrap更适合布局](http://hao.caibaojian.com/58934.html) （稀土掘金）
+* [基于Vue的组织架构树组件](http://hao.caibaojian.com/58915.html) （推酷网）
+* [6使用 loader 处理 CSS 和 Sass](http://hao.caibaojian.com/58929.html) （稀土掘金）
+* [看完离编写高性能的JavaScript又近了一步](http://hao.caibaojian.com/58906.html) （SegmentFault）
 
 ***
-* [机器学习工程师需要了解的一些基本算法](http://hao.caibaojian.com/58760.html) （开发者头条）
-* [web app 无限加载终极解决方案](http://hao.caibaojian.com/58816.html) （推酷网）
-* [深度学习也可以取悦女友](http://hao.caibaojian.com/58765.html) （开发者头条）
-* [基于 Redis 的序列号服务的设计](http://hao.caibaojian.com/58755.html) （开发者头条）
-* [Crown &#8212; 一款快速检索并切换你的书签与Tabs的chrome扩展 | Crown 的个人 Blog](http://hao.caibaojian.com/58835.html) （稀土掘金）
+* [程序员编程10大原则](http://hao.caibaojian.com/58997.html) （全栈开发者）
+* [基于 nodejs 的 webSockt （socket.io）](http://hao.caibaojian.com/58914.html) （推酷网）
+* [你不知道的前端SDK开发技巧](http://hao.caibaojian.com/58904.html) （SegmentFault）
+* [踩坑Webuploader视频上传](http://hao.caibaojian.com/58936.html) （稀土掘金）
+* [如何处理Express异常？](http://hao.caibaojian.com/58918.html) （推酷网）
 
 ***
-* [学习如何学习](http://hao.caibaojian.com/58756.html) （开发者头条）
-* [与JDReact的第一次亲密接触 ——加油卡项目总结](http://hao.caibaojian.com/58826.html) （稀土掘金）
-* [​100 行 JS 代码实现一个跨平台的图片搜索 App](http://hao.caibaojian.com/58769.html) （开发者头条）
-* [娇弱的 PHP：php-fpm.conf &amp; php.ini 安全优化实践](http://hao.caibaojian.com/58759.html) （开发者头条）
-* [如何构建你的聊天界面](http://hao.caibaojian.com/58828.html) （稀土掘金）
+* [webpack 模板之大文件优化](http://hao.caibaojian.com/58862.html) （开发者头条）
+* [几种分布式调用链监控组件的实践与比较（二）：比较](http://hao.caibaojian.com/58863.html) （开发者头条）
+* [自己动手做一个识别手写数字的 Web 应用（五）：图像处理](http://hao.caibaojian.com/58854.html) （开发者头条）
+* [Airbnb 近期对房源展示页面的性能优化](http://hao.caibaojian.com/58931.html) （稀土掘金）
+* [Log4a：基于 mmap 的高性能、高可用的 Android 日志收集框架](http://hao.caibaojian.com/58865.html) （开发者头条）
 
 ***
-* [掘金翻译计划月报 — 2017 年 11 月](http://hao.caibaojian.com/58830.html) （稀土掘金）
-* [做 AI 必须要知道的十种深度学习方法](http://hao.caibaojian.com/58772.html) （开发者头条）
-* [给网站加装代码，抓取百万手机号盗信息](http://hao.caibaojian.com/58896.html) （伯乐头条）
-* [京东中间件应用实战](http://hao.caibaojian.com/58762.html) （开发者头条）
-* [程序员常见面试之 计算机网络 知识点小结](http://hao.caibaojian.com/58831.html) （稀土掘金）
+* [为什么大家都不戳破深度学习的本质](http://hao.caibaojian.com/58846.html) （开发者头条）
+* [SegmentFault 社区访谈 | Meathill：从业 10 余年的年轻 Developer](http://hao.caibaojian.com/58903.html) （SegmentFault）
+* [React Native 截屏组件](http://hao.caibaojian.com/58935.html) （稀土掘金）
+* [一份优质 AI 资料清单](http://hao.caibaojian.com/58848.html) （开发者头条）
+* [Android Studio 如何 Debug 对应 so 文件 C/C++ 代码](http://hao.caibaojian.com/58860.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
