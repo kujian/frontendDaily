@@ -1,45 +1,45 @@
-# [20171209 码农日报](http://hao.caibaojian.com/date/2017/12/09)
+# [20171210 码农日报](http://hao.caibaojian.com/date/2017/12/10)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [2017 前端大事件和趋势回顾，2018 何去何从？](http://hao.caibaojian.com/59137.html) （推酷网）
-* [打造属于自己的cnpm/npm安装，生成自定义项目架构](http://hao.caibaojian.com/59161.html) （稀土掘金）
-* [Vue SPA 首屏加载优化实践](http://hao.caibaojian.com/59130.html) （推酷网）
-* [关于Web应用和容器的指纹收集以及自动化软件的制作](http://hao.caibaojian.com/59136.html) （推酷网）
-* [大佬谈谈越来越难做的前端，为什么很多人低下了头](http://hao.caibaojian.com/59127.html) （推酷网）
+* [简单易懂的 webpack 打包后 JS 的运行过程](http://hao.caibaojian.com/59231.html) （稀土掘金）
+* [简单易懂的 H5 页 REM 布局适配方法](http://hao.caibaojian.com/59230.html) （稀土掘金）
+* [Hydux: 一个 Elm-like 的 全功能的 Redux 替代品](http://hao.caibaojian.com/59225.html) （SegmentFault）
+* [我还是想谈谈JS里面的闭包](http://hao.caibaojian.com/59227.html) （推酷网）
+* [JS时间处理插件MomentJS](http://hao.caibaojian.com/59229.html) （稀土掘金）
 
 ***
-* [360 私有云平台 Elasticsearch 服务初探](http://hao.caibaojian.com/59078.html) （开发者头条）
-* [如何实现一个Web Server](http://hao.caibaojian.com/59108.html) （SegmentFault）
-* [这一次带你彻底了解 Cookie](http://hao.caibaojian.com/59079.html) （开发者头条）
-* [Javascript 杂谈 ：熟悉基本概念](http://hao.caibaojian.com/59155.html) （稀土掘金）
-* [【jQuery插件分享】Cropper——一个简单方便的图片裁剪插件](http://hao.caibaojian.com/59113.html) （SegmentFault）
+* [学习迁移架构用于 Scalable 图像的识别](http://hao.caibaojian.com/59186.html) （开发者头条）
+* [Scala 模式匹配的一个问题](http://hao.caibaojian.com/59188.html) （开发者头条）
+* [记一次结对开发 Golang 组件的过程（2016）](http://hao.caibaojian.com/59179.html) （开发者头条）
+* [Golang 1.10 前瞻](http://hao.caibaojian.com/59191.html) （开发者头条）
+* [Find me：用 ARKit 找人](http://hao.caibaojian.com/59192.html) （开发者头条）
 
 ***
-* [全新打包工具-Parcel介绍](http://hao.caibaojian.com/59125.html) （推酷网）
-* [简易制作贝塞尔曲线动画（JS+css3+canvas）](http://hao.caibaojian.com/59126.html) （推酷网）
-* [PHP中被忽略的性能优化利器：生成器](http://hao.caibaojian.com/59116.html) （SegmentFault）
-* [如何成为一名数据分析师：数据的初步认知](http://hao.caibaojian.com/59076.html) （开发者头条）
-* [Webpack飞行手册](http://hao.caibaojian.com/59138.html) （推酷网）
+* [CNN 模型压缩与加速算法综述](http://hao.caibaojian.com/59184.html) （开发者头条）
+* [给 AI 换个 “大动力小心脏” 之 OCR 异构加速](http://hao.caibaojian.com/59195.html) （开发者头条）
+* [iOS 中的 “锁事”](http://hao.caibaojian.com/59185.html) （开发者头条）
+* [比特币如何达成共识：最长链的选择](http://hao.caibaojian.com/59196.html) （开发者头条）
+* [Zepto这样操作元素属性](http://hao.caibaojian.com/59220.html) （SegmentFault）
 
 ***
-* [使用 gdb 调试 PHP 段错误](http://hao.caibaojian.com/59077.html) （开发者头条）
-* [浅究Vue响应式原理](http://hao.caibaojian.com/59128.html) （推酷网）
-* [MongoDB中MapReduce使用](http://hao.caibaojian.com/59118.html) （SegmentFault）
-* [javascript中模块的发展历程](http://hao.caibaojian.com/59154.html) （稀土掘金）
-* [一千个不用 Null 的理由](http://hao.caibaojian.com/59210.html) （ImportNew）
+* [成小胖学习 ActiveMQ · 基础篇](http://hao.caibaojian.com/59253.html) （ImportNew）
+* [Debug Case：单元测试里的清理现场](http://hao.caibaojian.com/59187.html) （开发者头条）
+* [淘宝直播弹幕爬虫](http://hao.caibaojian.com/59221.html) （SegmentFault）
+* [程序员，在你 40 岁之前，要有个 plan B](http://hao.caibaojian.com/59177.html) （开发者头条）
+* [Java 性能调优的 11 个实用技巧](http://hao.caibaojian.com/59254.html) （ImportNew）
 
 ***
-* [进击的 TensorFlow](http://hao.caibaojian.com/59080.html) （开发者头条）
-* [vue项目中对axios的二次封装](http://hao.caibaojian.com/59131.html) （推酷网）
-* [Parcel：一个快速、零配置的 Web 应用打包工具](http://hao.caibaojian.com/59081.html) （开发者头条）
-* [写一个可拓展的360度产品旋转插件](http://hao.caibaojian.com/59132.html) （推酷网）
-* [Webpack3.0小案例躺坑资源处理、服务器启动和打包优化](http://hao.caibaojian.com/59122.html) （推酷网）
+* [ng-alain 发布 0.2 版本](http://hao.caibaojian.com/59222.html) （SegmentFault）
+* [为什么好的博客越来越少？](http://hao.caibaojian.com/59178.html) （开发者头条）
+* [20171210 前端开发日报](http://hao.caibaojian.com/59255.html) （前端开发博客）
+* [经济学人评 AI 行业现状：小心那些带着礼物来的极客们](http://hao.caibaojian.com/59189.html) （开发者头条）
+* [讲讲PWA](http://hao.caibaojian.com/59223.html) （SegmentFault）
 
 ***
-* [系统设计的万能解法：SNAKE 原则](http://hao.caibaojian.com/59082.html) （开发者头条）
-* [手写一个自己的 JavaScript Promise 类库](http://hao.caibaojian.com/59133.html) （推酷网）
-* [vayne：基于 vue-cli 的 webpack 全局安装的命令行工具](http://hao.caibaojian.com/59123.html) （推酷网）
-* [数字化企业的 API 架构治理](http://hao.caibaojian.com/59083.html) （开发者头条）
-* [集中式日志分析平台](http://hao.caibaojian.com/59084.html) （开发者头条）
+* [sass、less和stylus的安装使用和入门实践](http://hao.caibaojian.com/59256.html) （前端开发博客）
+* [React Native 是如何让 JS 代码 “变成” Android 控件的？](http://hao.caibaojian.com/59190.html) （开发者头条）
+* [一个 16年毕业生所经历的 PHP 面试](http://hao.caibaojian.com/59224.html) （SegmentFault）
+* [如何基于 shiro 实现权限管理开发（实战篇）](http://hao.caibaojian.com/59180.html) （开发者头条）
+* [如何为自己制作一个精美的卡通头像](http://hao.caibaojian.com/59258.html) （优秀网页设计）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
