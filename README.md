@@ -1,45 +1,45 @@
-# [20171212 码农日报](http://hao.caibaojian.com/date/2017/12/12)
+# [20171213 码农日报](http://hao.caibaojian.com/date/2017/12/13)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [css3实现多个元素依次显示](http://hao.caibaojian.com/59386.html) （稀土掘金）
-* [Python 将被加入高考科目](http://hao.caibaojian.com/59300.html) （开发者头条）
-* [分享一个自己开发的 react拖拽排序组件](http://hao.caibaojian.com/59387.html) （稀土掘金）
-* [Parceljs和Webpack在React项目上打包速度对比](http://hao.caibaojian.com/59357.html) （推酷网）
-* [JavaScript 性能优化技巧分享](http://hao.caibaojian.com/59381.html) （稀土掘金）
+* [从a标签为什么不能包含div标签-了解HTML5元素分类与内容模型](http://hao.caibaojian.com/59453.html) （推酷网）
+* [CSS等比例缩放的盒子](http://hao.caibaojian.com/59474.html) （稀土掘金）
+* [听说你想学 React.js ？](http://hao.caibaojian.com/59470.html) （稀土掘金）
+* [全本 | iKcamp翻译 | 《JavaScript 轻量级函数式编程》|《你不知道的JS》姊妹篇](http://hao.caibaojian.com/59472.html) （稀土掘金）
+* [移动Web加速技术月报第3期](http://hao.caibaojian.com/59466.html) （稀土掘金）
 
 ***
-* [再也不学AJAX了（三）跨域获取资源 ③ &#8211; WebSocket &amp; postMessage](http://hao.caibaojian.com/59339.html) （SegmentFault）
-* [前端每周清单第 43 期：2017 JavaScript 回顾、Rust 与 WebAssembly 开发游戏、Node.js 架构模式](http://hao.caibaojian.com/59383.html) （稀土掘金）
-* [前端每周清单第 43 期：2017 JavaScript 回顾、Rust 与 WebAssembly 开发游戏](http://hao.caibaojian.com/59337.html) （SegmentFault）
-* [一看就懂的JS抽象语法树](http://hao.caibaojian.com/59349.html) （推酷网）
-* [浅谈前端与网络请求](http://hao.caibaojian.com/59360.html) （推酷网）
+* [基于gulp+webpack 快速搭建的前端自动化脚手架](http://hao.caibaojian.com/59451.html) （推酷网）
+* [dob &#8211; 框架实现](http://hao.caibaojian.com/59473.html) （稀土掘金）
+* [不就是跨域么?慌个XX](http://hao.caibaojian.com/59449.html) （推酷网）
+* [Vue单页面骨架屏实践](http://hao.caibaojian.com/59448.html) （推酷网）
+* [带你从零到一理解 HTTPS](http://hao.caibaojian.com/59465.html) （稀土掘金）
 
 ***
-* [HTTP&#8212;-HTTP缓存机制](http://hao.caibaojian.com/59382.html) （稀土掘金）
-* [ELK + Filebeat 搭建日志系统](http://hao.caibaojian.com/59305.html) （开发者头条）
-* [Node.js v9.2.1，v8.9.3， v4.8.7 发布](http://hao.caibaojian.com/59363.html) （推酷网）
-* [你还要我怎样的JS系列（5）&#8211; 函数](http://hao.caibaojian.com/59379.html) （稀土掘金）
-* [一个比 webpack 快10倍的打包工具](http://hao.caibaojian.com/59419.html) （前端大全）
+* [Python一系列：3. 文件读写和函数式编程](http://hao.caibaojian.com/59440.html) （SegmentFault）
+* [[面试∙网络] TCP/IP（五）：TCP 协议详解](http://hao.caibaojian.com/59460.html) （稀土掘金）
+* [vv-ui 骨架屏实践](http://hao.caibaojian.com/59471.html) （稀土掘金）
+* [Google 视频编码格式 VP9 究竟厉害在哪里](http://hao.caibaojian.com/59443.html) （SegmentFault）
+* [无人机 + 程序猿 == 啥](http://hao.caibaojian.com/59408.html) （开发者头条）
 
 ***
-* [网页内容复制粘贴(三种方案 兼容多种浏览器)](http://hao.caibaojian.com/59376.html) （稀土掘金）
-* [从编译和运行的角度再议 Java 乱码问题](http://hao.caibaojian.com/59311.html) （开发者头条）
-* [交叉观察器(intersectionObserver) Vue实战](http://hao.caibaojian.com/59388.html) （稀土掘金）
-* [etcd v3 原理分析](http://hao.caibaojian.com/59302.html) （开发者头条）
-* [TCP 连接建立与断开](http://hao.caibaojian.com/59303.html) （开发者头条）
+* [H5游戏开发的一乘轻骑&#8212;Phaser](http://hao.caibaojian.com/59467.html) （稀土掘金）
+* [带你开发一个日历控件](http://hao.caibaojian.com/59452.html) （推酷网）
+* [在本地开发环境(Mac)中安装自签名证书，启用https](http://hao.caibaojian.com/59438.html) （SegmentFault）
+* [正确面对跨域，别慌](http://hao.caibaojian.com/59469.html) （稀土掘金）
+* [[面试∙网络] TCP/IP（六）：HTTP 与 HTTPS 简介](http://hao.caibaojian.com/59459.html) （稀土掘金）
 
 ***
-* [Kotlin 和 C 有望成年度语言](http://hao.caibaojian.com/59427.html) （伯乐头条）
-* [我 40 个比特币失而复得的经历](http://hao.caibaojian.com/59304.html) （开发者头条）
-* [React Static](http://hao.caibaojian.com/59428.html) （IT程序狮）
-* [vue+webpack+amaze-vue实现省市区联动选择组件](http://hao.caibaojian.com/59361.html) （推酷网）
-* [InfluxDB 中文文档](http://hao.caibaojian.com/59306.html) （开发者头条）
+* [以太坊源码剖析(1)-RLP编码](http://hao.caibaojian.com/59441.html) （SegmentFault）
+* [[面试∙网络] TCP/IP（四）：TCP 与 UDP 协议简介](http://hao.caibaojian.com/59461.html) （稀土掘金）
+* [云时代服务器端工程师必备 CDN 技能包](http://hao.caibaojian.com/59442.html) （SegmentFault）
+* [[面试∙网络] TCP/IP（三）：IP协议相关技术](http://hao.caibaojian.com/59462.html) （稀土掘金）
+* [[面试∙网络] TCP/IP（二）：IP协议](http://hao.caibaojian.com/59463.html) （稀土掘金）
 
 ***
-* [Docker 容器与镜像的储存](http://hao.caibaojian.com/59385.html) （稀土掘金）
-* [解密 Airbnb 自助 BI 神器：Superset 颠覆 Tableau](http://hao.caibaojian.com/59308.html) （开发者头条）
-* [为什么聊天机器人从业者都很委屈？](http://hao.caibaojian.com/59309.html) （开发者头条）
-* [WebSocket详解（四）：刨根问底HTTP与WebSocket的关系(上篇)](http://hao.caibaojian.com/59356.html) （推酷网）
-* [Golang 网络：核心 API 实现剖析（二）](http://hao.caibaojian.com/59312.html) （开发者头条）
+* [从 React 到 Preact 迁移指南](http://hao.caibaojian.com/59405.html) （开发者头条）
+* [[面试∙网络] TCP/IP（一）：数据链路层](http://hao.caibaojian.com/59464.html) （稀土掘金）
+* [如何理解 Pandas 和 Numpy 里的 axis](http://hao.caibaojian.com/59406.html) （开发者头条）
+* [赚钱宝背后的 CDN 技术演进](http://hao.caibaojian.com/59407.html) （开发者头条）
+* [基于element-ui实现table可配置化](http://hao.caibaojian.com/59450.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
