@@ -1,45 +1,45 @@
-# [20171220 码农日报](http://hao.caibaojian.com/date/2017/12/20)
+# [20171222 码农日报](http://hao.caibaojian.com/date/2017/12/22)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [2018 年你应该知道的 Vue.js 的 11 个组件库](http://hao.caibaojian.com/60176.html) （推酷网）
-* [可能是最全的Vue-TypeScript教程(附实例代码和一键构建工具)](http://hao.caibaojian.com/60174.html) （推酷网）
-* [欢迎来到新时代，HTML 5.2 已成为 W3C 新推荐标准](http://hao.caibaojian.com/60262.html) （IT程序猿）
-* [2018 最具就业前景的 7 大编程语言，Java、Python 和 JavaScript 前三无悬念？](http://hao.caibaojian.com/60175.html) （推酷网）
-* [css sprites精灵图、css图片整合、css贴图定位案例教程](http://hao.caibaojian.com/60194.html) （稀土掘金）
+* [JavaScript 数组遍历方法的对比](http://hao.caibaojian.com/60388.html) （推酷网）
+* [30行Python代码刷王者荣耀金币](http://hao.caibaojian.com/60353.html) （SegmentFault）
+* [JS原生交互](http://hao.caibaojian.com/60390.html) （推酷网）
+* [从 webpack 到全面拥抱 Parcel #2 让 Parcel 支持 vue](http://hao.caibaojian.com/60387.html) （推酷网）
+* [两行 CSS 代码实现图片任意颜色赋色技术](http://hao.caibaojian.com/60416.html) （稀土掘金）
 
 ***
-* [JS截取字符串之substring、substr和slice详解](http://hao.caibaojian.com/60265.html) （前端开发博客）
-* [前端开发者常用的9个JavaScript图表库](http://hao.caibaojian.com/60173.html) （推酷网）
-* [redux v3.7.2源码详细解读与学习之compose](http://hao.caibaojian.com/60198.html) （稀土掘金）
-* [聊聊人工智能建筑师](http://hao.caibaojian.com/60104.html) （开发者头条）
-* [浏览器家族的安全反击战](http://hao.caibaojian.com/60167.html) （推酷网）
+* [如果你遇到了 webpack-dev-server 在 UC 浏览器里跑不起来的问题](http://hao.caibaojian.com/60420.html) （稀土掘金）
+* [小tips: 0学习成本实现HTML元素粘滞融合效果](http://hao.caibaojian.com/60421.html) （稀土掘金）
+* [优质前端频道汇聚](http://hao.caibaojian.com/60333.html) （开发者头条）
+* [如何在不同的项目中共用前端资源,告别复制粘贴](http://hao.caibaojian.com/60414.html) （稀土掘金）
+* [canvas入门里，你没注意到的那些知识](http://hao.caibaojian.com/60355.html) （SegmentFault）
 
 ***
-* [每日源码分析 &#8211; Lodash(remove.js)](http://hao.caibaojian.com/60192.html) （稀土掘金）
-* [TypeScript, Angular 和移动端的跨平台开发](http://hao.caibaojian.com/60169.html) （推酷网）
-* [迈克菲实验室：2018 年 5 大网络安全趋势预测](http://hao.caibaojian.com/60107.html) （开发者头条）
-* [基于 Egg 的高可靠高性能 React 同构解决方案 beidou 开源了](http://hao.caibaojian.com/60098.html) （开发者头条）
-* [JavaScript &quot;相等&quot; 的二三事](http://hao.caibaojian.com/60171.html) （推酷网）
+* [一步一步分析vue之$mount(1)](http://hao.caibaojian.com/60389.html) （推酷网）
+* [用 Tesseract 开发一个你自己的文字识别应用](http://hao.caibaojian.com/60328.html) （开发者头条）
+* [白话Angular词汇](http://hao.caibaojian.com/60382.html) （推酷网）
+* [Mobx React  最佳实践](http://hao.caibaojian.com/60386.html) （推酷网）
+* [用vue开发一个所谓的数独](http://hao.caibaojian.com/60356.html) （SegmentFault）
 
 ***
-* [webpack 为什么这么难用？](http://hao.caibaojian.com/60172.html) （推酷网）
-* [解读 JavaScript 之事件循环和异步编程](http://hao.caibaojian.com/60162.html) （推酷网）
-* [2018 年人工智能的三大趋势：情感、数据、道德](http://hao.caibaojian.com/60100.html) （开发者头条）
-* [Retrofit 系列翻译（一）](http://hao.caibaojian.com/60111.html) （开发者头条）
-* [一周 IT 技术干货（码农周刊第 196 期）](http://hao.caibaojian.com/60090.html) （开发者头条）
+* [从超平面到 SVM（二）](http://hao.caibaojian.com/60335.html) （开发者头条）
+* [Web调试工具Charles使用心得](http://hao.caibaojian.com/60413.html) （稀土掘金）
+* [即刻 Swift 静态库实践](http://hao.caibaojian.com/60337.html) （开发者头条）
+* [Express4.x API (三)：Response (译)](http://hao.caibaojian.com/60380.html) （推酷网）
+* [为什么区块链是解决汽车供应链金融痛点最优雅的方案？](http://hao.caibaojian.com/60327.html) （开发者头条）
 
 ***
-* [Bootstrap Modal遮罩弹窗](http://hao.caibaojian.com/60266.html) （前端开发博客）
-* [网站性能优化——DNS预热与合并HTTP请求](http://hao.caibaojian.com/60153.html) （SegmentFault）
-* [基于 Nginx 负载均衡方案](http://hao.caibaojian.com/60091.html) （开发者头条）
-* [从 webpack 到全面拥抱 Parcel #1 探索 Parcel](http://hao.caibaojian.com/60164.html) （推酷网）
-* [2017年12月设计圈超实用干货大合集](http://hao.caibaojian.com/60267.html) （优秀网页设计）
+* [Javascript中JSON数据分组优化实践](http://hao.caibaojian.com/60381.html) （推酷网）
+* [记一次 Bug 的排查过程（Redis）](http://hao.caibaojian.com/60319.html) （开发者头条）
+* [剪贴板事件](http://hao.caibaojian.com/60383.html) （推酷网）
+* [这个CSS问题屏幕前的你是否熟悉，然后懵逼，最后放弃](http://hao.caibaojian.com/60408.html) （稀土掘金）
+* [JS Native：覆盖阿里几乎所有产品的全新开发模式，到底有何高明之处（一）](http://hao.caibaojian.com/60320.html) （开发者头条）
 
 ***
-* [解读 JavaScript 之内存管理和常见内存泄露处理](http://hao.caibaojian.com/60165.html) （推酷网）
-* [物联网设备是如何被破解的？分析一种篡改 IoT 固件内容的攻击方式](http://hao.caibaojian.com/60103.html) （开发者头条）
-* [TalkingData 开源地理信息可视化框架 inMap](http://hao.caibaojian.com/60155.html) （SegmentFault）
-* [使用 Adobe Illustrator 导出 SVG 方法详解](http://hao.caibaojian.com/60193.html) （稀土掘金）
-* [React 官方文档 FAQ 常见问题参考解决](http://hao.caibaojian.com/60195.html) （稀土掘金）
+* [Webpack实战-为单页应用生成HTML](http://hao.caibaojian.com/60354.html) （SegmentFault）
+* [微服务下支付宝接入](http://hao.caibaojian.com/60321.html) （开发者头条）
+* [回归本源：JavaScript 之中的值和引用](http://hao.caibaojian.com/60385.html) （推酷网）
+* [利用 proxy 监视对象的变化](http://hao.caibaojian.com/60410.html) （稀土掘金）
+* [深入理解 CSS：字体度量、line-height 和 vertical-align](http://hao.caibaojian.com/60411.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
