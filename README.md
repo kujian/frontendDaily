@@ -1,45 +1,45 @@
-# [20171222 码农日报](http://hao.caibaojian.com/date/2017/12/22)
+# [20171223 码农日报](http://hao.caibaojian.com/date/2017/12/23)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript 数组遍历方法的对比](http://hao.caibaojian.com/60388.html) （推酷网）
-* [30行Python代码刷王者荣耀金币](http://hao.caibaojian.com/60353.html) （SegmentFault）
-* [JS原生交互](http://hao.caibaojian.com/60390.html) （推酷网）
-* [从 webpack 到全面拥抱 Parcel #2 让 Parcel 支持 vue](http://hao.caibaojian.com/60387.html) （推酷网）
-* [两行 CSS 代码实现图片任意颜色赋色技术](http://hao.caibaojian.com/60416.html) （稀土掘金）
+* [jquery template.js前端模板引擎](http://hao.caibaojian.com/60492.html) （推酷网）
+* [面向前端工程师的机器学习引导课](http://hao.caibaojian.com/60454.html) （奇舞团）
+* [读懂源码：一步一步实现一个 Vue](http://hao.caibaojian.com/60520.html) （稀土掘金）
+* [2017年10个最好的Javascript和CSS库](http://hao.caibaojian.com/60486.html) （推酷网）
+* [使用grow-loader简单实现code-splitting](http://hao.caibaojian.com/60517.html) （稀土掘金）
 
 ***
-* [如果你遇到了 webpack-dev-server 在 UC 浏览器里跑不起来的问题](http://hao.caibaojian.com/60420.html) （稀土掘金）
-* [小tips: 0学习成本实现HTML元素粘滞融合效果](http://hao.caibaojian.com/60421.html) （稀土掘金）
-* [优质前端频道汇聚](http://hao.caibaojian.com/60333.html) （开发者头条）
-* [如何在不同的项目中共用前端资源,告别复制粘贴](http://hao.caibaojian.com/60414.html) （稀土掘金）
-* [canvas入门里，你没注意到的那些知识](http://hao.caibaojian.com/60355.html) （SegmentFault）
+* [ActiveMQ从入门到实践](http://hao.caibaojian.com/60465.html) （SegmentFault）
+* [2017 年度盘点：15 个最流行的 GitHub 机器学习项目](http://hao.caibaojian.com/60440.html) （开发者头条）
+* [利用FormData对象实现AJAX文件上传功能及后端实现](http://hao.caibaojian.com/60495.html) （推酷网）
+* [谈谈React&#8211;componentWillReceiveProps的使用](http://hao.caibaojian.com/60521.html) （稀土掘金）
+* [将网站转换为渐进式 Web 应用程序之简易教程](http://hao.caibaojian.com/60488.html) （推酷网）
 
 ***
-* [一步一步分析vue之$mount(1)](http://hao.caibaojian.com/60389.html) （推酷网）
-* [用 Tesseract 开发一个你自己的文字识别应用](http://hao.caibaojian.com/60328.html) （开发者头条）
-* [白话Angular词汇](http://hao.caibaojian.com/60382.html) （推酷网）
-* [Mobx React  最佳实践](http://hao.caibaojian.com/60386.html) （推酷网）
-* [用vue开发一个所谓的数独](http://hao.caibaojian.com/60356.html) （SegmentFault）
+* [跨直播间 PK，熊猫直播 PK 功能上线首日时段流水几十万](http://hao.caibaojian.com/60446.html) （开发者头条）
+* [Android开发之漫漫长途 Ⅷ——Android Binder（也许是最容易理解的）](http://hao.caibaojian.com/60461.html) （SegmentFault）
+* [浏览器user-agent简史](http://hao.caibaojian.com/60514.html) （稀土掘金）
+* [这里有没有你想要的react-router](http://hao.caibaojian.com/60462.html) （SegmentFault）
+* [Vue 第一个组件，浏览器后退无法触发beforeRouteLeave的问题与解决](http://hao.caibaojian.com/60490.html) （推酷网）
 
 ***
-* [从超平面到 SVM（二）](http://hao.caibaojian.com/60335.html) （开发者头条）
-* [Web调试工具Charles使用心得](http://hao.caibaojian.com/60413.html) （稀土掘金）
-* [即刻 Swift 静态库实践](http://hao.caibaojian.com/60337.html) （开发者头条）
-* [Express4.x API (三)：Response (译)](http://hao.caibaojian.com/60380.html) （推酷网）
-* [为什么区块链是解决汽车供应链金融痛点最优雅的方案？](http://hao.caibaojian.com/60327.html) （开发者头条）
+* [AST in Modern JavaScript](http://hao.caibaojian.com/60515.html) （稀土掘金）
+* [Developer Experience First：TWA 的理念与实践](http://hao.caibaojian.com/60453.html) （奇舞团）
+* [使用Vue开发的谷歌扩展，获取音乐下载地址](http://hao.caibaojian.com/60527.html) （稀土掘金）
+* [简单案例浅析JS线程机制](http://hao.caibaojian.com/60493.html) （推酷网）
+* [ANTLR：在浏览器中玩语法解析](http://hao.caibaojian.com/60455.html) （奇舞团）
 
 ***
-* [Javascript中JSON数据分组优化实践](http://hao.caibaojian.com/60381.html) （推酷网）
-* [记一次 Bug 的排查过程（Redis）](http://hao.caibaojian.com/60319.html) （开发者头条）
-* [剪贴板事件](http://hao.caibaojian.com/60383.html) （推酷网）
-* [这个CSS问题屏幕前的你是否熟悉，然后懵逼，最后放弃](http://hao.caibaojian.com/60408.html) （稀土掘金）
-* [JS Native：覆盖阿里几乎所有产品的全新开发模式，到底有何高明之处（一）](http://hao.caibaojian.com/60320.html) （开发者头条）
+* [跟着Vue-cli来&#8217;学&#8217;并&#8217;改&#8217;Webpack之多环境配置和发布](http://hao.caibaojian.com/60518.html) （稀土掘金）
+* [将typescript+react的webpack项目迁移到parcel](http://hao.caibaojian.com/60466.html) （SegmentFault）
+* [JavaScript 打怪升级 —— 把业务逻辑当练习题做](http://hao.caibaojian.com/60571.html) （前端大全）
+* [TiDB / TiSpark 在易果集团实时数仓中的创新实践](http://hao.caibaojian.com/60441.html) （开发者头条）
+* [原生JS控制多个滚动条同步跟随滚动](http://hao.caibaojian.com/60494.html) （推酷网）
 
 ***
-* [Webpack实战-为单页应用生成HTML](http://hao.caibaojian.com/60354.html) （SegmentFault）
-* [微服务下支付宝接入](http://hao.caibaojian.com/60321.html) （开发者头条）
-* [回归本源：JavaScript 之中的值和引用](http://hao.caibaojian.com/60385.html) （推酷网）
-* [利用 proxy 监视对象的变化](http://hao.caibaojian.com/60410.html) （稀土掘金）
-* [深入理解 CSS：字体度量、line-height 和 vertical-align](http://hao.caibaojian.com/60411.html) （稀土掘金）
+* [好消息！好消息！饿了么ElementUI用户的福音——ElementUIVerify](http://hao.caibaojian.com/60519.html) （稀土掘金）
+* [自我怀疑的开发者：你够好吗？](http://hao.caibaojian.com/60467.html) （SegmentFault）
+* [高性能 PHP 封装的 HTTP Restful 多线程并发请求库](http://hao.caibaojian.com/60572.html) （码农周刊）
+* [我为什么弃用 OpenStack 转向 VMware vSphere](http://hao.caibaojian.com/60442.html) （开发者头条）
+* [技术人成长的四个阶段](http://hao.caibaojian.com/60447.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
