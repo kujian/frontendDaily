@@ -1,45 +1,45 @@
-# [20171229 码农日报](http://hao.caibaojian.com/date/2017/12/29)
+# [20171230 码农日报](http://hao.caibaojian.com/date/2017/12/30)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [28个超牛逼的JavaScript技术用法](http://hao.caibaojian.com/61086.html) （推酷网）
-* [前端构建工具之争——Webpack vs Gulp 谁会被拍死在沙滩上](http://hao.caibaojian.com/61118.html) （稀土掘金）
-* [2017 年 JavaScript 发展状况回顾](http://hao.caibaojian.com/61119.html) （稀土掘金）
-* [CSS 世界概述](http://hao.caibaojian.com/61013.html) （开发者头条）
-* [前端领域2017年有哪些变化，2018年又有怎样的期待？](http://hao.caibaojian.com/61083.html) （推酷网）
+* [2017前端技术大盘点](http://hao.caibaojian.com/61219.html) （SegmentFault）
+* [基于 vue.js 的前端开发环境，用于前后端分离后的单页应用开发](http://hao.caibaojian.com/61278.html) （稀土掘金）
+* [你以为 CSS3 只是个简单的布局？](http://hao.caibaojian.com/61282.html) （稀土掘金）
+* [[阅 #33] 如何监听一个 JS 对象的变化](http://hao.caibaojian.com/61259.html) （推酷网）
+* [手把手教你如何实现 《前端异常监控系统》](http://hao.caibaojian.com/61285.html) （稀土掘金）
 
 ***
-* [javascript异步编程(一)-现状](http://hao.caibaojian.com/61120.html) （稀土掘金）
-* [你所不知道的JSON.parse() 和 JSON.stringify() – 高级用法](http://hao.caibaojian.com/61116.html) （稀土掘金）
-* [bezierMaker.js——N阶贝塞尔曲线生成器](http://hao.caibaojian.com/61107.html) （稀土掘金）
-* [javascript异步编程-现状](http://hao.caibaojian.com/61085.html) （推酷网）
-* [【quickhybrid】JS端的项目实现](http://hao.caibaojian.com/61050.html) （SegmentFault）
+* [国内第一套 Clojure 视频课程，Let Lisp Rocks](http://hao.caibaojian.com/61171.html) （开发者头条）
+* [现代浏览器性能优化-CSS篇](http://hao.caibaojian.com/61213.html) （SegmentFault）
+* [Prometheus 报警 AlertManager 实战](http://hao.caibaojian.com/61164.html) （开发者头条）
+* [Angular 4.0 内置指令全攻略](http://hao.caibaojian.com/61245.html) （推酷网）
+* [Kaggle 大神带你上榜单 Top 2%：点击预测大赛纪实（下）](http://hao.caibaojian.com/61187.html) （开发者头条）
 
 ***
-* [基于React的音乐播放器，适配PC端和移动端](http://hao.caibaojian.com/61041.html) （SegmentFault）
-* [Parcel，零配置开发 React 应用](http://hao.caibaojian.com/61021.html) （开发者头条）
-* [2017 年 7 月：15 个有趣的 JS 和 CSS 库](http://hao.caibaojian.com/61080.html) （推酷网）
-* [别慌，不就是跨域么](http://hao.caibaojian.com/61091.html) （推酷网）
-* [H5 游戏开发：游戏引擎入门推荐](http://hao.caibaojian.com/61027.html) （开发者头条）
+* [大公司的资深工程师和小公司的 Leader 如何决择？](http://hao.caibaojian.com/61166.html) （开发者头条）
+* [技术雷达之 “微前端”：将微服务理念扩展到前端开发](http://hao.caibaojian.com/61177.html) （开发者头条）
+* [Vue异步更新队列原理从入门到放弃](http://hao.caibaojian.com/61246.html) （推酷网）
+* [7个前端不容错过的jQuery图片滑块插件](http://hao.caibaojian.com/61257.html) （推酷网）
+* [json与jsonp区别浅析（json才是目的，jsonp只是手段）](http://hao.caibaojian.com/61283.html) （稀土掘金）
 
 ***
-* [论响应式 HTTP Client 在前端的应用](http://hao.caibaojian.com/61113.html) （稀土掘金）
-* [构建可扩展的 React Redux 应用第一部分 &#8211; React 组件设计](http://hao.caibaojian.com/61114.html) （稀土掘金）
-* [基于 HTML5 WebGL 的 3D 服务器与客户端的通信](http://hao.caibaojian.com/61051.html) （SegmentFault）
-* [bezierMake.js——N阶贝塞尔曲线生成器](http://hao.caibaojian.com/61079.html) （推酷网）
-* [Vue组件通信之Bus](http://hao.caibaojian.com/61090.html) （推酷网）
+* [分析超星学习通加密算法&amp;&amp;秒刷课分析](http://hao.caibaojian.com/61247.html) （推酷网）
+* [浏览器中的图像识别 API](http://hao.caibaojian.com/61207.html) （奇舞团）
+* [Python 年终总结](http://hao.caibaojian.com/61168.html) （开发者头条）
+* [Nginx反向代理WebSocket响应403的解决办法](http://hao.caibaojian.com/61218.html) （SegmentFault）
+* [N 阶贝塞尔曲线生成器：bezierMaker.js](http://hao.caibaojian.com/61209.html) （奇舞团）
 
 ***
-* [利用七牛 qshell 和 Automator 打造快捷上传服务](http://hao.caibaojian.com/61042.html) （SegmentFault）
-* [无处不在的 Python](http://hao.caibaojian.com/61011.html) （开发者头条）
-* [标准模式与怪异模式对于渲染页面的影响](http://hao.caibaojian.com/61117.html) （稀土掘金）
-* [如何在 JavaScript 中使用 Generator？](http://hao.caibaojian.com/61081.html) （推酷网）
-* [构建前端异常监控系统](http://hao.caibaojian.com/61023.html) （开发者头条）
+* [MongooseJS 5.0.0 rc0 发布，MongoDB 连接包](http://hao.caibaojian.com/61260.html) （推酷网）
+* [JSONP的原理与实现以及XSS,CSRF的相亲相爱](http://hao.caibaojian.com/61276.html) （稀土掘金）
+* [2017 年超有价值的 Golang 文章](http://hao.caibaojian.com/61161.html) （开发者头条）
+* [Introducing Hyperapp 1.0](http://hao.caibaojian.com/61277.html) （稀土掘金）
+* [线上问题跟进总结](http://hao.caibaojian.com/61172.html) （开发者头条）
 
 ***
-* [react-router browserHistory刷新页面404问题解决](http://hao.caibaojian.com/61109.html) （稀土掘金）
-* [想要理解 Spark RDD 就自己写一个](http://hao.caibaojian.com/61016.html) （开发者头条）
-* [浅谈Async/Await](http://hao.caibaojian.com/61111.html) （稀土掘金）
-* [AWS re:Invent 2017 Serverless 回顾](http://hao.caibaojian.com/61028.html) （开发者头条）
-* [node简单实现一个更改头像功能](http://hao.caibaojian.com/61112.html) （稀土掘金）
+* [【quickhybrid】Android端的项目实现](http://hao.caibaojian.com/61222.html) （SegmentFault）
+* [React系列——用简单的例子掌握不可突变数据结构](http://hao.caibaojian.com/61212.html) （SegmentFault）
+* [JavaScript 年度调查报告：React、Vue 和 Angular 三分天下，谁将在 2018 年独占鳌头？](http://hao.caibaojian.com/61253.html) （推酷网）
+* [Wildfire：野火评论系统](http://hao.caibaojian.com/61174.html) （开发者头条）
+* [前端性能优化之桌面浏览器优化策略](http://hao.caibaojian.com/61254.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
