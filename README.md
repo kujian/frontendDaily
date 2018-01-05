@@ -1,45 +1,45 @@
-# [20180103 码农日报](http://hao.caibaojian.com/date/2018/01/03)
+# [20180104 码农日报](http://hao.caibaojian.com/date/2018/01/04)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端真的能做到彻底权限控制吗？](http://hao.caibaojian.com/61562.html) （SegmentFault）
-* [Go 语言高级编程（GitBook）](http://hao.caibaojian.com/61527.html) （开发者头条）
-* [React Native Expo开发的OW移动端项目](http://hao.caibaojian.com/61615.html) （稀土掘金）
-* [使用 web 应用打包工具 Parcel 实现代码分割](http://hao.caibaojian.com/61591.html) （推酷网）
-* [redux-form性能优化](http://hao.caibaojian.com/61617.html) （稀土掘金）
+* [原生 JavaScript 模块的现在与未来](http://hao.caibaojian.com/61732.html) （稀土掘金）
+* [面向自己的2018前端开发指南（一）](http://hao.caibaojian.com/61731.html) （稀土掘金）
+* [iKcamp｜基于Koa2搭建Node.js实战（含视频）☞ 代码分层](http://hao.caibaojian.com/61704.html) （推酷网）
+* [Node.js v6.12.3 (LTS) 发布，可以从任何目录配置](http://hao.caibaojian.com/61715.html) （推酷网）
+* [前端不止：请告诉我，你要什么样的图标](http://hao.caibaojian.com/61652.html) （开发者头条）
 
 ***
-* [webpack多页面打包](http://hao.caibaojian.com/61609.html) （稀土掘金）
-* [2018 年最值得关注的 JavaScript 趋势](http://hao.caibaojian.com/61595.html) （推酷网）
-* [vue、react等单页面项目应该这样子部署到服务器](http://hao.caibaojian.com/61563.html) （SegmentFault）
-* [JavaScript30秒， 从入门到放弃之Array（三）](http://hao.caibaojian.com/61592.html) （推酷网）
-* [Docker Hub 仓库使用，及搭建 Docker Registry](http://hao.caibaojian.com/61567.html) （SegmentFault）
+* [Elasticsearch 实战总结](http://hao.caibaojian.com/61633.html) （开发者头条）
+* [从-1开始的ES6探索之旅01：颜文字成精的箭头函数 上篇 &#8211; 大哥，你指哪呢？](http://hao.caibaojian.com/61673.html) （SegmentFault）
+* [Three.js 再探 &#8211; 写一个跳一跳极简版游戏](http://hao.caibaojian.com/61697.html) （推酷网）
+* [很全很全的JavaScript模块讲解，看了绝不后悔](http://hao.caibaojian.com/61708.html) （推酷网）
+* [初级前端项目加载速度优化](http://hao.caibaojian.com/61698.html) （推酷网）
 
 ***
-* [来自 CodePen 的七款最强前端代码效果体验](http://hao.caibaojian.com/61533.html) （开发者头条）
-* [教你用NodeJs+express玩跳一跳](http://hao.caibaojian.com/61611.html) （稀土掘金）
-* [webpack优化不完全指南](http://hao.caibaojian.com/61596.html) （推酷网）
-* [【vuejs项目部署】使用docker基于daocloud自动化部署到自己的主机](http://hao.caibaojian.com/61561.html) （SegmentFault）
-* [使用Promise解决多层异步调用的简单学习](http://hao.caibaojian.com/61590.html) （推酷网）
+* [2018 我所了解的 Vue 知识大全](http://hao.caibaojian.com/61709.html) （推酷网）
+* [使用JavaScript将图片保存至本地](http://hao.caibaojian.com/61701.html) （推酷网）
+* [用 R 语言实现深度学习情感分析](http://hao.caibaojian.com/61647.html) （开发者头条）
+* [一种移动应用 Http 请求的加密方法：以 Android 为例](http://hao.caibaojian.com/61640.html) （开发者头条）
+* [Node.JS中UDP打洞穿透内网路由，架设内网服务器技术详解及源码](http://hao.caibaojian.com/61706.html) （推酷网）
 
 ***
-* [深入理解React源码 &#8211; 首次渲染 II](http://hao.caibaojian.com/61606.html) （稀土掘金）
-* [React系列——封装一个Portal可复用组件](http://hao.caibaojian.com/61565.html) （SegmentFault）
-* [Python 环境下的 8 种简单线性回归算法](http://hao.caibaojian.com/61542.html) （开发者头条）
-* [lodash源码分析之Hash缓存](http://hao.caibaojian.com/61566.html) （SegmentFault）
-* [使用纯 CSS 实现 Google Photos 照片列表布局](http://hao.caibaojian.com/61608.html) （稀土掘金）
+* [vue开发看这篇文章就够了](http://hao.caibaojian.com/61665.html) （SegmentFault）
+* [PathJs ——化繁为简的响应式 JavaScript UI 框架](http://hao.caibaojian.com/61711.html) （推酷网）
+* [MySQL 误删数据救命指南](http://hao.caibaojian.com/61646.html) （开发者头条）
+* [[阅 #34] 讲真，我觉得咱们还是有必要把代码风格统一一下](http://hao.caibaojian.com/61712.html) （推酷网）
+* [告别繁琐重复的webpack配置，直接上手撸代码](http://hao.caibaojian.com/61670.html) （SegmentFault）
 
 ***
-* [你了解你的数据吗（开篇）](http://hao.caibaojian.com/61544.html) （开发者头条）
-* [口袋 Kali：GPD7 mini laptop 上的 Kali Linux](http://hao.caibaojian.com/61548.html) （开发者头条）
-* [20180103 前端开发日报](http://hao.caibaojian.com/61689.html) （前端开发博客）
-* [Ant Design 色板生成算法演进之路](http://hao.caibaojian.com/61610.html) （稀土掘金）
-* [我的 2017 技术流水账](http://hao.caibaojian.com/61584.html) （推酷网）
+* [亿级请求下多级缓存那些事](http://hao.caibaojian.com/61637.html) （开发者头条）
+* [更新 Django 2.0 的 10 条注意事项](http://hao.caibaojian.com/61648.html) （开发者头条）
+* [JavaScript的成本](http://hao.caibaojian.com/61714.html) （推酷网）
+* [关于航拍建模，这里再推荐 3 款软件](http://hao.caibaojian.com/61649.html) （开发者头条）
+* [《Data Warehouse in Action》](http://hao.caibaojian.com/61639.html) （开发者头条）
 
 ***
-* [再读规范中浮动与定位细节](http://hao.caibaojian.com/61612.html) （稀土掘金）
-* [vue-router项目实战总结](http://hao.caibaojian.com/61586.html) （推酷网）
-* [WEB 即时通信最佳实践](http://hao.caibaojian.com/61680.html) （前端大全）
-* [Deep Image Prior：深度卷积网络先天就理解自然图像](http://hao.caibaojian.com/61537.html) （开发者头条）
-* [2018年的用户体验设计趋势](http://hao.caibaojian.com/61694.html) （优秀网页设计）
+* [OAuth 2.0 协议原理详解](http://hao.caibaojian.com/61641.html) （开发者头条）
+* [2018年，你应该花5个月时间去学习编程，并找到一份好工作](http://hao.caibaojian.com/61707.html) （推酷网）
+* [React全家桶构建一款Web音乐App实战（五）：歌曲状态管理及播放功能实现](http://hao.caibaojian.com/61729.html) （稀土掘金）
+* [由浅入深的比特币区块链概念、原理和应用场景](http://hao.caibaojian.com/61643.html) （开发者头条）
+* [CSS 实现元素较宽不能被完全展示时将其隐藏](http://hao.caibaojian.com/61730.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
