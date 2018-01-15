@@ -1,45 +1,43 @@
-# [20180113 码农日报](http://hao.caibaojian.com/date/2018/01/13)
+# [20180114 码农日报](http://hao.caibaojian.com/date/2018/01/14)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [HTTP/2 幕后原理](http://hao.caibaojian.com/62527.html) （稀土掘金）
-* [模式系统与最简单的Node.js MVC Web Server设计](http://hao.caibaojian.com/62522.html) （稀土掘金）
-* [iKcamp｜基于Koa2搭建Node.js实战（含视频）☞ 处理静态资源](http://hao.caibaojian.com/62510.html) （SegmentFault）
-* [WebVR 开发教程：Web Audio 实现 3D 音效](http://hao.caibaojian.com/62500.html) （奇舞团）
-* [优达学城（Udacity）前端样式指南](http://hao.caibaojian.com/62476.html) （开发者头条）
+* [JavaScript数组从头开始的位置插入新元素或删除第一个元素](http://hao.caibaojian.com/62571.html) （推酷网）
+* [javascript背包问题详解](http://hao.caibaojian.com/62584.html) （稀土掘金）
+* [从 Nuxt.js 学习到了什么：窥探前端工程化解决方案的架构思路](http://hao.caibaojian.com/62561.html) （开发者头条）
+* [小白也能看的懂的页面性能优化来一波](http://hao.caibaojian.com/62566.html) （SegmentFault）
+* [JavaScriptTalkNativeEasy：用于 Obj-C 和 JavaScript 交互的库](http://hao.caibaojian.com/62577.html) （推酷网）
 
 ***
-* [我在使用 React Native/Redux 开发中犯过的 11 个错误](http://hao.caibaojian.com/62503.html) （奇舞团）
-* [Spring Data JPA 从入门到进阶系列教程](http://hao.caibaojian.com/62467.html) （开发者头条）
-* [Nuxt.js 踩坑分享](http://hao.caibaojian.com/62505.html) （奇舞团）
-* [一个 VUE 组件：实现子元素 scroll 父元素容器不跟随滚动（兼容PC、移动端）](http://hao.caibaojian.com/62523.html) （稀土掘金）
-* [10 分钟搞定 ICO](http://hao.caibaojian.com/62466.html) （开发者头条）
+* [写给 Web 开发者的深度学习教程：向量化 &amp; 矩阵](http://hao.caibaojian.com/62554.html) （开发者头条）
+* [深入理解 React 源码：首次渲染 I](http://hao.caibaojian.com/62555.html) （开发者头条）
+* [2017 &#8211; 2018：WebRTC 标准演进与发展瓶颈](http://hao.caibaojian.com/62556.html) （开发者头条）
+* [Google 官方年度报告：Jeff Dean 晒 Google 大脑成绩单](http://hao.caibaojian.com/62563.html) （开发者头条）
+* [Android Toast 问题深度剖析（一）](http://hao.caibaojian.com/62559.html) （开发者头条）
 
 ***
-* [用深度学习指导用户体验设计](http://hao.caibaojian.com/62478.html) （开发者头条）
-* [React组件的DidMount事件里的setState事件](http://hao.caibaojian.com/62531.html) （稀土掘金）
-* [几句话熟悉Laravel/Symfony 事件系统](http://hao.caibaojian.com/62507.html) （SegmentFault）
-* [iOS 客户端节日换肤方案探究](http://hao.caibaojian.com/62470.html) （开发者头条）
-* [如何在React组件“外”使用父组件的Props？](http://hao.caibaojian.com/62525.html) （稀土掘金）
+* [Sentry 源码之 HiveServer2 鉴权过程](http://hao.caibaojian.com/62562.html) （开发者头条）
+* [JavaScript很古怪，但我却越来越喜欢它](http://hao.caibaojian.com/62576.html) （推酷网）
+* [【知了堂学习笔记】/JavaScript对象&#8211;/暖妮](http://hao.caibaojian.com/62567.html) （推酷网）
+* [Angular 开发学习 03 – Angular 项目结构](http://hao.caibaojian.com/62569.html) （推酷网）
+* [Canvas-图片旋转](http://hao.caibaojian.com/62573.html) （推酷网）
 
 ***
-* [Neat tricks to bypass CSRF-protection](http://hao.caibaojian.com/62501.html) （奇舞团）
-* [axios请求封装和异常统一处理](http://hao.caibaojian.com/62512.html) （SegmentFault）
-* [40+ 行 JS 代码打造你的 2048 游戏 AI](http://hao.caibaojian.com/62528.html) （稀土掘金）
-* [QuickMock：基于Express的快速mock平台](http://hao.caibaojian.com/62515.html) （推酷网）
-* [从推荐策略算法到推荐系统，到数据架构，再到产品设计](http://hao.caibaojian.com/62468.html) （开发者头条）
+* [程序化交易：如何从绩效报告中分辨出好模型 or 坏模型](http://hao.caibaojian.com/62560.html) （开发者头条）
+* [深度定制团队自己的 Vue template](http://hao.caibaojian.com/62574.html) （推酷网）
+* [表单验证插件&#8211;formvalidation](http://hao.caibaojian.com/62575.html) （推酷网）
+* [AI 玩跳一跳的终极奥义：首个端到端神经网络，看 AI 在玩游戏时注意什么](http://hao.caibaojian.com/62551.html) （开发者头条）
+* [2018 我所了解的 Vue 知识大全（二）](http://hao.caibaojian.com/62552.html) （开发者头条）
 
 ***
-* [携程个性化推荐算法实践](http://hao.caibaojian.com/62479.html) （开发者头条）
-* [Vue结合HTML5拖放API 实现目录拖拽～](http://hao.caibaojian.com/62530.html) （稀土掘金）
-* [区块链与皇帝的圣旨](http://hao.caibaojian.com/62480.html) （开发者头条）
-* [深入理解React源代码 IV （英文预览版）](http://hao.caibaojian.com/62521.html) （稀土掘金）
-* [2018 年移动端 UX 设计的 12 个趋势](http://hao.caibaojian.com/62497.html) （奇舞团）
+* [由全民吃鸡引发的网游加速学习总结](http://hao.caibaojian.com/62553.html) （开发者头条）
+* [JavaScript Scoping and Hoisting](http://hao.caibaojian.com/62578.html) （推酷网）
+* [通用后台管理系统UI模板-AdminLTE简介及构造动态菜单栏](http://hao.caibaojian.com/62568.html) （推酷网）
+* [【英】免费编程书籍笔记大全](http://hao.caibaojian.com/62585.html) （稀土掘金）
+* [webpack 持久化缓存实践](http://hao.caibaojian.com/62570.html) （推酷网）
 
 ***
-* [拥抱D3js——在react中搭建d3力导向图](http://hao.caibaojian.com/62532.html) （稀土掘金）
-* [React系列——react-hot-loader bug排除指南（翻译）](http://hao.caibaojian.com/62509.html) （SegmentFault）
-* [一文读懂区块链以及一个区块链的实现](http://hao.caibaojian.com/62472.html) （开发者头条）
-* [完全理解 React Fiber](http://hao.caibaojian.com/62499.html) （奇舞团）
-* [模仿KOA，用php来写一个极简的开发框架](http://hao.caibaojian.com/62511.html) （SegmentFault）
+* [中心化与去中心化](http://hao.caibaojian.com/62557.html) （开发者头条）
+* [Android 插件化技术：原理篇](http://hao.caibaojian.com/62558.html) （开发者头条）
+* [Typedoc](http://hao.caibaojian.com/62572.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
