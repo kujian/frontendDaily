@@ -1,43 +1,45 @@
-# [20180114 码农日报](http://hao.caibaojian.com/date/2018/01/14)
+# [20180115 码农日报](http://hao.caibaojian.com/date/2018/01/15)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript数组从头开始的位置插入新元素或删除第一个元素](http://hao.caibaojian.com/62571.html) （推酷网）
-* [javascript背包问题详解](http://hao.caibaojian.com/62584.html) （稀土掘金）
-* [从 Nuxt.js 学习到了什么：窥探前端工程化解决方案的架构思路](http://hao.caibaojian.com/62561.html) （开发者头条）
-* [小白也能看的懂的页面性能优化来一波](http://hao.caibaojian.com/62566.html) （SegmentFault）
-* [JavaScriptTalkNativeEasy：用于 Obj-C 和 JavaScript 交互的库](http://hao.caibaojian.com/62577.html) （推酷网）
+* [技术胖155集前端视频教程-全部免费观看](http://hao.caibaojian.com/62632.html) （稀土掘金）
+* [【腾讯开源】iOS爆内存问题解决方案-OOMDetector组件](http://hao.caibaojian.com/62617.html) （SegmentFault）
+* [深入CSS优先级](http://hao.caibaojian.com/62635.html) （稀土掘金）
+* [前端开发的客户端本地存储](http://hao.caibaojian.com/62613.html) （SegmentFault）
+* [模块化开发神器 &#8211; webpack-dev-server](http://hao.caibaojian.com/62634.html) （稀土掘金）
 
 ***
-* [写给 Web 开发者的深度学习教程：向量化 &amp; 矩阵](http://hao.caibaojian.com/62554.html) （开发者头条）
-* [深入理解 React 源码：首次渲染 I](http://hao.caibaojian.com/62555.html) （开发者头条）
-* [2017 &#8211; 2018：WebRTC 标准演进与发展瓶颈](http://hao.caibaojian.com/62556.html) （开发者头条）
-* [Google 官方年度报告：Jeff Dean 晒 Google 大脑成绩单](http://hao.caibaojian.com/62563.html) （开发者头条）
-* [Android Toast 问题深度剖析（一）](http://hao.caibaojian.com/62559.html) （开发者头条）
+* [现代Web开发方法](http://hao.caibaojian.com/62620.html) （推酷网）
+* [借助HTML5 details,summary无JS实现各种交互效果](http://hao.caibaojian.com/62618.html) （推酷网）
+* [3分钟了解webpack](http://hao.caibaojian.com/62633.html) （稀土掘金）
+* [display的32种写法](http://hao.caibaojian.com/62607.html) （SegmentFault）
+* [重构 &#8211; 代码整洁之道](http://hao.caibaojian.com/62636.html) （稀土掘金）
 
 ***
-* [Sentry 源码之 HiveServer2 鉴权过程](http://hao.caibaojian.com/62562.html) （开发者头条）
-* [JavaScript很古怪，但我却越来越喜欢它](http://hao.caibaojian.com/62576.html) （推酷网）
-* [【知了堂学习笔记】/JavaScript对象&#8211;/暖妮](http://hao.caibaojian.com/62567.html) （推酷网）
-* [Angular 开发学习 03 – Angular 项目结构](http://hao.caibaojian.com/62569.html) （推酷网）
-* [Canvas-图片旋转](http://hao.caibaojian.com/62573.html) （推酷网）
+* [前台与后台分离的架构实践](http://hao.caibaojian.com/62593.html) （开发者头条）
+* [WebGL小姐姐教我学画画之起手式](http://hao.caibaojian.com/62603.html) （SegmentFault）
+* [XSwitch &#8211; 一个解决本地开发请求转发的浏览器插件](http://hao.caibaojian.com/62608.html) （SegmentFault）
+* [异步和promise](http://hao.caibaojian.com/62609.html) （SegmentFault）
+* [写 Go 代码时遇到的那些问题（第1期）](http://hao.caibaojian.com/62594.html) （开发者头条）
 
 ***
-* [程序化交易：如何从绩效报告中分辨出好模型 or 坏模型](http://hao.caibaojian.com/62560.html) （开发者头条）
-* [深度定制团队自己的 Vue template](http://hao.caibaojian.com/62574.html) （推酷网）
-* [表单验证插件&#8211;formvalidation](http://hao.caibaojian.com/62575.html) （推酷网）
-* [AI 玩跳一跳的终极奥义：首个端到端神经网络，看 AI 在玩游戏时注意什么](http://hao.caibaojian.com/62551.html) （开发者头条）
-* [2018 我所了解的 Vue 知识大全（二）](http://hao.caibaojian.com/62552.html) （开发者头条）
+* [AWS-Lambda 使用入门](http://hao.caibaojian.com/62611.html) （SegmentFault）
+* [基于 jQuery 的 Web 表单处理工具 TinyForm 0.7.8 发布](http://hao.caibaojian.com/62624.html) （推酷网）
+* [一篇文章彻底说清JS的深拷贝/浅拷贝](http://hao.caibaojian.com/62614.html) （SegmentFault）
+* [模仿RequireJs的用法实现一个低配版的模块加载器](http://hao.caibaojian.com/62604.html) （SegmentFault）
+* [我是如何利用99行Kotlin代码得到13000+妹子图的](http://hao.caibaojian.com/62615.html) （SegmentFault）
 
 ***
-* [由全民吃鸡引发的网游加速学习总结](http://hao.caibaojian.com/62553.html) （开发者头条）
-* [JavaScript Scoping and Hoisting](http://hao.caibaojian.com/62578.html) （推酷网）
-* [通用后台管理系统UI模板-AdminLTE简介及构造动态菜单栏](http://hao.caibaojian.com/62568.html) （推酷网）
-* [【英】免费编程书籍笔记大全](http://hao.caibaojian.com/62585.html) （稀土掘金）
-* [webpack 持久化缓存实践](http://hao.caibaojian.com/62570.html) （推酷网）
+* [React系列——React Fiber 架构介绍资料汇总（翻译+中文资料）](http://hao.caibaojian.com/62605.html) （SegmentFault）
+* [Just for fun——Docker做个NMP环境](http://hao.caibaojian.com/62606.html) （SegmentFault）
+* [根据条件过滤日志输出](http://hao.caibaojian.com/62619.html) （推酷网）
+* [vue-quill-editor-upload : 实现vue-quill-editor上传图片到服务器](http://hao.caibaojian.com/62610.html) （SegmentFault）
+* [San — A Flexible JavaScript Component Framework](http://hao.caibaojian.com/62621.html) （推酷网）
 
 ***
-* [中心化与去中心化](http://hao.caibaojian.com/62557.html) （开发者头条）
-* [Android 插件化技术：原理篇](http://hao.caibaojian.com/62558.html) （开发者头条）
-* [Typedoc](http://hao.caibaojian.com/62572.html) （推酷网）
+* [经验分享 | XSS手工利用方式](http://hao.caibaojian.com/62622.html) （推酷网）
+* [xfire:  简单优雅、高度可配置的fetch接口批量生成工具](http://hao.caibaojian.com/62612.html) （SegmentFault）
+* [两行代码的故事](http://hao.caibaojian.com/62616.html) （SegmentFault）
+* [谈谈 dva 和 mobx 的使用感受](http://hao.caibaojian.com/62600.html) （SegmentFault）
+* [对服务端渲染的一次实践(带你掌握服务端渲染)](http://hao.caibaojian.com/62601.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
