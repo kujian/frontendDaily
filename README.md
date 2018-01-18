@@ -1,45 +1,44 @@
-# [20180116 码农日报](http://hao.caibaojian.com/date/2018/01/16)
+# [20180117 码农日报](http://hao.caibaojian.com/date/2018/01/17)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [实例化vue发生了什么?(详解vue生命周期)](http://hao.caibaojian.com/62698.html) （SegmentFault）
-* [2018 最值得关注的 JavaScript 趋势](http://hao.caibaojian.com/62707.html) （推酷网）
-* [CSS Gird 布局 指南](http://hao.caibaojian.com/62736.html) （稀土掘金）
-* [npm 2017 JavaScript 框架报告之后端框架](http://hao.caibaojian.com/62717.html) （推酷网）
-* [Babel 配置技巧](http://hao.caibaojian.com/62701.html) （推酷网）
+* [Ajax 数据异步交互](http://hao.caibaojian.com/62784.html) （推酷网）
+* [移动端弹性滑动以及vue记录滑动位置](http://hao.caibaojian.com/62764.html) （稀土掘金）
+* [HTML 5.2 有哪些新内容？](http://hao.caibaojian.com/62752.html) （稀土掘金）
+* [Babel 6 松散模式](http://hao.caibaojian.com/62783.html) （推酷网）
+* [javascript 最长公共子序列](http://hao.caibaojian.com/62776.html) （SegmentFault）
 
 ***
-* [如何继承Date对象？由一道题彻底弄懂JS继承](http://hao.caibaojian.com/62695.html) （SegmentFault）
-* [基于JS快速生成各种网格布局工具Grid介绍](http://hao.caibaojian.com/62735.html) （稀土掘金）
-* [基于 Docker for MAC 的 Kubernetes 本地环境搭建与应用部署](http://hao.caibaojian.com/62690.html) （SegmentFault）
-* [JavaScript 知识点串烧——对象](http://hao.caibaojian.com/62712.html) （推酷网）
-* [《深入浅出 Webpack》章节试读 &amp; 送书活动](http://hao.caibaojian.com/62702.html) （推酷网）
+* [Canvas画板&#8212;手机上也可以用的画板](http://hao.caibaojian.com/62777.html) （SegmentFault）
+* [从搭建vue-脚手架到掌握webpack配置（三.多页面构建）](http://hao.caibaojian.com/62757.html) （稀土掘金）
+* [识别图片中的文字 &#8211; Tesseract 和 百度云OCR的对比](http://hao.caibaojian.com/62778.html) （SegmentFault）
+* [React初尝试-仿写CNode社区](http://hao.caibaojian.com/62781.html) （SegmentFault）
+* [饼图？我选D3.js~](http://hao.caibaojian.com/62761.html) （稀土掘金）
 
 ***
-* [Phalcon填坑手册：开发中会遇到的问题和解决方案（不断更新）](http://hao.caibaojian.com/62700.html) （SegmentFault）
-* [Willin: 使用 OS X 进行高效 JS 前后端开发](http://hao.caibaojian.com/62716.html) （推酷网）
-* [我的Promise秘密初探之小试牛刀](http://hao.caibaojian.com/62706.html) （推酷网）
-* [Java 并发工具类之 LongAdder 原理总结](http://hao.caibaojian.com/62660.html) （开发者头条）
-* [C 和 Lua 之间的相互调用](http://hao.caibaojian.com/62651.html) （开发者头条）
+* [Nginx反向代理解决跨域问题](http://hao.caibaojian.com/62782.html) （SegmentFault）
+* [【读书笔记】《高性能JavaScript》](http://hao.caibaojian.com/62763.html) （稀土掘金）
+* [今日头条推荐算法原理全文详解](http://hao.caibaojian.com/62743.html) （开发者头条）
+* [分享几个写 demo 的思路](http://hao.caibaojian.com/62775.html) （SegmentFault）
+* [看JQ时代过来的前端，如何转换思路用Vue打造选项卡组件](http://hao.caibaojian.com/62756.html) （稀土掘金）
 
 ***
-* [前端每周清单第 47 期：NPM 年度报告与 2018 展望，Airbnb React Router 实践](http://hao.caibaojian.com/62678.html) （稀土掘金）
-* [使用 dva 和 antd-mobile 同步构建 ReactNative 应用和手机网页应用](http://hao.caibaojian.com/62734.html) （稀土掘金）
-* [qanswer：冲顶大会等游戏答题神器（Golang）](http://hao.caibaojian.com/62649.html) （开发者头条）
-* [前端数据监控到底在监控什么？](http://hao.caibaojian.com/62709.html) （推酷网）
-* [LKWallet：迅雷玩客币（链克）查询和账户操作的第三方 iOS App](http://hao.caibaojian.com/62664.html) （开发者头条）
+* [使用 pipenv 管理你的项目](http://hao.caibaojian.com/62744.html) （开发者头条）
+* [redux源码解析之五部曲(why:对外暴露了5个api)——第一部曲createStore.js](http://hao.caibaojian.com/62759.html) （稀土掘金）
+* [让繁琐的 if else 逼格高一点点](http://hao.caibaojian.com/62749.html) （稀土掘金）
+* [原生js之DOM事件相关](http://hao.caibaojian.com/62760.html) （稀土掘金）
+* [ECharts 全新大版本 4.0 正式发布百度数据可视化实验室成立](http://hao.caibaojian.com/62753.html) （稀土掘金）
 
 ***
-* [如何用好研发团队新人](http://hao.caibaojian.com/62652.html) （开发者头条）
-* [手把手教你webpack如何打包才能输出最优生产文件](http://hao.caibaojian.com/62691.html) （SegmentFault）
-* [2018 年最有需求的编程语言](http://hao.caibaojian.com/62654.html) （开发者头条）
-* [前端布局方式汇总及概念浅析](http://hao.caibaojian.com/62679.html) （稀土掘金）
-* [Angular中的纯粹和不纯的管道之间的本质区别以及为什么这很重要](http://hao.caibaojian.com/62694.html) （SegmentFault）
+* [Lodash 源码中的那些迷人的细节](http://hao.caibaojian.com/62754.html) （稀土掘金）
+* [Google推出PWA后，还带来了一个时间流正常的微博「客户端」](http://hao.caibaojian.com/62751.html) （稀土掘金）
+* [理解Event的冒泡模型](http://hao.caibaojian.com/62762.html) （稀土掘金）
+* [redux 和 mobX对比](http://hao.caibaojian.com/62755.html) （稀土掘金）
+* [Virtual DOM的简单实现](http://hao.caibaojian.com/62758.html) （稀土掘金）
 
 ***
-* [致开发者：2018 AI 发展趋势](http://hao.caibaojian.com/62657.html) （开发者头条）
-* [RxJava 源码解析：Scheduler](http://hao.caibaojian.com/62658.html) （开发者头条）
-* [uiautomator2：可以完成 Android UI 自动化的 Python 库](http://hao.caibaojian.com/62659.html) （开发者头条）
-* [cquery USR优化和分层diff](http://hao.caibaojian.com/62708.html) （推酷网）
-* [WCDB 的 WAL 模式和异步 Checkpoint](http://hao.caibaojian.com/62662.html) （开发者头条）
+* [WCDB命令行编译报错解决方案](http://hao.caibaojian.com/62779.html) （SegmentFault）
+* [如何构建React组件？](http://hao.caibaojian.com/62748.html) （稀土掘金）
+* [Android系统源码剖析-事件分发](http://hao.caibaojian.com/62780.html) （SegmentFault）
+* [告别是为了彼此变得更好&#8212;SPA 前后端彻底分离的探索之路](http://hao.caibaojian.com/62750.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
