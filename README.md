@@ -1,44 +1,45 @@
-# [20180117 码农日报](http://hao.caibaojian.com/date/2018/01/17)
+# [20180118 码农日报](http://hao.caibaojian.com/date/2018/01/18)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Ajax 数据异步交互](http://hao.caibaojian.com/62784.html) （推酷网）
-* [移动端弹性滑动以及vue记录滑动位置](http://hao.caibaojian.com/62764.html) （稀土掘金）
-* [HTML 5.2 有哪些新内容？](http://hao.caibaojian.com/62752.html) （稀土掘金）
-* [Babel 6 松散模式](http://hao.caibaojian.com/62783.html) （推酷网）
-* [javascript 最长公共子序列](http://hao.caibaojian.com/62776.html) （SegmentFault）
+* [ES6的7个实用技巧](http://hao.caibaojian.com/62883.html) （SegmentFault）
+* [Android：你不知道的 WebView 使用漏洞](http://hao.caibaojian.com/62895.html) （推酷网）
+* [程序员装X必备—19个JS简写技巧，让你写代码速度翻倍](http://hao.caibaojian.com/62850.html) （稀土掘金）
+* [深入理解Promise运行原理](http://hao.caibaojian.com/62894.html) （推酷网）
+* [Parcel.js带来零配置JavaScript模块打包器](http://hao.caibaojian.com/62896.html) （推酷网）
 
 ***
-* [Canvas画板&#8212;手机上也可以用的画板](http://hao.caibaojian.com/62777.html) （SegmentFault）
-* [从搭建vue-脚手架到掌握webpack配置（三.多页面构建）](http://hao.caibaojian.com/62757.html) （稀土掘金）
-* [识别图片中的文字 &#8211; Tesseract 和 百度云OCR的对比](http://hao.caibaojian.com/62778.html) （SegmentFault）
-* [React初尝试-仿写CNode社区](http://hao.caibaojian.com/62781.html) （SegmentFault）
-* [饼图？我选D3.js~](http://hao.caibaojian.com/62761.html) （稀土掘金）
+* [js异步发展简史](http://hao.caibaojian.com/62890.html) （推酷网）
+* [由变量提升谈谈 JavaScript Execution Context](http://hao.caibaojian.com/62847.html) （稀土掘金）
+* [浅谈区块链](http://hao.caibaojian.com/62852.html) （稀土掘金）
+* [Javascript系列——对象元素的数组去重实现](http://hao.caibaojian.com/62880.html) （SegmentFault）
+* [web路途-基础的JavaScript语法概要](http://hao.caibaojian.com/62891.html) （推酷网）
 
 ***
-* [Nginx反向代理解决跨域问题](http://hao.caibaojian.com/62782.html) （SegmentFault）
-* [【读书笔记】《高性能JavaScript》](http://hao.caibaojian.com/62763.html) （稀土掘金）
-* [今日头条推荐算法原理全文详解](http://hao.caibaojian.com/62743.html) （开发者头条）
-* [分享几个写 demo 的思路](http://hao.caibaojian.com/62775.html) （SegmentFault）
-* [看JQ时代过来的前端，如何转换思路用Vue打造选项卡组件](http://hao.caibaojian.com/62756.html) （稀土掘金）
+* [自己动手写一个 SimpleVue](http://hao.caibaojian.com/62892.html) （推酷网）
+* [canvas烟花锦集](http://hao.caibaojian.com/62884.html) （SegmentFault）
+* [蒋涛：AI 时代的新机遇及新使命](http://hao.caibaojian.com/62799.html) （开发者头条）
+* [基于 HTML5 的电力接线图 SCADA 应用](http://hao.caibaojian.com/62887.html) （SegmentFault）
+* [基于 Vue.js 2.0 酷炫自适应背景视频登录页面的设计](http://hao.caibaojian.com/62888.html) （SegmentFault）
 
 ***
-* [使用 pipenv 管理你的项目](http://hao.caibaojian.com/62744.html) （开发者头条）
-* [redux源码解析之五部曲(why:对外暴露了5个api)——第一部曲createStore.js](http://hao.caibaojian.com/62759.html) （稀土掘金）
-* [让繁琐的 if else 逼格高一点点](http://hao.caibaojian.com/62749.html) （稀土掘金）
-* [原生js之DOM事件相关](http://hao.caibaojian.com/62760.html) （稀土掘金）
-* [ECharts 全新大版本 4.0 正式发布百度数据可视化实验室成立](http://hao.caibaojian.com/62753.html) （稀土掘金）
+* [PhantomJS 之殇，chrome-headless 之生](http://hao.caibaojian.com/62802.html) （开发者头条）
+* [Airbnb JavaScript Style 阅读注解](http://hao.caibaojian.com/62879.html) （SegmentFault）
+* [ES6小点心第二弹——底部浮现弹窗](http://hao.caibaojian.com/62842.html) （稀土掘金）
+* [一起学nodejs(写一个基于TCP/IP终端聊天系统)](http://hao.caibaojian.com/62853.html) （稀土掘金）
+* [小猪的Python学习之旅 —— 5.使用Selenium抓取JavaScript动态生成数据的网页](http://hao.caibaojian.com/62893.html) （推酷网）
 
 ***
-* [Lodash 源码中的那些迷人的细节](http://hao.caibaojian.com/62754.html) （稀土掘金）
-* [Google推出PWA后，还带来了一个时间流正常的微博「客户端」](http://hao.caibaojian.com/62751.html) （稀土掘金）
-* [理解Event的冒泡模型](http://hao.caibaojian.com/62762.html) （稀土掘金）
-* [redux 和 mobX对比](http://hao.caibaojian.com/62755.html) （稀土掘金）
-* [Virtual DOM的简单实现](http://hao.caibaojian.com/62758.html) （稀土掘金）
+* [vuex 基本入门和使用（三）-关于 mutation](http://hao.caibaojian.com/62845.html) （稀土掘金）
+* [记一次类加载器的简单应用](http://hao.caibaojian.com/62797.html) （开发者头条）
+* [JavaScript系列——数组元素左右移动N位算法实现](http://hao.caibaojian.com/62874.html) （SegmentFault）
+* [如何实现VM框架中的数据绑定](http://hao.caibaojian.com/62885.html) （SegmentFault）
+* [数据的存储区域](http://hao.caibaojian.com/62875.html) （SegmentFault）
 
 ***
-* [WCDB命令行编译报错解决方案](http://hao.caibaojian.com/62779.html) （SegmentFault）
-* [如何构建React组件？](http://hao.caibaojian.com/62748.html) （稀土掘金）
-* [Android系统源码剖析-事件分发](http://hao.caibaojian.com/62780.html) （SegmentFault）
-* [告别是为了彼此变得更好&#8212;SPA 前后端彻底分离的探索之路](http://hao.caibaojian.com/62750.html) （稀土掘金）
+* [Python 入门：From Zero to Hero（上）](http://hao.caibaojian.com/62789.html) （开发者头条）
+* [Java 并发编程，你需要知道的](http://hao.caibaojian.com/62790.html) （开发者头条）
+* [PWA 实战：Tinder 的性能优化之道](http://hao.caibaojian.com/62849.html) （稀土掘金）
+* [PostgreSQL 迁移白皮书](http://hao.caibaojian.com/62801.html) （开发者头条）
+* [Webpack Loader源码导读之less-loader](http://hao.caibaojian.com/62841.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
