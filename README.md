@@ -1,45 +1,45 @@
-# [20180130 码农日报](http://hao.caibaojian.com/date/2018/01/30)
+# [20180131 码农日报](http://hao.caibaojian.com/date/2018/01/31)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript八张思维导图](http://hao.caibaojian.com/63795.html) （推酷网）
-* [前端特效11：使用jquery.fullPage.min.js制作满屏效果](http://hao.caibaojian.com/63799.html) （推酷网）
-* [7 个 ES6 编码技巧](http://hao.caibaojian.com/63736.html) （稀土掘金）
-* [webpack 大型应用优化实践](http://hao.caibaojian.com/63801.html) （推酷网）
-* [ECMAScript 2018: the final feature set](http://hao.caibaojian.com/63734.html) （稀土掘金）
+* [用 Google 免费 GPU](http://hao.caibaojian.com/63867.html) （开发者头条）
+* [JavaScript, CSS, SQL 和 HTML 到底算编程语言吗？](http://hao.caibaojian.com/63924.html) （推酷网）
+* [jQuery与vue分别实现超级简单的绿色拖动验证码功能](http://hao.caibaojian.com/63834.html) （SegmentFault）
+* [一百行js，实现极简头脑王者辅助](http://hao.caibaojian.com/63914.html) （推酷网）
+* [GlusterFS 对象存储服务](http://hao.caibaojian.com/63876.html) （开发者头条）
 
 ***
-* [前端线上调试指南](http://hao.caibaojian.com/63764.html) （开发者头条）
-* [黑镜书单：列一列那些反思互联网和人工智能的 30 本警世之书](http://hao.caibaojian.com/63747.html) （开发者头条）
-* [比特币的价格今年会达到 10 万美元吗？有人用蒙特卡罗方法预测了一下](http://hao.caibaojian.com/63767.html) （开发者头条）
-* [WKWebViewJavascriptBridge &#8211; 优雅的 iOS 与 JS 交互层框架（Swift）](http://hao.caibaojian.com/63798.html) （推酷网）
-* [《HelloGitHub》第 22 期](http://hao.caibaojian.com/63735.html) （稀土掘金）
+* [深入理解vue中的slot与slot-scope](http://hao.caibaojian.com/63918.html) （推酷网）
+* [逆向平台 Binary Ninja 介绍](http://hao.caibaojian.com/63878.html) （开发者头条）
+* [论文解读：人工智能 “建筑师” 之由手绘生成 3D 模型](http://hao.caibaojian.com/63880.html) （开发者头条）
+* [揭秘超分辨率的正确打开方式](http://hao.caibaojian.com/63881.html) （开发者头条）
+* [2017年 JavaScript 框架回顾 &#8212; 后端框架](http://hao.caibaojian.com/63858.html) （稀土掘金）
 
 ***
-* [爬虫需谨慎，那些你不知道的爬虫与反爬虫套路](http://hao.caibaojian.com/63797.html) （推酷网）
-* [我的 Go 语言推荐](http://hao.caibaojian.com/63748.html) （开发者头条）
-* [系列３｜走进Node.js之多进程模型](http://hao.caibaojian.com/63719.html) （SegmentFault）
-* [Webpack热更新问题解决及分析（二）](http://hao.caibaojian.com/63794.html) （推酷网）
-* [人工智能 “服装设计师”（下）](http://hao.caibaojian.com/63765.html) （开发者头条）
+* [Javascript总结（常用工具类的封装）](http://hao.caibaojian.com/63912.html) （推酷网）
+* [vue项目实现记住密码到cookie功能(附源码)](http://hao.caibaojian.com/63854.html) （稀土掘金）
+* [Web全栈工程师应该会什么](http://hao.caibaojian.com/63913.html) （推酷网）
+* [在 Python 2.7 即将停止支持时，请收下这份 3.x 迁移指南](http://hao.caibaojian.com/63866.html) （开发者头条）
+* [react-native-whc-loading](http://hao.caibaojian.com/63846.html) （稀土掘金）
 
 ***
-* [了解区块链，从挖矿开始](http://hao.caibaojian.com/63756.html) （开发者头条）
-* [html2canvas截图不能截取圆角图片的解决方案](http://hao.caibaojian.com/63789.html) （推酷网）
-* [Angular 发布组件开发工具包 可更轻松添加通用交互模式](http://hao.caibaojian.com/63800.html) （推酷网）
-* [如何继承Date对象？由一道题让你彻底弄懂JS继承](http://hao.caibaojian.com/63790.html) （推酷网）
-* [简单了解JavaScript垃圾回收机制](http://hao.caibaojian.com/63740.html) （稀土掘金）
+* [2017 年 JavaScript 现状调查报告总结](http://hao.caibaojian.com/63868.html) （开发者头条）
+* [前端 AI 之路：KerasJS 初探](http://hao.caibaojian.com/63869.html) （开发者头条）
+* [用于进行 AJAX 调用的顶级 JavaScript 库](http://hao.caibaojian.com/63920.html) （推酷网）
+* [JavaScript 发生了哪些变化](http://hao.caibaojian.com/63963.html) （稀土掘金）
+* [2018 前端性能优化清单 &#8211; 第 3 部分](http://hao.caibaojian.com/63857.html) （稀土掘金）
 
 ***
-* [徒手撸框架&#8211;实现Aop](http://hao.caibaojian.com/63720.html) （SegmentFault）
-* [JVM 调优：CardTable 简介](http://hao.caibaojian.com/63749.html) （开发者头条）
-* [Angular自带的状态共享，90%的人姿势都错了](http://hao.caibaojian.com/63793.html) （推酷网）
-* [基于 HTML5 WebGL 的 3D 网络拓扑结构图](http://hao.caibaojian.com/63723.html) （SegmentFault）
-* [深浅拷贝与react之immutable.js](http://hao.caibaojian.com/63796.html) （推酷网）
+* [JavaScript 魔幻代理](http://hao.caibaojian.com/63922.html) （推酷网）
+* [如何在create-react-app项目中使用vw实现手淘vw移动端适配布局](http://hao.caibaojian.com/63843.html) （稀土掘金）
+* [从0.1+0.2=0.30000000000000004再看JS中的Number类型](http://hao.caibaojian.com/63923.html) （推酷网）
+* [网页图标的优雅使用与总结](http://hao.caibaojian.com/63851.html) （稀土掘金）
+* [聊聊 Android 中的 @hide](http://hao.caibaojian.com/63873.html) （开发者头条）
 
 ***
-* [TCP/IP 必知必会的十个问题](http://hao.caibaojian.com/63744.html) （开发者头条）
-* [基于 Hadoop 生态 Spark Streaming 的大数据实时流处理平台的搭建](http://hao.caibaojian.com/63757.html) （开发者头条）
-* [Kafka 源码解析之 GroupCoordinator 详解（十）](http://hao.caibaojian.com/63768.html) （开发者头条）
-* [关于使用 Android MVVM + LiveData 模式的一些建议](http://hao.caibaojian.com/63760.html) （开发者头条）
-* [网站必备之简繁切换功能实现](http://hao.caibaojian.com/63741.html) （稀土掘金）
+* [Android开发之漫漫长途 XIII——Fragment最佳实践](http://hao.caibaojian.com/63829.html) （SegmentFault）
+* [沪江全链路跟踪系统设计与实践](http://hao.caibaojian.com/63862.html) （开发者头条）
+* [SpringBoot中使用POI，快速实现Excel导入导出](http://hao.caibaojian.com/63836.html) （SegmentFault）
+* [适合Angular初学者的小项目](http://hao.caibaojian.com/63845.html) （稀土掘金）
+* [阿里王坚：城市大脑绝不是一个人工智能应用](http://hao.caibaojian.com/63863.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
