@@ -1,0 +1,19 @@
+{ 
+	"structure" : {
+		"readme" : "README.md"
+	},
+	"title": "码农头条",
+	"description": "码农技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch http://hao.caibaojian.com/",
+	"links": {
+		"sidebar": {
+			"WEB前端开发": "http://caibaojian.com/"
+		},
+		"sharing": {
+			"google": null,
+			"facebook": null,
+			"twitter": null,
+			"weibo": null,
+			"all": null
+		}
+	}
+}
