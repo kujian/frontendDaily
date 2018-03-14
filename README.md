@@ -1,45 +1,45 @@
-# [20180201 码农日报](http://hao.caibaojian.com/date/2018/02/01)
+# [20180314 码农日报](http://hao.caibaojian.com/date/2018/03/14)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [逆向分析：你的蛙到底在干什么？](http://hao.caibaojian.com/63998.html) （开发者头条）
-* [vue无缝滚动的插件开发填坑分享](http://hao.caibaojian.com/64052.html) （推酷网）
-* [Vue中学到的功夫，隔山打牛大法](http://hao.caibaojian.com/64050.html) （推酷网）
-* [一个插件让你在 Redux 中写 promise 事半功倍](http://hao.caibaojian.com/64055.html) （推酷网）
-* [解读 JavaScript 之深入探索 WebSockets 和 HTTP/2](http://hao.caibaojian.com/64044.html) （推酷网）
+* [白盒测试 Redis 集群缓存测试要点：关于线上 token 失效 Bug 的总结](http://hao.caibaojian.com/67046.html) （开发者头条）
+* [Vue 组件的通信](http://hao.caibaojian.com/67095.html) （推酷网）
+* [推荐一种 TensorFlow 模型格式](http://hao.caibaojian.com/67053.html) （开发者头条）
+* [饥人谷技术栈介绍：Rails + Vue](http://hao.caibaojian.com/67090.html) （推酷网）
+* [JS拾荒の字符串](http://hao.caibaojian.com/67101.html) （推酷网）
 
 ***
-* [JavaScript相关的模块机制](http://hao.caibaojian.com/64053.html) （推酷网）
-* [采访 Node.js 之父 Ryan Dahl](http://hao.caibaojian.com/64042.html) （推酷网）
-* [HTTPS 的前世今生](http://hao.caibaojian.com/64003.html) （开发者头条）
-* [AngularJS 将再发布一个重要版本 然后进入长期支持阶段](http://hao.caibaojian.com/64057.html) （推酷网）
-* [30 秒收集有用的 Java 8 代码片段](http://hao.caibaojian.com/64009.html) （开发者头条）
+* [React入门&#8212;react脚手架](http://hao.caibaojian.com/67102.html) （推酷网）
+* [ajax常见面试题](http://hao.caibaojian.com/67097.html) （推酷网）
+* [中文自然语言处理相关资料](http://hao.caibaojian.com/67055.html) （开发者头条）
+* [Dockerfile 使用介绍](http://hao.caibaojian.com/67051.html) （开发者头条）
+* [北京某雨医生前端面试汇总](http://hao.caibaojian.com/67104.html) （推酷网）
 
 ***
-* [CSS基础篇&#8211;使用position:sticky 实现粘性布局](http://hao.caibaojian.com/63991.html) （SegmentFault）
-* [《人工智能标准化白皮书》图文解读](http://hao.caibaojian.com/64021.html) （开发者头条）
-* [写个爬虫呗](http://hao.caibaojian.com/64051.html) （推酷网）
-* [CommonsChunkPlugin学习小结](http://hao.caibaojian.com/64045.html) （推酷网）
-* [开发过程中沟通的禁忌](http://hao.caibaojian.com/64013.html) （开发者头条）
+* [理解Underscore中的节流函数](http://hao.caibaojian.com/67094.html) （推酷网）
+* [为什么我们不用sourcemap了？hey-cli默认关闭打包配置](http://hao.caibaojian.com/67105.html) （推酷网）
+* [Vue 2.0学习笔记：不同场景下组件间的数据通讯](http://hao.caibaojian.com/67085.html) （推酷网）
+* [Nodejs + Face++ 识别身份证照片](http://hao.caibaojian.com/67088.html) （推酷网）
+* [2018 Web 开发最佳路线图](http://hao.caibaojian.com/67086.html) （推酷网）
 
 ***
-* [实现一个requirejs原型demo](http://hao.caibaojian.com/64054.html) （推酷网）
-* [你不知道的Javascript：有趣的setTimeout](http://hao.caibaojian.com/63992.html) （SegmentFault）
-* [互联网企业的开源使用窘境与出路](http://hao.caibaojian.com/64005.html) （开发者头条）
-* [Helloumi](http://hao.caibaojian.com/64047.html) （推酷网）
-* [基础架构 3.0：AI 革命的基石](http://hao.caibaojian.com/64019.html) （开发者头条）
+* [Lottie 动画里有图片怎么办？设计师小姐姐也能帮你减少开发量](http://hao.caibaojian.com/67039.html) （SegmentFault）
+* [我所理解的接口设计](http://hao.caibaojian.com/67038.html) （SegmentFault）
+* [用 JavaScript 编写 MPEG1 解码器](http://hao.caibaojian.com/67093.html) （推酷网）
+* [Redis 的基础数据结构（一）：可变字符串、链表、字典](http://hao.caibaojian.com/67052.html) （开发者头条）
+* [React 深入系列（三）：Props 和 State](http://hao.caibaojian.com/67063.html) （开发者头条）
 
 ***
-* [并发编程锁之 ReentrantLock 总结](http://hao.caibaojian.com/64004.html) （开发者头条）
-* [Google发布Puppeteer 1.0](http://hao.caibaojian.com/64056.html) （推酷网）
-* [WebPack持久缓存学习小结](http://hao.caibaojian.com/64049.html) （推酷网）
-* [八大深度学习最佳实践](http://hao.caibaojian.com/64022.html) （开发者头条）
-* [从作坊到工厂：传统企业 DevOps 改造历程](http://hao.caibaojian.com/64001.html) （开发者头条）
+* [【用故事解读 MobX源码（一）】 autorun](http://hao.caibaojian.com/67042.html) （SegmentFault）
+* [iSlider移动端原生滑动组件源码解读](http://hao.caibaojian.com/67096.html) （推酷网）
+* [性能测试模型初探及应用方法分析](http://hao.caibaojian.com/67054.html) （开发者头条）
+* [如何用架构师思维解读区块链技术？](http://hao.caibaojian.com/67044.html) （开发者头条）
+* [原生JS+观察者模式实现一个模块加载器](http://hao.caibaojian.com/67098.html) （推酷网）
 
 ***
-* [用Vue搭建一个应用盒子（三）：音乐播放器](http://hao.caibaojian.com/63990.html) （SegmentFault）
-* [数据为王，如何通过数据挖掘为运维增值升值？](http://hao.caibaojian.com/64002.html) （开发者头条）
-* [Vue系列之computed使用详解(附demo,不定期更新)](http://hao.caibaojian.com/64043.html) （推酷网）
-* [手把手教你写 Docker（下）](http://hao.caibaojian.com/64006.html) （开发者头条）
-* [解读爬虫中HTTP的秘密（高阶篇）](http://hao.caibaojian.com/63984.html) （SegmentFault）
+* [你不知道的Vuejs &#8211; 使用ESLint检查代码质量](http://hao.caibaojian.com/67087.html) （推酷网）
+* [Shell 文本处理编写单行指令的诀窍](http://hao.caibaojian.com/67045.html) （开发者头条）
+* [JS中的箭头函数与this](http://hao.caibaojian.com/67099.html) （推酷网）
+* [从零开始写一个Javascript解析器](http://hao.caibaojian.com/67100.html) （推酷网）
+* [Golang 中的并发限制与超时控制](http://hao.caibaojian.com/67048.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
