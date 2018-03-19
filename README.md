@@ -1,44 +1,45 @@
-# [20180318 码农日报](http://hao.caibaojian.com/date/2018/03/18)
+# [20180319 码农日报](http://hao.caibaojian.com/date/2018/03/19)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Vue-rap 1.0.0 正式发布: 构建基于 Vue 的流应用](http://hao.caibaojian.com/67579.html) （推酷网）
-* [码云推荐 | 基于 Bootstrap 的快速建站 HTML5 套件](http://hao.caibaojian.com/67580.html) （推酷网）
-* [跳一跳自动脚本了解一下？](http://hao.caibaojian.com/67549.html) （开发者头条）
-* [在阿里，我们是怎么做 K8S 日志实践的？](http://hao.caibaojian.com/67545.html) （开发者头条）
-* [2018 面试总结及技术规划](http://hao.caibaojian.com/67575.html) （推酷网）
+* [Vue 再来唠唠双向同步](http://hao.caibaojian.com/67627.html) （推酷网）
+* [使用gulp+browser-sync搭建Sass自动化编译以及自动刷新所需要的插件](http://hao.caibaojian.com/67674.html) （稀土掘金）
+* [JavaScript异步史](http://hao.caibaojian.com/67671.html) （稀土掘金）
+* [详解promise](http://hao.caibaojian.com/67644.html) （稀土掘金）
+* [简述JavaScript模块化编程（二）](http://hao.caibaojian.com/67647.html) （稀土掘金）
 
 ***
-* [React 16 新特征总览](http://hao.caibaojian.com/67548.html) （开发者头条）
-* [ASP.NET没有魔法——ASP.NET MVC界面美化及使用Bundle完成静态资源管理](http://hao.caibaojian.com/67578.html) （推酷网）
-* [从Chrome源码看HTTP/2](http://hao.caibaojian.com/67534.html) （稀土掘金）
-* [golang-event 在以太坊中的使用](http://hao.caibaojian.com/67550.html) （开发者头条）
-* [AR 基础入门及在 58同城 iOS App 中的实践](http://hao.caibaojian.com/67551.html) （开发者头条）
+* [React生命周期简明宝典](http://hao.caibaojian.com/67638.html) （稀土掘金）
+* [用 Swift 模仿 Vue + Vuex 进行 iOS 开发（二）：Coordinator](http://hao.caibaojian.com/67605.html) （开发者头条）
+* [javascript原生封装一个淡入淡出效果的函数](http://hao.caibaojian.com/67645.html) （稀土掘金）
+* [express+mongodb+vue实现增删改查-全栈之路](http://hao.caibaojian.com/67646.html) （稀土掘金）
+* [Vue-rap 构建基于 Vue 的流应用](http://hao.caibaojian.com/67635.html) （稀土掘金）
 
 ***
-* [ContainerDNS 性能优化之路：17W 到 1000W QPS 超高性能 DNS 技术实践](http://hao.caibaojian.com/67552.html) （开发者头条）
-* [IOSRadarView：仿支付宝芝麻信用雷达图](http://hao.caibaojian.com/67553.html) （开发者头条）
-* [TiDB 在今日头条的实践](http://hao.caibaojian.com/67537.html) （开发者头条）
-* [软件测试金字塔](http://hao.caibaojian.com/67546.html) （开发者头条）
-* [使用perspective和transform实现容器上的悬浮效果](http://hao.caibaojian.com/67576.html) （推酷网）
+* [精读《Immer.js》源码](http://hao.caibaojian.com/67668.html) （稀土掘金）
+* [从零配置Webpack4.0搭建一个React工程](http://hao.caibaojian.com/67631.html) （稀土掘金）
+* [手摸手教你实现一个简单的Promise](http://hao.caibaojian.com/67640.html) （稀土掘金）
+* [窥探React-源码分析(二)](http://hao.caibaojian.com/67672.html) （稀土掘金）
+* [揭秘组件库一二事（上中篇）](http://hao.caibaojian.com/67673.html) （稀土掘金）
 
 ***
-* [机器学习入门之 HelloWorld (Tensorflow)](http://hao.caibaojian.com/67538.html) （开发者头条）
-* [一些有趣的机器学习项目](http://hao.caibaojian.com/67547.html) （开发者头条）
-* [APTSimulator：一款功能强大的APT模拟攻击工具集](http://hao.caibaojian.com/67577.html) （推酷网）
-* [寒泉子：离开是为了更好的开始](http://hao.caibaojian.com/67536.html) （开发者头条）
-* [Redis 高负载下的中断优化](http://hao.caibaojian.com/67539.html) （开发者头条）
+* [🔥vue写的功能最齐全的cnode社区网站](http://hao.caibaojian.com/67633.html) （稀土掘金）
+* [DaPy：轻量级 Python 数据分析库](http://hao.caibaojian.com/67606.html) （开发者头条）
+* [以太坊数据同步常见问题集锦](http://hao.caibaojian.com/67607.html) （开发者头条）
+* [DOM优化方案](http://hao.caibaojian.com/67634.html) （稀土掘金）
+* [使用 Angular 和 RxJS 实现的无限滚动加载](http://hao.caibaojian.com/67666.html) （稀土掘金）
 
 ***
-* [浏览器的回流与重绘 (Reflow &amp; Repaint)](http://hao.caibaojian.com/67582.html) （Alloyteam）
-* [浅谈大数据平台基建的逻辑](http://hao.caibaojian.com/67540.html) （开发者头条）
-* [从 Git 仓库中移除敏感信息](http://hao.caibaojian.com/67541.html) （开发者头条）
-* [浏览器的回流与重绘 (Reflow &amp; Repaint)](http://hao.caibaojian.com/67590.html) （Alloyteam）
-* [Lambda 架构在有赞广告平台的应用与演进](http://hao.caibaojian.com/67542.html) （开发者头条）
+* [使用双 buffer 无锁化](http://hao.caibaojian.com/67601.html) （开发者头条）
+* [再谈前端虚拟列表的实现](http://hao.caibaojian.com/67669.html) （稀土掘金）
+* [测试用例驱动阅读Express源码](http://hao.caibaojian.com/67630.html) （稀土掘金）
+* [区块链系列（一）：现在挖比特币有多难](http://hao.caibaojian.com/67602.html) （开发者头条）
+* [星级评价组件&#8211;引发对React组件的思考](http://hao.caibaojian.com/67670.html) （稀土掘金）
 
 ***
-* [如何分辨应用服务与领域服务](http://hao.caibaojian.com/67543.html) （开发者头条）
-* [人工稚能之 sklearn 分类](http://hao.caibaojian.com/67554.html) （开发者头条）
-* [eBay 的 Elasticsearch 性能调优实践（上）](http://hao.caibaojian.com/67544.html) （开发者头条）
-* [小tips: 在canvas上实现元素图片镜像翻转动画效果](http://hao.caibaojian.com/67574.html) （推酷网）
+* [一个 react 的小项目方便查看 github 上的笔记](http://hao.caibaojian.com/67641.html) （稀土掘金）
+* [列表数据的展示优化](http://hao.caibaojian.com/67591.html) （稀土掘金）
+* [Rematch 一个更好用的 Redux](http://hao.caibaojian.com/67639.html) （稀土掘金）
+* [Android 进程保活实践](http://hao.caibaojian.com/67603.html) （开发者头条）
+* [有赞权限系统](http://hao.caibaojian.com/67593.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
