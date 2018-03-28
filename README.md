@@ -1,45 +1,45 @@
-# [20180327 码农日报](http://hao.caibaojian.com/date/2018/03/27)
+# [20180328 码农日报](http://hao.caibaojian.com/date/2018/03/28)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [腾讯一面（2019前端实习岗）](http://hao.caibaojian.com/68602.html) （稀土掘金）
-* [gitlab-tree：GitLab 代码查看必备神器](http://hao.caibaojian.com/68525.html) （开发者头条）
-* [BAT 要的是什么样的前端实习生？](http://hao.caibaojian.com/68576.html) （推酷网）
-* [三分钟快速理解javascript内存管理](http://hao.caibaojian.com/68578.html) （推酷网）
-* [性感的Promise，拥抱ta然后扒光ta](http://hao.caibaojian.com/68614.html) （稀土掘金）
+* [HTML5中37个最重要的技术点](http://hao.caibaojian.com/68747.html) （推酷网）
+* [webpack4之基础篇](http://hao.caibaojian.com/68746.html) （推酷网）
+* [JavaScript 优雅模式 Ice Factory](http://hao.caibaojian.com/68748.html) （推酷网）
+* [不可思议的纯CSS导航栏下划线跟随效果](http://hao.caibaojian.com/68689.html) （稀土掘金）
+* [腾讯一面（2019前端实习岗）| 掘金技术征文](http://hao.caibaojian.com/68692.html) （稀土掘金）
 
 ***
-* [如何手动启动 Angular 程序](http://hao.caibaojian.com/68579.html) （推酷网）
-* [你真的知道 Angular 单向数据流吗](http://hao.caibaojian.com/68571.html) （推酷网）
-* [Javascript 正则匹配实现字符串渲染](http://hao.caibaojian.com/68615.html) （稀土掘金）
-* [RxJS速成 (下)](http://hao.caibaojian.com/68569.html) （推酷网）
-* [学习Vue核心技术](http://hao.caibaojian.com/68646.html) （慕课网）
+* [Nerv：京东高性能前端框架](http://hao.caibaojian.com/68701.html) （开发者头条）
+* [【Python3网络爬虫开发实战】6-Ajax数据爬取-1-什么是Ajax](http://hao.caibaojian.com/68742.html) （推酷网）
+* [webpack4之高级篇](http://hao.caibaojian.com/68745.html) （推酷网）
+* [vue2 + koa2 + webpack4 的SSR之旅](http://hao.caibaojian.com/68744.html) （推酷网）
+* [JavaScript EventEmitter](http://hao.caibaojian.com/68708.html) （开发者头条）
 
 ***
-* [Js 中小数相加小数点后面很多位数字](http://hao.caibaojian.com/68570.html) （推酷网）
-* [深度学习之图像超分辨重建技术](http://hao.caibaojian.com/68539.html) （开发者头条）
-* [HTML5-语义化](http://hao.caibaojian.com/68566.html) （推酷网）
-* [小技巧:使用Array.reduce创建Promise回调链](http://hao.caibaojian.com/68568.html) （推酷网）
-* [关于 HTML 语义和前端架构](http://hao.caibaojian.com/68597.html) （Alloyteam）
+* [小tips: 纯前端JS读取与解析本地文本类文件](http://hao.caibaojian.com/68739.html) （推酷网）
+* [【30分钟学完】canvas动画|游戏基础(4)：边界与碰撞](http://hao.caibaojian.com/68685.html) （SegmentFault）
+* [使用 Web3 和 Vue.js 来创建你的第一个以太坊 dAPP（第二部分）](http://hao.caibaojian.com/68687.html) （稀土掘金）
+* [Reactive 编程（三）：一个简单的 HTTP 服务](http://hao.caibaojian.com/68717.html) （开发者头条）
+* [[前端工坊]快应用-技术调研](http://hao.caibaojian.com/68690.html) （稀土掘金）
 
 ***
-* [Pastate: 响应式 react state 管理框架](http://hao.caibaojian.com/68608.html) （稀土掘金）
-* [[翻译]你点的ES6小技巧，请查收](http://hao.caibaojian.com/68515.html) （SegmentFault）
-* [优雅的 JavaScript 排序算法（ES6）](http://hao.caibaojian.com/68573.html) （推酷网）
-* [深入浅出Websocket（一）Websocket协议](http://hao.caibaojian.com/68577.html) （推酷网）
-* [js中的new()到底做了些什么？](http://hao.caibaojian.com/68605.html) （稀土掘金）
+* [我的eggjs应用如何运维](http://hao.caibaojian.com/68691.html) （稀土掘金）
+* [前端布局基础概述](http://hao.caibaojian.com/68780.html) （稀土掘金）
+* [attrs 和 Python 3.7 的 dataclasses](http://hao.caibaojian.com/68703.html) （开发者头条）
+* [团队如何进行Code Review](http://hao.caibaojian.com/68782.html) （稀土掘金）
+* [Docker Compose + Spring Boot + Nginx + MySQL 实践](http://hao.caibaojian.com/68707.html) （开发者头条）
 
 ***
-* [编写灵活、稳定、高质量的HTML代码的规范](http://hao.caibaojian.com/68513.html) （SegmentFault）
-* [MySQL Optimization 优化原理](http://hao.caibaojian.com/68514.html) （SegmentFault）
-* [接触 Python 后的一点感受记录](http://hao.caibaojian.com/68527.html) （开发者头条）
-* [Reducers VS Transducers](http://hao.caibaojian.com/68609.html) （稀土掘金）
-* [基于 sitemap 的搜索](http://hao.caibaojian.com/68610.html) （稀土掘金）
+* [在Go中使用反向代理进行网络钓鱼测试](http://hao.caibaojian.com/68741.html) （推酷网）
+* [区块链技术 360 度](http://hao.caibaojian.com/68714.html) （开发者头条）
+* [从 Uber 微服务看最佳实践如何炼成](http://hao.caibaojian.com/68715.html) （开发者头条）
+* [《css世界》的那些实用技巧](http://hao.caibaojian.com/68781.html) （稀土掘金）
+* [开始使用新的 CSS Typed Object Model](http://hao.caibaojian.com/68771.html) （稀土掘金）
 
 ***
-* [2018 年了，你还是只会 npm install 吗](http://hao.caibaojian.com/68517.html) （SegmentFault）
-* [Kafka 学习笔记（二）：初探 Kafka](http://hao.caibaojian.com/68529.html) （开发者头条）
-* [比特币源码分析：网络（三）](http://hao.caibaojian.com/68540.html) （开发者头条）
-* [快应用开发资源汇总💯](http://hao.caibaojian.com/68611.html) （稀土掘金）
-* [Atom 为什么要开发 Xray？](http://hao.caibaojian.com/68530.html) （开发者头条）
+* [如何使用 LSTM 在 Keras 中快速实现情感分析任务](http://hao.caibaojian.com/68716.html) （开发者头条）
+* [JTalk Online：面试官教你快速成为 leader 最欣赏的技术人](http://hao.caibaojian.com/68688.html) （稀土掘金）
+* [我是一个 “栈”](http://hao.caibaojian.com/68704.html) （开发者头条）
+* [Chrome浏览器开发者工具的13个有趣技巧——希望你已经掌握 | 拓跋的前端客栈](http://hao.caibaojian.com/68772.html) （稀土掘金）
+* [十全大补vue-router](http://hao.caibaojian.com/68773.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
