@@ -1,45 +1,45 @@
-# [20180330 码农日报](http://hao.caibaojian.com/date/2018/03/30)
+# [20180331 码农日报](http://hao.caibaojian.com/date/2018/03/31)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [精美的 Node.js 框架](http://hao.caibaojian.com/69059.html) （推酷网）
-* [来自InfoQ的Web开发趋势报告](http://hao.caibaojian.com/69058.html) （推酷网）
-* [JS灵巧判断7种类型的方式](http://hao.caibaojian.com/69052.html) （推酷网）
-* [【Python3网络爬虫开发实战】6-Ajax数据爬取-4-分析Ajax爬取今日头条街拍美图](http://hao.caibaojian.com/69055.html) （推酷网）
-* [前端到底要不要算法？](http://hao.caibaojian.com/69016.html) （开发者头条）
+* [Vue.js最佳实践（五招让你成为Vue.js大师）](http://hao.caibaojian.com/69098.html) （SegmentFault）
+* [从八道面试题看JavaScript DOM事件机制](http://hao.caibaojian.com/69155.html) （推酷网）
+* [js调试的那点事&#8212;-解决循环debugger](http://hao.caibaojian.com/69148.html) （推酷网）
+* [js字符串常见的一些方法](http://hao.caibaojian.com/69150.html) （推酷网）
+* [WebSocket系列之JavaScript字符串如何与二进制数据间进行互相转换](http://hao.caibaojian.com/69217.html) （稀土掘金）
 
 ***
-* [前端入行的这三年 | 掘金技术征文](http://hao.caibaojian.com/68972.html) （稀土掘金）
-* [谈谈 JavaScript 的作用域](http://hao.caibaojian.com/69053.html) （推酷网）
-* [Vue中的无渲染组件](http://hao.caibaojian.com/69044.html) （推酷网）
-* [入门快应用的另一种姿势](http://hao.caibaojian.com/68971.html) （稀土掘金）
-* [“#smoosh门”引发Web兼容性上的挑战](http://hao.caibaojian.com/69057.html) （推酷网）
+* [ES6提示和技巧，使您的代码更清洁，更短，更易于阅读](http://hao.caibaojian.com/69121.html) （稀土掘金）
+* [你应该知道的JS —— 对象](http://hao.caibaojian.com/69145.html) （推酷网）
+* [React 16.3.0 发布，构建用户界面的 JavaScript 库](http://hao.caibaojian.com/69156.html) （推酷网）
+* [别再对 Angular 表单的 ControlValueAccessor 感到迷惑](http://hao.caibaojian.com/69146.html) （推酷网）
+* [前端进阶系列-目录](http://hao.caibaojian.com/69216.html) （稀土掘金）
 
 ***
-* [Vue实现导出excel表格](http://hao.caibaojian.com/68973.html) （稀土掘金）
-* [JavaScript嵌入式开发：您的下一份工作](http://hao.caibaojian.com/69047.html) （推酷网）
-* [使用JavaScript判断元素中是否含有某个样式](http://hao.caibaojian.com/68970.html) （稀土掘金）
-* [HTTP 协议冷知识大全](http://hao.caibaojian.com/69003.html) （开发者头条）
-* [create-react-app 配置scss,ant-design，装饰器，代理，node支持最新语法](http://hao.caibaojian.com/68974.html) （稀土掘金）
+* [前端每周清单年度总结与盘点](http://hao.caibaojian.com/69104.html) （稀土掘金）
+* [webpack4.0优化那些事儿](http://hao.caibaojian.com/69149.html) （推酷网）
+* [区块链简介](http://hao.caibaojian.com/69127.html) （开发者头条）
+* [漫谈Vue组件库开发](http://hao.caibaojian.com/69107.html) （稀土掘金）
+* [前端拖拽组件优化](http://hao.caibaojian.com/69109.html) （稀土掘金）
 
 ***
-* [循序渐进的用js实现一个bind()](http://hao.caibaojian.com/68978.html) （稀土掘金）
-* [HMS 的野心：区块链时代的互助行业巨擘？](http://hao.caibaojian.com/69017.html) （开发者头条）
-* [Angular 中的单向数据流理解](http://hao.caibaojian.com/69051.html) （推酷网）
-* [Golang 面试笔试题（第二版）](http://hao.caibaojian.com/69008.html) （开发者头条）
-* [Webpack + Vue，部署时减少包体积的几种方法](http://hao.caibaojian.com/68969.html) （稀土掘金）
+* [webpack4.0打包优化策略整理](http://hao.caibaojian.com/69154.html) （推酷网）
+* [从抄书到开源之巅：章亦春的程序人生](http://hao.caibaojian.com/69122.html) （开发者头条）
+* [58 到家 MySQL 军规升级版](http://hao.caibaojian.com/69221.html) （开发者头条）
+* [巧解 JS 原型链](http://hao.caibaojian.com/69144.html) （推酷网）
+* [Vue.2.0开发后台系统，采坑系列组件篇（一）](http://hao.caibaojian.com/69117.html) （稀土掘金）
 
 ***
-* [赛事直播同步解说，技术架构难点解读](http://hao.caibaojian.com/69020.html) （开发者头条）
-* [Laravel API 系列教程（二）: 结合 Laravel 5.5 和 Vue SPA 基于 jwt-auth 实现 API 认证](http://hao.caibaojian.com/69045.html) （推酷网）
-* [Java 版权之争有结果了，谷歌要向甲骨文赔偿 88 亿美元](http://hao.caibaojian.com/69005.html) （开发者头条）
-* [Hystrix指标窗口实现原理](http://hao.caibaojian.com/68963.html) （SegmentFault）
-* [基于 Docker 和 Kubernetes 搭建 CockroachDB 集群](http://hao.caibaojian.com/69013.html) （开发者头条）
+* [JSBridge的原理](http://hao.caibaojian.com/69147.html) （推酷网）
+* [美团外卖骑手背后的 AI 技术](http://hao.caibaojian.com/69125.html) （开发者头条）
+* [如何设计出色的 JavaScript API（2013）](http://hao.caibaojian.com/69126.html) （开发者头条）
+* [秀几种 CSS 背景渐变图片 transtion 过渡效果技巧](http://hao.caibaojian.com/69212.html) （奇舞团）
+* [Javascript 中的克隆（拷贝）问题](http://hao.caibaojian.com/69141.html) （推酷网）
 
 ***
-* [WebSocket系列之JavaScript中数字数据如何转换为二进制数据](http://hao.caibaojian.com/69049.html) （推酷网）
-* [如何使用 Electron 和 React 构建一个 APP](http://hao.caibaojian.com/68979.html) （稀土掘金）
-* [快应用教程：实现自定义组件](http://hao.caibaojian.com/69019.html) （开发者头条）
-* [手把手教你按照PromiseA+规范来实现Promise](http://hao.caibaojian.com/68981.html) （稀土掘金）
-* [使用canvas绘制圆形进度条](http://hao.caibaojian.com/68975.html) （稀土掘金）
+* [使用交叉点观察器延迟加载图像以提高性能](http://hao.caibaojian.com/69106.html) （稀土掘金）
+* [ES2018 新特征之正则表达式反向断言](http://hao.caibaojian.com/69213.html) （奇舞团）
+* [WebAssembly中的内存(为什么它比你想象的更安全)](http://hao.caibaojian.com/69142.html) （推酷网）
+* [2017年前端工作小结，个人踩坑之旅，前端学习者的杂谈](http://hao.caibaojian.com/69116.html) （稀土掘金）
+* [[Python3网络爬虫开发实战] 7-动态渲染页面爬取-2-Splash的使用](http://hao.caibaojian.com/69151.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
