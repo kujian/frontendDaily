@@ -1,44 +1,46 @@
-# [20180407 码农日报](http://hao.caibaojian.com/date/2018/04/07)
+# [2018-04-07 精选博文推荐](http://hao.caibaojian.com/date/2018/04/07)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Vue实现内部组件轮播切换效果](http://hao.caibaojian.com/69835.html) （稀土掘金）
-* [Spring Framework 多个安全漏洞预警](http://hao.caibaojian.com/69899.html) （开源中国）
 * [2018年3月份GitHub上最热门的开源项目](http://hao.caibaojian.com/69897.html) （IT程序猿）
+* [Vue实现内部组件轮播切换效果](http://hao.caibaojian.com/69835.html) （稀土掘金）
+* [Javascript 装饰器极速指南](http://hao.caibaojian.com/69859.html) （稀土掘金）
+* [Spring Framework 多个安全漏洞预警](http://hao.caibaojian.com/69899.html) （开源中国）
 * [600字读懂 Git](http://hao.caibaojian.com/69896.html) （JAVA大本营）
-* [Vue 页面切换效果之 BubbleTransition](http://hao.caibaojian.com/69858.html) （稀土掘金）
 
 ***
-* [Javascript 装饰器极速指南](http://hao.caibaojian.com/69859.html) （稀土掘金）
+* [Vue 页面切换效果之 BubbleTransition](http://hao.caibaojian.com/69858.html) （稀土掘金）
 * [结合源码分析 Node.js 模块加载与运行原理](http://hao.caibaojian.com/69817.html) （开发者头条）
+* [Node.js 框架 Egg 2.6 发布，支持 TypeScript](http://hao.caibaojian.com/69838.html) （推酷网）
 * [使用 Elasticsearch 的 44 条建议](http://hao.caibaojian.com/69811.html) （开发者头条）
 * [基于 Spring Cloud 的 Microservices 架构实战案例：架构拆解](http://hao.caibaojian.com/69813.html) （开发者头条）
-* [Node.js 框架 Egg 2.6 发布，支持 TypeScript](http://hao.caibaojian.com/69838.html) （推酷网）
 
 ***
+* [最前沿：视觉导航 (Visual Navigation)，让人惊讶的进展](http://hao.caibaojian.com/69821.html) （开发者头条）
 * [不知道如何开始机器学习？这有份初学者指南](http://hao.caibaojian.com/69814.html) （开发者头条）
+* [超详细的支付宝设计规范](http://hao.caibaojian.com/69900.html) （优秀网页设计）
 * [《死磕 Elasticsearch 方法论》：普通程序员高效精进的 10 大狠招](http://hao.caibaojian.com/69815.html) （开发者头条）
 * [知识图谱与认知智能](http://hao.caibaojian.com/69819.html) （开发者头条）
-* [基于注意力机制的 seq2seq 网络](http://hao.caibaojian.com/69822.html) （开发者头条）
-* [TIOBE 语言排行榜更新，那些全栈工程师累吗？](http://hao.caibaojian.com/69812.html) （开发者头条）
 
 ***
+* [基于注意力机制的 seq2seq 网络](http://hao.caibaojian.com/69822.html) （开发者头条）
+* [TIOBE 语言排行榜更新，那些全栈工程师累吗？](http://hao.caibaojian.com/69812.html) （开发者头条）
 * [Javascript 中的设计模式（三）：结构型设计模式](http://hao.caibaojian.com/69837.html) （推酷网）
 * [如何找最长的增长子序列](http://hao.caibaojian.com/69898.html) （IT程序猿）
 * [lodash源码分析之获取数据类型](http://hao.caibaojian.com/69860.html) （稀土掘金）
-* [超详细的支付宝设计规范](http://hao.caibaojian.com/69900.html) （优秀网页设计）
-* [如何制作立体字体排版](http://hao.caibaojian.com/69901.html) （优秀网页设计）
 
 ***
+* [如何制作立体字体排版](http://hao.caibaojian.com/69901.html) （优秀网页设计）
 * [一些 “流与管道” 的小事](http://hao.caibaojian.com/69816.html) （开发者头条）
 * [给初学者的 type 命令教程](http://hao.caibaojian.com/69902.html) （伯乐在线官方微博）
 * [从遗留技术栈升级里，我学到的八件事](http://hao.caibaojian.com/69892.html) （慕课网）
 * [SnapKit 最佳实践](http://hao.caibaojian.com/69818.html) （开发者头条）
-* [2018 年 Java，Web 和移动程序员学习的 12 个框架](http://hao.caibaojian.com/69893.html) （慕课网）
 
 ***
+* [2018 年 Java，Web 和移动程序员学习的 12 个框架](http://hao.caibaojian.com/69893.html) （慕课网）
 * [binlog2sql 实现 MySQL 误操作的恢复](http://hao.caibaojian.com/69894.html) （ImportNew）
 * [什么是闪电网络？](http://hao.caibaojian.com/69820.html) （开发者头条）
 * [Spring AOP 的实现机制](http://hao.caibaojian.com/69895.html) （ImportNew）
-* [最前沿：视觉导航 (Visual Navigation)，让人惊讶的进展](http://hao.caibaojian.com/69821.html) （开发者头条）
 
-日报维护作者：[前端博客](http://caibaojian.com/) 
+日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
+
+![weixin](https://user-images.githubusercontent.com/3055447/38468989-651132ac-3b80-11e8-8e6b-15122322a9d7.png)
