@@ -1,45 +1,44 @@
-# [20180402 码农日报](http://hao.caibaojian.com/date/2018/04/02)
+# [20180407 码农日报](http://hao.caibaojian.com/date/2018/04/07)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [网易金融前端实习生电话面试整理](http://hao.caibaojian.com/69344.html) （稀土掘金）
-* [小马的大前端之路——Node.js初探](http://hao.caibaojian.com/69308.html) （稀土掘金）
-* [flatpickr – JavaScript 日期时间选择器](http://hao.caibaojian.com/69310.html) （推酷网）
-* [WebSocket系列之二进制数据设计与传输](http://hao.caibaojian.com/69341.html) （稀土掘金）
-* [理解 JS 作用域链与执行上下文](http://hao.caibaojian.com/69342.html) （稀土掘金）
+* [Vue实现内部组件轮播切换效果](http://hao.caibaojian.com/69835.html) （稀土掘金）
+* [Spring Framework 多个安全漏洞预警](http://hao.caibaojian.com/69899.html) （开源中国）
+* [2018年3月份GitHub上最热门的开源项目](http://hao.caibaojian.com/69897.html) （IT程序猿）
+* [600字读懂 Git](http://hao.caibaojian.com/69896.html) （JAVA大本营）
+* [Vue 页面切换效果之 BubbleTransition](http://hao.caibaojian.com/69858.html) （稀土掘金）
 
 ***
-* [从零实现 SPA 框架快速同步配置生成接口(angular2 + Easy-mock)](http://hao.caibaojian.com/69357.html) （稀土掘金）
-* [深度学习自动前端开发：从草图到 HTML 只需 5 秒（附代码）](http://hao.caibaojian.com/69378.html) （开发者头条）
-* [区块链系列（三）：区块链涉及到的密码学知识之加密、签名与认证](http://hao.caibaojian.com/69294.html) （开发者头条）
-* [关于 Flex 的那点事儿](http://hao.caibaojian.com/69358.html) （稀土掘金）
-* [Golang Websocket 实践](http://hao.caibaojian.com/69311.html) （推酷网）
+* [Javascript 装饰器极速指南](http://hao.caibaojian.com/69859.html) （稀土掘金）
+* [结合源码分析 Node.js 模块加载与运行原理](http://hao.caibaojian.com/69817.html) （开发者头条）
+* [使用 Elasticsearch 的 44 条建议](http://hao.caibaojian.com/69811.html) （开发者头条）
+* [基于 Spring Cloud 的 Microservices 架构实战案例：架构拆解](http://hao.caibaojian.com/69813.html) （开发者头条）
+* [Node.js 框架 Egg 2.6 发布，支持 TypeScript](http://hao.caibaojian.com/69838.html) （推酷网）
 
 ***
-* [TypeORM — TypeScript 编写的 Node.js ORM 框架](http://hao.caibaojian.com/69312.html) （推酷网）
-* [一个日期处理类库moment.js](http://hao.caibaojian.com/69350.html) （稀土掘金）
-* [以太坊代币系列之非同质化代币 ERC721](http://hao.caibaojian.com/69289.html) （开发者头条）
-* [老码农冒死揭开行业黑幕：如何编写无法维护的代码](http://hao.caibaojian.com/69343.html) （稀土掘金）
-* [Swift 4.1 迁移小技巧：CompactMap](http://hao.caibaojian.com/69290.html) （开发者头条）
+* [不知道如何开始机器学习？这有份初学者指南](http://hao.caibaojian.com/69814.html) （开发者头条）
+* [《死磕 Elasticsearch 方法论》：普通程序员高效精进的 10 大狠招](http://hao.caibaojian.com/69815.html) （开发者头条）
+* [知识图谱与认知智能](http://hao.caibaojian.com/69819.html) （开发者头条）
+* [基于注意力机制的 seq2seq 网络](http://hao.caibaojian.com/69822.html) （开发者头条）
+* [TIOBE 语言排行榜更新，那些全栈工程师累吗？](http://hao.caibaojian.com/69812.html) （开发者头条）
 
 ***
-* [Etcd raft lib 的 snapshot 处理流程](http://hao.caibaojian.com/69291.html) （开发者头条）
-* [全栈工程师修炼手册](http://hao.caibaojian.com/69282.html) （开发者头条）
-* [基于 HTML5 Canvas 实现的文字动画特效](http://hao.caibaojian.com/69355.html) （稀土掘金）
-* [CSS3 transform 属性详解](http://hao.caibaojian.com/69356.html) （稀土掘金）
-* [找工作时不要降低自己的标准](http://hao.caibaojian.com/69284.html) （开发者头条）
+* [Javascript 中的设计模式（三）：结构型设计模式](http://hao.caibaojian.com/69837.html) （推酷网）
+* [如何找最长的增长子序列](http://hao.caibaojian.com/69898.html) （IT程序猿）
+* [lodash源码分析之获取数据类型](http://hao.caibaojian.com/69860.html) （稀土掘金）
+* [超详细的支付宝设计规范](http://hao.caibaojian.com/69900.html) （优秀网页设计）
+* [如何制作立体字体排版](http://hao.caibaojian.com/69901.html) （优秀网页设计）
 
 ***
-* [Node.js EventEmitter 笔记](http://hao.caibaojian.com/69348.html) （稀土掘金）
-* [Elasticsearch 6.X 新类型 Join 深入详解](http://hao.caibaojian.com/69288.html) （开发者头条）
-* [动手制作一个简易的iOS动态执行器](http://hao.caibaojian.com/69313.html) （推酷网）
-* [理解Underscore中的flatten函数](http://hao.caibaojian.com/69351.html) （稀土掘金）
-* [VSCode 最佳实践](http://hao.caibaojian.com/69381.html) （开发者头条）
+* [一些 “流与管道” 的小事](http://hao.caibaojian.com/69816.html) （开发者头条）
+* [给初学者的 type 命令教程](http://hao.caibaojian.com/69902.html) （伯乐在线官方微博）
+* [从遗留技术栈升级里，我学到的八件事](http://hao.caibaojian.com/69892.html) （慕课网）
+* [SnapKit 最佳实践](http://hao.caibaojian.com/69818.html) （开发者头条）
+* [2018 年 Java，Web 和移动程序员学习的 12 个框架](http://hao.caibaojian.com/69893.html) （慕课网）
 
 ***
-* [深入浅出聊 FastDFS（二）：维护篇](http://hao.caibaojian.com/69392.html) （开发者头条）
-* [webpack loader的&quot;套路&quot;](http://hao.caibaojian.com/69352.html) （稀土掘金）
-* [Redis 命令的执行过程](http://hao.caibaojian.com/69382.html) （开发者头条）
-* [基于 attention 的 seq2seq 机器翻译实践详解](http://hao.caibaojian.com/69393.html) （开发者头条）
-* [在React里使用&quot;Vuex&quot;](http://hao.caibaojian.com/69353.html) （稀土掘金）
+* [binlog2sql 实现 MySQL 误操作的恢复](http://hao.caibaojian.com/69894.html) （ImportNew）
+* [什么是闪电网络？](http://hao.caibaojian.com/69820.html) （开发者头条）
+* [Spring AOP 的实现机制](http://hao.caibaojian.com/69895.html) （ImportNew）
+* [最前沿：视觉导航 (Visual Navigation)，让人惊讶的进展](http://hao.caibaojian.com/69821.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 
