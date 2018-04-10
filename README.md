@@ -1,46 +1,46 @@
-# [2018-04-09 精选博文推荐](http://hao.caibaojian.com/date/2018/04/09)
+# [2018-04-10 精选博文推荐](http://hao.caibaojian.com/date/2018/04/10)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [使用 Web3 和 Vue.js 来创建你的第一个以太坊去中心化应用程序（第三部分）](http://hao.caibaojian.com/70018.html) （推酷网）
-* [vue技术分享-你可能不知道的7个秘密](http://hao.caibaojian.com/70009.html) （推酷网）
-* [Node.js 可读流和可写流](http://hao.caibaojian.com/70010.html) （推酷网）
-* [基于 Spring Cloud 的微服务落地](http://hao.caibaojian.com/69980.html) （开发者头条）
-* [Webpack 4进阶&#8211;从前的日色变得慢 ，一下午只够打一次包](http://hao.caibaojian.com/69964.html) （稀土掘金）
+* [20分钟清晰捋完 ECMAScript 2016/2017/2018 新特性](http://hao.caibaojian.com/70199.html) （稀土掘金）
+* [带你走进webpack世界，成为webpack头号玩家](http://hao.caibaojian.com/70203.html) （稀土掘金）
+* [和 Houdini, CSS Paint API 打个招呼吧](http://hao.caibaojian.com/70144.html) （开发者头条）
+* [用 PhantomJS 让邮件报表图文并茂（一）](http://hao.caibaojian.com/70142.html) （开发者头条）
+* [【Angular 6】 将会带来什么新特性？ ](http://hao.caibaojian.com/70126.html) （稀土掘金）
 
 ***
-* [CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://hao.caibaojian.com/69960.html) （稀土掘金）
-* [以太坊智能合约编程语言 Solidity（九）：错误处理](http://hao.caibaojian.com/69983.html) （开发者头条）
-* [我所不知道的console对象的用法](http://hao.caibaojian.com/70019.html) （推酷网）
-* [慢 SQL，压垮团队的最后一根稻草](http://hao.caibaojian.com/69966.html) （开发者头条）
-* [彻底搞懂 JS 中 this 机制](http://hao.caibaojian.com/69956.html) （SegmentFault）
+* [React实战篇（React仿今日头条）](http://hao.caibaojian.com/70194.html) （稀土掘金）
+* [Velix.id：区块链时代的数字身份证？](http://hao.caibaojian.com/70145.html) （开发者头条）
+* [闭包，是真的美](http://hao.caibaojian.com/70128.html) （开发者头条）
+* [如何使用深度学习执行文本实体提取](http://hao.caibaojian.com/70139.html) （开发者头条）
+* [iOS Swift GCD 开发教程](http://hao.caibaojian.com/70150.html) （开发者头条）
 
 ***
-* [深入浅出一致性 Hash 原理](http://hao.caibaojian.com/69979.html) （开发者头条）
-* [【Geek议题】当年那些风骚的跨域操作](http://hao.caibaojian.com/69957.html) （SegmentFault）
-* [vue cli 平稳升级webapck4](http://hao.caibaojian.com/70015.html) （推酷网）
-* [#每日一记#前端与后端交互 数据状态设计 最佳实践](http://hao.caibaojian.com/70016.html) （推酷网）
-* [一个日期处理迷你类库: manba](http://hao.caibaojian.com/70017.html) （推酷网）
+* [模式识别、机器学习傻傻分不清？给我三分钟](http://hao.caibaojian.com/70141.html) （开发者头条）
+* [Google 开源用于寻找系外行星的代码](http://hao.caibaojian.com/70143.html) （开发者头条）
+* [你需要知道的 javascript 的细节](http://hao.caibaojian.com/70192.html) （稀土掘金）
+* [分布式存储中的数据分布策略](http://hao.caibaojian.com/70133.html) （开发者头条）
+* [react-router-dom 的 HashRouter 也就这么回事儿](http://hao.caibaojian.com/70204.html) （稀土掘金）
 
 ***
-* [使用 inotify-tools 与 rsync 构建实时备份系统](http://hao.caibaojian.com/69982.html) （开发者头条）
-* [基于 Koa.js 的 Node.js MVC 框架](http://hao.caibaojian.com/70109.html) （稀土掘金）
-* [关于 SPA，你需要掌握的 4 层](http://hao.caibaojian.com/69965.html) （稀土掘金）
-* [Docker 入门（二）：从实例来看 Dockerfile 和 Compose](http://hao.caibaojian.com/69973.html) （开发者头条）
-* [前端工程师为什么要学习编译原理？](http://hao.caibaojian.com/69961.html) （稀土掘金）
+* [单向用户界面架构](http://hao.caibaojian.com/70195.html) （稀土掘金）
+* [Netty NioEventLoopGroup 源码分析](http://hao.caibaojian.com/70135.html) （开发者头条）
+* [Rexdeploy：一个基于名字服务自动化平台](http://hao.caibaojian.com/70146.html) （开发者头条）
+* [chrome扩展应用开发快速科普](http://hao.caibaojian.com/70196.html) （稀土掘金）
+* [网络地理知识之全球数据中心与地理位置的情况简报，再来了解一下？](http://hao.caibaojian.com/70136.html) （开发者头条）
 
 ***
-* [基于 React 的单页应用优化技巧](http://hao.caibaojian.com/69962.html) （稀土掘金）
-* [携程图像智能化建设之路](http://hao.caibaojian.com/69975.html) （开发者头条）
-* [一则 Vue 项目的图片 lazyload 解决方案](http://hao.caibaojian.com/70012.html) （推酷网）
-* [浅谈 FPGA 与音频处理器的结合](http://hao.caibaojian.com/69978.html) （开发者头条）
-* [RPO攻击方式的探究](http://hao.caibaojian.com/70013.html) （推酷网）
+* [技术社区运营管理国际交流会暨第二届中国开发者关系大会](http://hao.caibaojian.com/70147.html) （开发者头条）
+* [关于React v16.3 新生命周期](http://hao.caibaojian.com/70197.html) （稀土掘金）
+* [弹性工作制？不存在的](http://hao.caibaojian.com/70137.html) （开发者头条）
+* [你真的了解 TIOBE 编程语言排行榜吗？](http://hao.caibaojian.com/70148.html) （开发者头条）
+* [vue实践02之vue-router](http://hao.caibaojian.com/70198.html) （稀土掘金）
 
 ***
-* [DeclareLayoutSwift: UI framework for iOS in Swift](http://hao.caibaojian.com/69981.html) （开发者头条）
-* [webpack4.0源码分析之Tapable](http://hao.caibaojian.com/70067.html) （推酷网）
-* [90%面试都不会问的题，因为&#8230;](http://hao.caibaojian.com/70101.html) （稀土掘金）
-* [go-ycsb：一个 Go 的 YCSB 移植](http://hao.caibaojian.com/69972.html) （开发者头条）
-* [春风十里不如Node中的一股清流](http://hao.caibaojian.com/70068.html) （推酷网）
+* [GDB 实现原理介绍](http://hao.caibaojian.com/70138.html) （开发者头条）
+* [D8，下一代 dex 编译器](http://hao.caibaojian.com/70149.html) （开发者头条）
+* [直白介绍卷积神经网络 (CNN)](http://hao.caibaojian.com/70129.html) （开发者头条）
+* [【PWA学习与实践】(3) 让你的WebApp离线可用](http://hao.caibaojian.com/70200.html) （稀土掘金）
+* [NewSQL 是否是 NoSQL 的取代者？](http://hao.caibaojian.com/70140.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
