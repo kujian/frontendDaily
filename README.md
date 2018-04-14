@@ -1,46 +1,46 @@
-# [2018-04-13 精选博文推荐](http://hao.caibaojian.com/date/2018/04/13)
+# [2018-04-14 精选博文推荐](http://hao.caibaojian.com/date/2018/04/14)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript数组一把梭](http://hao.caibaojian.com/70550.html) （稀土掘金）
-* [自己实现AJAX](http://hao.caibaojian.com/70605.html) （推酷网）
-* [Webpack4 新特性 及 Vue-cli项目升级](http://hao.caibaojian.com/70602.html) （推酷网）
-* [列表渲染和Vue的v-for指令](http://hao.caibaojian.com/70601.html) （推酷网）
-* [Spark Streaming 与 Kafka 整合的改进](http://hao.caibaojian.com/70573.html) （开发者头条）
+* [Element 2.3.4 发布，基于 Vue 2.0 的桌面端组件库](http://hao.caibaojian.com/70727.html) （推酷网）
+* [怎么在 ES6+Webpack 下使用 Web Worker](http://hao.caibaojian.com/70723.html) （推酷网）
+* [Deep Learning 模型近年来重要进展](http://hao.caibaojian.com/70695.html) （开发者头条）
+* [谷歌JavaScript编程风格指导中的13个值得关注的要点](http://hao.caibaojian.com/70725.html) （推酷网）
+* [爬虫 JavaScript 篇[Web 漏洞扫描器]](http://hao.caibaojian.com/70717.html) （推酷网）
 
 ***
-* [你不知道的 Vuejs：Vuejs 插件开发](http://hao.caibaojian.com/70566.html) （开发者头条）
-* [用空格还是用 Tab 键？谷歌推出《JavaScript 指南》，解答编程小白的问题](http://hao.caibaojian.com/70603.html) （推酷网）
-* [一大波 Android 刘海屏来袭，全网最全适配技巧](http://hao.caibaojian.com/70536.html) （SegmentFault）
-* [这里有 7 种主流案例，告诉你调度器架构设计通用法则](http://hao.caibaojian.com/70571.html) （开发者头条）
-* [vue实践04之vuex](http://hao.caibaojian.com/70552.html) （稀土掘金）
+* [交互设计师的开发思维](http://hao.caibaojian.com/70759.html) （奇舞团）
+* [你应该知道的Node.js流](http://hao.caibaojian.com/70719.html) （推酷网）
+* [前端开发碎碎念](http://hao.caibaojian.com/70720.html) （推酷网）
+* [Canvas上更高效的画SVG](http://hao.caibaojian.com/70726.html) （推酷网）
+* [唯快不破：Web 应用的13个优化步骤](http://hao.caibaojian.com/70721.html) （推酷网）
 
 ***
-* [新手上路学习JavaScript引擎实现——路线图](http://hao.caibaojian.com/70553.html) （稀土掘金）
-* [React16的性能优化](http://hao.caibaojian.com/70547.html) （稀土掘金）
-* [一个用于为子组件添加三维特效的 React 组件 &lt;Css3dWrapper /&gt;](http://hao.caibaojian.com/70554.html) （稀土掘金）
-* [JS实时通信三把斧系列之一: websocket](http://hao.caibaojian.com/70543.html) （稀土掘金）
-* [JSP指令标记和动作标记基础实践](http://hao.caibaojian.com/70649.html) （稀土掘金）
+* [MySQL 智能调度系统](http://hao.caibaojian.com/70682.html) （开发者头条）
+* [JavaScript面向对象之三（非构造函数继承）](http://hao.caibaojian.com/70722.html) （推酷网）
+* [Spring Cloud OAuth2 优雅的集成短信验证码登录以及第三方登录](http://hao.caibaojian.com/70673.html) （SegmentFault）
+* [在阿里，我们如何管理代码分支？](http://hao.caibaojian.com/70684.html) （开发者头条）
+* [从使用角度渐进式剖析Promise源码](http://hao.caibaojian.com/70674.html) （SegmentFault）
 
 ***
-* [腾讯一面总结-web前端-2018.4.11](http://hao.caibaojian.com/70653.html) （稀土掘金）
-* [Elasticsearch 6.X 去重详解](http://hao.caibaojian.com/70564.html) （开发者头条）
-* [Web 表单的未来](http://hao.caibaojian.com/70541.html) （稀土掘金）
-* [一文读懂机器学习需要哪些数学知识](http://hao.caibaojian.com/70568.html) （开发者头条）
-* [面试之JavaScript篇](http://hao.caibaojian.com/70549.html) （稀土掘金）
+* [美团外卖 Android Lint 代码检查实践](http://hao.caibaojian.com/70685.html) （开发者头条）
+* [如何从内存、IO 与文件句柄限制方面对 MySQL 数据库进行监控调优？](http://hao.caibaojian.com/70696.html) （开发者头条）
+* [[翻译]前端调试清单之优化网络资源](http://hao.caibaojian.com/70675.html) （SegmentFault）
+* [node编码中的坑](http://hao.caibaojian.com/70724.html) （推酷网）
+* [浅析 iOS 中的设计模式](http://hao.caibaojian.com/70686.html) （开发者头条）
 
 ***
-* [当Node.js遇上OpenCV深度神经网络](http://hao.caibaojian.com/70606.html) （推酷网）
-* [常用的几种大数据架构剖析](http://hao.caibaojian.com/70557.html) （开发者头条）
-* [如何部署多节点 Tendermint 集群](http://hao.caibaojian.com/70570.html) （开发者头条）
-* [ES6 实现之适配器模式 Adapter](http://hao.caibaojian.com/70639.html) （稀土掘金）
-* [基于 React 的高质量坦克大战复刻版](http://hao.caibaojian.com/70560.html) （开发者头条）
+* [淘宝新势力周H5性能优化实战](http://hao.caibaojian.com/70676.html) （SegmentFault）
+* [ECharts 4.0 最全技术攻略](http://hao.caibaojian.com/70757.html) （奇舞团）
+* [通过 GPU 加速浏览器浮点数计算能力](http://hao.caibaojian.com/70687.html) （开发者头条）
+* [App 爬虫神器 mitmproxy 和 mitmdump 的使用](http://hao.caibaojian.com/70677.html) （开发者头条）
+* [Houdini 实战：自定义 checkbox](http://hao.caibaojian.com/70758.html) （奇舞团）
 
 ***
-* [用Vue.js开发原生应用选择Weex还是NativeScript?](http://hao.caibaojian.com/70651.html) （稀土掘金）
-* [图说 ES Modules](http://hao.caibaojian.com/70539.html) （SegmentFault）
-* [区块链技术和数字资产](http://hao.caibaojian.com/70572.html) （开发者头条）
-* [react-router知多少(一)](http://hao.caibaojian.com/70551.html) （稀土掘金）
-* [以太坊生态中的工具与技术](http://hao.caibaojian.com/70558.html) （开发者头条）
+* [从 CRUD 编程切换到事件溯源和区块链编程](http://hao.caibaojian.com/70688.html) （开发者头条）
+* [uglify 压缩报错问题及 es5-imcompatible-versions](http://hao.caibaojian.com/70718.html) （推酷网）
+* [如何基于 k8s 开发高可靠服务？](http://hao.caibaojian.com/70678.html) （开发者头条）
+* [duic：高性能配置管理中心](http://hao.caibaojian.com/70689.html) （开发者头条）
+* [用代码生成 Glitch Art 风格的抖音字体](http://hao.caibaojian.com/70681.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
