@@ -1,43 +1,46 @@
-# [2018-04-15 精选博文推荐](http://hao.caibaojian.com/date/2018/04/15)
+# [2018-04-16 精选博文推荐](http://hao.caibaojian.com/date/2018/04/16)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [vuepress：Vue 官方出品的文档生成器](http://hao.caibaojian.com/70765.html) （稀土掘金）
-* [前端面试忽悠师入门](http://hao.caibaojian.com/70801.html) （推酷网）
-* [处理大数据集的建议](http://hao.caibaojian.com/70772.html) （开发者头条）
-* [iOS 逆向基础砸壳原理（二）](http://hao.caibaojian.com/70782.html) （开发者头条）
-* [跨 AZ 数据复制方案中的 EC 与 XOR 技术](http://hao.caibaojian.com/70775.html) （开发者头条）
+* [WebAssembly 再添一员猛将：将支持使用 Go 语言](http://hao.caibaojian.com/70852.html) （推酷网）
+* [前端布局推进剂 &#8211; 间距规范化](http://hao.caibaojian.com/70899.html) （稀土掘金）
+* [鲁班，视觉生成引擎的应用](http://hao.caibaojian.com/70841.html) （开发者头条）
+* [如何生成WebP图片](http://hao.caibaojian.com/70900.html) （稀土掘金）
+* [对一款不到2KB大小的JavaScript后门的深入分析](http://hao.caibaojian.com/70849.html) （推酷网）
 
 ***
-* [分析axios源码来找出无法使用all和spread等方法的原因](http://hao.caibaojian.com/70802.html) （推酷网）
-* [Spring Security OAuth2 优雅的集成短信验证码登录以及第三方登录](http://hao.caibaojian.com/70764.html) （SegmentFault）
-* [实时大数据分析引擎 ClickHouse 介绍](http://hao.caibaojian.com/70776.html) （开发者头条）
-* [Driver.js – 页面分步引导JavaScript](http://hao.caibaojian.com/70803.html) （推酷网）
-* [梯度提升决策树：GBDT](http://hao.caibaojian.com/70777.html) （开发者头条）
+* [使用JavaScript中undefined小技巧](http://hao.caibaojian.com/70848.html) （推酷网）
+* [轻松掌握移动端web开发【尺寸适配】常用解决方案](http://hao.caibaojian.com/70897.html) （稀土掘金）
+* [理解JavaScript中null、undefined和NaN](http://hao.caibaojian.com/70850.html) （推酷网）
+* [一个简单易用的webpack4多页面脚手架配置加学习](http://hao.caibaojian.com/70898.html) （稀土掘金）
+* [如何解释vue的生命周期才能令面试官满意？](http://hao.caibaojian.com/70892.html) （稀土掘金）
 
 ***
-* [Node.js 框架 Egg 2.6.1 发布，改进文档](http://hao.caibaojian.com/70804.html) （推酷网）
-* [深入学习 SVG 教程](http://hao.caibaojian.com/70766.html) （稀土掘金）
-* [NumPy Tips](http://hao.caibaojian.com/70778.html) （开发者头条）
-* [从 0 开始了解 Docker](http://hao.caibaojian.com/70827.html) （稀土掘金）
-* [在 Typescript 中使用可被复用的 Vue Mixin](http://hao.caibaojian.com/70767.html) （稀土掘金）
+* [iOS App 瘦身](http://hao.caibaojian.com/70846.html) （开发者头条）
+* [js的函数重载](http://hao.caibaojian.com/70847.html) （推酷网）
+* [VueJs(2)&#8212;VueJs开发环境的搭建和讲解index.html如何被渲染](http://hao.caibaojian.com/70851.html) （推酷网）
+* [前端CORS请求梳理](http://hao.caibaojian.com/70890.html) （稀土掘金）
+* [Mongoose初步学习](http://hao.caibaojian.com/70901.html) （稀土掘金）
 
 ***
-* [iOS 开发中的 Audio 相关](http://hao.caibaojian.com/70783.html) （开发者头条）
-* [如何应对线上的偶现问题](http://hao.caibaojian.com/70828.html) （稀土掘金）
-* [如何学习后端技术？](http://hao.caibaojian.com/70771.html) （开发者头条）
-* [深度学习战争：Facebook 支持的 PyTorch 与 Google 的 TensorFlow](http://hao.caibaojian.com/70779.html) （开发者头条）
-* [简单了解ES6/ES2015 Symbol() 方法](http://hao.caibaojian.com/70829.html) （稀土掘金）
+* [深入继承：一步步捋清五种继承方式](http://hao.caibaojian.com/70891.html) （稀土掘金）
+* [Angular 容器部署](http://hao.caibaojian.com/70833.html) （SegmentFault）
+* [Appium Android For Windows 搭建环境](http://hao.caibaojian.com/70845.html) （开发者头条）
+* [rollup入门介绍](http://hao.caibaojian.com/70893.html) （稀土掘金）
+* [从先进走向普遍的广告和推荐系统方法之一：在线学习](http://hao.caibaojian.com/70838.html) （开发者头条）
 
 ***
-* [狗狗视角看世界，用视觉数据预测狗的行为](http://hao.caibaojian.com/70781.html) （开发者头条）
-* [人人都可参与的 AI 技术体验：谷歌发布全新搜索引擎 Talk to Books](http://hao.caibaojian.com/70780.html) （开发者头条）
-* [OSC 源创会第 74 期视频直播专场（武汉）](http://hao.caibaojian.com/70784.html) （开发者头条）
-* [你真的了解盒模型么](http://hao.caibaojian.com/70773.html) （开发者头条）
-* [拿来主义：layPage分页插件的使用](http://hao.caibaojian.com/70799.html) （推酷网）
+* [【PWA学习与实践】(5)在Web中进行服务端消息推送](http://hao.caibaojian.com/70894.html) （稀土掘金）
+* [Google 正式发布 Fuchsia 文档](http://hao.caibaojian.com/70836.html) （开发者头条）
+* [细说setTimeout/setImmediate/process.nextTick的区别](http://hao.caibaojian.com/70895.html) （稀土掘金）
+* [做到三角，再也不担心我的懒癌症了](http://hao.caibaojian.com/70837.html) （开发者头条）
+* [Semver(语义化版本号)扫盲](http://hao.caibaojian.com/70896.html) （稀土掘金）
 
 ***
-* [客厅 TV：App HttpDNS 技术接入与实战](http://hao.caibaojian.com/70774.html) （开发者头条）
-* [使用Vue构建视频播放列表](http://hao.caibaojian.com/70800.html) （推酷网）
+* [使用 kubeadm 搭建 Kubernetes 1.10 集群](http://hao.caibaojian.com/70839.html) （开发者头条）
+* [OK, IO](http://hao.caibaojian.com/70840.html) （开发者头条）
+* [系统角度解读 Android P 新特性](http://hao.caibaojian.com/70842.html) （开发者头条）
+* [iView Table表格带搜索功能的Table组件](http://hao.caibaojian.com/70889.html) （稀土掘金）
+* [Stream 分布式数据流的轻量级异步快照](http://hao.caibaojian.com/70843.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
