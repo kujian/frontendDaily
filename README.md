@@ -1,46 +1,46 @@
-# [2018-04-17 精选博文推荐](http://hao.caibaojian.com/date/2018/04/17)
+# [2018-04-18 精选博文推荐](http://hao.caibaojian.com/date/2018/04/18)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [你真的了解JS数组的那些方法吗？](http://hao.caibaojian.com/71019.html) （推酷网）
-* [ES6 javascript 实用开发技巧](http://hao.caibaojian.com/71012.html) （推酷网）
-* [webpack从此不再是我们的痛点 — 核心基础](http://hao.caibaojian.com/71018.html) （推酷网）
-* [简易实用的JavaScript日期时间操作](http://hao.caibaojian.com/71010.html) （推酷网）
-* [面试题：给你个id，去拿到name，多叉树遍历](http://hao.caibaojian.com/71020.html) （推酷网）
+* [moment太重? 那就试试miment&#8211;一个超轻量级的js时间库](http://hao.caibaojian.com/71167.html) （推酷网）
+* [JavaScript：处理值为&#8217;undefined&#8217;的7个技巧](http://hao.caibaojian.com/71210.html) （稀土掘金）
+* [Vue开发库存管理前端页面时一些小经验记录](http://hao.caibaojian.com/71164.html) （推酷网）
+* [require.js了解一下](http://hao.caibaojian.com/71223.html) （稀土掘金）
+* [整理了js数组去重4种方法](http://hao.caibaojian.com/71161.html) （推酷网）
 
 ***
-* [写一个简单vue 中间件，$emit、$on](http://hao.caibaojian.com/71014.html) （推酷网）
-* [Angular DOM 更新机制](http://hao.caibaojian.com/70929.html) （稀土掘金）
-* [关于原型和原型链的精辟解读](http://hao.caibaojian.com/71021.html) （推酷网）
-* [Step-by-step，打造属于自己的vue ssr](http://hao.caibaojian.com/71015.html) （推酷网）
-* [前端性能优化之浏览器渲染优化 —— 打造60FPS页面](http://hao.caibaojian.com/70936.html) （稀土掘金）
+* [ES6 中的一些技巧，使你的代码更清晰、更简短、更易读](http://hao.caibaojian.com/71120.html) （开发者头条）
+* [javascript中console的用法](http://hao.caibaojian.com/71162.html) （推酷网）
+* [Google JavaScript Style 指南中 13 个要点](http://hao.caibaojian.com/71165.html) （推酷网）
+* [前端部署工具🛠](http://hao.caibaojian.com/71217.html) （稀土掘金）
+* [GitHub 十大 CI 工具](http://hao.caibaojian.com/71116.html) （开发者头条）
 
 ***
-* [Vue.js可复用性 &amp; 组合](http://hao.caibaojian.com/71013.html) （推酷网）
-* [Tumblr：我们是如何从 PHP 5 升级到 PHP 7 的](http://hao.caibaojian.com/70958.html) （开发者头条）
-* [使用axios一次上传多张图片，自带上传进度](http://hao.caibaojian.com/71005.html) （推酷网）
-* [使用 Async / Await 来编写简明的异步代码](http://hao.caibaojian.com/71016.html) （推酷网）
-* [从单向到双向数据绑定](http://hao.caibaojian.com/71017.html) （推酷网）
+* [基于 CNN 的阅读理解式问答模型：DGCNN](http://hao.caibaojian.com/71136.html) （开发者头条）
+* [萌新(我)的Git备忘录](http://hao.caibaojian.com/71218.html) （稀土掘金）
+* [浅度理解NodeJS的HTTP模块](http://hao.caibaojian.com/71106.html) （稀土掘金）
+* [Redux：全揭秘与入坑指北（上）](http://hao.caibaojian.com/71215.html) （稀土掘金）
+* [个人博客 SEO 优化（2）：站内优化](http://hao.caibaojian.com/71102.html) （SegmentFault）
 
 ***
-* [从零开始写一个 Promise 库](http://hao.caibaojian.com/70971.html) （开发者头条）
-* [Angular 属性绑定更新机制](http://hao.caibaojian.com/71073.html) （稀土掘金）
-* [前端基于gulp后端基于freemarker的工作流程总结](http://hao.caibaojian.com/70935.html) （稀土掘金）
-* [别再投简历了，让面试官来找你](http://hao.caibaojian.com/70924.html) （稀土掘金）
-* [react-native-whc-calendar跨平台个性化日历组件](http://hao.caibaojian.com/70925.html) （稀土掘金）
+* [Web SCADA 电力接线图工控组态编辑器](http://hao.caibaojian.com/71103.html) （SegmentFault）
+* [Docker 容器可视化监控中心搭建](http://hao.caibaojian.com/71115.html) （开发者头条）
+* [Node.js 能进行 HTTP/2 推送啦](http://hao.caibaojian.com/71104.html) （稀土掘金）
+* [在 Android 应用中如何引入 Lua](http://hao.caibaojian.com/71135.html) （开发者头条）
+* [Java 读写锁 ReentrantReadWriteLock 源码分析](http://hao.caibaojian.com/71126.html) （开发者头条）
 
 ***
-* [小哥哥,小姐姐,我有一份tcp、http面试指南你要吗？](http://hao.caibaojian.com/71077.html) （稀土掘金）
-* [Spring Boot 2.0 WebFlux 上手系列课程：快速入门（一）](http://hao.caibaojian.com/70954.html) （开发者头条）
-* [七行JSON代码将你的网站变成移动应用](http://hao.caibaojian.com/71061.html) （稀土掘金）
-* [被遗弃的线程（iOS）](http://hao.caibaojian.com/70977.html) （开发者头条）
-* [Kafka 源码解析之 Server 端如何处理 Fetch 请求（十三）](http://hao.caibaojian.com/70967.html) （开发者头条）
+* [Jetty 源码剖析（七）：底层网络通信的细节](http://hao.caibaojian.com/71137.html) （开发者头条）
+* [mvvm-simple双向绑定简单实现](http://hao.caibaojian.com/71222.html) （稀土掘金）
+* [简单实现 VUE 中 MVVM &#8211; step4 &#8211; 优化Watcher实现](http://hao.caibaojian.com/71221.html) （稀土掘金）
+* [关于Cookie、session和Web Storage](http://hao.caibaojian.com/71109.html) （稀土掘金）
+* [OpenCV 基于残差网络实现人脸检测](http://hao.caibaojian.com/71117.html) （开发者头条）
 
 ***
-* [你应该知道的前端&#8211;存储](http://hao.caibaojian.com/70934.html) （稀土掘金）
-* [webassembly 在 flv 编解码中的实战](http://hao.caibaojian.com/70978.html) （开发者头条）
-* [使用node爬虫做了一个vue小项目记录使用笔记](http://hao.caibaojian.com/71071.html) （稀土掘金）
-* [Redux入门 &#8212; 买水果生鲜](http://hao.caibaojian.com/71067.html) （稀土掘金）
-* [TensorFlow 入门：线性回归](http://hao.caibaojian.com/70960.html) （开发者头条）
+* [React v16升级小记](http://hao.caibaojian.com/71110.html) （稀土掘金）
+* [performance-report页面性能、资源、错误、ajax，fetch请求上报插件 完善小巧](http://hao.caibaojian.com/71112.html) （稀土掘金）
+* [React v16.3.0：新的生命周期和上下文API](http://hao.caibaojian.com/71208.html) （稀土掘金）
+* [美团 iOS 面试败北感悟](http://hao.caibaojian.com/71124.html) （开发者头条）
+* [什么样的领导不能跟](http://hao.caibaojian.com/71134.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
