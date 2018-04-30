@@ -1,46 +1,37 @@
-# [2018-04-29 精选博文推荐](http://hao.caibaojian.com/date/2018/04/29)
+# [2018-04-30 精选博文推荐](http://hao.caibaojian.com/date/2018/04/30)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [专访死马：为什么说Egg.js是企业级Node框架](http://hao.caibaojian.com/72596.html) （推酷网）
-* [再谈JavaScript作用域——你确定你真的知道？](http://hao.caibaojian.com/72549.html) （稀土掘金）
-* [设计师的 AI 自学之路：图片线稿提取](http://hao.caibaojian.com/72572.html) （开发者头条）
-* [全球大咖齐聚上海，只为石墨烯区块链生态的一件大事](http://hao.caibaojian.com/72562.html) （开发者头条）
-* [机器学习的一些基本概念](http://hao.caibaojian.com/72563.html) （开发者头条）
+* [深入挖掘js函数](http://hao.caibaojian.com/72652.html) （推酷网）
+* [深入挖掘js之数组](http://hao.caibaojian.com/72618.html) （SegmentFault）
+* [软件工程铁律：设计时间要大于等于实现时间](http://hao.caibaojian.com/72625.html) （开发者头条）
+* [使用React快速开发扩展程序](http://hao.caibaojian.com/72621.html) （SegmentFault）
+* [Vue在ie10下空白页的debug小记](http://hao.caibaojian.com/72619.html) （SegmentFault）
 
 ***
-* [死磕 Java 并发：J.U.C 之读写锁 &#8211; ReentrantReadWriteLock](http://hao.caibaojian.com/72554.html) （开发者头条）
-* [使用 Go 语言从零编写 PoS 区块链](http://hao.caibaojian.com/72555.html) （开发者头条）
-* [iOS 逆向基础动态库注入实现过程（三）](http://hao.caibaojian.com/72566.html) （开发者头条）
-* [凯叔解密京东千亿商品系统核心架构](http://hao.caibaojian.com/72556.html) （开发者头条）
-* [Android 插件化、热补丁中绕不开的 ProGuard 的坑](http://hao.caibaojian.com/72568.html) （开发者头条）
+* [WebDriver 使用入门](http://hao.caibaojian.com/72631.html) （开发者头条）
+* [核心技术靠化缘是要不来的：自己动手写 ORM 框架](http://hao.caibaojian.com/72624.html) （开发者头条）
+* [基于 Htte 的 API 自动化测试](http://hao.caibaojian.com/72632.html) （开发者头条）
+* [深入挖掘js之函数](http://hao.caibaojian.com/72620.html) （SegmentFault）
+* [透彻理解 KVO 观察者模式（附基于 runtime 实现代码）](http://hao.caibaojian.com/72633.html) （开发者头条）
 
 ***
-* [WebSocket 通信过程与实现](http://hao.caibaojian.com/72545.html) （SegmentFault）
-* [Swift for TensorFlow 已在 GitHub 上开源](http://hao.caibaojian.com/72569.html) （开发者头条）
-* [利用CSS变量实现令人震惊的悬浮效果](http://hao.caibaojian.com/72612.html) （稀土掘金）
-* [.NET Core：新的快速开发平台](http://hao.caibaojian.com/72560.html) （开发者头条）
-* [sbc（七）：分布式限流](http://hao.caibaojian.com/72571.html) （开发者头条）
+* [一个基于vue的图片轮播组件的实现](http://hao.caibaojian.com/72622.html) （SegmentFault）
+* [v-dialogs：基于 Vue2 的简洁易用多模式的弹出窗口，可多层嵌套使用](http://hao.caibaojian.com/72634.html) （开发者头条）
+* [rbtree：高性能的 Go 红黑树 map，参考 STL 实现](http://hao.caibaojian.com/72626.html) （开发者头条）
+* [死磕 Java 并发：J.U.C 之 Condition](http://hao.caibaojian.com/72635.html) （开发者头条）
+* [探究 canvas 绘图中撤销（undo）功能的实现方式](http://hao.caibaojian.com/72623.html) （稀土掘金）
 
 ***
-* [Python 实现 iOS 自动化打包详解](http://hao.caibaojian.com/72561.html) （开发者头条）
-* [Node HTTP/2 Server Push 从了解到放弃](http://hao.caibaojian.com/72548.html) （稀土掘金）
-* [Vue.js中侦听器（watch）的高级用法](http://hao.caibaojian.com/72594.html) （推酷网）
-* [后端架构师技术图谱](http://hao.caibaojian.com/72553.html) （开发者头条）
-* [JavaScript的BOM、DOM操作、节点以及表格（二）](http://hao.caibaojian.com/72595.html) （推酷网）
+* [MySQL 事务与锁（一）：InnoDB 引擎中的事务](http://hao.caibaojian.com/72636.html) （开发者头条）
+* [谈谈vue及webpack在项目中的一些优化](http://hao.caibaojian.com/72651.html) （推酷网）
+* [HTTP 缓存详解](http://hao.caibaojian.com/72627.html) （开发者头条）
+* [Android 新兴扫码框架：XCodeScanner](http://hao.caibaojian.com/72628.html) （开发者头条）
+* [对象扩展符简易指南](http://hao.caibaojian.com/72666.html) （稀土掘金）
 
 ***
-* [使用 Kotlin 高效地开发 Android App（二）](http://hao.caibaojian.com/72564.html) （开发者头条）
-* [机器学习训练秘籍：第 6 章](http://hao.caibaojian.com/72565.html) （开发者头条）
-* [Vue SSR 组件加载](http://hao.caibaojian.com/72597.html) （推酷网）
-* [Htte：声明式 HTTP 自动化测试框架](http://hao.caibaojian.com/72559.html) （开发者头条）
-* [掌握 Laravel 的测试方法](http://hao.caibaojian.com/72543.html) （SegmentFault）
-
-***
-* [yahoo前端优化建议-个人总结_](http://hao.caibaojian.com/72598.html) （推酷网）
-* [React Mixin 的前世今生](http://hao.caibaojian.com/72567.html) （开发者头条）
-* [Hexo 个人博客 SEO 优化（3）：改造你的博客，提升搜索引擎排名](http://hao.caibaojian.com/72544.html) （SegmentFault）
-* [H5系列之地理位置（必知必会）](http://hao.caibaojian.com/72613.html) （稀土掘金）
-* [模仿天猫实战【SSM版】——后台开发](http://hao.caibaojian.com/72593.html) （推酷网）
+* [React v16.3 版本新生命周期函数浅析及升级方案](http://hao.caibaojian.com/72629.html) （开发者头条）
+* [你真的了解回调？](http://hao.caibaojian.com/72667.html) （稀土掘金）
+* [数据库基准测试中应该避免的错误](http://hao.caibaojian.com/72630.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
