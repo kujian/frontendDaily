@@ -1,46 +1,46 @@
-# [2018-05-08 精选博文推荐](http://hao.caibaojian.com/date/2018/05/08)
+# [2018-05-09 精选博文推荐](http://hao.caibaojian.com/date/2018/05/09)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端学习路线及面试经验](http://hao.caibaojian.com/73443.html) （稀土掘金）
-* [react-native + mobx 入门到放弃](http://hao.caibaojian.com/73389.html) （推酷网）
-* [Sublime Text 3.1 发布](http://hao.caibaojian.com/73434.html) （稀土掘金）
-* [Vue + better-scroll 实现移动端字母索引导航](http://hao.caibaojian.com/73381.html) （推酷网）
-* [canvas 图片、文字模糊问题](http://hao.caibaojian.com/73392.html) （推酷网）
+* [实例：使用puppeteer headless方式抓取JS网页](http://hao.caibaojian.com/73581.html) （稀土掘金）
+* [面试：对javascript的闭包的理解](http://hao.caibaojian.com/73558.html) （推酷网）
+* [新来的开发花了四天时间来制作一个简单的 HTML 和 CSS 按钮，我该解雇他么？](http://hao.caibaojian.com/73499.html) （开发者头条）
+* [JavaScript 工作原理之四－事件循环及异步编程的出现和 5 种更好的 async/await 编程方式(译)](http://hao.caibaojian.com/73559.html) （推酷网）
+* [大三前端doge迟来的春招实习总结（百度offer）](http://hao.caibaojian.com/73469.html) （稀土掘金）
 
 ***
-* [怎样解决编程语言之间的差异性问题？](http://hao.caibaojian.com/73385.html) （推酷网）
-* [浏览器渲染简述](http://hao.caibaojian.com/73445.html) （稀土掘金）
-* [深入浅出 JavaScript 关键词 &#8212; this](http://hao.caibaojian.com/73386.html) （推酷网）
-* [MVPArms官方快速组件化方案开源,来自5K star的信赖](http://hao.caibaojian.com/73303.html) （SegmentFault）
-* [持续更新的前端资源图谱](http://hao.caibaojian.com/73438.html) （稀土掘金）
+* [学习express.js源代码的方法](http://hao.caibaojian.com/73479.html) （稀土掘金）
+* [JavaScript 是如何运作的：用 MutationObserver 追踪 DOM 的变化](http://hao.caibaojian.com/73553.html) （推酷网）
+* [大佬，JavaScript 柯里化，了解一下？](http://hao.caibaojian.com/73475.html) （稀土掘金）
+* [移植Rxjs中部分常用operators到数组](http://hao.caibaojian.com/73476.html) （稀土掘金）
+* [HTML5 : History API](http://hao.caibaojian.com/73548.html) （推酷网）
 
 ***
-* [日访问量百亿级的应用如何做缓存架构设计](http://hao.caibaojian.com/73315.html) （开发者头条）
-* [2018年4月 JavaScript 十大文章](http://hao.caibaojian.com/73446.html) （稀土掘金）
-* [基于 HTML5 Canvas 的电信机柜 U 位动态管理](http://hao.caibaojian.com/73304.html) （SegmentFault）
-* [浅谈以太坊智能合约的安全漏洞](http://hao.caibaojian.com/73337.html) （开发者头条）
-* [精读《async/await 是把双刃剑》](http://hao.caibaojian.com/73305.html) （SegmentFault）
+* [x-loader.js图片加载loading控制ES6插件](http://hao.caibaojian.com/73480.html) （稀土掘金）
+* [深入理解ES6&#8211;12.代理与反射接口](http://hao.caibaojian.com/73560.html) （推酷网）
+* [作为一名初级前端开发工程师的一些感悟](http://hao.caibaojian.com/73620.html) （稀土掘金）
+* [阿里系 React 项目飞冰 2.0 正式发布, 支持 Vue 项目开发](http://hao.caibaojian.com/73544.html) （推酷网）
+* [Angular使用动态加载组件方法实现Dialog](http://hao.caibaojian.com/73615.html) （稀土掘金）
 
 ***
-* [死磕 Java 并发：J.U.C 之并发工具类 &#8211; Exchanger](http://hao.caibaojian.com/73317.html) （开发者头条）
-* [如何逃离 async/await 地狱](http://hao.caibaojian.com/73390.html) （推酷网）
-* [不断被挑战的预编译工具](http://hao.caibaojian.com/73330.html) （开发者头条）
-* [JavaScript异步编程：Generator与Async](http://hao.caibaojian.com/73308.html) （SegmentFault）
-* [你不懂js系列学习笔记-异步与性能- 02](http://hao.caibaojian.com/73382.html) （推酷网）
+* [实现前端点击按钮自动复制剪贴板功能](http://hao.caibaojian.com/73484.html) （稀土掘金）
+* [实战Parcel构建一个基于Vue.js的相册应用](http://hao.caibaojian.com/73555.html) （推酷网）
+* [G1 垃圾收集器介绍](http://hao.caibaojian.com/73488.html) （开发者头条）
+* [如何实现一个HTTP请求库——axios源码阅读与分析](http://hao.caibaojian.com/73557.html) （推酷网）
+* [MVPArms 官方快速组件化方案开源（Android）](http://hao.caibaojian.com/73500.html) （开发者头条）
 
 ***
-* [（VUEjQuery插件）盘点前端群的无脑回答](http://hao.caibaojian.com/73442.html) （稀土掘金）
-* [深入理解ES6&#8211;11.Promise与异步编程](http://hao.caibaojian.com/73383.html) （推酷网）
-* [Node.js的Koa实现JWT用户认证](http://hao.caibaojian.com/73394.html) （推酷网）
-* [详解Vue中watch的高级用法](http://hao.caibaojian.com/73384.html) （推酷网）
-* [【基础】CSS实现多重边框的5种方式](http://hao.caibaojian.com/73311.html) （SegmentFault）
+* [Dubbo 剖析（六）：请求响应模型](http://hao.caibaojian.com/73490.html) （开发者头条）
+* [完爆Facebook/GraphQL，APIJSON全方位对比解析(一)](http://hao.caibaojian.com/73472.html) （稀土掘金）
+* [babel-polyfill VS babel-runtime VS babel-preset-env](http://hao.caibaojian.com/73482.html) （稀土掘金）
+* [前端干活系列&#8212;-入门webpack这一篇文章就够了](http://hao.caibaojian.com/73551.html) （推酷网）
+* [使用 Anaconda 实现 Python 2 和 Python 3 共存及相互转换](http://hao.caibaojian.com/73494.html) （开发者头条）
 
 ***
-* [大前端分享总结](http://hao.caibaojian.com/73374.html) （推酷网）
-* [webpack系列之-原理篇](http://hao.caibaojian.com/73444.html) （稀土掘金）
-* [基于 consul 的 Redis 高可用方案](http://hao.caibaojian.com/73324.html) （开发者头条）
-* [快速测试 API 接口的新技能](http://hao.caibaojian.com/73314.html) （开发者头条）
-* [BigTable 系统的设计与实现](http://hao.caibaojian.com/73335.html) （开发者头条）
+* [HTML5入门教程 ：Cookie会话跟踪技术](http://hao.caibaojian.com/73473.html) （稀土掘金）
+* [[NGX]Angular组件/指令生命周期简介](http://hao.caibaojian.com/73474.html) （稀土掘金）
+* [前后端常见的几种鉴权方式](http://hao.caibaojian.com/73483.html) （稀土掘金）
+* [一个 Raft 开源项目的结构分析](http://hao.caibaojian.com/73496.html) （开发者头条）
+* [TiDB 源码阅读（八）：基于代价的优化](http://hao.caibaojian.com/73497.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
