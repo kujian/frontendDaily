@@ -1,46 +1,45 @@
-# [2018-05-12 精选博文推荐](http://hao.caibaojian.com/date/2018/05/12)
+# [2018-05-13 精选博文推荐](http://hao.caibaojian.com/date/2018/05/13)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [用小猪佩奇说明Javascript的原型和原型链](http://hao.caibaojian.com/73981.html) （推酷网）
-* [浅谈前端/软件工程师的代码素养](http://hao.caibaojian.com/74023.html) （奇舞团）
-* [JavaScript操作DOM常用的API](http://hao.caibaojian.com/73982.html) （推酷网）
-* [JavaScript 纯前端实现图片的上传、下载与复制](http://hao.caibaojian.com/73974.html) （推酷网）
-* [Angular团队发布Angular 6](http://hao.caibaojian.com/73985.html) （推酷网）
+* [适用于 Angular Lazyload 下的 RouteReuseStrategy](http://hao.caibaojian.com/74065.html) （推酷网）
+* [RocketMQ 消费端分析](http://hao.caibaojian.com/74041.html) （开发者头条）
+* [Element 2.3.8 发布，基于 Vue 2.0 的桌面端组件库](http://hao.caibaojian.com/74066.html) （推酷网）
+* [Angular.js 1.7.0 发布，Web 前端框架](http://hao.caibaojian.com/74067.html) （推酷网）
+* [区块链应用：NAS星云链 入门之从零开发第一个DAPP](http://hao.caibaojian.com/74029.html) （稀土掘金）
 
 ***
-* [新一代轻量级 PHP 扩展框架 Asf](http://hao.caibaojian.com/73931.html) （开发者头条）
-* [在Vue中如何用数据来驱动用户界面](http://hao.caibaojian.com/73975.html) （推酷网）
-* [技术牛人的成长之道](http://hao.caibaojian.com/73932.html) （开发者头条）
-* [国内顶级互联网公司产品校招笔试题集锦](http://hao.caibaojian.com/73943.html) （开发者头条）
-* [JavaScript 工作原理之五－深入理解 WebSockets 和带有 SSE 机制的HTTP/2 以及正确的使用姿势(译)](http://hao.caibaojian.com/73979.html) （推酷网）
+* [使用vscode调试编译后的js代码](http://hao.caibaojian.com/74104.html) （推酷网）
+* [webpack4-用之初体验（下）](http://hao.caibaojian.com/74063.html) （推酷网）
+* [MVCC 事务总结（三）](http://hao.caibaojian.com/74048.html) （开发者头条）
+* [webpack4-用之初体验（上）](http://hao.caibaojian.com/74064.html) （推酷网）
+* [Chrome 66禁止声音自动播放之后](http://hao.caibaojian.com/74028.html) （稀土掘金）
 
 ***
-* [现代浏览器支持的不同类型的观察者](http://hao.caibaojian.com/74019.html) （奇舞团）
-* [滑向未来：现代 JavaScript 与 CSS 滚动实现指南](http://hao.caibaojian.com/74020.html) （奇舞团）
-* [谈谈JavaScript异步代码优化](http://hao.caibaojian.com/73925.html) （稀土掘金）
-* [我们到底该如何推进测试体系建设：管理推进篇](http://hao.caibaojian.com/73936.html) （开发者头条）
-* [使用jQuery仿制网易云音乐移动端](http://hao.caibaojian.com/73980.html) （推酷网）
+* [利用人工智能检测色情图片](http://hao.caibaojian.com/74042.html) （开发者头条）
+* [[轉載] Font-size: An Unexpectedly Complex CSS Property](http://hao.caibaojian.com/74032.html) （稀土掘金）
+* [PHP 反序列漏洞初识](http://hao.caibaojian.com/74043.html) （开发者头条）
+* [Go 内存逃逸详细分析](http://hao.caibaojian.com/74044.html) （开发者头条）
+* [一个Promise面试题 ](http://hao.caibaojian.com/74103.html) （推酷网）
 
 ***
-* [图解 JanusGraph 内部数据存储结构](http://hao.caibaojian.com/73937.html) （开发者头条）
-* [详解 Solidity 事件 Event：完全搞懂事件的使用](http://hao.caibaojian.com/73951.html) （开发者头条）
-* [vue-cli脚手架中webpack配置基础文件详解](http://hao.caibaojian.com/73924.html) （SegmentFault）
-* [有了 TensorFlow.js，浏览器中也可以实时人体姿势估计](http://hao.caibaojian.com/73948.html) （开发者头条）
-* [如何用技术搞好英俄翻译？](http://hao.caibaojian.com/73949.html) （开发者头条）
+* [从零开始搭建React开发环境（一）](http://hao.caibaojian.com/74030.html) （稀土掘金）
+* [你好，Flutter](http://hao.caibaojian.com/74049.html) （开发者头条）
+* [包管理工具 npm 5.10 正式发布，添加新命令](http://hao.caibaojian.com/74106.html) （推酷网）
+* [Vue页面骨架屏注入实践](http://hao.caibaojian.com/74031.html) （稀土掘金）
+* [使用 scikit-learn 进行线性回归分析](http://hao.caibaojian.com/74045.html) （开发者头条）
 
 ***
-* [Eggjs 从放弃到开始使用](http://hao.caibaojian.com/73973.html) （推酷网）
-* [一文读懂 Spring Boot、微服务架构和大数据治理三者之间的故事](http://hao.caibaojian.com/73933.html) （开发者头条）
-* [码农英语课堂 0x08：如果计算机语言是乐器，你的乐器是什么？](http://hao.caibaojian.com/73941.html) （开发者头条）
-* [drop-shadow 妙用](http://hao.caibaojian.com/74025.html) （奇舞团）
-* [探索 create-react-app 源码](http://hao.caibaojian.com/73978.html) （推酷网）
+* [组件化推进下的样式与逻辑](http://hao.caibaojian.com/74047.html) （开发者头条）
+* [Xcode 自带的超好用的诊断工具](http://hao.caibaojian.com/74046.html) （开发者头条）
+* [Node.js 子进程：你需要知道的一切](http://hao.caibaojian.com/74105.html) （推酷网）
+* [高级的 Redis Java 客户端 Lettuce](http://hao.caibaojian.com/74038.html) （开发者头条）
+* [关于input的一些问题解决方法分享](http://hao.caibaojian.com/74061.html) （推酷网）
 
 ***
-* [JS基金会发布Dojo 2.0](http://hao.caibaojian.com/73986.html) （推酷网）
-* [and-load-aot：Android 页面启动速度优化工具](http://hao.caibaojian.com/73942.html) （开发者头条）
-* [Mocha浏览器测试入门教程](http://hao.caibaojian.com/73987.html) （推酷网）
-* [台湾大学林轩田《机器学习基石》课程学习资料](http://hao.caibaojian.com/73934.html) （开发者头条）
-* [Swift 5 新特性预览](http://hao.caibaojian.com/73944.html) （开发者头条）
+* [React div 实现一个 textarea](http://hao.caibaojian.com/74107.html) （稀土掘金）
+* [分布式跟踪工具 Pinpoint 初探](http://hao.caibaojian.com/74039.html) （开发者头条）
+* [如何使用简单的三角函数创建Loading效果](http://hao.caibaojian.com/74062.html) （推酷网）
+* [需求分析的 9 项任务](http://hao.caibaojian.com/74040.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
