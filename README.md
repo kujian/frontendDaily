@@ -1,46 +1,46 @@
-# [2018-05-16 精选博文推荐](http://hao.caibaojian.com/date/2018/05/16)
+# [2018-05-17 精选博文推荐](http://hao.caibaojian.com/date/2018/05/17)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JS高级技巧(简洁版)](http://hao.caibaojian.com/74426.html) （推酷网）
-* [前端优化的一些小技巧](http://hao.caibaojian.com/74417.html) （推酷网）
-* [如何利用Webp和http缓存节省30%的网络流量？](http://hao.caibaojian.com/74474.html) （稀土掘金）
-* [从开发到发布一款基于Vue2x的响应式自适应轮播组件插件VueSliderShow](http://hao.caibaojian.com/74475.html) （稀土掘金）
-* [今日头条 Android 面试](http://hao.caibaojian.com/74371.html) （开发者头条）
+* [冒泡算法 — js之实现](http://hao.caibaojian.com/74586.html) （推酷网）
+* [确认过眼神，你就是我的Promise~~](http://hao.caibaojian.com/74588.html) （推酷网）
+* [选择排序–js实现算法](http://hao.caibaojian.com/74584.html) （推酷网）
+* [JavaScript 是如何工作的：CSS 和 JS 动画背后的原理 + 如何优化性能](http://hao.caibaojian.com/74590.html) （推酷网）
+* [撸了个新轮子，静态文件部署小工具（CLI）](http://hao.caibaojian.com/74587.html) （推酷网）
 
 ***
-* [在webpack-dev-server内添加mock server](http://hao.caibaojian.com/74465.html) （稀土掘金）
-* [Python 自然语言处理分析倚天屠龙记](http://hao.caibaojian.com/74382.html) （开发者头条）
-* [MongooseJS 5.1.1 发布，MongoDB 连接包](http://hao.caibaojian.com/74428.html) （推酷网）
-* [ES6那些可能没留意的特性](http://hao.caibaojian.com/74468.html) （稀土掘金）
-* [JS的进阶技巧](http://hao.caibaojian.com/74459.html) （稀土掘金）
+* [面试官问你有没有了解过 vue-cli 构建的打包工程](http://hao.caibaojian.com/74512.html) （稀土掘金）
+* [一波关于html的面经](http://hao.caibaojian.com/74518.html) （稀土掘金）
+* [希尔排序–js代码实现](http://hao.caibaojian.com/74582.html) （推酷网）
+* [黑客也乌龙 | 上传恶意文件时无意泄露两个 0-day，被研究人员抓个正着](http://hao.caibaojian.com/74576.html) （推酷网）
+* [插入排序–js实现](http://hao.caibaojian.com/74583.html) （推酷网）
 
 ***
-* [一些短时间即可掌握并提高开发效率的 JavaScript 小技巧](http://hao.caibaojian.com/74471.html) （稀土掘金）
-* [JavaScript是如何变成现在这样的？](http://hao.caibaojian.com/74421.html) （推酷网）
-* [【前端Talkking】CSS系列——CSS深入理解之relative定位](http://hao.caibaojian.com/74472.html) （稀土掘金）
-* [使用卡诺图简化你的逻辑判断](http://hao.caibaojian.com/74368.html) （开发者头条）
-* [基于 HTML5 WebGL 的低碳工业园区监控系统](http://hao.caibaojian.com/74461.html) （稀土掘金）
+* [JavaScript 工作原理之六－WebAssembly 对比 JavaScript 及其使用场景](http://hao.caibaojian.com/74589.html) （推酷网）
+* [React Suite v3.0 正式版发布](http://hao.caibaojian.com/74548.html) （开发者头条）
+* [详解 Android 刘海屏适配](http://hao.caibaojian.com/74550.html) （开发者头条）
+* [换个角度学 Webpack](http://hao.caibaojian.com/74519.html) （稀土掘金）
+* [如何写好 git commit log](http://hao.caibaojian.com/74540.html) （开发者头条）
 
 ***
-* [RocketMQ 部分数据消费不了问题排查](http://hao.caibaojian.com/74370.html) （开发者头条）
-* [神经网络如何学习分布式的表示](http://hao.caibaojian.com/74381.html) （开发者头条）
-* [一段柯里化函数代码阅读](http://hao.caibaojian.com/74418.html) （推酷网）
-* [Redux技术架构简介（二）&#8211; 异步实现](http://hao.caibaojian.com/74463.html) （稀土掘金）
-* [从navigator到react-navigation进阶教程](http://hao.caibaojian.com/74364.html) （稀土掘金）
+* [使用 JS 直接截取 视频片段 生成 gif 动画](http://hao.caibaojian.com/74633.html) （稀土掘金）
+* [Jenkins 构建 Exec timeout](http://hao.caibaojian.com/74511.html) （稀土掘金）
+* [ElasticSearch 的搭建与数据统计](http://hao.caibaojian.com/74532.html) （开发者头条）
+* [状态同步，究竟是推还是拉？](http://hao.caibaojian.com/74534.html) （开发者头条）
+* [ConstraintLayout使用汇总](http://hao.caibaojian.com/74502.html) （SegmentFault）
 
 ***
-* [ES6 札记：函数](http://hao.caibaojian.com/74460.html) （稀土掘金）
-* [如何构建「大型 Node.js 项目」的项目结构？](http://hao.caibaojian.com/74423.html) （推酷网）
-* [React 深入系列（七）：React 常用模式](http://hao.caibaojian.com/74378.html) （开发者头条）
-* [[图片懒加载][Angular]使用Intersection Observer实现图片懒加载并在Angular中使用](http://hao.caibaojian.com/74424.html) （推酷网）
-* [前端项目开发规范](http://hao.caibaojian.com/74464.html) （稀土掘金）
+* [simple-react：极简的 React 框架](http://hao.caibaojian.com/74515.html) （稀土掘金）
+* [控件设计的方案权衡](http://hao.caibaojian.com/74516.html) （稀土掘金）
+* [Go 调度程序：Ms、Ps &amp; Gs](http://hao.caibaojian.com/74537.html) （开发者头条）
+* [堆排序–js实现算法](http://hao.caibaojian.com/74579.html) （推酷网）
+* [手把手带你撸一个vue组件库](http://hao.caibaojian.com/74640.html) （稀土掘金）
 
 ***
-* [JSON Web Token (JWT) 攻击技巧](http://hao.caibaojian.com/74413.html) （推酷网）
-* [聊聊自动化测试框架](http://hao.caibaojian.com/74369.html) （开发者头条）
-* [一个简单template engine](http://hao.caibaojian.com/74425.html) （推酷网）
-* [Binder Driver 缺陷导致定屏的实战分析（Android）](http://hao.caibaojian.com/74380.html) （开发者头条）
-* [Virtual DOM 背后的秘密（Diff 篇）](http://hao.caibaojian.com/74497.html) （Alloyteam）
+* [vue-quasar-admin  一个包含通用权限控制的后台管理系统](http://hao.caibaojian.com/74641.html) （稀土掘金）
+* [归并排序–js实现算法](http://hao.caibaojian.com/74581.html) （推酷网）
+* [设计模式之中介者模式](http://hao.caibaojian.com/74509.html) （稀土掘金）
+* [简单类型与复杂类型及原型链](http://hao.caibaojian.com/74520.html) （稀土掘金）
+* [记一次代码重构](http://hao.caibaojian.com/74510.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
