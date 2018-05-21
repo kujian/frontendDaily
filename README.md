@@ -1,46 +1,30 @@
-# [2018-05-20 精选博文推荐](http://hao.caibaojian.com/date/2018/05/20)
+# [2018-05-21 精选博文推荐](http://hao.caibaojian.com/date/2018/05/21)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Vant 1.1.4 发布，有赞轻量级移动端 Vue 组件库](http://hao.caibaojian.com/74938.html) （推酷网）
-* [MongoDB 技术分析（四）：对象模型](http://hao.caibaojian.com/74906.html) （开发者头条）
-* [Node 在有赞的实践](http://hao.caibaojian.com/74898.html) （开发者头条）
-* [当我们说区块链 “Trsutless” 时，是什么意思？](http://hao.caibaojian.com/74902.html) （开发者头条）
-* [Go 语言常见坑](http://hao.caibaojian.com/74901.html) （开发者头条）
+* [码云推荐 | 基于 Vue 的延迟加载插件 vue-view-lazy](http://hao.caibaojian.com/74999.html) （推酷网）
+* [Safe.js 2.2.0 发布，增加class和name属性比vue快8倍](http://hao.caibaojian.com/74998.html) （推酷网）
+* [Redux + Immutable.js 性能优化](http://hao.caibaojian.com/74970.html) （稀土掘金）
+* [简单构建 ThinkJS + Vue2.0 前后端分离的多页应用](http://hao.caibaojian.com/74995.html) （推酷网）
+* [Google 发布关于机器学习工程的最佳实践](http://hao.caibaojian.com/74975.html) （开发者头条）
 
 ***
-* [前端面试题总结二(js原型继承)](http://hao.caibaojian.com/74940.html) （推酷网）
-* [Python 3 新语法不完全汇总](http://hao.caibaojian.com/74897.html) （开发者头条）
-* [flatpickr 4.5.0 发布 ，Javascript 日期选择器](http://hao.caibaojian.com/74939.html) （推酷网）
-* [JavaScript 是如何工作的：Web 推送通知的机制](http://hao.caibaojian.com/74892.html) （稀土掘金）
-* [Web前端原生JavaScript浅谈轮播图](http://hao.caibaojian.com/74934.html) （推酷网）
+* [开箱即用的 Vue Webpack 脚手架模版](http://hao.caibaojian.com/74994.html) （推酷网）
+* [什么时候能用上设计模式？](http://hao.caibaojian.com/74973.html) （开发者头条）
+* [对不起，我来晚了Layx v2.1.0 稳定版发布](http://hao.caibaojian.com/74997.html) （推酷网）
+* [基于 BPMN 2.0 的工单系统架构设计（上）](http://hao.caibaojian.com/74976.html) （开发者头条）
+* [Cardinality Estimation](http://hao.caibaojian.com/74980.html) （开发者头条）
 
 ***
-* [MacBook Pro 开发环境配置指南](http://hao.caibaojian.com/74895.html) （开发者头条）
-* [Tensorboard 详解（下）](http://hao.caibaojian.com/74904.html) （开发者头条）
-* [Element 2.3.9 发布，基于 Vue 2.0 的桌面端组件库](http://hao.caibaojian.com/74936.html) （推酷网）
-* [调试现代Web应用程序](http://hao.caibaojian.com/74894.html) （稀土掘金）
-* [Safe.js 2.1.0 发布，优化代码执行速度，为了 dui 红薯](http://hao.caibaojian.com/74937.html) （推酷网）
+* [进化的系统需要进化的系统工程](http://hao.caibaojian.com/74981.html) （开发者头条）
+* [Docker 底层技术](http://hao.caibaojian.com/74971.html) （开发者头条）
+* [requests发送post请求的一些疑点](http://hao.caibaojian.com/74996.html) （推酷网）
+* [项目管理全过程最佳实践（下）](http://hao.caibaojian.com/74974.html) （开发者头条）
+* [非对称加密和证书总结](http://hao.caibaojian.com/74972.html) （开发者头条）
 
 ***
-* [Go语言RESTful JSON API创建](http://hao.caibaojian.com/74887.html) （SegmentFault）
-* [2018 HTML5区块链游戏大会召开 重构区块链游戏新生态](http://hao.caibaojian.com/74930.html) （推酷网）
-* [React Native babel编译异常问题](http://hao.caibaojian.com/74890.html) （稀土掘金）
-* [克隆（深克隆）](http://hao.caibaojian.com/74933.html) （推酷网）
-* [MXNet/Gluon 中 Triplet Loss 算法](http://hao.caibaojian.com/74903.html) （开发者头条）
-
-***
-* [jquery input 搜索自动补全、typeahead.js](http://hao.caibaojian.com/74935.html) （推酷网）
-* [React-Typescript 单元测试：Jest + Enzyme](http://hao.caibaojian.com/74893.html) （稀土掘金）
-* [深入 wepy 源码：wepy 运行原理分析](http://hao.caibaojian.com/74905.html) （开发者头条）
-* [InnoDB 锁原理](http://hao.caibaojian.com/74896.html) （开发者头条）
-* [深度学习是否能拥有 “最初的记忆”：深度向量嵌入的图表示法](http://hao.caibaojian.com/74907.html) （开发者头条）
-
-***
-* [思否 CEO 高阳受邀出席中国区块链产业高峰论坛](http://hao.caibaojian.com/74886.html) （SegmentFault）
-* [Swift 的可选型枚举](http://hao.caibaojian.com/74908.html) （开发者头条）
-* [超越Ctrl+S保存页面所有资源](http://hao.caibaojian.com/74929.html) （推酷网）
-* [RabbitMQ发布订阅实战-实现延时重试队列](http://hao.caibaojian.com/74888.html) （SegmentFault）
-* [避免陷入 async/await 地狱](http://hao.caibaojian.com/74889.html) （稀土掘金）
+* [基于 aiotg 创建一个 telegram 爬虫机器人](http://hao.caibaojian.com/74977.html) （开发者头条）
+* [学习 Kotlin，看这一篇就够了](http://hao.caibaojian.com/74978.html) （开发者头条）
+* [应用于 Intel SGX 的自动程序划分框架（上）](http://hao.caibaojian.com/74979.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
