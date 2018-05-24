@@ -1,46 +1,46 @@
-# [2018-05-23 精选博文推荐](http://hao.caibaojian.com/date/2018/05/23)
+# [2018-05-24 精选博文推荐](http://hao.caibaojian.com/date/2018/05/24)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Promise不会？？看这里史上最通俗易懂的Promise](http://hao.caibaojian.com/75261.html) （推酷网）
-* [Promise不会？？看这里！！！史上最通俗易懂的Promise！！！](http://hao.caibaojian.com/75303.html) （Alloyteam）
-* [React 16 加载性能优化指南](http://hao.caibaojian.com/75188.html) （稀土掘金）
-* [你不知道的Vuejs &#8211; 状态管理](http://hao.caibaojian.com/75262.html) （推酷网）
-* [使用 Css 获取用户密码](http://hao.caibaojian.com/75301.html) （Alloyteam）
+* [高效开发 Web 单页应用解决方案](http://hao.caibaojian.com/75388.html) （推酷网）
+* [Safe.js 3.0.0 发布，史上最大更新增加6项功能](http://hao.caibaojian.com/75387.html) （推酷网）
+* [替换系统音量提示的那些坑（iOS）](http://hao.caibaojian.com/75347.html) （开发者头条）
+* [快速介绍几个JS函数](http://hao.caibaojian.com/75381.html) （推酷网）
+* [Promise 源码：实现一个简单的 Promise](http://hao.caibaojian.com/75383.html) （推酷网）
 
 ***
-* [前端开发：手机真机调试](http://hao.caibaojian.com/75184.html) （稀土掘金）
-* [飞冰 2.0 正式发布并支持 Vue 项目开发](http://hao.caibaojian.com/75304.html) （Alloyteam）
-* [人人都能懂的Vue源码系列(二)—Vue构造函数](http://hao.caibaojian.com/75185.html) （稀土掘金）
-* [前端要以正确的姿势学习编译原理（上）](http://hao.caibaojian.com/75210.html) （开发者头条）
-* [如何逃离async/await困境](http://hao.caibaojian.com/75263.html) （推酷网）
+* [Elasticsearch 布道者 Medcl 对话携程 Wood 大叔核心笔记](http://hao.caibaojian.com/75350.html) （开发者头条）
+* [基于VUE自定义指令实现按钮级权限控制](http://hao.caibaojian.com/75385.html) （推酷网）
+* [Node-Web-Console——基于 Node.js 的网页版 shell](http://hao.caibaojian.com/75386.html) （推酷网）
+* [Nuxt.js 基础入门教程](http://hao.caibaojian.com/75377.html) （推酷网）
+* [React 同构应用 PWA 升级指南](http://hao.caibaojian.com/75344.html) （开发者头条）
 
 ***
-* [JavaScript从初级往高级走系列————Virtual Dom](http://hao.caibaojian.com/75255.html) （推酷网）
-* [React 快速上手 &#8211; 04 基础特性 JSX、Props、State、Lifecycle、Event、Style](http://hao.caibaojian.com/75182.html) （稀土掘金）
-* [微服务下的数据架构](http://hao.caibaojian.com/75206.html) （开发者头条）
-* [一图简看基于搜索的问答机器人设计](http://hao.caibaojian.com/75207.html) （开发者头条）
-* [趣谈js的call和apply两大召唤术](http://hao.caibaojian.com/75175.html) （稀土掘金）
+* [JS事件循环，了解一下?](http://hao.caibaojian.com/75379.html) （推酷网）
+* [Google 的 Git v2 带来颠覆性性能提升？恐怕未必](http://hao.caibaojian.com/75346.html) （开发者头条）
+* [前端不止：Web 内容的无障碍性](http://hao.caibaojian.com/75348.html) （开发者头条）
+* [关于 H5 复制那点事](http://hao.caibaojian.com/75349.html) （开发者头条）
+* [从0到1快速构建基于create-react-app的脚手架](http://hao.caibaojian.com/75321.html) （稀土掘金）
 
 ***
-* [使用树状图做层次聚类分析](http://hao.caibaojian.com/75223.html) （开发者头条）
-* [移动端H5多页开发拍门砖经验](http://hao.caibaojian.com/75187.html) （稀土掘金）
-* [解密Vuex: 从源码开始](http://hao.caibaojian.com/75259.html) （推酷网）
-* [从 SQL Server 到 MySQL（二）：在线迁移，空中换发动机](http://hao.caibaojian.com/75211.html) （开发者头条）
-* [canvas实现 漂亮的下雨效果](http://hao.caibaojian.com/75260.html) （推酷网）
+* [卷积神经网络课程 The basics of ConvNets 习题解析](http://hao.caibaojian.com/75352.html) （开发者头条）
+* [vscode-recipes (VS Code 调试主流前端框架的基本姿势,微软出品)](http://hao.caibaojian.com/75313.html) （稀土掘金）
+* [Node.js 流：你需要知道的一切](http://hao.caibaojian.com/75333.html) （开发者头条）
+* [Netflix 正式开源其 API 网关 Zuul 2](http://hao.caibaojian.com/75345.html) （开发者头条）
+* [一周 IT 技术干货（码农周刊第 215 期）](http://hao.caibaojian.com/75335.html) （开发者头条）
 
 ***
-* [看图学HTTPS](http://hao.caibaojian.com/75168.html) （SegmentFault）
-* [解锁多种JavaScript数组去重姿势](http://hao.caibaojian.com/75180.html) （稀土掘金）
-* [lenneth &#8212; 基于koa2 的web极简框架](http://hao.caibaojian.com/75172.html) （稀土掘金）
-* [Kafka 是否适合我们？](http://hao.caibaojian.com/75215.html) （开发者头条）
-* [论如何实现一个完美的Select组件](http://hao.caibaojian.com/75173.html) （稀土掘金）
+* [如何将 Vue 组件转成 React 组件？](http://hao.caibaojian.com/75316.html) （稀土掘金）
+* [Vue全家桶打造自适应 web 音乐播放器](http://hao.caibaojian.com/75380.html) （推酷网）
+* [Android App 安全防范措施的小结](http://hao.caibaojian.com/75336.html) （开发者头条）
+* [v-charts | 饿了么团队开源的基于 Vue 和 ECharts 的图表工具](http://hao.caibaojian.com/75307.html) （稀土掘金）
+* [让Vue也可以使用Redux](http://hao.caibaojian.com/75317.html) （稀土掘金）
 
 ***
-* [增加检测类别？这是一份目标检测的基础指南](http://hao.caibaojian.com/75216.html) （开发者头条）
-* [storysman从设计到原理 &#8211; vue-loader解析](http://hao.caibaojian.com/75183.html) （稀土掘金）
-* [DOM系列：getElement* 和 querySelector*](http://hao.caibaojian.com/75254.html) （推酷网）
-* [上课啦！了解下 DDoS攻击方式](http://hao.caibaojian.com/75302.html) （Alloyteam）
-* [dubbo 剖析：记一个异步方法调用的坑](http://hao.caibaojian.com/75222.html) （开发者头条）
+* [Go 语言 map 实践](http://hao.caibaojian.com/75337.html) （开发者头条）
+* [js技巧：十几行的代码实现vue.watch](http://hao.caibaojian.com/75310.html) （稀土掘金）
+* [前端的gitlab的ci初尝试](http://hao.caibaojian.com/75318.html) （稀土掘金）
+* [关于vue-router那些事](http://hao.caibaojian.com/75382.html) （推酷网）
+* [一文简述多种无监督聚类算法的 Python 实现](http://hao.caibaojian.com/75338.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
