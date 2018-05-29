@@ -1,42 +1,46 @@
-# [2018-05-28 精选博文推荐](http://hao.caibaojian.com/date/2018/05/28)
+# [2018-05-29 精选博文推荐](http://hao.caibaojian.com/date/2018/05/29)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [2018年中高级前端面试题目小结](http://hao.caibaojian.com/75802.html) （推酷网）
-* [新一代的前端存储方案&#8211;indexedDB](http://hao.caibaojian.com/75764.html) （稀土掘金）
-* [如何把你的demo打包成一个app](http://hao.caibaojian.com/75803.html) （推酷网）
-* [从Chrome源码看WebSocket](http://hao.caibaojian.com/75766.html) （稀土掘金）
-* [Jimp — 纯 JavaScript 实现且零依赖的图像处理库](http://hao.caibaojian.com/75804.html) （推酷网）
+* [社招中级前端笔试面试题总结-答案及拓展](http://hao.caibaojian.com/75934.html) （推酷网）
+* [Promise异步控制流模式](http://hao.caibaojian.com/75928.html) （推酷网）
+* [中国行政区划信息JS库china-location](http://hao.caibaojian.com/75932.html) （推酷网）
+* [[Node.js月刊]2018年第4期](http://hao.caibaojian.com/75929.html) （推酷网）
+* [Node.js执行系统命令](http://hao.caibaojian.com/75930.html) （推酷网）
 
 ***
-* [任务队列、事件循环与定时器](http://hao.caibaojian.com/75767.html) （稀土掘金）
-* [使用爬虫技术实现 Web 页面资源可用性检测](http://hao.caibaojian.com/75798.html) （推酷网）
-* [前端安全大起底 | JTalk 掘金线下活动第八期](http://hao.caibaojian.com/75762.html) （稀土掘金）
-* [记一次偷懒实践](http://hao.caibaojian.com/75765.html) （稀土掘金）
-* [无需深度学习框架，如何从零开始用 Python 构建神经网络](http://hao.caibaojian.com/75771.html) （开发者头条）
+* [一个故事讲完进程、线程和协程](http://hao.caibaojian.com/75860.html) （开发者头条）
+* [CODING 获腾讯云一亿元战略融资，让云资源触手可及](http://hao.caibaojian.com/75871.html) （开发者头条）
+* [深入 CGO 编程](http://hao.caibaojian.com/75874.html) （开发者头条）
+* [JavaScript 工作原理之八－Service Workers，生命周期及其使用场景](http://hao.caibaojian.com/75927.html) （推酷网）
+* [常见的哈希算法和用途](http://hao.caibaojian.com/75869.html) （开发者头条）
 
 ***
-* [微服务 2.0 技术栈选型手册](http://hao.caibaojian.com/75768.html) （开发者头条）
-* [对于单页应用中如何监听 URL 变化的思考](http://hao.caibaojian.com/75761.html) （稀土掘金）
-* [如何基于 Golang 设计一套微服务架构](http://hao.caibaojian.com/75770.html) （开发者头条）
-* [这周为公司撸了一个「自动分配任务系统」](http://hao.caibaojian.com/75763.html) （稀土掘金）
-* [Python 性能优化的方法路径](http://hao.caibaojian.com/75776.html) （开发者头条）
+* [深入 Python 多进程编程基础](http://hao.caibaojian.com/75859.html) （开发者头条）
+* [饿了么大数据计算引擎实践与应用](http://hao.caibaojian.com/75870.html) （开发者头条）
+* [[JS]大话this指针](http://hao.caibaojian.com/75847.html) （稀土掘金）
+* [Spring MVC 温故而知新：从零开始](http://hao.caibaojian.com/75858.html) （开发者头条）
+* [前端血汗教训：怎么才能让我减少发布Bug概率？](http://hao.caibaojian.com/75848.html) （稀土掘金）
 
 ***
-* [WEB-UI 自动化实践](http://hao.caibaojian.com/75777.html) （开发者头条）
-* [面向新手的 CNN 入门指南（一）](http://hao.caibaojian.com/75778.html) （开发者头条）
-* [koa2 中的错误处理以及中间件设计原理](http://hao.caibaojian.com/75801.html) （推酷网）
-* [微服务部署与优雅停机](http://hao.caibaojian.com/75772.html) （开发者头条）
-* [记录一下最近修改的两个Bug](http://hao.caibaojian.com/75799.html) （推酷网）
+* [Vue路由切换时的左滑和右滑效果](http://hao.caibaojian.com/75917.html) （推酷网）
+* [JavaScript预解释是一种毫无节操的机制](http://hao.caibaojian.com/75921.html) （推酷网）
+* [webpack从0到1超详细超基础学习教程](http://hao.caibaojian.com/75841.html) （稀土掘金）
+* [面向对象 面向你（一）](http://hao.caibaojian.com/75933.html) （推酷网）
+* [关于 HashMap 容量的初始化](http://hao.caibaojian.com/75875.html) （开发者头条）
 
 ***
-* [如何用 5 年时间从菜鸟成长为技术总监？](http://hao.caibaojian.com/75769.html) （开发者头条）
-* [从入门到精通，全球20个最佳大数据可视化工具](http://hao.caibaojian.com/75800.html) （推酷网）
-* [中小型公司对于 Spring Cloud 的选择与思考](http://hao.caibaojian.com/75773.html) （开发者头条）
-* [RSUITE (React Suite) is a set of react component libraries for enterprise system products](http://hao.caibaojian.com/75760.html) （稀土掘金）
-* [区块链开源实现 hyperledger fabric 架构详解](http://hao.caibaojian.com/75774.html) （开发者头条）
+* [D2Admin &#8211; 基于vue的清新后台模板](http://hao.caibaojian.com/75923.html) （推酷网）
+* [原生Js从0开始实现一个链家网地图画圈找房功能](http://hao.caibaojian.com/75924.html) （推酷网）
+* [一道神奇的async quiz](http://hao.caibaojian.com/75935.html) （推酷网）
+* [Elasticsearch filter 和 query 的不同](http://hao.caibaojian.com/75877.html) （开发者头条）
+* [vue-router原理剖析](http://hao.caibaojian.com/75925.html) （推酷网）
 
 ***
-* [死磕 Java 并发：J.U.C 之阻塞队列 &#8211; PriorityBlockingQueue](http://hao.caibaojian.com/75775.html) （开发者头条）
+* [Node.js 服务端图片处理利器——sharp 进阶操作指南](http://hao.caibaojian.com/75845.html) （稀土掘金）
+* [LabelImg 图片标注工具 for Mac](http://hao.caibaojian.com/75878.html) （开发者头条）
+* [开箱即用，Hexo博客的github+server自动部署](http://hao.caibaojian.com/75854.html) （稀土掘金）
+* [我们只是 Infinite Learner 而已](http://hao.caibaojian.com/75868.html) （开发者头条）
+* [kmeans：Go 实现的 k-means 算法库](http://hao.caibaojian.com/75879.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
