@@ -1,46 +1,46 @@
-# [2018-06-06 精选博文推荐](http://hao.caibaojian.com/date/2018/06/06)
+# [2018-06-07 精选博文推荐](http://hao.caibaojian.com/date/2018/06/07)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [如何精确统计页面停留时长](http://hao.caibaojian.com/76686.html) （推酷网）
-* [浅入浅出前端这些技术](http://hao.caibaojian.com/76676.html) （稀土掘金）
-* [【可能是个假前端】扫雷之平铺算法](http://hao.caibaojian.com/76677.html) （稀土掘金）
-* [Deno原理详解，让我们一起从源码分析开始](http://hao.caibaojian.com/76743.html) （稀土掘金）
-* [技术部门 SEO 规范](http://hao.caibaojian.com/76623.html) （开发者头条）
+* [js中为什么你不敢用 “==”](http://hao.caibaojian.com/76816.html) （推酷网）
+* [由一个bug找到JS挖矿代码](http://hao.caibaojian.com/76865.html) （稀土掘金）
+* [前端资源大全，大家有需要的来拿](http://hao.caibaojian.com/76813.html) （推酷网）
+* [前端代码的错误日志收集了解一下](http://hao.caibaojian.com/76863.html) （稀土掘金）
+* [ARKit 2.0 究竟给我们带来了什么](http://hao.caibaojian.com/76786.html) （开发者头条）
 
 ***
-* [在 Mac 上训练机器学习模型，苹果 WWDC 发布全新 Create ML、Core ML 2](http://hao.caibaojian.com/76635.html) （开发者头条）
-* [再厉害的魔术也比不上真正的redux](http://hao.caibaojian.com/76732.html) （稀土掘金）
-* [2018 年的前端是否有 “架构” 可言？](http://hao.caibaojian.com/76636.html) （开发者头条）
-* [百度脑图解析：如何进行web复杂应用的渐进式开发](http://hao.caibaojian.com/76680.html) （稀土掘金）
-* [JavaScript中的“this”是什么？](http://hao.caibaojian.com/76688.html) （推酷网）
+* [Babel 7.0 带来的很酷的事情](http://hao.caibaojian.com/76812.html) （推酷网）
+* [vue-lottie动画效果](http://hao.caibaojian.com/76856.html) （稀土掘金）
+* [map真的返回了一个新的数组嘛？](http://hao.caibaojian.com/76815.html) （推酷网）
+* [TensorFlow 基础入门](http://hao.caibaojian.com/76785.html) （开发者头条）
+* [vue实践中的常见知识漏洞001](http://hao.caibaojian.com/76851.html) （稀土掘金）
 
 ***
-* [面试官: 你为什么使用前端框架?](http://hao.caibaojian.com/76738.html) （稀土掘金）
-* [基于chart.js绘制热力图](http://hao.caibaojian.com/76682.html) （稀土掘金）
-* [Promise，Next-Ticks 和 immediate &#8211; Nodejs 事件循环第 3 部分](http://hao.caibaojian.com/76687.html) （推酷网）
-* [大学没学过数学也要理解 CSS3 transform 中的 matrix](http://hao.caibaojian.com/76675.html) （稀土掘金）
-* [Tinker + Bugly + Jenkins 爬坑之路](http://hao.caibaojian.com/76664.html) （SegmentFault）
+* [WWDC 中提到的浏览器 Fingerprinting 有多可怕？](http://hao.caibaojian.com/76768.html) （稀土掘金）
+* [面试官问到TCP/IP怎么回答才过关](http://hao.caibaojian.com/76850.html) （稀土掘金）
+* [CSS魔法堂：Transition就这么好玩](http://hao.caibaojian.com/76766.html) （SegmentFault）
+* [Redux应用多人协作的思路和实现](http://hao.caibaojian.com/76852.html) （稀土掘金）
+* [从Promise来看JavaScript中的Event Loop、Tasks和Microtasks](http://hao.caibaojian.com/76864.html) （稀土掘金）
 
 ***
-* [G6 2.0 发布稿 &#8212; 裂变·聚变](http://hao.caibaojian.com/76741.html) （稀土掘金）
-* [微服务的十个反模式和陷阱](http://hao.caibaojian.com/76620.html) （开发者头条）
-* [有始有终，设计一个结构合理的下载模块（iOS）](http://hao.caibaojian.com/76632.html) （开发者头条）
-* [聊一聊前端「同构」](http://hao.caibaojian.com/76735.html) （稀土掘金）
-* [利用 Jest 为 React 组件编写单元测试](http://hao.caibaojian.com/76665.html) （稀土掘金）
+* [为什么Vue不能观察到数组length的变化？](http://hao.caibaojian.com/76854.html) （稀土掘金）
+* [唯品会 Java 核心项目 VJTools 开源](http://hao.caibaojian.com/76770.html) （开发者头条）
+* [在 JavaScript 中创建数组的正确姿势](http://hao.caibaojian.com/76814.html) （推酷网）
+* [Kafka 解惑之时间轮 (TimingWheel)](http://hao.caibaojian.com/76771.html) （开发者头条）
+* [CoolViewPager：功能强大的自定义 ViewPager](http://hao.caibaojian.com/76784.html) （开发者头条）
 
 ***
-* [从UI到AI——移动端H5生成技术漫谈](http://hao.caibaojian.com/76742.html) （稀土掘金）
-* [酒店报价抓取系统架构介绍](http://hao.caibaojian.com/76622.html) （开发者头条）
-* [iOS 挖矿了解一下？](http://hao.caibaojian.com/76633.html) （开发者头条）
-* [前端的水平线，错误处理和调试](http://hao.caibaojian.com/76731.html) （稀土掘金）
-* [JavaScript中不得不说的断言?](http://hao.caibaojian.com/76666.html) （稀土掘金）
+* [初见React，一步一个坑](http://hao.caibaojian.com/76859.html) （稀土掘金）
+* [Python 框架 Flask 入门](http://hao.caibaojian.com/76776.html) （开发者头条）
+* [Promise.all处理多次reject/最多n次reject](http://hao.caibaojian.com/76861.html) （稀土掘金）
+* [使用 sklearn 做自然语言处理（二）](http://hao.caibaojian.com/76787.html) （开发者头条）
+* [PB 级海量数据服务平台架构设计实践](http://hao.caibaojian.com/76777.html) （开发者头条）
 
 ***
-* [几个有用的Web API——网络状态API](http://hao.caibaojian.com/76678.html) （稀土掘金）
-* [一份非常详尽的 Objective-C 到 Swift 的迁移指南](http://hao.caibaojian.com/76634.html) （开发者头条）
-* [不用祖传秘方 &#8211; 写好代码的几个小技巧](http://hao.caibaojian.com/76736.html) （稀土掘金）
-* [Redux系列x：源码分析](http://hao.caibaojian.com/76672.html) （稀土掘金）
-* [完爆Facebook/GraphQL，APIJSON全方位对比解析(二)-权限控制](http://hao.caibaojian.com/76744.html) （稀土掘金）
+* [Vue2 dist 目录下各个文件的区别](http://hao.caibaojian.com/76862.html) （稀土掘金）
+* [Kotlin 官方文档中文版（基础篇）](http://hao.caibaojian.com/76788.html) （开发者头条）
+* [Raft 协议学习笔记](http://hao.caibaojian.com/76778.html) （开发者头条）
+* [Node.js cluster模块解读](http://hao.caibaojian.com/76811.html) （推酷网）
+* [【spring boot 系列】spring security 实践 + 源码分析](http://hao.caibaojian.com/76767.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
