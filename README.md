@@ -1,35 +1,46 @@
-# [2018-06-10 精选博文推荐](http://hao.caibaojian.com/date/2018/06/10)
+# [2018-06-11 精选博文推荐](http://hao.caibaojian.com/date/2018/06/11)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Vue 技术内幕](http://hao.caibaojian.com/77081.html) （开发者头条）
-* [WebSocket 简单介绍和使用](http://hao.caibaojian.com/77085.html) （开发者头条）
-* [生鲜 B2B 技术平台的前端团队该如何搭建（B2B 技术共享第七篇）](http://hao.caibaojian.com/77076.html) （稀土掘金）
-* [我们应该怎样使用开源软件](http://hao.caibaojian.com/77093.html) （开发者头条）
-* [Angular：在应用初始化时运行代码](http://hao.caibaojian.com/77110.html) （推酷网）
+* [推荐系统遇上深度学习（十二）：推荐系统中的 EE 问题及基本 Bandit 算法](http://hao.caibaojian.com/77177.html) （开发者头条）
+* [拥抱开源，Linux 基金会创始人首谈微软收购 GitHub](http://hao.caibaojian.com/77178.html) （开发者头条）
+* [你也许不知道的Vuejs &#8211; 花式渲染目标元素](http://hao.caibaojian.com/77153.html) （推酷网）
+* [Go 语言学习笔记：缓冲区 Channels 和线程池](http://hao.caibaojian.com/77172.html) （开发者头条）
+* [你也许不知道的Vuejs &#8211; 组件式开发](http://hao.caibaojian.com/77146.html) （推酷网）
 
 ***
-* [Web暴力破解&#8211;前端JS表单加密进行爆破](http://hao.caibaojian.com/77109.html) （推酷网）
-* [WWDC2018 Safari与WebKit的新特性](http://hao.caibaojian.com/77073.html) （稀土掘金）
-* [Android 接口解析容错技术方案思考](http://hao.caibaojian.com/77088.html) （开发者头条）
-* [宋小菜生鲜 B2B 的前端团队搭建](http://hao.caibaojian.com/77074.html) （稀土掘金）
-* [区块链江湖传奇](http://hao.caibaojian.com/77089.html) （开发者头条）
+* [你也许不知道的Vuejs &#8211; 强大的指令系统](http://hao.caibaojian.com/77151.html) （推酷网）
+* [你也许不知道的Vuejs &#8211; 定制开发项目模板](http://hao.caibaojian.com/77142.html) （推酷网）
+* [《Design Mistakes in Node》Node 之父 Ryan Dahl 演讲 PPT 中文版](http://hao.caibaojian.com/77179.html) （开发者头条）
+* [你也许不知道的Vuejs &#8211; 使用ESLint检查代码质量](http://hao.caibaojian.com/77143.html) （推酷网）
+* [理解模板引擎](http://hao.caibaojian.com/77169.html) （稀土掘金）
 
 ***
-* [在 Node.js 中使用 Promise.prototype.finally](http://hao.caibaojian.com/77075.html) （稀土掘金）
-* [Job 和 CronJob 的使用方法（Kubernetes）](http://hao.caibaojian.com/77090.html) （开发者头条）
-* [一种绕过 Android P 对非 SDK 接口限制的简单方法](http://hao.caibaojian.com/77091.html) （开发者头条）
-* [揭秘滴滴机器学习平台参数服务器：来自工业界的性能基准](http://hao.caibaojian.com/77092.html) （开发者头条）
-* [蚂蚁金服研发的金融级分布式中间件 SOFA 背后的故事](http://hao.caibaojian.com/77082.html) （开发者头条）
+* [Redis Scan 算法设计思想](http://hao.caibaojian.com/77180.html) （开发者头条）
+* [我们是否应该开展 UI 自动化测试](http://hao.caibaojian.com/77181.html) （开发者头条）
+* [前端开发-领域驱动设计](http://hao.caibaojian.com/77171.html) （稀土掘金）
+* [回顾 Megastore 的经典设计](http://hao.caibaojian.com/77183.html) （开发者头条）
+* [浅入浅出 Redis 5.0 的 stream 数据结构](http://hao.caibaojian.com/77173.html) （开发者头条）
 
 ***
-* [谈谈如何抓取ajax动态网站](http://hao.caibaojian.com/77107.html) （推酷网）
-* [面向接口设计与角色接口](http://hao.caibaojian.com/77083.html) （开发者头条）
-* [谈谈开发人员不太关心的需求管理](http://hao.caibaojian.com/77084.html) （开发者头条）
-* [基于 MobX 构建视图框架无关的数据层-与 Vue 的结合(1)](http://hao.caibaojian.com/77108.html) （推酷网）
-* [用 Go 来了解一下 Redis 通讯协议](http://hao.caibaojian.com/77086.html) （开发者头条）
+* [vue-router 初始化时做了什么](http://hao.caibaojian.com/77140.html) （推酷网）
+* [你也许不知道的Vuejs &#8211; 前言](http://hao.caibaojian.com/77148.html) （推酷网）
+* [启用 Docker 虚拟机 GPU，加速深度学习](http://hao.caibaojian.com/77174.html) （开发者头条）
+* [用 Android Studio 插件将 json 串自动生成 bean 和 parser](http://hao.caibaojian.com/77176.html) （开发者头条）
+* [THREE.JS开发《我的世界》（一）](http://hao.caibaojian.com/77139.html) （推酷网）
 
 ***
-* [Event Loop 浅谈](http://hao.caibaojian.com/77087.html) （开发者头条）
+* [同源方法执行漏洞挖掘](http://hao.caibaojian.com/77141.html) （推酷网）
+* [你也许不知道的Vuejs &#8211; 深入浅出响应式系统](http://hao.caibaojian.com/77152.html) （推酷网）
+* [你也许不知道的Vuejs &#8211; 使用ES6快乐的玩耍](http://hao.caibaojian.com/77144.html) （推酷网）
+* [你也许不知道的Vuejs &#8211; 单文件组件](http://hao.caibaojian.com/77145.html) （推酷网）
+* [JavaScript News and Updates (May 2018) – codeburst](http://hao.caibaojian.com/77170.html) （稀土掘金）
+
+***
+* [梳理前端开发使用 eslint 和 prettier 来检查和格式化代码问题（更新版）](http://hao.caibaojian.com/77182.html) （开发者头条）
+* [你也许不知道的Vuejs &#8211; 工欲善其事必先利其器](http://hao.caibaojian.com/77147.html) （推酷网）
+* [几个你所不知道的技巧助你写出更优雅的vue.js代码](http://hao.caibaojian.com/77138.html) （推酷网）
+* [你也许不知道的Vuejs &#8211; Vuejs 自定义路由实现](http://hao.caibaojian.com/77149.html) （推酷网）
+* [以链家币溯源为例谈代币系统设计](http://hao.caibaojian.com/77175.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
