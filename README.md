@@ -1,46 +1,46 @@
-# [2018-06-11 精选博文推荐](http://hao.caibaojian.com/date/2018/06/11)
+# [2018-06-12 精选博文推荐](http://hao.caibaojian.com/date/2018/06/12)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [推荐系统遇上深度学习（十二）：推荐系统中的 EE 问题及基本 Bandit 算法](http://hao.caibaojian.com/77177.html) （开发者头条）
-* [拥抱开源，Linux 基金会创始人首谈微软收购 GitHub](http://hao.caibaojian.com/77178.html) （开发者头条）
-* [你也许不知道的Vuejs &#8211; 花式渲染目标元素](http://hao.caibaojian.com/77153.html) （推酷网）
-* [Go 语言学习笔记：缓冲区 Channels 和线程池](http://hao.caibaojian.com/77172.html) （开发者头条）
-* [你也许不知道的Vuejs &#8211; 组件式开发](http://hao.caibaojian.com/77146.html) （推酷网）
+* [分析vue-cli@2.9.3 搭建的webpack项目工程](http://hao.caibaojian.com/77299.html) （推酷网）
+* [支付处理器 API ：将你的支付应用带到 Web 中来](http://hao.caibaojian.com/77239.html) （稀土掘金）
+* [1kb的前端HTML模板解析引擎，不限于嵌套、循环、函数你能想到的解析方式](http://hao.caibaojian.com/77241.html) （稀土掘金）
+* [前端工程师一生必须拥有的一本工具书-JavaScript高级程序设计](http://hao.caibaojian.com/77300.html) （推酷网）
+* [前端开发面试题搜集大全–刷完能进bat](http://hao.caibaojian.com/77301.html) （推酷网）
 
 ***
-* [你也许不知道的Vuejs &#8211; 强大的指令系统](http://hao.caibaojian.com/77151.html) （推酷网）
-* [你也许不知道的Vuejs &#8211; 定制开发项目模板](http://hao.caibaojian.com/77142.html) （推酷网）
-* [《Design Mistakes in Node》Node 之父 Ryan Dahl 演讲 PPT 中文版](http://hao.caibaojian.com/77179.html) （开发者头条）
-* [你也许不知道的Vuejs &#8211; 使用ESLint检查代码质量](http://hao.caibaojian.com/77143.html) （推酷网）
-* [理解模板引擎](http://hao.caibaojian.com/77169.html) （稀土掘金）
+* [聊一聊Vue中的回调函数](http://hao.caibaojian.com/77243.html) （稀土掘金）
+* [Ajax原理一篇就够了](http://hao.caibaojian.com/77236.html) （稀土掘金）
+* [深入解析 MongoDB Plan Cache](http://hao.caibaojian.com/77225.html) （SegmentFault）
+* [JS的防抖与节流](http://hao.caibaojian.com/77227.html) （稀土掘金）
+* [从构建分布式秒杀系统聊聊限流的多种实现](http://hao.caibaojian.com/77249.html) （开发者头条）
 
 ***
-* [Redis Scan 算法设计思想](http://hao.caibaojian.com/77180.html) （开发者头条）
-* [我们是否应该开展 UI 自动化测试](http://hao.caibaojian.com/77181.html) （开发者头条）
-* [前端开发-领域驱动设计](http://hao.caibaojian.com/77171.html) （稀土掘金）
-* [回顾 Megastore 的经典设计](http://hao.caibaojian.com/77183.html) （开发者头条）
-* [浅入浅出 Redis 5.0 的 stream 数据结构](http://hao.caibaojian.com/77173.html) （开发者头条）
+* [Elasticsearch 史上最全最常用工具清单](http://hao.caibaojian.com/77250.html) （开发者头条）
+* [如何基于 spiped 建立一个安全的 Redis 集群](http://hao.caibaojian.com/77268.html) （开发者头条）
+* [基于 HTML5 WebGL 的 3D 工控裙房系统](http://hao.caibaojian.com/77221.html) （SegmentFault）
+* [  所有你需要知道的关于Angular的变更检测（Change Detection）](http://hao.caibaojian.com/77242.html) （稀土掘金）
+* [localStorage 存满了怎么办？](http://hao.caibaojian.com/77233.html) （稀土掘金）
 
 ***
-* [vue-router 初始化时做了什么](http://hao.caibaojian.com/77140.html) （推酷网）
-* [你也许不知道的Vuejs &#8211; 前言](http://hao.caibaojian.com/77148.html) （推酷网）
-* [启用 Docker 虚拟机 GPU，加速深度学习](http://hao.caibaojian.com/77174.html) （开发者头条）
-* [用 Android Studio 插件将 json 串自动生成 bean 和 parser](http://hao.caibaojian.com/77176.html) （开发者头条）
-* [THREE.JS开发《我的世界》（一）](http://hao.caibaojian.com/77139.html) （推酷网）
+* [ES6中常用的10个新特性讲解](http://hao.caibaojian.com/77228.html) （稀土掘金）
+* [一个浪漫又悲情的爱情故事——笛卡尔心形线](http://hao.caibaojian.com/77235.html) （稀土掘金）
+* [从 Storyboard 到 DIY 实现一个漫画生成器（一）](http://hao.caibaojian.com/77264.html) （开发者头条）
+* [深度学习模型的简单优化技巧](http://hao.caibaojian.com/77256.html) （开发者头条）
+* [React性能优化方案之PureComponent](http://hao.caibaojian.com/77229.html) （稀土掘金）
 
 ***
-* [同源方法执行漏洞挖掘](http://hao.caibaojian.com/77141.html) （推酷网）
-* [你也许不知道的Vuejs &#8211; 深入浅出响应式系统](http://hao.caibaojian.com/77152.html) （推酷网）
-* [你也许不知道的Vuejs &#8211; 使用ES6快乐的玩耍](http://hao.caibaojian.com/77144.html) （推酷网）
-* [你也许不知道的Vuejs &#8211; 单文件组件](http://hao.caibaojian.com/77145.html) （推酷网）
-* [JavaScript News and Updates (May 2018) – codeburst](http://hao.caibaojian.com/77170.html) （稀土掘金）
+* [Spring Cloud Gateway 离开孵化器的变化](http://hao.caibaojian.com/77267.html) （开发者头条）
+* [Kotlin 实战学习：开发一个程序猿老黄历](http://hao.caibaojian.com/77257.html) （开发者头条）
+* [关于一次线上出错的思考&#8211;如何规避线上程序崩盘](http://hao.caibaojian.com/77220.html) （SegmentFault）
+* [前端开发：领域驱动设计](http://hao.caibaojian.com/77258.html) （开发者头条）
+* [JS加密算法简单分析](http://hao.caibaojian.com/77230.html) （稀土掘金）
 
 ***
-* [梳理前端开发使用 eslint 和 prettier 来检查和格式化代码问题（更新版）](http://hao.caibaojian.com/77182.html) （开发者头条）
-* [你也许不知道的Vuejs &#8211; 工欲善其事必先利其器](http://hao.caibaojian.com/77147.html) （推酷网）
-* [几个你所不知道的技巧助你写出更优雅的vue.js代码](http://hao.caibaojian.com/77138.html) （推酷网）
-* [你也许不知道的Vuejs &#8211; Vuejs 自定义路由实现](http://hao.caibaojian.com/77149.html) （推酷网）
-* [以链家币溯源为例谈代币系统设计](http://hao.caibaojian.com/77175.html) （开发者头条）
+* [Objective-C Runtime 中内存释放的并发问题](http://hao.caibaojian.com/77269.html) （开发者头条）
+* [通过动图形象地为你介绍 flexbox 是如何工作的（一）](http://hao.caibaojian.com/77240.html) （稀土掘金）
+* [命名规范对于软件开发的作用不仅仅体现在确保配置项的唯一性](http://hao.caibaojian.com/77259.html) （开发者头条）
+* [从零开始React项目架构(三)](http://hao.caibaojian.com/77231.html) （稀土掘金）
+* [精读《如何在 nodejs 使用环境变量》](http://hao.caibaojian.com/77222.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
