@@ -1,46 +1,46 @@
-# [2018-06-20 精选博文推荐](http://hao.caibaojian.com/date/2018/06/20)
+# [2018-06-21 精选博文推荐](http://hao.caibaojian.com/date/2018/06/21)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [[开源] SpriteJS &#8212; 一款简单的跨终端 canvas 绘图框架](http://hao.caibaojian.com/78066.html) （SegmentFault）
-* [如何快速开发一个 Dubbo 应用？](http://hao.caibaojian.com/77968.html) （开发者头条）
-* [JavaScript 一团乱，这是好事](http://hao.caibaojian.com/77955.html) （开发者头条）
-* [用D3.js 十分钟实现字符跳动效果](http://hao.caibaojian.com/78012.html) （推酷网）
-* [Vue 造轮子：从前端小工到高级前端](http://hao.caibaojian.com/78004.html) （推酷网）
+* [Vue + Koa 搭建 ACM OJ](http://hao.caibaojian.com/78157.html) （推酷网）
+* [一套比较完整的前端技术选型，需要规整哪些东西，你知道不？](http://hao.caibaojian.com/78077.html) （稀土掘金）
+* [我写了一本书《深入浅出 HTTPS：从原理的实战》](http://hao.caibaojian.com/78087.html) （开发者头条）
+* [大话大前端时代：Vue 与 iOS 的组件化（上）](http://hao.caibaojian.com/78093.html) （开发者头条）
+* [Vue 服务端渲染 or 预渲染](http://hao.caibaojian.com/78105.html) （开发者头条）
 
 ***
-* [【Html5实战】7小时开发出手机支付宝界面](http://hao.caibaojian.com/78015.html) （推酷网）
-* [JavaScript函数式编程之pointfree与声明式编程](http://hao.caibaojian.com/77942.html) （稀土掘金）
-* [浅谈几个前端异步解决方案](http://hao.caibaojian.com/78007.html) （推酷网）
-* [Angular自动取消订阅](http://hao.caibaojian.com/77936.html) （稀土掘金）
-* [全局配置ESLint之React](http://hao.caibaojian.com/77943.html) （稀土掘金）
+* [这可能是vue-cli最全的解析了……](http://hao.caibaojian.com/78082.html) （稀土掘金）
+* [天池中间件大赛 dubboMesh 优化总结：qps 从 1000 到 6850](http://hao.caibaojian.com/78086.html) （开发者头条）
+* [从零开始React项目架构(五)](http://hao.caibaojian.com/78083.html) （稀土掘金）
+* [聊聊北京大部分前端从业者所面临的困境](http://hao.caibaojian.com/78070.html) （稀土掘金）
+* [JS实现异步timeout](http://hao.caibaojian.com/78143.html) （推酷网）
 
 ***
-* [谷歌AMP和百度MIP，你选哪个？](http://hao.caibaojian.com/77933.html) （稀土掘金）
-* [【CSS模块化之路2】webpack中的Local Scope](http://hao.caibaojian.com/78020.html) （推酷网）
-* [在Docker中构建平滑的Nodejs应用](http://hao.caibaojian.com/77937.html) （稀土掘金）
-* [AIOps 平台的误解、挑战及建议（中）：AIOps 常见的误解](http://hao.caibaojian.com/77967.html) （开发者头条）
-* [web-audio-api可视化音乐播放器，实现暂停切换歌曲功能，粉色系专场~](http://hao.caibaojian.com/78010.html) （推酷网）
+* [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](http://hao.caibaojian.com/78155.html) （推酷网）
+* [SpriteJS：一款简单的跨终端 canvas 绘图框架](http://hao.caibaojian.com/78104.html) （开发者头条）
+* [Service Mesh：重塑微服务市场](http://hao.caibaojian.com/78099.html) （开发者头条）
+* [原生JS实现一个无缝轮播图插件(支持vue)](http://hao.caibaojian.com/78076.html) （稀土掘金）
+* [一分钟理解线程安全](http://hao.caibaojian.com/78092.html) （开发者头条）
 
 ***
-* [深入理解javascript系列(十二):函数与函数式编程(1)](http://hao.caibaojian.com/78021.html) （推酷网）
-* [和我一步步部署 Kubernetes 集群](http://hao.caibaojian.com/77959.html) （开发者头条）
-* [MongoDB 技术分析（七）：副本集选举机制](http://hao.caibaojian.com/77970.html) （开发者头条）
-* [Kafka 源码解析之 Broker 上线下线（十九）](http://hao.caibaojian.com/77961.html) （开发者头条）
-* [笔记：配合 Vue.js 配置 Webpack（一）Vue.js，Webpack 和 Webapck Dev Server 的基本配置](http://hao.caibaojian.com/77941.html) （稀土掘金）
+* [深入理解javascript系列(十七):函数柯里化](http://hao.caibaojian.com/78079.html) （稀土掘金）
+* [Ajax 跨域难题 &#8211; 原生 JS 和 jQuery 的实现对比](http://hao.caibaojian.com/78080.html) （稀土掘金）
+* [vue项目实现github在线预览效果](http://hao.caibaojian.com/78146.html) （推酷网）
+* [智能合约开发：如何更好地与合约交互](http://hao.caibaojian.com/78094.html) （开发者头条）
+* [so easy 前端简单实现多语言](http://hao.caibaojian.com/78072.html) （稀土掘金）
 
 ***
-* [Spring 技术内幕：设计理念和整体架构概述](http://hao.caibaojian.com/77950.html) （开发者头条）
-* [一分钟理解 Session 和 Cookie 的关系](http://hao.caibaojian.com/77964.html) （开发者头条）
-* [Goroutine 并发调度模型深度解析 &amp; 手撸一个协程池](http://hao.caibaojian.com/77952.html) （开发者头条）
-* [【JSConf EU 2018】JavaScript引擎: 精粹部分](http://hao.caibaojian.com/78018.html) （推酷网）
-* [更可靠的 React 组件：组合及可重用性](http://hao.caibaojian.com/77965.html) （开发者头条）
+* [使用ESLint+Prettier来统一前端代码风格](http://hao.caibaojian.com/78147.html) （推酷网）
+* [一周 IT 技术干货（码农周刊第 219 期）](http://hao.caibaojian.com/78095.html) （开发者头条）
+* [Event Loop 必知必会（六道题）](http://hao.caibaojian.com/78074.html) （稀土掘金）
+* [axios源码分析——拦截器](http://hao.caibaojian.com/78150.html) （推酷网）
+* [微服务化的基石：持续集成](http://hao.caibaojian.com/78084.html) （开发者头条）
 
 ***
-* [H5页面滚动阻尼效果实现](http://hao.caibaojian.com/78008.html) （推酷网）
-* [深入浅出垃圾回收（一）：简介篇](http://hao.caibaojian.com/77957.html) （开发者头条）
-* [用proxy实现一个更优雅的vue](http://hao.caibaojian.com/78019.html) （推酷网）
-* [小米弹性调度平台 Ocean：从 PaaS 到 DCOS](http://hao.caibaojian.com/77966.html) （开发者头条）
-* [简单的写一个发布订阅器](http://hao.caibaojian.com/77944.html) （稀土掘金）
+* [RocketMQ（八）：消息发送](http://hao.caibaojian.com/78089.html) （开发者头条）
+* [下厨房 MySQL 备份实践](http://hao.caibaojian.com/78090.html) （开发者头条）
+* [利用Easy Mock简单模拟开发数据接口](http://hao.caibaojian.com/78078.html) （稀土掘金）
+* [js利用H5的requestAnimationFrame（）API实现动画效果](http://hao.caibaojian.com/78154.html) （推酷网）
+* [Spring AOP 使用介绍，从前世到今生](http://hao.caibaojian.com/78085.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
