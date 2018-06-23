@@ -1,46 +1,46 @@
-# [2018-06-22 精选博文推荐](http://hao.caibaojian.com/date/2018/06/22)
+# [2018-06-23 精选博文推荐](http://hao.caibaojian.com/date/2018/06/23)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Airbnb: React Native 从选择到放弃](http://hao.caibaojian.com/78219.html) （稀土掘金）
-* [Airbnb 宣布弃用 React Native](http://hao.caibaojian.com/78253.html) （开发者头条）
-* [Picasso：开启大前端的未来](http://hao.caibaojian.com/78207.html) （稀土掘金）
-* [Git 的基本架构欣赏](http://hao.caibaojian.com/78237.html) （开发者头条）
-* [图解 HTTP 的缓存机制](http://hao.caibaojian.com/78240.html) （开发者头条）
+* [深度学习在文本领域的应用](http://hao.caibaojian.com/78327.html) （开发者头条）
+* [玩大了 阿里工程师的年会竟然这样搞？](http://hao.caibaojian.com/78366.html) （推酷网）
+* [更可靠的 React 组件：清楚易懂的可表达性](http://hao.caibaojian.com/78333.html) （开发者头条）
+* [Luakit 的前世今生](http://hao.caibaojian.com/78334.html) （开发者头条）
+* [各种数据结构的 JavaScript 实现](http://hao.caibaojian.com/78312.html) （稀土掘金）
 
 ***
-* [大话大前端时代：Vue 与 iOS 的组件化（下）](http://hao.caibaojian.com/78247.html) （开发者头条）
-* [在缓存上小踩一坑](http://hao.caibaojian.com/78283.html) （推酷网）
-* [聊聊 Xposed 检测](http://hao.caibaojian.com/78246.html) （开发者头条）
-* [更可靠的 React 组件：从&quot;可测试的&quot;到&quot;测试通过的&quot;](http://hao.caibaojian.com/78214.html) （稀土掘金）
-* [SpreadJS使用进阶指南 &#8211; 使用 NPM 管理你的项目](http://hao.caibaojian.com/78281.html) （推酷网）
+* [使用 Prometheus 监控 Kubernetes 集群](http://hao.caibaojian.com/78336.html) （开发者头条）
+* [ESLint规范选讲](http://hao.caibaojian.com/78363.html) （推酷网）
+* [区块链：ETH 创建钱包](http://hao.caibaojian.com/78318.html) （开发者头条）
+* [从架构特点到功能缺陷，重新认识分析型分布式数据库](http://hao.caibaojian.com/78325.html) （开发者头条）
+* [JavaScript的内存管理机制](http://hao.caibaojian.com/78362.html) （推酷网）
 
 ***
-* [从核心功能到 UI，一套代码快速实现一个语音聊天室](http://hao.caibaojian.com/78249.html) （开发者头条）
-* [10 分钟理解什么是 OAuth 2.0 协议](http://hao.caibaojian.com/78239.html) （开发者头条）
-* [为什么ES6新增了Promise对象来处理异步调用](http://hao.caibaojian.com/78215.html) （稀土掘金）
-* [前端本地文件操作与上传3](http://hao.caibaojian.com/78304.html) （推酷网）
-* [JavaScript事件机制——记一次认真准备的技术分享](http://hao.caibaojian.com/78217.html) （稀土掘金）
+* [MVVM 最佳解读和实践](http://hao.caibaojian.com/78326.html) （开发者头条）
+* [浅谈前端响应式设计（二）](http://hao.caibaojian.com/78364.html) （推酷网）
+* [该建设测试体系中最后的静态代码扫描和单元测试了](http://hao.caibaojian.com/78329.html) （开发者头条）
+* [一文盘点深度学习 13 个常见问题](http://hao.caibaojian.com/78331.html) （开发者头条）
+* [浅谈前端响应式设计（一）](http://hao.caibaojian.com/78365.html) （推酷网）
 
 ***
-* [vue插件开发流程详解-从开发到发布至npm（一）](http://hao.caibaojian.com/78305.html) （推酷网）
-* [javascript变量对象 函数调用栈 作用域 闭包等](http://hao.caibaojian.com/78208.html) （稀土掘金）
-* [在 WebRTC 上实现 ML Kit 笑容检测](http://hao.caibaojian.com/78255.html) （开发者头条）
-* [一个学渣的阿里之路](http://hao.caibaojian.com/78236.html) （开发者头条）
-* [浏览器中的画中画（Picture-in-Picture）模式及其 API](http://hao.caibaojian.com/78212.html) （稀土掘金）
+* [大型网站的 HTTPS 实践：协议层以外的实践](http://hao.caibaojian.com/78317.html) （开发者头条）
+* [后 Kubernetes 时代已来，一手资料等你来拿](http://hao.caibaojian.com/78319.html) （开发者头条）
+* [2018最新后端开发人员的路线图](http://hao.caibaojian.com/78310.html) （SegmentFault）
+* [Redis 源码阅读：实现一个 Redis 命令 nonzerodecr](http://hao.caibaojian.com/78320.html) （开发者头条）
+* [iOS 截图的那些事儿](http://hao.caibaojian.com/78337.html) （开发者头条）
 
 ***
-* [Flutter 首个 “发布预览版” 全球发布](http://hao.caibaojian.com/78257.html) （开发者头条）
-* [谈谈服务稳定性](http://hao.caibaojian.com/78238.html) （开发者头条）
-* [SVG滤镜对图片调色](http://hao.caibaojian.com/78213.html) （稀土掘金）
-* [每天知道一点点](http://hao.caibaojian.com/78280.html) （推酷网）
-* [辅助模式最终考验的是想象力，先来看看怎么用| Accessibility](http://hao.caibaojian.com/78235.html) （SegmentFault）
+* [new 了一个 Function](http://hao.caibaojian.com/78311.html) （稀土掘金）
+* [点击刷新：为什么微软能重新变酷？](http://hao.caibaojian.com/78321.html) （开发者头条）
+* [一分钟理解共识](http://hao.caibaojian.com/78322.html) （开发者头条）
+* [服务端与客户端同构 —— Vue.js 应用框架 Nuxt.js](http://hao.caibaojian.com/78313.html) （稀土掘金）
+* [PHP 定时器那点事](http://hao.caibaojian.com/78330.html) （开发者头条）
 
 ***
-* [开源、跨平台的 .NET 机器学习框架 ML.NET](http://hao.caibaojian.com/78248.html) （开发者头条）
-* [如何快速成为一名成功的iOS架构师](http://hao.caibaojian.com/78233.html) （SegmentFault）
-* [状态管理的学习曲线](http://hao.caibaojian.com/78282.html) （推酷网）
-* [FPNN Technology Ecosystem 介绍](http://hao.caibaojian.com/78250.html) （开发者头条）
-* [浅谈 Android 中 Surface 显示延迟处理](http://hao.caibaojian.com/78251.html) （开发者头条）
+* [基础机器学习算法](http://hao.caibaojian.com/78338.html) （开发者头条）
+* [使用Nuxt.js创建服务器端渲染的Vue.js应用程序](http://hao.caibaojian.com/78314.html) （稀土掘金）
+* [Python 实现的十多种字符相似度算法](http://hao.caibaojian.com/78323.html) （开发者头条）
+* [实现全文机器翻译](http://hao.caibaojian.com/78361.html) （推酷网）
+* [是时候好好安利下 LuLu UI 框架了](http://hao.caibaojian.com/78315.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
