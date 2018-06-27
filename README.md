@@ -1,46 +1,46 @@
-# [2018-06-26 精选博文推荐](http://hao.caibaojian.com/date/2018/06/26)
+# [2018-06-27 精选博文推荐](http://hao.caibaojian.com/date/2018/06/27)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JS思维导图](http://hao.caibaojian.com/78543.html) （SegmentFault）
-* [让前端的子弹飞-TypeScript](http://hao.caibaojian.com/78518.html) （稀土掘金）
-* [基于webpack工程化的思考](http://hao.caibaojian.com/78516.html) （稀土掘金）
-* [Js 的事件循环(Event Loop)机制以及实例讲解](http://hao.caibaojian.com/78544.html) （SegmentFault）
-* [[杂谈]了解一些额外知识，让前端开发锦上添花](http://hao.caibaojian.com/78542.html) （SegmentFault）
+* [用JavaScript将input/textarea中的文本复制粘贴到剪切板](http://hao.caibaojian.com/78655.html) （推酷网）
+* [没朋友(mpvue)，点个外卖，一个人也要好好吃饭](http://hao.caibaojian.com/78654.html) （推酷网）
+* [ejs 浅析](http://hao.caibaojian.com/78661.html) （推酷网）
+* [2018年JavaScript发展状态](http://hao.caibaojian.com/78674.html) （推酷网）
+* [走在JS上的全栈之路(二)(1/2)](http://hao.caibaojian.com/78601.html) （稀土掘金）
 
 ***
-* [浅解前端必须掌握的算法（一）：冒泡排序](http://hao.caibaojian.com/78519.html) （稀土掘金）
-* [web实战：video结合canvas实现视频在线截图](http://hao.caibaojian.com/78514.html) （稀土掘金）
-* [ZanProxy —— 本地代码调试线上页面，环境再也不是问题](http://hao.caibaojian.com/78517.html) （稀土掘金）
-* [Vue单元测试探索](http://hao.caibaojian.com/78511.html) （稀土掘金）
-* [前端容灾](http://hao.caibaojian.com/78515.html) （稀土掘金）
+* [GDB 单步调试汇编](http://hao.caibaojian.com/78616.html) （开发者头条）
+* [JavaScript实现排序二叉树的基本操作](http://hao.caibaojian.com/78665.html) （推酷网）
+* [用 Promise 描述一个悲伤的故事](http://hao.caibaojian.com/78666.html) （推酷网）
+* [谁说前端需要懂 Nginx 了？](http://hao.caibaojian.com/78667.html) （推酷网）
+* [2018前端面试总结js部分【中】](http://hao.caibaojian.com/78658.html) （推酷网）
 
 ***
-* [webpack 划重点](http://hao.caibaojian.com/78507.html) （稀土掘金）
-* [super-vuex使用体验](http://hao.caibaojian.com/78512.html) （稀土掘金）
-* [Klook 分享 Go 应用秘籍：服务千万级全球用户的 4 点心得](http://hao.caibaojian.com/78559.html) （开发者头条）
-* [精读《JS 引擎基础之 Shapes and Inline Caches》](http://hao.caibaojian.com/78541.html) （SegmentFault）
-* [Promise 串行调用面试题](http://hao.caibaojian.com/78510.html) （稀土掘金）
+* [Kafka 源码解析之 LeaderAndIsr 请求的处理（二十二）](http://hao.caibaojian.com/78629.html) （开发者头条）
+* [Vue.js中MVVM的原理和实现](http://hao.caibaojian.com/78660.html) （推酷网）
+* [手把手教你封装Vue组件](http://hao.caibaojian.com/78609.html) （稀土掘金）
+* [Elasticsearch SQL](http://hao.caibaojian.com/78729.html) （开发者头条）
+* [NodeJS事件循环 Part 1](http://hao.caibaojian.com/78664.html) （推酷网）
 
 ***
-* [golang实现mysql数据库备份](http://hao.caibaojian.com/78540.html) （SegmentFault）
-* [怎样才算学会 Python](http://hao.caibaojian.com/78551.html) （开发者头条）
-* [使用 Ansible 实现自动化运维的一些技巧](http://hao.caibaojian.com/78552.html) （开发者头条）
-* [漫画：大公司都在重复造轮子吗？](http://hao.caibaojian.com/78553.html) （开发者头条）
-* [Android P 兼容与适配](http://hao.caibaojian.com/78564.html) （开发者头条）
+* [基于 HTML5 的工业互联网 3D 可视化应用](http://hao.caibaojian.com/78590.html) （SegmentFault）
+* [CocosCreator 中 JS 与 Java 互相调用](http://hao.caibaojian.com/78675.html) （推酷网）
+* [使用 vuetron 调试 mpvue 项目](http://hao.caibaojian.com/78611.html) （稀土掘金）
+* [手把手學習使用 Rails 5.2 ActiveStorage (DirectUpload + ProgressBar)](http://hao.caibaojian.com/78657.html) （推酷网）
+* [对React、Redux、React-Redux详细剖析](http://hao.caibaojian.com/78604.html) （稀土掘金）
 
 ***
-* [webpack 从入门到放弃(一)](http://hao.caibaojian.com/78506.html) （稀土掘金）
-* [用图像识别玩忍术？](http://hao.caibaojian.com/78558.html) （开发者头条）
-* [腾讯云服务器迁移到Vultr](http://hao.caibaojian.com/78521.html) （稀土掘金）
-* [使用 Docker 打造超溜的前端环境](http://hao.caibaojian.com/78522.html) （稀土掘金）
-* [Unity 中用有限状态机来实现一个 AI](http://hao.caibaojian.com/78561.html) （开发者头条）
+* [选择崩溃分析工具时必看的 5 大注意事项](http://hao.caibaojian.com/78722.html) （开发者头条）
+* [Cax + Matter-js 物理引擎结合使用](http://hao.caibaojian.com/78656.html) （推酷网）
+* [前端不止：Web 性能优化 &#8211; 关键渲染路径以及优化策略](http://hao.caibaojian.com/78733.html) （开发者头条）
+* [来，一起帮忙制定CSS规范吧](http://hao.caibaojian.com/78598.html) （稀土掘金）
+* [关于babel-polyfill和babel-runtime](http://hao.caibaojian.com/78669.html) （推酷网）
 
 ***
-* [React-源码解析-生命周期(自定义组件)](http://hao.caibaojian.com/78513.html) （稀土掘金）
-* [从 Java 到 JVM 到 OS 线程的优先级](http://hao.caibaojian.com/78562.html) （开发者头条）
-* [AIOps 平台的误解、挑战及建议（下）：AIOps 挑战及建议](http://hao.caibaojian.com/78563.html) （开发者头条）
-* [MyPerf4J：极快的 Java 接口性能监控和统计工具](http://hao.caibaojian.com/78554.html) （开发者头条）
-* [iOS 底层原理总结：探寻 Runtime 本质（二）](http://hao.caibaojian.com/78565.html) （开发者头条）
+* [使用 ELK Stack 建设 SIEM](http://hao.caibaojian.com/78724.html) （开发者头条）
+* [Vue：触发视图更新的hack](http://hao.caibaojian.com/78606.html) （稀土掘金）
+* [JavaScript 与 WebAssembly 进行比较 + 在哪些情况下会优于 JavaScript](http://hao.caibaojian.com/78630.html) （开发者头条）
+* [苏宁数据中台基于 Spring Cloud 微服务架构实践](http://hao.caibaojian.com/78725.html) （开发者头条）
+* [jsonp跨域获取数据实现百度搜索](http://hao.caibaojian.com/78607.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
