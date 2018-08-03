@@ -1,37 +1,46 @@
-# [2018-08-02 精选博文推荐](http://hao.caibaojian.com/date/2018/08/02)
+# [2018-08-03 精选博文推荐](http://hao.caibaojian.com/date/2018/08/03)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [VSCode前端常用插件分享](http://hao.caibaojian.com/81792.html) （推酷网）
-* [Vue 全站缓存之 vue-router-then 实现原理](http://hao.caibaojian.com/81760.html) （开发者头条）
-* [NodeJS —— 自定义流的实现](http://hao.caibaojian.com/81794.html) （推酷网）
-* [区块链架构设计建议：我们应该用区块链做什么？](http://hao.caibaojian.com/81761.html) （开发者头条）
-* [一键剪藏网页内容到 macOS 备忘录](http://hao.caibaojian.com/81793.html) （推酷网）
+* [今天的考核题目: 你知道React和Vue的区别吗? skr，skr](http://hao.caibaojian.com/81918.html) （推酷网）
+* [做前端也有“捷径”，科学偷懒大法了解一下](http://hao.caibaojian.com/81925.html) （推酷网）
+* [在vue里添加好看的lottie动画 (^_^)](http://hao.caibaojian.com/81847.html) （稀土掘金）
+* [单枪匹马撸个聊天室, 支持Web/Android/iOS三端](http://hao.caibaojian.com/81850.html) （稀土掘金）
+* [JavaScript图片轮播](http://hao.caibaojian.com/81840.html) （稀土掘金）
 
 ***
-* [Spark 内存管理模型详解](http://hao.caibaojian.com/81753.html) （开发者头条）
-* [Spark Streaming 和 Flink 详细对比](http://hao.caibaojian.com/81762.html) （开发者头条）
-* [使用 Generator 提升 matchAll 体验](http://hao.caibaojian.com/81795.html) （推酷网）
-* [一周 IT 技术干货（码农周刊第 225 期）](http://hao.caibaojian.com/81751.html) （开发者头条）
-* [分布式事务在 Sharding-Sphere 中的实现](http://hao.caibaojian.com/81763.html) （开发者头条）
+* [js对textarea换行符的处理方案](http://hao.caibaojian.com/81911.html) （推酷网）
+* [预渲染插件prerender-spa-plugin使用总结](http://hao.caibaojian.com/81916.html) （推酷网）
+* [我用Vue和React构建了相同的应用程序，这是它们的差别](http://hao.caibaojian.com/81848.html) （稀土掘金）
+* [web workers简介（一）基础使用](http://hao.caibaojian.com/81930.html) （推酷网）
+* [干货 | 一份我的前端技术进阶指南](http://hao.caibaojian.com/81851.html) （稀土掘金）
 
 ***
-* [还在用阻塞队列？读这篇文章，了解下 Disruptor 吧](http://hao.caibaojian.com/81752.html) （开发者头条）
-* [移动端跨平台开发的深度解析](http://hao.caibaojian.com/81764.html) （开发者头条）
-* [做一个懂业务的产品和技术](http://hao.caibaojian.com/81754.html) （开发者头条）
-* [史上最小的 mini-electron 发布了](http://hao.caibaojian.com/81765.html) （开发者头条）
-* [Bitcoin 区块和交易数据结构](http://hao.caibaojian.com/81755.html) （开发者头条）
+* [JavaScript-面试](http://hao.caibaojian.com/81819.html) （SegmentFault）
+* [vue 手写一个时间选择器](http://hao.caibaojian.com/81841.html) （稀土掘金）
+* [前端页面水印生成实现](http://hao.caibaojian.com/81915.html) （推酷网）
+* [vue+express图片上传并利用js-xlxs插件将图片链接导出到excel](http://hao.caibaojian.com/81924.html) （推酷网）
+* [JavaScript 为什么快——第一篇？](http://hao.caibaojian.com/81913.html) （推酷网）
 
 ***
-* [Istio 1.0 发布，已生产就绪](http://hao.caibaojian.com/81766.html) （开发者头条）
-* [看图轻松理解数据结构与算法：二叉搜索树](http://hao.caibaojian.com/81756.html) （开发者头条）
-* [朴素的 DevOps 价值观](http://hao.caibaojian.com/81767.html) （开发者头条）
-* [苏宁 Android App 插件化应用实践](http://hao.caibaojian.com/81757.html) （开发者头条）
-* [RLP 机制分析](http://hao.caibaojian.com/81768.html) （开发者头条）
+* [Vuex持久化插件-解决刷新数据消失的问题](http://hao.caibaojian.com/81845.html) （稀土掘金）
+* [使用 NodeJS 可读流实现 “行读取器”](http://hao.caibaojian.com/81926.html) （推酷网）
+* [前端进阶（3） &#8211; 怎样提升代码质量](http://hao.caibaojian.com/81824.html) （SegmentFault）
+* [下拉菜单：‘点击外面关闭’的终极解决方案](http://hao.caibaojian.com/81927.html) （推酷网）
+* [前端基于浏览器存储的AJAX性能优化](http://hao.caibaojian.com/81917.html) （推酷网）
 
 ***
-* [美团猫眼电影 Android 模块化实战总结](http://hao.caibaojian.com/81758.html) （开发者头条）
-* [iOS 开发：代码混淆](http://hao.caibaojian.com/81769.html) （开发者头条）
-* [使用 TensorFlow 一步步进行目标检测（五）](http://hao.caibaojian.com/81759.html) （开发者头条）
+* [强大的Flutter http请求库dio](http://hao.caibaojian.com/81826.html) （SegmentFault）
+* [web workers简介（二）动态创建worker](http://hao.caibaojian.com/81929.html) （推酷网）
+* [一文彻底读懂 DevOps 与 SRE 来龙去脉](http://hao.caibaojian.com/81890.html) （开发者头条）
+* [Istio 1.0 部署](http://hao.caibaojian.com/81879.html) （开发者头条）
+* [FPJson &amp; swxJson 介绍](http://hao.caibaojian.com/81891.html) （开发者头条）
+
+***
+* [随时随地，阅读小说(mpvue)](http://hao.caibaojian.com/81920.html) （推酷网）
+* [思维导图描述vue执行机制](http://hao.caibaojian.com/81827.html) （SegmentFault）
+* [Swift 4 弱引用实现](http://hao.caibaojian.com/81892.html) （开发者头条）
+* [VUE Cookbook 系列：实现可配置组合表单](http://hao.caibaojian.com/81921.html) （推酷网）
+* [受够了移动端的数字输入，我用vue写了个模拟键盘](http://hao.caibaojian.com/81836.html) （稀土掘金）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
