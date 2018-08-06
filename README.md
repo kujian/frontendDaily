@@ -1,46 +1,46 @@
-# [2018-08-05 精选博文推荐](http://hao.caibaojian.com/date/2018/08/05)
+# [2018-08-06 精选博文推荐](http://hao.caibaojian.com/date/2018/08/06)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端到底是求职者的乐土还是日渐成为烫手的山芋？](http://hao.caibaojian.com/82083.html) （SegmentFault）
-* [Redis新手指南：在node中使用redis](http://hao.caibaojian.com/82081.html) （SegmentFault）
-* [五个最新的 CSS 特性以及如何使用它们](http://hao.caibaojian.com/82129.html) （奇舞团）
-* [基于React的表单开发的分析](http://hao.caibaojian.com/82093.html) （稀土掘金）
-* [PHP开发者的路线](http://hao.caibaojian.com/82074.html) （SegmentFault）
+* [Uber 开源 Fusion.js：一个基于插件架构的通用 Web 框架](http://hao.caibaojian.com/82195.html) （开发者头条）
+* [说一说javascript的异步编程](http://hao.caibaojian.com/82174.html) （稀土掘金）
+* [vue实现一个动效柱状图](http://hao.caibaojian.com/82182.html) （稀土掘金）
+* [jQuery JQ插件（不断整理中&#8230;）](http://hao.caibaojian.com/82159.html) （SegmentFault）
+* [javascript基础修炼(3)—What&#039;s this(下)](http://hao.caibaojian.com/82214.html) （推酷网）
 
 ***
-* [TypeScript基础入门 &#8211; 类 &#8211; 简介](http://hao.caibaojian.com/82120.html) （推酷网）
-* [精读 The Cost of JavaScript In 2018](http://hao.caibaojian.com/82123.html) （推酷网）
-* [JS数组循环的性能和效率分析（for、while、forEach、map、for of）](http://hao.caibaojian.com/82096.html) （稀土掘金）
-* [无显示器情况下连接使用树莓派](http://hao.caibaojian.com/82107.html) （开发者头条）
-* [Linux三大利器grep，sed，awk](http://hao.caibaojian.com/82087.html) （SegmentFault）
+* [一个前端小白的&quot;爬虫&quot;初试](http://hao.caibaojian.com/82160.html) （SegmentFault）
+* [Ajax设置请求和接收响应、自己封装简易jQuery.Ajax、回调函数](http://hao.caibaojian.com/82154.html) （SegmentFault）
+* [web移动端布局的那些事儿](http://hao.caibaojian.com/82179.html) （稀土掘金）
+* [GitLab &amp; Docker 前端开发工具链](http://hao.caibaojian.com/82181.html) （稀土掘金）
+* [2018 上半年区块链安全报告](http://hao.caibaojian.com/82196.html) （开发者头条）
 
 ***
-* [基于vue实现一个简单的MVVM框架](http://hao.caibaojian.com/82125.html) （推酷网）
-* [Nginx实践篇（1）- Nginx作为静态资源web服务 &#8211; 静态资源压缩](http://hao.caibaojian.com/82080.html) （SegmentFault）
-* [javascript基础修炼(3)—What&#039;s this(下)](http://hao.caibaojian.com/82126.html) （推酷网）
-* [分布式数据库 MVCC 技术探秘（一）](http://hao.caibaojian.com/82109.html) （开发者头条）
-* [window对象（一） 计时器  定位导航 url解析  浏览历史  对话框  消息推送](http://hao.caibaojian.com/82090.html) （SegmentFault）
+* [Nginx实践篇（2）- Nginx作为静态资源web服务 &#8211; 控制浏览器缓存、防盗链](http://hao.caibaojian.com/82166.html) （SegmentFault）
+* [CSS多列布局（栅格布局）](http://hao.caibaojian.com/82167.html) （SegmentFault）
+* [前端异常监控、上报及js压缩代码定位](http://hao.caibaojian.com/82172.html) （稀土掘金）
+* [推荐一个React的管理后台框架](http://hao.caibaojian.com/82168.html) （SegmentFault）
+* [使用Webpack的代码分离实现Vue懒加载（译文）](http://hao.caibaojian.com/82151.html) （SegmentFault）
 
 ***
-* [爱奇艺的工作流调度系统 Gear](http://hao.caibaojian.com/82110.html) （开发者头条）
-* [多列布局（column）](http://hao.caibaojian.com/82082.html) （SegmentFault）
-* [JS数组循环的性能效率分析（for、forEach、for of）](http://hao.caibaojian.com/82127.html) （推酷网）
-* [可视化界面编辑器设计](http://hao.caibaojian.com/82091.html) （稀土掘金）
-* [有赞数据仓库元数据系统实践](http://hao.caibaojian.com/82111.html) （开发者头条）
+* [跨域解决方案（史上最易懂）](http://hao.caibaojian.com/82169.html) （SegmentFault）
+* [GraphQL进阶篇: 挥手Redux不是梦](http://hao.caibaojian.com/82170.html) （SegmentFault）
+* [sshw：SSH 自动登录工具，方便 Mac Linux 用户](http://hao.caibaojian.com/82194.html) （开发者头条）
+* [React 开发你一定要知道](http://hao.caibaojian.com/82155.html) （SegmentFault）
+* [三十分钟掌握Webpack性能优化](http://hao.caibaojian.com/82173.html) （稀土掘金）
 
 ***
-* [狙杀页面卡顿 —— Performance 工具指北](http://hao.caibaojian.com/82132.html) （奇舞团）
-* [使用D3.js+Vue实现一个简单的柱形图](http://hao.caibaojian.com/82092.html) （稀土掘金）
-* [你们真的理解prototype和__proto__嘛？](http://hao.caibaojian.com/82076.html) （SegmentFault）
-* [探索 YOLO v3 实现细节（一）：训练](http://hao.caibaojian.com/82112.html) （开发者头条）
-* [理解网页的关键渲染路径（CRP）](http://hao.caibaojian.com/82084.html) （SegmentFault）
+* [令人困惑的 strtotime](http://hao.caibaojian.com/82197.html) （开发者头条）
+* [如何阅读源代码](http://hao.caibaojian.com/82191.html) （开发者头条）
+* [Ian Goodfellow 最新论文：神经网络也能 Debug](http://hao.caibaojian.com/82199.html) （开发者头条）
+* [webpack入坑之旅（零）简介与升级](http://hao.caibaojian.com/82213.html) （推酷网）
+* [浏览器事件环和Node事件环不得不说的故事](http://hao.caibaojian.com/82183.html) （稀土掘金）
 
 ***
-* [Icon 和文本对齐方式的探索](http://hao.caibaojian.com/82130.html) （奇舞团）
-* [kafka（二）—Kafka 的安装和使用（Quickstart）](http://hao.caibaojian.com/82085.html) （SegmentFault）
-* [图解基于 HTTPS 的 DNS](http://hao.caibaojian.com/82131.html) （奇舞团）
-* [狙杀页面卡顿 —— Performance 指北](http://hao.caibaojian.com/82094.html) （稀土掘金）
-* [电商系统设计之商品[番外篇]](http://hao.caibaojian.com/82075.html) （SegmentFault）
+* [python爬虫项目汇总](http://hao.caibaojian.com/82152.html) （SegmentFault）
+* [Jenkins 的 Pipeline 脚本在美团餐饮 SaaS 中的实践](http://hao.caibaojian.com/82193.html) （开发者头条）
+* [python有趣的小项目汇总](http://hao.caibaojian.com/82161.html) （SegmentFault）
+* [移动端H5解惑-概念术语（一）](http://hao.caibaojian.com/82177.html) （稀土掘金）
+* [用户行为与生存分析](http://hao.caibaojian.com/82153.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
