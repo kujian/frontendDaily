@@ -1,46 +1,46 @@
-# [2018-08-29 精选博文推荐](http://hao.caibaojian.com/date/2018/08/29)
+# [2018-08-30 精选博文推荐](http://hao.caibaojian.com/date/2018/08/30)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前后端分离 Vue + NodeJS(Koa) + MongoDB，从产品到开发，全栈实践](http://hao.caibaojian.com/84484.html) （推酷网）
-* [vue项目中的痛点（十四）](http://hao.caibaojian.com/84485.html) （推酷网）
-* [vue路由（十一）](http://hao.caibaojian.com/84492.html) （推酷网）
-* [vue-axios请求数据（十二）](http://hao.caibaojian.com/84491.html) （推酷网）
-* [vue-cli3.0 资源加载的优化方案](http://hao.caibaojian.com/84508.html) （SegmentFault）
+* [写给前端工程师的 10 条实用原则](http://hao.caibaojian.com/84660.html) （开发者头条）
+* [干货｜前端程序员容易出错的基础知识](http://hao.caibaojian.com/84727.html) （推酷网）
+* [我为什么不看好 PHP 的发展？](http://hao.caibaojian.com/84597.html) （SegmentFault）
+* [TCP 没那么难吧？](http://hao.caibaojian.com/84648.html) （开发者头条）
+* [JavaScript逗号运算符知多少](http://hao.caibaojian.com/84687.html) （推酷网）
 
 ***
-* [Web安全快速入门](http://hao.caibaojian.com/84535.html) （稀土掘金）
-* [Github托管项目实现自动化部署](http://hao.caibaojian.com/84525.html) （SegmentFault）
-* [js执行会阻塞DOM树的解析和渲染，那么css加载会阻塞DOM树的解析和渲染吗](http://hao.caibaojian.com/84519.html) （SegmentFault）
-* [React 后台管理模板](http://hao.caibaojian.com/84534.html) （稀土掘金）
-* [vue计算属性与数据监听（十）](http://hao.caibaojian.com/84494.html) （推酷网）
+* [Zeu.js：实时监控可视化组件库](http://hao.caibaojian.com/84651.html) （开发者头条）
+* [Vue.js异步更新及nextTick](http://hao.caibaojian.com/84693.html) （推酷网）
+* [HTTPS 安全最佳实践](http://hao.caibaojian.com/84657.html) （开发者头条）
+* [Vue.js从Virtual DOM映射到真实DOM的过程](http://hao.caibaojian.com/84729.html) （推酷网）
+* [《简明 PHP 教程》00 开篇](http://hao.caibaojian.com/84609.html) （SegmentFault）
 
 ***
-* [程序员是如何从复杂的代码里找到 bug 的？](http://hao.caibaojian.com/84553.html) （开发者头条）
-* [vue过渡与动画（十五）](http://hao.caibaojian.com/84481.html) （推酷网）
-* [JavaScript模拟自由落体](http://hao.caibaojian.com/84533.html) （稀土掘金）
-* [前端阶段性总结（一）： HTTP 协议，从1.0到2.0](http://hao.caibaojian.com/84509.html) （SegmentFault）
-* [三年前旧代码的重构、总结与反思](http://hao.caibaojian.com/84511.html) （SegmentFault）
+* [CSS魔法堂：稍稍深入伪类选择器](http://hao.caibaojian.com/84602.html) （SegmentFault）
+* [迭代器,生成器(generator)和Promise的“微妙”关系](http://hao.caibaojian.com/84626.html) （稀土掘金）
+* [图解JS执行机制](http://hao.caibaojian.com/84725.html) （推酷网）
+* [vue-video-player,通过自定义按钮组件实现全屏切换效果](http://hao.caibaojian.com/84629.html) （稀土掘金）
+* [JavaScript .filter() 方法全解析](http://hao.caibaojian.com/84615.html) （稀土掘金）
 
 ***
-* [PHP导出数据到表格的实例](http://hao.caibaojian.com/84522.html) （SegmentFault）
-* [Babel 7.0正式发布，支持TypeScript，JSX Fragment](http://hao.caibaojian.com/84531.html) （稀土掘金）
-* [vue实例方法（十三)](http://hao.caibaojian.com/84489.html) （推酷网）
-* [从Sun离职后，我“抛弃”了Java，拥抱JavaScript和Node](http://hao.caibaojian.com/84536.html) （稀土掘金）
-* [使用PDF.JS插件在HTML中预览PDF文件](http://hao.caibaojian.com/84515.html) （SegmentFault）
+* [ES6实践：Symbols及其使用](http://hao.caibaojian.com/84616.html) （稀土掘金）
+* [Promise实现原理（附源码）](http://hao.caibaojian.com/84617.html) （稀土掘金）
+* [js实现 web页面的滚动条下拉时加载更多](http://hao.caibaojian.com/84600.html) （SegmentFault）
+* [强如 Disruptor 也发生内存溢出？](http://hao.caibaojian.com/84650.html) （开发者头条）
+* [WebGL 单通道wireframe渲染](http://hao.caibaojian.com/84621.html) （稀土掘金）
 
 ***
-* [一个老同学的故事引发的nodejs 爬虫](http://hao.caibaojian.com/84482.html) （推酷网）
-* [webpack v4 中的断舍离 &#8211; 代码分离 SplitChunksPlugin（一）](http://hao.caibaojian.com/84495.html) （推酷网）
-* [升级PHP7 jenssegers/mongodb expected to be a reference](http://hao.caibaojian.com/84517.html) （SegmentFault）
-* [在vue中使用SockJS实现webSocket通信](http://hao.caibaojian.com/84483.html) （推酷网）
-* [ES6指北【6】——详谈解构赋值【附赠练习题】](http://hao.caibaojian.com/84518.html) （SegmentFault）
+* [《Web 推送通知》系列翻译 | 第三篇：订阅一个用户](http://hao.caibaojian.com/84619.html) （稀土掘金）
+* [Bulk 异常引发的 Elasticsearch 内存泄漏](http://hao.caibaojian.com/84663.html) （开发者头条）
+* [Zeu.js 1.0.0 发布, 九大全新组件全面升级](http://hao.caibaojian.com/84622.html) （稀土掘金）
+* [一周 IT 技术干货（码农周刊第 229 期）](http://hao.caibaojian.com/84654.html) （开发者头条）
+* [ThinkJS关联模型实践](http://hao.caibaojian.com/84726.html) （推酷网）
 
 ***
-* [Dynamic Swift](http://hao.caibaojian.com/84556.html) （开发者头条）
-* [ts-node 单测错误堆栈问题排查小记](http://hao.caibaojian.com/84527.html) （稀土掘金）
-* [三个技巧将 Docker 镜像体积减小 90%](http://hao.caibaojian.com/84545.html) （开发者头条）
-* [UC 伯克利提出基于自适应相似场的语义分割](http://hao.caibaojian.com/84557.html) （开发者头条）
-* [程序员自省录](http://hao.caibaojian.com/84510.html) （SegmentFault）
+* [12 种降维方法终极指南（含 Python 代码）](http://hao.caibaojian.com/84656.html) （开发者头条）
+* [JavaScript fetch接口](http://hao.caibaojian.com/84596.html) （SegmentFault）
+* [TensorFlow 2.0 要来啦](http://hao.caibaojian.com/84668.html) （开发者头条）
+* [重新认识vue之 ref](http://hao.caibaojian.com/84607.html) （SegmentFault）
+* [Angular 开发学习 03 – TodoMVC](http://hao.caibaojian.com/84688.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
