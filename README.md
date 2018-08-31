@@ -1,46 +1,46 @@
-# [2018-08-30 精选博文推荐](http://hao.caibaojian.com/date/2018/08/30)
+# [2018-08-31 精选博文推荐](http://hao.caibaojian.com/date/2018/08/31)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [写给前端工程师的 10 条实用原则](http://hao.caibaojian.com/84660.html) （开发者头条）
-* [干货｜前端程序员容易出错的基础知识](http://hao.caibaojian.com/84727.html) （推酷网）
-* [我为什么不看好 PHP 的发展？](http://hao.caibaojian.com/84597.html) （SegmentFault）
-* [TCP 没那么难吧？](http://hao.caibaojian.com/84648.html) （开发者头条）
-* [JavaScript逗号运算符知多少](http://hao.caibaojian.com/84687.html) （推酷网）
+* [彻底搞懂CSS层叠上下文、层叠等级、层叠顺序、z-index](http://hao.caibaojian.com/84772.html) （稀土掘金）
+* [Cookie 或将被替换，Chrome 工程师提议新型 HTTP 状态管理协议](http://hao.caibaojian.com/84809.html) （开发者头条）
+* [【抛砖引玉】使用 ES6 的类继承加速 SPA 开发](http://hao.caibaojian.com/84763.html) （稀土掘金）
+* [【JavaScript】JavaScript Array 对象（数组）](http://hao.caibaojian.com/84750.html) （SegmentFault）
+* [图像分类（下）](http://hao.caibaojian.com/84815.html) （开发者头条）
 
 ***
-* [Zeu.js：实时监控可视化组件库](http://hao.caibaojian.com/84651.html) （开发者头条）
-* [Vue.js异步更新及nextTick](http://hao.caibaojian.com/84693.html) （推酷网）
-* [HTTPS 安全最佳实践](http://hao.caibaojian.com/84657.html) （开发者头条）
-* [Vue.js从Virtual DOM映射到真实DOM的过程](http://hao.caibaojian.com/84729.html) （推酷网）
-* [《简明 PHP 教程》00 开篇](http://hao.caibaojian.com/84609.html) （SegmentFault）
+* [【JavaScript】DOM之Node对象](http://hao.caibaojian.com/84754.html) （SegmentFault）
+* [Life of a Pixel，让你更透彻知道浏览器是如何工作](http://hao.caibaojian.com/84768.html) （稀土掘金）
+* [比 Python 还好用的 Go 语言要出 2.0 了，你想怎么设计？](http://hao.caibaojian.com/84798.html) （开发者头条）
+* [Android 架构：ViewModel 与 View 之间的通信](http://hao.caibaojian.com/84810.html) （开发者头条）
+* [gojs 流程图框架-节点装饰器模板(二)](http://hao.caibaojian.com/84771.html) （稀土掘金）
 
 ***
-* [CSS魔法堂：稍稍深入伪类选择器](http://hao.caibaojian.com/84602.html) （SegmentFault）
-* [迭代器,生成器(generator)和Promise的“微妙”关系](http://hao.caibaojian.com/84626.html) （稀土掘金）
-* [图解JS执行机制](http://hao.caibaojian.com/84725.html) （推酷网）
-* [vue-video-player,通过自定义按钮组件实现全屏切换效果](http://hao.caibaojian.com/84629.html) （稀土掘金）
-* [JavaScript .filter() 方法全解析](http://hao.caibaojian.com/84615.html) （稀土掘金）
+* [唯品会高吞吐量 Access Log 存储的实现](http://hao.caibaojian.com/84800.html) （开发者头条）
+* [Java 程序员的荣光，听 R 大论 JDK 11 的 ZGC](http://hao.caibaojian.com/84792.html) （开发者头条）
+* [读Redux源码02 &#8211; createStrore](http://hao.caibaojian.com/84759.html) （稀土掘金）
+* [react在安卓下输入框被手机键盘遮挡问题](http://hao.caibaojian.com/84764.html) （稀土掘金）
+* [看图轻松理解数据结构与算法：B树](http://hao.caibaojian.com/84814.html) （开发者头条）
 
 ***
-* [ES6实践：Symbols及其使用](http://hao.caibaojian.com/84616.html) （稀土掘金）
-* [Promise实现原理（附源码）](http://hao.caibaojian.com/84617.html) （稀土掘金）
-* [js实现 web页面的滚动条下拉时加载更多](http://hao.caibaojian.com/84600.html) （SegmentFault）
-* [强如 Disruptor 也发生内存溢出？](http://hao.caibaojian.com/84650.html) （开发者头条）
-* [WebGL 单通道wireframe渲染](http://hao.caibaojian.com/84621.html) （稀土掘金）
+* [ECMAScript正则表达式6个最新特性](http://hao.caibaojian.com/84741.html) （SegmentFault）
+* [Tornado 踩坑：cookie 的设置和获取](http://hao.caibaojian.com/84804.html) （开发者头条）
+* [前端数据校验从建模开始](http://hao.caibaojian.com/84757.html) （稀土掘金）
+* [无需 GPU，只用 OpenCV 和 Python 实现图像和视频的风格迁移](http://hao.caibaojian.com/84805.html) （开发者头条）
+* [不停机图片升级迁移](http://hao.caibaojian.com/84796.html) （开发者头条）
 
 ***
-* [《Web 推送通知》系列翻译 | 第三篇：订阅一个用户](http://hao.caibaojian.com/84619.html) （稀土掘金）
-* [Bulk 异常引发的 Elasticsearch 内存泄漏](http://hao.caibaojian.com/84663.html) （开发者头条）
-* [Zeu.js 1.0.0 发布, 九大全新组件全面升级](http://hao.caibaojian.com/84622.html) （稀土掘金）
-* [一周 IT 技术干货（码农周刊第 229 期）](http://hao.caibaojian.com/84654.html) （开发者头条）
-* [ThinkJS关联模型实践](http://hao.caibaojian.com/84726.html) （推酷网）
+* [Gunicorn 与 uWSGI 之我见](http://hao.caibaojian.com/84807.html) （开发者头条）
+* [PHP多进程初探 &#8212; 利用多进程开发点儿东西吧](http://hao.caibaojian.com/84746.html) （SegmentFault）
+* [这可能是目前最好的图像超分辨率算法，刚刚开源了](http://hao.caibaojian.com/84797.html) （开发者头条）
+* [React-Redux 源码解析 一（createStore）](http://hao.caibaojian.com/84760.html) （稀土掘金）
+* [《React Native 精解与实战》书籍连载：iOS 平台与 React Native 混合开发](http://hao.caibaojian.com/84808.html) （开发者头条）
 
 ***
-* [12 种降维方法终极指南（含 Python 代码）](http://hao.caibaojian.com/84656.html) （开发者头条）
-* [JavaScript fetch接口](http://hao.caibaojian.com/84596.html) （SegmentFault）
-* [TensorFlow 2.0 要来啦](http://hao.caibaojian.com/84668.html) （开发者头条）
-* [重新认识vue之 ref](http://hao.caibaojian.com/84607.html) （SegmentFault）
-* [Angular 开发学习 03 – TodoMVC](http://hao.caibaojian.com/84688.html) （推酷网）
+* [学习 canvas 的 globalCompositeOperation 做出的神奇效果](http://hao.caibaojian.com/84737.html) （SegmentFault）
+* [复选框和切换按钮的7个使用案例](http://hao.caibaojian.com/84769.html) （稀土掘金）
+* [vs.code 格式化vue 代码，符合ESLint规范](http://hao.caibaojian.com/84747.html) （SegmentFault）
+* [机器学习-变分](http://hao.caibaojian.com/84755.html) （SegmentFault）
+* [Spring Boot 最佳实践（三）模板引擎FreeMarker集成](http://hao.caibaojian.com/84742.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
