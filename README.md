@@ -1,46 +1,46 @@
-# [2018-09-10 精选博文推荐](http://hao.caibaojian.com/date/2018/09/10)
+# [2018-09-11 精选博文推荐](http://hao.caibaojian.com/date/2018/09/11)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [vue 面试时需要准备的知识点](http://hao.caibaojian.com/85818.html) （推酷网）
-* [前端实现html转pdf方法总结](http://hao.caibaojian.com/85782.html) （SegmentFault）
-* [JavaScript之实现一个简单的promise](http://hao.caibaojian.com/85817.html) （推酷网）
-* [利用剪切板JS API优化输入框的粘贴体验](http://hao.caibaojian.com/85819.html) （推酷网）
-* [Vue.js2.0基础学习笔记](http://hao.caibaojian.com/85785.html) （SegmentFault）
+* [可视化埋点技术揭秘：流程四步走，包含WebSocket通信以及具体埋点过程](http://hao.caibaojian.com/85935.html) （推酷网）
+* [GitHub：我们为什么会弃用jQuery？](http://hao.caibaojian.com/85927.html) （推酷网）
+* [CSS 变量和 JavaScript 让应用支持动态主题](http://hao.caibaojian.com/85930.html) （推酷网）
+* [JavaScript中Array方法的正确打开方式](http://hao.caibaojian.com/85925.html) （推酷网）
+* [Web 安全漏洞之 SSRF](http://hao.caibaojian.com/85896.html) （开发者头条）
 
 ***
-* [vue父子组件间通信](http://hao.caibaojian.com/85787.html) （SegmentFault）
-* [Node.js 中流操作实践](http://hao.caibaojian.com/85788.html) （SegmentFault）
-* [Git 内幕（一）](http://hao.caibaojian.com/85805.html) （开发者头条）
-* [ECMAScript7规范中的ToPrimitive抽象操作](http://hao.caibaojian.com/85790.html) （SegmentFault）
-* [Golang 定时器陷阱](http://hao.caibaojian.com/85806.html) （开发者头条）
+* [「2018前端面试总结，看完弄懂，工资少说加3K| 掘金技术征文」](http://hao.caibaojian.com/85859.html) （稀土掘金）
+* [如果你在2018面试前端，那这篇文章最好看一看](http://hao.caibaojian.com/85853.html) （SegmentFault）
+* [前端优化：浏览器缓存技术介绍](http://hao.caibaojian.com/85868.html) （稀土掘金）
+* [JavaScript之Web Worker](http://hao.caibaojian.com/85934.html) （推酷网）
+* [你知道 Java 方法能定义多少个参数吗？](http://hao.caibaojian.com/85883.html) （开发者头条）
 
 ***
-* [www.apple.com，你敢肯定它就是苹果官网么？](http://hao.caibaojian.com/85801.html) （开发者头条）
-* [使用JavaScript隐式类型转换输出&quot;nb&quot;](http://hao.caibaojian.com/85784.html) （SegmentFault）
-* [webuploader 文件分片上传 ➕node接口](http://hao.caibaojian.com/85793.html) （SegmentFault）
-* [结合自己造的轮子实践按需加载](http://hao.caibaojian.com/85796.html) （稀土掘金）
-* [前端性能优化—js代码打包](http://hao.caibaojian.com/85779.html) （SegmentFault）
+* [搭建Websocket简易聊天室](http://hao.caibaojian.com/85928.html) （推酷网）
+* [Vuex 源码深度解析](http://hao.caibaojian.com/85857.html) （稀土掘金）
+* [Yii2结合Workerman的websocket](http://hao.caibaojian.com/85933.html) （推酷网）
+* [用作用域插槽和偏函数编写高复用 Vue 组件](http://hao.caibaojian.com/85869.html) （稀土掘金）
+* [一统江湖的大前端（5）editorconfig + eslint——你的代码里藏着你的优雅](http://hao.caibaojian.com/85926.html) （推酷网）
 
 ***
-* [PHP面试：尽可能多的说出你知道的排序算法](http://hao.caibaojian.com/85780.html) （SegmentFault）
-* [ElasticSearch6.4.0集群搭建](http://hao.caibaojian.com/85794.html) （SegmentFault）
-* [代码性能调优“三十六”策](http://hao.caibaojian.com/85792.html) （SegmentFault）
-* [由一次重构代码所想到的](http://hao.caibaojian.com/85789.html) （SegmentFault）
-* [阴历阳历的相互转换（支持1900~2100年）](http://hao.caibaojian.com/85781.html) （SegmentFault）
+* [JavaScript 初学者教程（指南）](http://hao.caibaojian.com/85842.html) （SegmentFault）
+* [DevOps 和 SRE](http://hao.caibaojian.com/85887.html) （开发者头条）
+* [【前端性能】Web 动画帧率（FPS）计算 &#8211; ChokCoco &#8211; 博客园](http://hao.caibaojian.com/85864.html) （稀土掘金）
+* [原生js设计表单验证插件的思路分析](http://hao.caibaojian.com/85929.html) （推酷网）
+* [Android 9 Pie 兼容性常见问题及注意事项](http://hao.caibaojian.com/85898.html) （开发者头条）
 
 ***
-* [「译」使用 Node 构建命令行应用](http://hao.caibaojian.com/85795.html) （稀土掘金）
-* [分布式系统关注点：“共识” 的兄弟 “事务”](http://hao.caibaojian.com/85807.html) （开发者头条）
-* [APT 攻击链及事件响应策略](http://hao.caibaojian.com/85808.html) （开发者头条）
-* [XDEBUG 从入门到精通](http://hao.caibaojian.com/85783.html) （SegmentFault）
-* [Array.prototype.slice.apply可以转换数组的原理](http://hao.caibaojian.com/85791.html) （SegmentFault）
+* [Webpack 核心模块 tapable 解析](http://hao.caibaojian.com/85865.html) （稀土掘金）
+* [用 Python 实现 Redis 方轮子（零）：了解通信协议](http://hao.caibaojian.com/85888.html) （开发者头条）
+* [简单聊下 RPC 实现](http://hao.caibaojian.com/85899.html) （开发者头条）
+* [webview布局适配实践](http://hao.caibaojian.com/85866.html) （稀土掘金）
+* [Vue: scoped 样式与 CSS Module 对比](http://hao.caibaojian.com/85931.html) （推酷网）
 
 ***
-* [在Angular中使用JWT认证](http://hao.caibaojian.com/85797.html) （稀土掘金）
-* [你不知道的Virtual DOM（六）：事件处理&amp;异步更新](http://hao.caibaojian.com/85786.html) （SegmentFault）
-* [有赞线上拨测系统实践（一）](http://hao.caibaojian.com/85803.html) （开发者头条）
-* [2019秋招知识盲点总结](http://hao.caibaojian.com/85778.html) （SegmentFault）
-* [学习新的计算机知识为什么这么难？看看我的心路历程](http://hao.caibaojian.com/85802.html) （开发者头条）
+* [编程语言名称背后的有趣故事](http://hao.caibaojian.com/85901.html) （开发者头条）
+* [SkyWalking 分布式追踪系统](http://hao.caibaojian.com/85891.html) （开发者头条）
+* [一文详解知识图谱关键技术与应用](http://hao.caibaojian.com/85892.html) （开发者头条）
+* [Android 超简单气泡效果](http://hao.caibaojian.com/85903.html) （开发者头条）
+* [分词，难在哪里？](http://hao.caibaojian.com/85893.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
