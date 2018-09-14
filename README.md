@@ -1,46 +1,46 @@
-# [2018-09-13 精选博文推荐](http://hao.caibaojian.com/date/2018/09/13)
+# [2018-09-14 精选博文推荐](http://hao.caibaojian.com/date/2018/09/14)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [做面试的不倒翁：浅谈 Vue 中 computed 实现原理](http://hao.caibaojian.com/86093.html) （稀土掘金）
-* [WEB实例：开发一个聊天室应用](http://hao.caibaojian.com/86163.html) （推酷网）
-* [我是这样黑进你 Node.js 生产服务器的](http://hao.caibaojian.com/86121.html) （开发者头条）
-* [自建-模拟JSON REST API-从入门到精通-前端必备技能-你还在等你后台API吗？](http://hao.caibaojian.com/86101.html) （稀土掘金）
-* [使用 Traefik 提高 WebSocket 应用性能](http://hao.caibaojian.com/86097.html) （稀土掘金）
+* [TypeScript 3 + Express + Node.js](http://hao.caibaojian.com/86279.html) （推酷网）
+* [PWA踩坑记，手把手教学vue搭建PWA](http://hao.caibaojian.com/86280.html) （推酷网）
+* [react-native 0.57 版本更新日志](http://hao.caibaojian.com/86202.html) （稀土掘金）
+* [React 入门（基础概念）](http://hao.caibaojian.com/86237.html) （开发者头条）
+* [接手前端新项目？这里有些注意点你可能需要留意一下](http://hao.caibaojian.com/86214.html) （稀土掘金）
 
 ***
-* [弹弹弹，弹走鱼尾纹的弹出菜单（vue）](http://hao.caibaojian.com/86161.html) （推酷网）
-* [js-xlsx + handsontable + echarts实现excel上传编辑然后显示成图表](http://hao.caibaojian.com/86096.html) （稀土掘金）
-* [并行化：你的高并发大杀器](http://hao.caibaojian.com/86120.html) （开发者头条）
-* [【跃迁之路】【584天】程序员高效学习方法论探索系列（实验阶段341-2018.09.12）](http://hao.caibaojian.com/86083.html) （SegmentFault）
-* [webpack多页面入口生产项目开发配置](http://hao.caibaojian.com/86100.html) （稀土掘金）
+* [如何改善既有 JS 代码：修复常见的 ESLint 报警（四）](http://hao.caibaojian.com/86276.html) （推酷网）
+* [使用 React 一年后，我学到的最重要经验](http://hao.caibaojian.com/86231.html) （开发者头条）
+* [TensorFlow.js 中的几个重要概念](http://hao.caibaojian.com/86244.html) （开发者头条）
+* [vue插件开发、文档书写、github发布、npm包发布一波流](http://hao.caibaojian.com/86200.html) （稀土掘金）
+* [vue-manage-system 后台管理系统开发总结](http://hao.caibaojian.com/86180.html) （SegmentFault）
 
 ***
-* [nodejs启动流程分析](http://hao.caibaojian.com/86164.html) （推酷网）
-* [年薪 80w+ 的阿里 p7 专家，顶尖的技术人才，只因做到了这几点](http://hao.caibaojian.com/86122.html) （开发者头条）
-* [如何使用原生 JavaScript 构建简单的 Chrome 扩展程序](http://hao.caibaojian.com/86098.html) （稀土掘金）
-* [如何使用纯 CSS 制作四子连珠游戏](http://hao.caibaojian.com/86086.html) （SegmentFault）
-* [phpstorm 关闭多余变量提示](http://hao.caibaojian.com/86087.html) （SegmentFault）
+* [Promise.all并发限制](http://hao.caibaojian.com/86189.html) （SegmentFault）
+* [图像数据不足时，你可以试试数据扩充](http://hao.caibaojian.com/86236.html) （开发者头条）
+* [Koa.js学习笔记](http://hao.caibaojian.com/86190.html) （SegmentFault）
+* [NodeJS中的事件（EventEmitter） API详解（附源码）](http://hao.caibaojian.com/86203.html) （稀土掘金）
+* [千万级别数据 20 秒内反馈，携程酒店智能监控平台如何实现？](http://hao.caibaojian.com/86238.html) （开发者头条）
 
 ***
-* [Webpack4 搭建 Vue 项目](http://hao.caibaojian.com/86088.html) （SegmentFault）
-* [如果不用 Node.js 写业务](http://hao.caibaojian.com/86102.html) （稀土掘金）
-* [通过vue-cli3构建一个SSR应用程序](http://hao.caibaojian.com/86090.html) （稀土掘金）
-* [使用ColorfulImg获取图片主题色](http://hao.caibaojian.com/86104.html) （稀土掘金）
-* [前端每日实战：133# 视频演示如何用 CSS 和 GSAP 创作有多个关键帧的连续动画](http://hao.caibaojian.com/86082.html) （SegmentFault）
+* [Egg.js学习](http://hao.caibaojian.com/86192.html) （SegmentFault）
+* [druid 的基础架构与应用](http://hao.caibaojian.com/86239.html) （开发者头条）
+* [前端每日实战：135# 视频演示如何用纯 CSS 创作一个悬停时右移的按钮特效](http://hao.caibaojian.com/86185.html) （SegmentFault）
+* [前端异常监控解决方案研究](http://hao.caibaojian.com/86277.html) （推酷网）
+* [2018 年最全的推荐系统干货（ECCV、CVPR、AAAI、ICML）](http://hao.caibaojian.com/86232.html) （开发者头条）
 
 ***
-* [提高模型性能，你可以尝试这几招](http://hao.caibaojian.com/86130.html) （开发者头条）
-* [基于 WebRTC 和 WebVR 实现 VR 视频通话](http://hao.caibaojian.com/86091.html) （稀土掘金）
-* [哈希算法现状：原因、方法及未来](http://hao.caibaojian.com/86131.html) （开发者头条）
-* [Mobx  源码解析 一（observable）](http://hao.caibaojian.com/86092.html) （稀土掘金）
-* [拜读及分析Element源码-checkbox多选框组件篇](http://hao.caibaojian.com/86162.html) （推酷网）
+* [redux, koa, express 中间件实现对比解析](http://hao.caibaojian.com/86198.html) （稀土掘金）
+* [CSS实现水平垂直居中的10种方式（史上最全）](http://hao.caibaojian.com/86179.html) （SegmentFault）
+* [脆弱的HTML模板](http://hao.caibaojian.com/86211.html) （稀土掘金）
+* [从酷炫的果冻菜单谈起 CSS3 filter 属性](http://hao.caibaojian.com/86201.html) （稀土掘金）
+* [【React 实战教程：第一节】从0到1 构建 github star管理工具 ：前期准备](http://hao.caibaojian.com/86197.html) （SegmentFault）
 
 ***
-* [使用反射实现简易的 RPC 框架](http://hao.caibaojian.com/86074.html) （SegmentFault）
-* [重磅发布 | 黑镜调查：深渊背后的真相之「DDoS 威胁与黑灰产业调查报告」](http://hao.caibaojian.com/86084.html) （SegmentFault）
-* [TensorFlow 新库 TFDV：大规模理解、验证和监控你的 ML 数据](http://hao.caibaojian.com/86132.html) （开发者头条）
-* [package.json 非官方字段集合](http://hao.caibaojian.com/86078.html) （SegmentFault）
-* [优化 Docker 镜像，加速应用部署的 6 个小窍门](http://hao.caibaojian.com/86124.html) （开发者头条）
+* [用 API 请求制作赏心悦目的 UX](http://hao.caibaojian.com/86212.html) （稀土掘金）
+* [Emacs 下使用 lsp-mode 对 Python 进行补全](http://hao.caibaojian.com/86247.html) （开发者头条）
+* [react 国际化了解一下](http://hao.caibaojian.com/86181.html) （SegmentFault）
+* [使用前端方式挑战 Chrome 小恐龙游戏高分](http://hao.caibaojian.com/86213.html) （稀土掘金）
+* [Redis Labs 年增长 60%，欲颠覆 Oracle 的 600 亿美元市场](http://hao.caibaojian.com/86248.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
