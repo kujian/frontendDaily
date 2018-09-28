@@ -1,46 +1,46 @@
-# [2018-09-27 精选博文推荐](http://hao.caibaojian.com/date/2018/09/27)
+# [2018-09-28 精选博文推荐](http://hao.caibaojian.com/date/2018/09/28)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [【实例】通过 CSS自定义属性（CSS变量）和 JavaScript 实现高级CSS主题切换](http://hao.caibaojian.com/87544.html) （稀土掘金）
-* [记一次ajax的JSESSIONID 变化解决、非跨域变化](http://hao.caibaojian.com/87520.html) （推酷网）
-* [JavaScript中浅拷贝和深拷贝的区别和实现](http://hao.caibaojian.com/87516.html) （推酷网）
-* [Airbnb 爱彼迎房源详情页中的 React 性能优化](http://hao.caibaojian.com/87460.html) （稀土掘金）
-* [JS继承从入门到理解](http://hao.caibaojian.com/87461.html) （稀土掘金）
+* [跪求不要 git push -f](http://hao.caibaojian.com/87603.html) （开发者头条）
+* [JavaScript: Promises 介绍及为何 Async/Await 最终取得胜利](http://hao.caibaojian.com/87637.html) （推酷网）
+* [JS 继承的从入门到理解](http://hao.caibaojian.com/87596.html) （开发者头条）
+* [Javascript-伪数组](http://hao.caibaojian.com/87556.html) （SegmentFault）
+* [拍照时怎样摆姿势好看？前端玩转 AI 之 posenet 指南](http://hao.caibaojian.com/87600.html) （开发者头条）
 
 ***
-* [Golang JSON 的进阶用法](http://hao.caibaojian.com/87486.html) （开发者头条）
-* [2018-09-25 学习手记：JavaScript Modules 和 Express Middleware](http://hao.caibaojian.com/87515.html) （推酷网）
-* [Vue：学习笔记（二）-实例](http://hao.caibaojian.com/87519.html) （推酷网）
-* [github 上有趣又实用的前端项目（持续更新，欢迎补充）](http://hao.caibaojian.com/87448.html) （SegmentFault）
-* [谷歌开发者大会 2018 实录：TensorFlow 篇](http://hao.caibaojian.com/87494.html) （开发者头条）
+* [Java 11 正式发布，告诉你到底应不应该升级](http://hao.caibaojian.com/87607.html) （开发者头条）
+* [大型网站限流算法的实现和改造](http://hao.caibaojian.com/87597.html) （开发者头条）
+* [搭建Typescript+React项目模板(1) &#8212; 项目初始化](http://hao.caibaojian.com/87576.html) （稀土掘金）
+* [09.26 腾讯校招前端一面经历](http://hao.caibaojian.com/87563.html) （SegmentFault）
+* [徒手撸框架：实现 RPC 远程调用](http://hao.caibaojian.com/87595.html) （开发者头条）
 
 ***
-* [为什么你应该放弃React老的Context API用新的Context API](http://hao.caibaojian.com/87466.html) （稀土掘金）
-* [使用jQuery和CSS创建一个粘性标题栏](http://hao.caibaojian.com/87517.html) （推酷网）
-* [谈谈前端性能优化（一）](http://hao.caibaojian.com/87450.html) （SegmentFault）
-* [Git 系列文章](http://hao.caibaojian.com/87451.html) （SegmentFault）
-* [Transformer 模型的 PyTorch 实现](http://hao.caibaojian.com/87495.html) （开发者头条）
+* [2018年慕课网视频教程（vue、react，docker、python、spring、Go语言、java、数据库、算法&#8230;&#8230;）](http://hao.caibaojian.com/87641.html) （推酷网）
+* [拜托，面试别再让我数 1 了](http://hao.caibaojian.com/87601.html) （开发者头条）
+* [客户端JavaScript代码的静态分析方法](http://hao.caibaojian.com/87635.html) （推酷网）
+* [lozad.js ﹣ 高性能、无依赖的纯 JS 任意元素懒加载插件](http://hao.caibaojian.com/87571.html) （稀土掘金）
+* [看图轻松理解数据结构与算法：希尔排序](http://hao.caibaojian.com/87605.html) （开发者头条）
 
 ***
-* [领域驱动设计概览](http://hao.caibaojian.com/87485.html) （开发者头条）
-* [花样招聘面试题](http://hao.caibaojian.com/87452.html) （SegmentFault）
-* [深入理解快照技术，你只需要这一篇文章](http://hao.caibaojian.com/87496.html) （开发者头条）
-* [一道面试题引发的“血案”](http://hao.caibaojian.com/87462.html) （稀土掘金）
-* [关于红黑树的学习笔记](http://hao.caibaojian.com/87487.html) （开发者头条）
+* [搭建Typescript+React项目模板(5) &#8212; 团队规范](http://hao.caibaojian.com/87572.html) （稀土掘金）
+* [PHP下的Oauth2.0尝试 &#8211; OpenID Connect](http://hao.caibaojian.com/87553.html) （SegmentFault）
+* [浅析数据库并发控制](http://hao.caibaojian.com/87594.html) （开发者头条）
+* [搭建Typescript+React项目模板(4) &#8212; 项目打包](http://hao.caibaojian.com/87573.html) （稀土掘金）
+* [搭建Typescript+React项目模板(3) &#8212; 整理项目和杂项](http://hao.caibaojian.com/87574.html) （稀土掘金）
 
 ***
-* [动手制作nodejs命令行工具 iconfont-cli](http://hao.caibaojian.com/87464.html) （稀土掘金）
-* [网易严选的 wkwebview 测试之路（iOS）](http://hao.caibaojian.com/87489.html) （开发者头条）
-* [opencv+mtcnn+facenet+python+tensorflow 实现实时人脸识别(2018.9.26更新)](http://hao.caibaojian.com/87455.html) （SegmentFault）
-* [详解分布式协调服务 ZooKeeper](http://hao.caibaojian.com/87490.html) （开发者头条）
-* [反应式编程实战：RxJava 2.x 基本模式](http://hao.caibaojian.com/87483.html) （开发者头条）
+* [搭建Typescript+React项目模板(2) &#8212; 提升开发体验](http://hao.caibaojian.com/87575.html) （稀土掘金）
+* [Android Gradle（二）：Gradle 入门前奏](http://hao.caibaojian.com/87609.html) （开发者头条）
+* [TypeScript 在 React 中使用总结](http://hao.caibaojian.com/87578.html) （稀土掘金）
+* [新手引导动画的4种实现方式](http://hao.caibaojian.com/87565.html) （稀土掘金）
+* [搞懂 Javascript 继承原理](http://hao.caibaojian.com/87547.html) （SegmentFault）
 
 ***
-* [飞一般的WebGL之唱起3D编程前的战歌](http://hao.caibaojian.com/87465.html) （稀土掘金）
-* [Nuxt 2.0正式发布：支持 Webpack 4、ES module](http://hao.caibaojian.com/87459.html) （稀土掘金）
-* [从拜占庭将军问题看：区块链共识算法](http://hao.caibaojian.com/87484.html) （开发者头条）
-* [MyBatis Generator 自定义生成注释](http://hao.caibaojian.com/87453.html) （SegmentFault）
-* [WebGL Shader 环境搭建](http://hao.caibaojian.com/87463.html) （稀土掘金）
+* [Python 爬虫利器 Selenium](http://hao.caibaojian.com/87559.html) （SegmentFault）
+* [Google/Baidu的搜索技巧](http://hao.caibaojian.com/87560.html) （SegmentFault）
+* [【个人成长】在家学习的这两个月](http://hao.caibaojian.com/87639.html) （推酷网）
+* [活用控制反转 &#8212; 一大波骚操作](http://hao.caibaojian.com/87567.html) （稀土掘金）
+* [以 Chef 和 Ansible 为例快速入门服务器配置](http://hao.caibaojian.com/87606.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
