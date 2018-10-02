@@ -1,46 +1,35 @@
-# [2018-10-01 精选博文推荐](http://hao.caibaojian.com/date/2018/10/01)
+# [2018-10-02 精选博文推荐](http://hao.caibaojian.com/date/2018/10/02)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [使用 WebSocket 实现 JsBridge](http://hao.caibaojian.com/87940.html) （推酷网）
-* [刚上线的阿里达摩院官网，从前端角度看圈点之处](http://hao.caibaojian.com/87904.html) （稀土掘金）
-* [千亿级 HttpDNS 服务是怎样炼成的](http://hao.caibaojian.com/87917.html) （开发者头条）
-* [Vue 2.0学习笔记：事件总线（EventBus）](http://hao.caibaojian.com/87935.html) （推酷网）
-* [怎样学习React—从初级到高级路线图](http://hao.caibaojian.com/87903.html) （稀土掘金）
+* [译文：Vue.js 3.0 开发计划](http://hao.caibaojian.com/87999.html) （推酷网）
+* [js骚操作骂人不带脏](http://hao.caibaojian.com/87966.html) （SegmentFault）
+* [笔试题——JavaScript事件循环机制（event loop、macrotask、microtask）](http://hao.caibaojian.com/87971.html) （稀土掘金）
+* [【webpack进阶】可视化展示webpack内部插件与钩子关系📈](http://hao.caibaojian.com/87974.html) （稀土掘金）
+* [一篇文章搞定前端面试](http://hao.caibaojian.com/87965.html) （SegmentFault）
 
 ***
-* [使用 javascript 替换 jQuery](http://hao.caibaojian.com/87879.html) （SegmentFault）
-* [手把手教你封装 Vue 组件并使用 NPM 发布](http://hao.caibaojian.com/87942.html) （推酷网）
-* [原生JS实现抛物线动画以及动态模糊效果](http://hao.caibaojian.com/87899.html) （稀土掘金）
-* [优秀前端必知的话题：我们应该做些力所能及的优化](http://hao.caibaojian.com/87880.html) （SegmentFault）
-* [开源 PHP 项目找队友、顾问、指导、贡献者等等](http://hao.caibaojian.com/87891.html) （SegmentFault）
+* [Web3 视频技术栈的未来](http://hao.caibaojian.com/87986.html) （开发者头条）
+* [简洁的 React 状态管理库 &#8211; Stamen](http://hao.caibaojian.com/87967.html) （SegmentFault）
+* [TLS 1.3 终于来了，我们如何了解它？](http://hao.caibaojian.com/87981.html) （开发者头条）
+* [后端技能树修炼：CAP 定理](http://hao.caibaojian.com/87983.html) （开发者头条）
+* [给你一个全自动的屏幕适配方案（基于 SW 方案）](http://hao.caibaojian.com/87987.html) （开发者头条）
 
 ***
-* [深入学习 Node.js Http](http://hao.caibaojian.com/87944.html) （推酷网）
-* [手写react优惠卷组件](http://hao.caibaojian.com/87893.html) （SegmentFault）
-* [浅谈 TypeScript &#8211; 优雅的使用 Redux](http://hao.caibaojian.com/87901.html) （稀土掘金）
-* [Angular ElementRef 简介](http://hao.caibaojian.com/87938.html) （推酷网）
-* [前端自动化开发环境](http://hao.caibaojian.com/87896.html) （SegmentFault）
+* [Ramda 实战案例若干](http://hao.caibaojian.com/87972.html) （稀土掘金）
+* [Android 多开检测的另一个思路](http://hao.caibaojian.com/87988.html) （开发者头条）
+* [Flutter最佳入门方式——写一个计算器](http://hao.caibaojian.com/87973.html) （稀土掘金）
+* [npm shrinkwrap 与 package-lock](http://hao.caibaojian.com/87998.html) （推酷网）
+* [揭秘 iOS 布局](http://hao.caibaojian.com/87982.html) （开发者头条）
 
 ***
-* [vue路由的配置](http://hao.caibaojian.com/87939.html) （推酷网）
-* [深入理解css之BFC](http://hao.caibaojian.com/87897.html) （SegmentFault）
-* [用双十一的故事串起碎片的网络协议（下）](http://hao.caibaojian.com/87920.html) （开发者头条）
-* [vue之nextTick源码阅读](http://hao.caibaojian.com/87898.html) （SegmentFault）
-* [如何在五分钟内搭建人脸检测/关键点识别等服务？](http://hao.caibaojian.com/87922.html) （开发者头条）
+* [以登录注册理解Cookie的作用过程](http://hao.caibaojian.com/87968.html) （SegmentFault）
+* [教你从零开发和部署一款移动端pwa应用](http://hao.caibaojian.com/87969.html) （SegmentFault）
+* [浅谈 TypeScript：优雅地使用 Redux](http://hao.caibaojian.com/87984.html) （开发者头条）
+* [Reason Powerplug](http://hao.caibaojian.com/87970.html) （稀土掘金）
+* [17 毫秒每帧实时语义分割与深度估计](http://hao.caibaojian.com/87985.html) （开发者头条）
 
 ***
-* [各语言Y组合子大比拼](http://hao.caibaojian.com/87943.html) （推酷网）
-* [优秀架构师必须掌握的架构思维](http://hao.caibaojian.com/87881.html) （SegmentFault）
-* [JDK 并发 AQS 系列（一）](http://hao.caibaojian.com/87923.html) （开发者头条）
-* [关于如何在部署环境修改process.env &amp; 本地测试](http://hao.caibaojian.com/87892.html) （SegmentFault）
-* [从内部了解现代浏览器(2)](http://hao.caibaojian.com/87905.html) （稀土掘金）
-
-***
-* [CSS魔法堂：display:none与visibility:hidden的恩怨情仇](http://hao.caibaojian.com/87883.html) （SegmentFault）
-* [一头栽进了 TensorFlow Lite 的巨坑里](http://hao.caibaojian.com/87924.html) （开发者头条）
-* [写 Shader 转场的几点思考](http://hao.caibaojian.com/87906.html) （稀土掘金）
-* [Laravel核心解读&#8211;Contracts契约](http://hao.caibaojian.com/87884.html) （SegmentFault）
-* [element上传组件循环引用及简单时间倒计时](http://hao.caibaojian.com/87937.html) （推酷网）
+* [电商搜索算法技术的演进](http://hao.caibaojian.com/87980.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
