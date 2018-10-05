@@ -1,29 +1,38 @@
-# [2018-10-04 精选博文推荐](http://hao.caibaojian.com/date/2018/10/04)
+# [2018-10-05 精选博文推荐](http://hao.caibaojian.com/date/2018/10/05)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [你会使用ES6 ，但这几点你可能不知道，感觉身体被掏空](http://hao.caibaojian.com/88064.html) （SegmentFault）
-* [强大易用支持 URL Rewrite 的 iOS 路由库 FFRouter](http://hao.caibaojian.com/88077.html) （开发者头条）
-* [vue-sticky组件详解](http://hao.caibaojian.com/88065.html) （SegmentFault）
-* [ES6入门（第二部分）](http://hao.caibaojian.com/88068.html) （稀土掘金）
-* [技术讨论 | 自动化Web渗透Payload提取技术](http://hao.caibaojian.com/88091.html) （推酷网）
+* [MathJax: 让前端支持数学公式](http://hao.caibaojian.com/88136.html) （推酷网）
+* [CSS魔法堂：改变单选框颜色就这么吹毛求疵](http://hao.caibaojian.com/88108.html) （SegmentFault）
+* [大话 JavaScript 动画](http://hao.caibaojian.com/88135.html) （推酷网）
+* [理解JavaScript Call()函数原理](http://hao.caibaojian.com/88137.html) （推酷网）
+* [Lyft 的 Service Mesh 工具 Envoy](http://hao.caibaojian.com/88147.html) （开发者头条）
 
 ***
-* [段永平连答 53 问，核心是 “不为清单”](http://hao.caibaojian.com/88072.html) （开发者头条）
-* [死磕 Elasticsearch 方法论认知清单（国庆更新版）](http://hao.caibaojian.com/88071.html) （开发者头条）
-* [人工智能作曲、算法作曲指南](http://hao.caibaojian.com/88076.html) （开发者头条）
-* [探寻 JavaScript 精度问题](http://hao.caibaojian.com/88067.html) （稀土掘金）
-* [Android WebView 研究笔记](http://hao.caibaojian.com/88079.html) （开发者头条）
+* [vue-router页面跳转 以及页面配置](http://hao.caibaojian.com/88106.html) （SegmentFault）
+* [安装Git bash 和使用Git](http://hao.caibaojian.com/88109.html) （SegmentFault）
+* [探寻 JavaScript 精度问题以及解决方案](http://hao.caibaojian.com/88114.html) （稀土掘金）
+* [Python打包系统简单入门](http://hao.caibaojian.com/88104.html) （SegmentFault）
+* [你的like语句为啥没索引？](http://hao.caibaojian.com/88105.html) （SegmentFault）
 
 ***
-* [个人免签收款接口 bufpay.com 支持限额设置](http://hao.caibaojian.com/88066.html) （SegmentFault）
-* [抓包 gRPC 的细节及分析](http://hao.caibaojian.com/88080.html) （开发者头条）
-* [Facebook任意JS代码执行漏洞原理与利用分析](http://hao.caibaojian.com/88092.html) （推酷网）
-* [基于 Docker 搭建 Mac 本地 HBase 环境](http://hao.caibaojian.com/88073.html) （开发者头条）
-* [自然语言语义代码搜索之路](http://hao.caibaojian.com/88074.html) （开发者头条）
+* [我所理解的高级工程师](http://hao.caibaojian.com/88121.html) （开发者头条）
+* [全解跨域请求处理办法](http://hao.caibaojian.com/88107.html) （SegmentFault）
+* [汇编层面分析函数调用](http://hao.caibaojian.com/88124.html) （开发者头条）
+* [Python 爬虫利器 Beautiful Soup 4 之文档树的搜索](http://hao.caibaojian.com/88110.html) （SegmentFault）
+* [设计模式之状态模式](http://hao.caibaojian.com/88112.html) （稀土掘金）
 
 ***
-* [两年搜索推荐的技术演进之路](http://hao.caibaojian.com/88075.html) （开发者头条）
-* [数据分析指北：KNIME 模块](http://hao.caibaojian.com/88078.html) （开发者头条）
+* [顶级 Kagglers 的心得和技巧](http://hao.caibaojian.com/88119.html) （开发者头条）
+* [ES入门（第三部分）](http://hao.caibaojian.com/88113.html) （稀土掘金）
+* [分布式文件系统 .get (V2)](http://hao.caibaojian.com/88120.html) （开发者头条）
+* [Hadoop 集群基准测试](http://hao.caibaojian.com/88148.html) （开发者头条）
+* [Go 语言 interface 底层实现](http://hao.caibaojian.com/88123.html) （开发者头条）
+
+***
+* [Go 中的 wasm 汇编语言](http://hao.caibaojian.com/88122.html) （开发者头条）
+* [WiscKey：LSM-Tree 写放大优化](http://hao.caibaojian.com/88125.html) （开发者头条）
+* [设计模式之适配器模式](http://hao.caibaojian.com/88111.html) （稀土掘金）
+* [iOS 的组件化开发](http://hao.caibaojian.com/88126.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
