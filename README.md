@@ -1,46 +1,46 @@
-# [2018-10-07 精选博文推荐](http://hao.caibaojian.com/date/2018/10/07)
+# [2018-11-21 精选博文推荐](http://hao.caibaojian.com/date/2018/11/21)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [前端每日实战：151# 视频演示如何用纯 CSS 创作超能陆战队的大白](http://hao.caibaojian.com/88218.html) （SegmentFault）
-* [作为前端新手，你所不知道的JavaScript是有多厉害](http://hao.caibaojian.com/88281.html) （SegmentFault）
-* [我用文本挖掘分析了 5 万首《全唐诗》，发现了这些秘密](http://hao.caibaojian.com/88220.html) （开发者头条）
-* [分布式中几种服务注册与发现组件的原理与比较](http://hao.caibaojian.com/88222.html) （开发者头条）
-* [使用THREE.js制作一款3D游戏](http://hao.caibaojian.com/88268.html) （稀土掘金）
+* [只知道ajax？你已经out了](http://hao.caibaojian.com/92359.html) （SegmentFault）
+* [《css世界》- 详细重点笔记与技巧](http://hao.caibaojian.com/92367.html) （SegmentFault）
+* [Vue数据通信详解](http://hao.caibaojian.com/92353.html) （SegmentFault）
+* [css实现单行、多行文本超出显示省略号](http://hao.caibaojian.com/92357.html) （SegmentFault）
+* [webpack常用插件总结篇](http://hao.caibaojian.com/92410.html) （推酷网）
 
 ***
-* [你真的知道网页上传文件背后的原理吗？](http://hao.caibaojian.com/88221.html) （开发者头条）
-* [令人困惑的 TensorFlow（二）](http://hao.caibaojian.com/88223.html) （开发者头条）
-* [Elasticsearch Nested 类型深入详解](http://hao.caibaojian.com/88253.html) （开发者头条）
-* [linux常用指令学习记录](http://hao.caibaojian.com/88216.html) （SegmentFault）
-* [正则表达式-基础知识Review](http://hao.caibaojian.com/88279.html) （SegmentFault）
+* [JavaScript 如日中天，2018趋势报告来啦](http://hao.caibaojian.com/92411.html) （推酷网）
+* [webpack打包结果依赖分析](http://hao.caibaojian.com/92412.html) （推酷网）
+* [Vue.js 3.0 新特性预览](http://hao.caibaojian.com/92373.html) （开发者头条）
+* [浅谈前端错误处理](http://hao.caibaojian.com/92415.html) （推酷网）
+* [node.js中常用的fs文件系统](http://hao.caibaojian.com/92354.html) （SegmentFault）
 
 ***
-* [用 R 语言实现数据离散化](http://hao.caibaojian.com/88227.html) （开发者头条）
-* [Redis 命令详解：Keys](http://hao.caibaojian.com/88254.html) （开发者头条）
-* [基于ZStack设计一个较为简单的自动化测试系统](http://hao.caibaojian.com/88217.html) （SegmentFault）
-* [Java基础【五】 &#8211; 常用类库：java.lang.String](http://hao.caibaojian.com/88280.html) （SegmentFault）
-* [一个 “小白” 眼中的容器](http://hao.caibaojian.com/88228.html) （开发者头条）
+* [程序员练级攻略（2018）：前端基础和底层原理](http://hao.caibaojian.com/92355.html) （SegmentFault）
+* [阿里云1888元优惠券领取及使用教程](http://hao.caibaojian.com/92523.html) （前端开发博客）
+* [ES6 系列之私有变量的实现](http://hao.caibaojian.com/92351.html) （SegmentFault）
+* [Golang 项目实战简明指南](http://hao.caibaojian.com/92374.html) （开发者头条）
+* [前端杂谈: Attribute VS Property](http://hao.caibaojian.com/92416.html) （推酷网）
 
 ***
-* [灰度发布：灰度很简单，发布很复杂](http://hao.caibaojian.com/88265.html) （稀土掘金）
-* [day52_BOS项目_04](http://hao.caibaojian.com/88238.html) （推酷网）
-* [当你创建 Flexbox 布局时，都发生了什么？](http://hao.caibaojian.com/88266.html) （稀土掘金）
-* [6-9月技术文章汇总](http://hao.caibaojian.com/88247.html) （SegmentFault）
-* [什么是模块化 CSS？](http://hao.caibaojian.com/88267.html) （稀土掘金）
+* [【MySQL源码分析】浅谈Mysql的锁](http://hao.caibaojian.com/92356.html) （SegmentFault）
+* [万向区块链肖风：区块链与互联网的六大不同点](http://hao.caibaojian.com/92379.html) （开发者头条）
+* [Service Worker学习与实践（二）——PWA简介](http://hao.caibaojian.com/92358.html) （SegmentFault）
+* [学习编程并不是学习编程语言](http://hao.caibaojian.com/92369.html) （SegmentFault）
+* [PHP Socket 编程详解](http://hao.caibaojian.com/92520.html) （程序员俱乐部）
 
 ***
-* [建立团队的性能文化](http://hao.caibaojian.com/88249.html) （开发者头条）
-* [Java基础【三】 &#8211; 常用类库：java.lang.Enum](http://hao.caibaojian.com/88219.html) （SegmentFault）
-* [Android 上的 ART 虚拟机](http://hao.caibaojian.com/88250.html) （开发者头条）
-* [用jQuery手写一个小游戏](http://hao.caibaojian.com/88269.html) （稀土掘金）
-* [断点调试和日志调试之间的平衡点：函数计算调试之 Python 篇](http://hao.caibaojian.com/88255.html) （开发者头条）
+* [今日头条 CEO 陈林：真正做产品的人，应该来头条看一看](http://hao.caibaojian.com/92380.html) （开发者头条）
+* [漫话：如何给女朋友解释为什么双 11 当天不能申请退款](http://hao.caibaojian.com/92370.html) （开发者头条）
+* [再有人问你Netty是什么，就把这篇文章发给他](http://hao.caibaojian.com/92521.html) （IT程序猿）
+* [Go 1.11 中值得关注的几个变化](http://hao.caibaojian.com/92381.html) （开发者头条）
+* [Service Worker学习与实践（三）——消息推送](http://hao.caibaojian.com/92360.html) （SegmentFault）
 
 ***
-* [前端每日实战：152# 视频演示如何用纯 CSS 创作一个圆点错觉效果](http://hao.caibaojian.com/88277.html) （SegmentFault）
-* [Go 语言中间件框架 Negroni 的静态文件处理源码分析](http://hao.caibaojian.com/88251.html) （开发者头条）
-* [Spring中注解大全和应用](http://hao.caibaojian.com/88275.html) （SegmentFault）
-* [PHP 的多进程并发](http://hao.caibaojian.com/88224.html) （开发者头条）
-* [Shiro 集成 Spring 之授权缓存](http://hao.caibaojian.com/88256.html) （开发者头条）
+* [阿里如何做到百万量级硬件故障自愈？](http://hao.caibaojian.com/92371.html) （开发者头条）
+* [新说MySQL事务隔离级别](http://hao.caibaojian.com/92522.html) （IT程序猿）
+* [本机搭建三节点 k8s 集群](http://hao.caibaojian.com/92382.html) （开发者头条）
+* [如何构建通用存储中间层](http://hao.caibaojian.com/92361.html) （SegmentFault）
+* [不要再说虚拟 DOM 有多快了](http://hao.caibaojian.com/92413.html) （推酷网）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
