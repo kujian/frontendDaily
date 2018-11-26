@@ -1,46 +1,46 @@
-# [2018-11-25 精选博文推荐](http://hao.caibaojian.com/date/2018/11/25)
+# [2018-11-26 精选博文推荐](http://hao.caibaojian.com/date/2018/11/26)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [记一次前端面试的全过程](http://hao.caibaojian.com/92705.html) （SegmentFault）
-* [10分钟快速精通rollup.js——前置学习之基础知识篇](http://hao.caibaojian.com/92747.html) （推酷网）
-* [electron + vue项目实现打印小票功能](http://hao.caibaojian.com/92749.html) （推酷网）
-* [当spring boot 遇到 vue-admin, 搭建完美后台](http://hao.caibaojian.com/92707.html) （SegmentFault）
-* [赶上 ECMAScript 潮流：用现代 JavaScript 编程](http://hao.caibaojian.com/92750.html) （推酷网）
+* [前端JS 异常处理实践](http://hao.caibaojian.com/92812.html) （推酷网）
+* [NPM生态报告，React和Vue的差距居然这么大？](http://hao.caibaojian.com/92817.html) （推酷网）
+* [前端开发常用的函数](http://hao.caibaojian.com/92781.html) （SegmentFault）
+* [三行代码实现 JS 柯里化](http://hao.caibaojian.com/92823.html) （推酷网）
+* [深入Vue.js从源码开始(二)](http://hao.caibaojian.com/92786.html) （SegmentFault）
 
 ***
-* [Immutable.js 源码解析 &#8211;List 类型](http://hao.caibaojian.com/92718.html) （SegmentFault）
-* [vue下实现input实现图片上传，压缩，拼接以及旋转](http://hao.caibaojian.com/92720.html) （SegmentFault）
-* [10分钟快速精通rollup.js——前置学习之rollup.js插件篇](http://hao.caibaojian.com/92745.html) （推酷网）
-* [使用 Kotlin + WebFlux/RxJava 2 实现响应式以及尝试正式版本的协程](http://hao.caibaojian.com/92725.html) （开发者头条）
-* [消息队列常见的 5 个应用场景](http://hao.caibaojian.com/92715.html) （SegmentFault）
+* [复习Javascript专题（五）：js中的循环遍历](http://hao.caibaojian.com/92788.html) （SegmentFault）
+* [VUE CONF大会之后的感想(非技术)](http://hao.caibaojian.com/92822.html) （推酷网）
+* [vuex 渐进式教程（一）](http://hao.caibaojian.com/92815.html) （推酷网）
+* [我从来不理解JavaScript闭包，直到有人这样向我解释它&#8230;](http://hao.caibaojian.com/92776.html) （SegmentFault）
+* [webpack4升级篇](http://hao.caibaojian.com/92818.html) （推酷网）
 
 ***
-* [RSUITE：为后台产品而生的 React 组件库](http://hao.caibaojian.com/92726.html) （开发者头条）
-* [前端猎奇系列之探索Python来反补JavaScript——上篇](http://hao.caibaojian.com/92748.html) （推酷网）
-* [Iconfont使用手册](http://hao.caibaojian.com/92716.html) （SegmentFault）
-* [Restful API 监控实践](http://hao.caibaojian.com/92727.html) （开发者头条）
-* [JavaScript禁止页面回退的方法](http://hao.caibaojian.com/92706.html) （SegmentFault）
+* [详解react、redux、react-redux之间的关系](http://hao.caibaojian.com/92790.html) （SegmentFault）
+* [JavaScript阴沟里翻船之运算符优先级](http://hao.caibaojian.com/92813.html) （推酷网）
+* [Soul：异步、高性能、跨语言、响应式的 API 网关](http://hao.caibaojian.com/92798.html) （开发者头条）
+* [《JS高级程序设计》读书笔记&#8212;-JS创建对象的七种模式](http://hao.caibaojian.com/92793.html) （SegmentFault）
+* [“JavaScript的成员字段提案”或“TC39委员出了什么问题？”](http://hao.caibaojian.com/92814.html) （推酷网）
 
 ***
-* [快速区间查询算法 &#8211; 线段树](http://hao.caibaojian.com/92717.html) （SegmentFault）
-* [手把手教你使用 CompletableFuture](http://hao.caibaojian.com/92728.html) （开发者头条）
-* [Lucene 高性能索引之道](http://hao.caibaojian.com/92729.html) （开发者头条）
-* [你真的知道Python的字符串怎么用吗？](http://hao.caibaojian.com/92708.html) （SegmentFault）
-* [Netty网络聊天(一) 聊天室的实战(最易懂)](http://hao.caibaojian.com/92751.html) （推酷网）
+* [JS处理base64编码](http://hao.caibaojian.com/92787.html) （SegmentFault）
+* [(译)React hooks：它不是一种魔法，只是一个数组——使用图表揭秘提案规则](http://hao.caibaojian.com/92780.html) （SegmentFault）
+* [Vue中的methods、watch、computed](http://hao.caibaojian.com/92783.html) （SegmentFault）
+* [程序员如何选择第一家公司](http://hao.caibaojian.com/92785.html) （SegmentFault）
+* [性能之殇（一）：天才冯·诺依曼与冯·诺依曼瓶颈](http://hao.caibaojian.com/92796.html) （开发者头条）
 
 ***
-* [复习Javascript专题（四）：js中的深浅拷贝](http://hao.caibaojian.com/92719.html) （SegmentFault）
-* [美团餐饮娱乐知识图谱：美团大脑揭秘](http://hao.caibaojian.com/92730.html) （开发者头条）
-* [songEagle开发系列:Vue + Vuex + Koa 中使用JWT认证](http://hao.caibaojian.com/92709.html) （SegmentFault）
-* [Scrapy爬取Ajax（异步加载）网页实例——简书付费连载](http://hao.caibaojian.com/92753.html) （推酷网）
-* [调试 Flink 源码](http://hao.caibaojian.com/92731.html) （开发者头条）
+* [计算机是怎样跑起来的](http://hao.caibaojian.com/92797.html) （开发者头条）
+* [通过发布订阅模式实现的事件委托](http://hao.caibaojian.com/92816.html) （推酷网）
+* [后端小白的我，是如何成功搭建 express+mongodb 的简洁博客网站后端的](http://hao.caibaojian.com/92777.html) （SegmentFault）
+* [从杀软之殇谈产品](http://hao.caibaojian.com/92799.html) （开发者头条）
+* [如何判断一个元素在亿级数据中是否存在？](http://hao.caibaojian.com/92778.html) （SegmentFault）
 
 ***
-* [彻底理解Netty，这一篇文章就够了](http://hao.caibaojian.com/92710.html) （SegmentFault）
-* [OceanLotus最新水坑攻击活动分析](http://hao.caibaojian.com/92754.html) （推酷网）
-* [中台是个什么鬼](http://hao.caibaojian.com/92721.html) （开发者头条）
-* [简谈对虚拟Dom的理解](http://hao.caibaojian.com/92743.html) （推酷网）
-* [深入了解最新的Vue Devtools v5.0](http://hao.caibaojian.com/92711.html) （SegmentFault）
+* [go语言将表数据动态转成切片(字段任意拓展)](http://hao.caibaojian.com/92789.html) （SegmentFault）
+* [美团即时物流的分布式系统架构设计](http://hao.caibaojian.com/92800.html) （开发者头条）
+* [electron制作聊天界面(仿制qq)](http://hao.caibaojian.com/92779.html) （SegmentFault）
+* [seelog源码阅读【笔记】](http://hao.caibaojian.com/92819.html) （推酷网）
+* [数据分析指北之 KNIME 模块：Data Access 类型模块之二 Database 模块集合](http://hao.caibaojian.com/92801.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
