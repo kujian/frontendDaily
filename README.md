@@ -1,46 +1,46 @@
-# [2018-12-05 精选博文推荐](http://hao.caibaojian.com/date/2018/12/05)
+# [2018-12-06 精选博文推荐](http://hao.caibaojian.com/date/2018/12/06)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [了解JavaScript中的Memoization以提高性能,再看React的应用](http://hao.caibaojian.com/93713.html) （推酷网）
-* [初识区块链 &#8211; 用JS构建你自己的区块链](http://hao.caibaojian.com/93718.html) （推酷网）
-* [前端进阶（第一期）-调用堆栈笔记](http://hao.caibaojian.com/93720.html) （推酷网）
-* [webpack 打包多页面](http://hao.caibaojian.com/93721.html) （推酷网）
-* [通用、封装、简化 webpack 配置](http://hao.caibaojian.com/93688.html) （SegmentFault）
+* [为什么越来越少的人用jQuery](http://hao.caibaojian.com/93837.html) （推酷网）
+* [前端工程工作流规范](http://hao.caibaojian.com/93826.html) （推酷网）
+* [尤雨溪：React 是不是比 Vue 牛，为什么？](http://hao.caibaojian.com/93780.html) （开发者头条）
+* [Html5 Canvas动画基础（碰撞检测）](http://hao.caibaojian.com/93831.html) （推酷网）
+* [前端 SPA（单页面应用）性能优化，交互体验加成](http://hao.caibaojian.com/93790.html) （开发者头条）
 
 ***
-* [彻底理解JavaScript函数的调用方式和传参方式——结合经典面试题](http://hao.caibaojian.com/93723.html) （推酷网）
-* [前站 &#8211; 前端导航，搜索社区，阅读文章，提升技术](http://hao.caibaojian.com/93699.html) （SegmentFault）
-* [vue中async-await的使用误区](http://hao.caibaojian.com/93715.html) （推酷网）
-* [前端面试常考知识点&#8212;CSS](http://hao.caibaojian.com/93692.html) （SegmentFault）
-* [NodeJS应用程序身份验证绕过漏洞分析](http://hao.caibaojian.com/93729.html) （推酷网）
+* [vue3.0尝鲜 &#8212; 摒弃Object.defineProperty，基于 Proxy 的观察者机制探索](http://hao.caibaojian.com/93818.html) （推酷网）
+* [彻底弄懂JS原型与继承](http://hao.caibaojian.com/93819.html) （推酷网）
+* [详谈js防抖和节流](http://hao.caibaojian.com/93765.html) （SegmentFault）
+* [Promise之Promise.all、Promise.race](http://hao.caibaojian.com/93836.html) （推酷网）
+* [基于 Nginx 的 HTTPS 性能优化实践](http://hao.caibaojian.com/93766.html) （SegmentFault）
 
 ***
-* [javascript忍者秘籍-第五章 闭包和作用域](http://hao.caibaojian.com/93710.html) （推酷网）
-* [ECMAScript 2015（ES6）有用的提示与技巧](http://hao.caibaojian.com/93686.html) （SegmentFault）
-* [教你如何编写Babel插件](http://hao.caibaojian.com/93711.html) （推酷网）
-* [http中web前后端的跨域](http://hao.caibaojian.com/93701.html) （SegmentFault）
-* [快速利用 vue 或者 react 开发 chrome 插件](http://hao.caibaojian.com/93726.html) （推酷网）
+* [JavaScript 遍历、枚举与迭代的骚操作（下篇）](http://hao.caibaojian.com/93828.html) （推酷网）
+* [MakaJs：基于 React, Redux 的轻量级前端框架](http://hao.caibaojian.com/93793.html) （开发者头条）
+* [Node.js Streams 基础总结](http://hao.caibaojian.com/93832.html) （推酷网）
+* [被抛弃的 tcp_recycle](http://hao.caibaojian.com/93784.html) （开发者头条）
+* [immer.js 实战讲解](http://hao.caibaojian.com/93774.html) （SegmentFault）
 
 ***
-* [看完React文档后，重写了下CnodeJS社区，感觉看上去还不错](http://hao.caibaojian.com/93703.html) （SegmentFault）
-* [Vue中的基础过渡动画原理解析](http://hao.caibaojian.com/93728.html) （推酷网）
-* [快速理解D3js 数据绑定之 enter 与 exit 与 update](http://hao.caibaojian.com/93722.html) （推酷网）
-* [JavaScript中的函数继承](http://hao.caibaojian.com/93725.html) （推酷网）
-* [js错误处理权威指北](http://hao.caibaojian.com/93716.html) （推酷网）
+* [使用 rollup 打包 JS](http://hao.caibaojian.com/93835.html) （推酷网）
+* [手写（radio）element-ui组件](http://hao.caibaojian.com/93825.html) （推酷网）
+* [理解 Storm 拓扑的并行度](http://hao.caibaojian.com/93798.html) （开发者头条）
+* [Webpack 项目优化杂记](http://hao.caibaojian.com/93776.html) （SegmentFault）
+* [初探 Vue3.0 中的一大亮点——Proxy](http://hao.caibaojian.com/93816.html) （推酷网）
 
 ***
-* [老大难的 Java ClassLoader，到了该彻底理解它的时候了](http://hao.caibaojian.com/93704.html) （开发者头条）
-* [吐槽:团队解散，我们该何去何从？](http://hao.caibaojian.com/93696.html) （SegmentFault）
-* [究竟什么是DOM？](http://hao.caibaojian.com/93697.html) （SegmentFault）
-* [使用Charles抓包](http://hao.caibaojian.com/93687.html) （SegmentFault）
-* [深夜放毒，AI 下面给你吃呀？](http://hao.caibaojian.com/93698.html) （SegmentFault）
+* [(译)React是如何区分Class和Function？](http://hao.caibaojian.com/93827.html) （推酷网）
+* [轻量级配置中心Nodejs版](http://hao.caibaojian.com/93817.html) （推酷网）
+* [卷积神经网络导览](http://hao.caibaojian.com/93778.html) （SegmentFault）
+* [mysql自增id超大问题查询](http://hao.caibaojian.com/93768.html) （SegmentFault）
+* [Promise深入探索](http://hao.caibaojian.com/93829.html) （推酷网）
 
 ***
-* [Chrome 72 开发者工具新特性](http://hao.caibaojian.com/93712.html) （推酷网）
-* [PHP 协程：Go + Chan + Defer](http://hao.caibaojian.com/93689.html) （SegmentFault）
-* [【进阶3-3期】深度广度解析 call 和 apply 原理、使用场景及实现](http://hao.caibaojian.com/93724.html) （推酷网）
-* [为什么前端工程师需要关注设计](http://hao.caibaojian.com/93700.html) （SegmentFault）
-* [javascript 资料型態/结构验证库 : Skeletons](http://hao.caibaojian.com/93714.html) （推酷网）
+* [vue中的computed的this指向问题](http://hao.caibaojian.com/93771.html) （SegmentFault）
+* [使用 JavaScript 实现 SkipList 这种数据结构](http://hao.caibaojian.com/93794.html) （开发者头条）
+* [React代码开发规范](http://hao.caibaojian.com/93772.html) （SegmentFault）
+* [【进阶1-4期】JavaScript深入之带你走进内存机制](http://hao.caibaojian.com/93822.html) （推酷网）
+* [HTTPS 优化必须了解 ChaCha20-Poly1305 算法](http://hao.caibaojian.com/93783.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
