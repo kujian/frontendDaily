@@ -1,46 +1,46 @@
-# [2018-12-07 精选博文推荐](http://hao.caibaojian.com/date/2018/12/07)
+# [2018-12-08 精选博文推荐](http://hao.caibaojian.com/date/2018/12/08)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript开发的40+个经典技巧](http://hao.caibaojian.com/93952.html) （推酷网）
-* [关于JavaScript函数式编程的思考](http://hao.caibaojian.com/93949.html) （推酷网）
-* [深入理解JavaScript原型链与继承](http://hao.caibaojian.com/93945.html) （推酷网）
-* [在Vue项目中加载krpano全景图](http://hao.caibaojian.com/93989.html) （SegmentFault）
-* [2019怎么样打造自己的“前端品牌”](http://hao.caibaojian.com/93879.html) （SegmentFault）
+* [5个Vuex插件，让你下一个VueJS项目开发速度提升3倍](http://hao.caibaojian.com/94044.html) （推酷网）
+* [你不知道的Node.js性能优化，读了之后水平直线上升](http://hao.caibaojian.com/93992.html) （SegmentFault）
+* [Vue源码中为什么要const _toStr = Object.prototype.toString？](http://hao.caibaojian.com/94048.html) （推酷网）
+* [国外十大顶级Nodejs框架，有你在用的吗？](http://hao.caibaojian.com/94040.html) （推酷网）
+* [360 移动 App 性能监控平台 ArgusAPM 开源](http://hao.caibaojian.com/94019.html) （开发者头条）
 
 ***
-* [疟疾检测：Keras 深度学习医学图像分析](http://hao.caibaojian.com/93909.html) （开发者头条）
-* [KPC：金山云出品的支持多框架的前端高质量组件库](http://hao.caibaojian.com/93903.html) （开发者头条）
-* [【进阶1-1期】理解JavaScript 中的执行上下文和执行栈](http://hao.caibaojian.com/93946.html) （推酷网）
-* [前端调试利器 Whistle：一个更高级的 Resource Override](http://hao.caibaojian.com/93894.html) （开发者头条）
-* [【进阶1-2期】JavaScript深入之执行上下文栈和变量对象](http://hao.caibaojian.com/93947.html) （推酷网）
+* [OMG,这些鲜为人知的JavaScript 特性](http://hao.caibaojian.com/93991.html) （SegmentFault）
+* [如何用 es6+ 写出优雅的 js 代码](http://hao.caibaojian.com/94038.html) （推酷网）
+* [Dubbo 即将毕业，晋升为 Apache 顶级项目？](http://hao.caibaojian.com/94020.html) （开发者头条）
+* [一次 macOS 下 C++ 的 STL 踩坑记录](http://hao.caibaojian.com/94000.html) （SegmentFault）
+* [babel能不能分析代码然后按需polyfill ？](http://hao.caibaojian.com/94047.html) （推酷网）
 
 ***
-* [Git 版本控制之 Git-Flow](http://hao.caibaojian.com/93905.html) （开发者头条）
-* [【进阶1-3期】JavaScript深入之内存空间详细图解](http://hao.caibaojian.com/93948.html) （推酷网）
-* [JS—-this指向（二）](http://hao.caibaojian.com/93939.html) （推酷网）
-* [这篇是ECMAScript 2016、2017和2018中所有新特性的示例](http://hao.caibaojian.com/93877.html) （SegmentFault）
-* [HBase 篇（六）：HFile 合并过程详解](http://hao.caibaojian.com/93910.html) （开发者头条）
+* [Kubernetes Ingress 自动化 HTTPS](http://hao.caibaojian.com/94013.html) （开发者头条）
+* [一篇文章弄懂 JavaScript 中的 import](http://hao.caibaojian.com/94037.html) （推酷网）
+* [Linux 命令详解：SFTP](http://hao.caibaojian.com/94017.html) （开发者头条）
+* [如何理解JavaScript的原型和原型链？](http://hao.caibaojian.com/94041.html) （推酷网）
+* [学习ET(2) &#8211; 替换角色的模型](http://hao.caibaojian.com/93998.html) （SegmentFault）
 
 ***
-* [可视化探索卷积神经网络提取特征](http://hao.caibaojian.com/93911.html) （开发者头条）
-* [Easier Way to Understand apply and call in JS](http://hao.caibaojian.com/93990.html) （SegmentFault）
-* [记一次 Webpack 项目优化](http://hao.caibaojian.com/93943.html) （推酷网）
-* [LAF-DTX 分布式事务中间件](http://hao.caibaojian.com/93912.html) （开发者头条）
-* [【人物志】技术十年：美团第一位前端工程师潘魏增](http://hao.caibaojian.com/93981.html) （SegmentFault）
+* [egg 设置跨域白名单](http://hao.caibaojian.com/94043.html) （推酷网）
+* [简单易懂的讲解深度学习（七）](http://hao.caibaojian.com/94009.html) （开发者头条）
+* [python之属性描述符](http://hao.caibaojian.com/93999.html) （SegmentFault）
+* [10 分钟读懂阿里巴巴高级专家在 Flutter Live2018 的分享](http://hao.caibaojian.com/94010.html) （开发者头条）
+* [输入长度受限情况下的 XSS 攻击](http://hao.caibaojian.com/94034.html) （推酷网）
 
 ***
-* [一起来看 rxjs](http://hao.caibaojian.com/93881.html) （SegmentFault）
-* [Android 架构之长连接技术](http://hao.caibaojian.com/93895.html) （开发者头条）
-* [开源中文书《TensorFlow 内核剖析》](http://hao.caibaojian.com/93906.html) （开发者头条）
-* [把GitHub作为图床](http://hao.caibaojian.com/93985.html) （SegmentFault）
-* [如何解析你，Excel的Date呀](http://hao.caibaojian.com/93988.html) （SegmentFault）
+* [Code Breaking挑战赛 Writeup](http://hao.caibaojian.com/94045.html) （推酷网）
+* [当 Dubbo 遇上 Arthas：排查问题的实践](http://hao.caibaojian.com/94011.html) （开发者头条）
+* [有赞零售小票打印跨平台解决方案](http://hao.caibaojian.com/94035.html) （推酷网）
+* [golang框架gin中间件的写法](http://hao.caibaojian.com/94001.html) （SegmentFault）
+* [【进阶3-4期】深度解析bind原理、使用场景及模拟实现](http://hao.caibaojian.com/94046.html) （推酷网）
 
 ***
-* [阿里毕玄：技术人应如何选择职业发展路线？](http://hao.caibaojian.com/93888.html) （SegmentFault）
-* [Markcook1.0 的开发总结](http://hao.caibaojian.com/93941.html) （推酷网）
-* [iOS 开发：深入理解 Xcode 工程结构（一）](http://hao.caibaojian.com/93899.html) （开发者头条）
-* [来狂撸一款PHP现代化框架 (一)](http://hao.caibaojian.com/93878.html) （SegmentFault）
-* [CentOS7 下安装 Mysql 8](http://hao.caibaojian.com/93889.html) （SegmentFault）
+* [Redis 内存空间简单分析](http://hao.caibaojian.com/94012.html) （开发者头条）
+* [手把手教你使用Dygraphs可视化时间序列数据（附代码、链接）](http://hao.caibaojian.com/94036.html) （推酷网）
+* [Jeff Dean 的激荡人生：我和 Sanjay 在同一台电脑上写代码](http://hao.caibaojian.com/94002.html) （开发者头条）
+* [月薪 8k 和月薪 38K 的程序员，差距在哪里？](http://hao.caibaojian.com/94003.html) （开发者头条）
+* [Flutter 学习资料](http://hao.caibaojian.com/94014.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
