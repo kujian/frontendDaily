@@ -1,46 +1,46 @@
-# [2018-12-08 精选博文推荐](http://hao.caibaojian.com/date/2018/12/08)
+# [2018-12-09 精选博文推荐](http://hao.caibaojian.com/date/2018/12/09)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [5个Vuex插件，让你下一个VueJS项目开发速度提升3倍](http://hao.caibaojian.com/94044.html) （推酷网）
-* [你不知道的Node.js性能优化，读了之后水平直线上升](http://hao.caibaojian.com/93992.html) （SegmentFault）
-* [Vue源码中为什么要const _toStr = Object.prototype.toString？](http://hao.caibaojian.com/94048.html) （推酷网）
-* [国外十大顶级Nodejs框架，有你在用的吗？](http://hao.caibaojian.com/94040.html) （推酷网）
-* [360 移动 App 性能监控平台 ArgusAPM 开源](http://hao.caibaojian.com/94019.html) （开发者头条）
+* [vue权限路由实现方式总结二](http://hao.caibaojian.com/94122.html) （推酷网）
+* [JS的防抖，节流，柯里化和反柯里化](http://hao.caibaojian.com/94128.html) （推酷网）
+* [【音乐App】—— Vue2.0开发移动端音乐WebApp项目爬坑（一）](http://hao.caibaojian.com/94129.html) （推酷网）
+* [CSS 应用之数据上报和HTML验证](http://hao.caibaojian.com/94147.html) （奇舞团）
+* [所有的函式都是閉包：談 JS 中的作用域與 Closure](http://hao.caibaojian.com/94121.html) （推酷网）
 
 ***
-* [OMG,这些鲜为人知的JavaScript 特性](http://hao.caibaojian.com/93991.html) （SegmentFault）
-* [如何用 es6+ 写出优雅的 js 代码](http://hao.caibaojian.com/94038.html) （推酷网）
-* [Dubbo 即将毕业，晋升为 Apache 顶级项目？](http://hao.caibaojian.com/94020.html) （开发者头条）
-* [一次 macOS 下 C++ 的 STL 踩坑记录](http://hao.caibaojian.com/94000.html) （SegmentFault）
-* [babel能不能分析代码然后按需polyfill ？](http://hao.caibaojian.com/94047.html) （推酷网）
+* [One simple way to draw canvas, wxml2canvas](http://hao.caibaojian.com/94123.html) （推酷网）
+* [精读 html 源码](http://hao.caibaojian.com/94145.html) （奇舞团）
+* [小议JS原型链、继承](http://hao.caibaojian.com/94114.html) （推酷网）
+* [服务器获取真实客户端 IP](http://hao.caibaojian.com/94087.html) （SegmentFault）
+* [让代码飞起来：高性能 Julia 学习笔记（二）](http://hao.caibaojian.com/94098.html) （开发者头条）
 
 ***
-* [Kubernetes Ingress 自动化 HTTPS](http://hao.caibaojian.com/94013.html) （开发者头条）
-* [一篇文章弄懂 JavaScript 中的 import](http://hao.caibaojian.com/94037.html) （推酷网）
-* [Linux 命令详解：SFTP](http://hao.caibaojian.com/94017.html) （开发者头条）
-* [如何理解JavaScript的原型和原型链？](http://hao.caibaojian.com/94041.html) （推酷网）
-* [学习ET(2) &#8211; 替换角色的模型](http://hao.caibaojian.com/93998.html) （SegmentFault）
+* [用户体验设计师能为 SEO 做什么？](http://hao.caibaojian.com/94146.html) （奇舞团）
+* [从零实现Vue的组件库（零）-基本结构以及构建工具](http://hao.caibaojian.com/94115.html) （推酷网）
+* [注意力机制实现机器翻译](http://hao.caibaojian.com/94088.html) （SegmentFault）
+* [Gradle 之 Android 中的应用](http://hao.caibaojian.com/94099.html) （开发者头条）
+* [使用 es6写更加简洁的 js代码](http://hao.caibaojian.com/94116.html) （推酷网）
 
 ***
-* [egg 设置跨域白名单](http://hao.caibaojian.com/94043.html) （推酷网）
-* [简单易懂的讲解深度学习（七）](http://hao.caibaojian.com/94009.html) （开发者头条）
-* [python之属性描述符](http://hao.caibaojian.com/93999.html) （SegmentFault）
-* [10 分钟读懂阿里巴巴高级专家在 Flutter Live2018 的分享](http://hao.caibaojian.com/94010.html) （开发者头条）
-* [输入长度受限情况下的 XSS 攻击](http://hao.caibaojian.com/94034.html) （推酷网）
+* [JS专题之去抖函数](http://hao.caibaojian.com/94089.html) （SegmentFault）
+* [[]==&#039;&#039;返回？为什么？运算符==进行了什么操作？](http://hao.caibaojian.com/94130.html) （推酷网）
+* [整个社会就是一个 “零和游戏” 吗？](http://hao.caibaojian.com/94100.html) （开发者头条）
+* [JS Array.reduce 实现 Array.map 和 Array.filter](http://hao.caibaojian.com/94117.html) （推酷网）
+* [[源码阅读]纯粹极简的react状态管理组件unstated](http://hao.caibaojian.com/94090.html) （SegmentFault）
 
 ***
-* [Code Breaking挑战赛 Writeup](http://hao.caibaojian.com/94045.html) （推酷网）
-* [当 Dubbo 遇上 Arthas：排查问题的实践](http://hao.caibaojian.com/94011.html) （开发者头条）
-* [有赞零售小票打印跨平台解决方案](http://hao.caibaojian.com/94035.html) （推酷网）
-* [golang框架gin中间件的写法](http://hao.caibaojian.com/94001.html) （SegmentFault）
-* [【进阶3-4期】深度解析bind原理、使用场景及模拟实现](http://hao.caibaojian.com/94046.html) （推酷网）
+* [Object.create(null) 和 {} 的区别](http://hao.caibaojian.com/94131.html) （推酷网）
+* [起始：React 项目构建的最小单元](http://hao.caibaojian.com/94101.html) （开发者头条）
+* [勿让你的调用栈原地爆炸](http://hao.caibaojian.com/94118.html) （推酷网）
+* [Redis缓存穿透问题及解决方案](http://hao.caibaojian.com/94091.html) （SegmentFault）
+* [写一个易于维护使用方便性能可靠的Hybrid框架（二）](http://hao.caibaojian.com/94132.html) （推酷网）
 
 ***
-* [Redis 内存空间简单分析](http://hao.caibaojian.com/94012.html) （开发者头条）
-* [手把手教你使用Dygraphs可视化时间序列数据（附代码、链接）](http://hao.caibaojian.com/94036.html) （推酷网）
-* [Jeff Dean 的激荡人生：我和 Sanjay 在同一台电脑上写代码](http://hao.caibaojian.com/94002.html) （开发者头条）
-* [月薪 8k 和月薪 38K 的程序员，差距在哪里？](http://hao.caibaojian.com/94003.html) （开发者头条）
-* [Flutter 学习资料](http://hao.caibaojian.com/94014.html) （开发者头条）
+* [理想数据科学家的画像是什么样的？](http://hao.caibaojian.com/94102.html) （开发者头条）
+* [Web安全之XSS Platform搭建及使用实践](http://hao.caibaojian.com/94092.html) （SegmentFault）
+* [苏宁的 Node.js 实践](http://hao.caibaojian.com/94140.html) （奇舞团）
+* [Kubernetes 多集群管理平台 Wayne v1.1.0 版本正式发布](http://hao.caibaojian.com/94103.html) （开发者头条）
+* [蚂蚁金服 Service Mesh 渐进式迁移方案|Service Mesh Meetup 实录](http://hao.caibaojian.com/94093.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
