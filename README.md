@@ -1,46 +1,46 @@
-# [2018-12-14 精选博文推荐](http://hao.caibaojian.com/date/2018/12/14)
+# [2018-12-15 精选博文推荐](http://hao.caibaojian.com/date/2018/12/15)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Vue+Electron桌面应用程序](http://hao.caibaojian.com/94641.html) （推酷网）
-* [关于CSS3 flex布局，这样简单做就好了](http://hao.caibaojian.com/94553.html) （SegmentFault）
-* [前端全栈工程化开发专题 — JS中回调函数的深入解读](http://hao.caibaojian.com/94640.html) （推酷网）
-* [vue 组件间传值](http://hao.caibaojian.com/94556.html) （SegmentFault）
-* [&lt;node.js学习笔记(5)&gt;koa框架和简单爬虫练习](http://hao.caibaojian.com/94639.html) （推酷网）
+* [Vue工程化最佳实践](http://hao.caibaojian.com/94722.html) （推酷网）
+* [InfoQ 趋势报告之 JavaScript 和 Web 开发](http://hao.caibaojian.com/94728.html) （推酷网）
+* [JavaScript中内存使用规则&#8211;堆和栈](http://hao.caibaojian.com/94724.html) （推酷网）
+* [vue组件的那点事](http://hao.caibaojian.com/94727.html) （推酷网）
+* [【AI核心代码】估值一个亿的AI核心代码（开源了）](http://hao.caibaojian.com/94665.html) （SegmentFault）
 
 ***
-* [重写 CryptoJS（一）：ECMAScript 类与继承](http://hao.caibaojian.com/94574.html) （开发者头条）
-* [GitHub 年度报告盘点：开发者增至 3100 万，开源项目达 9600 万](http://hao.caibaojian.com/94565.html) （开发者头条）
-* [超越 JavaScript：亚马逊发布 Lambda Layers 和 Runtime API](http://hao.caibaojian.com/94642.html) （推酷网）
-* [JS 中经常使用的小技巧，助你更简短的实现一些功能](http://hao.caibaojian.com/94547.html) （SegmentFault）
-* [像写作一样去写代码，如何把异步的形式改写成同步的形式](http://hao.caibaojian.com/94582.html) （开发者头条）
+* [从官网学习Node.js Process模块方法速查](http://hao.caibaojian.com/94666.html) （SegmentFault）
+* [ElasticSearch实战：Linux日志对接Kibana](http://hao.caibaojian.com/94667.html) （SegmentFault）
+* [535种使用JavaScript重新加载页面的方法](http://hao.caibaojian.com/94669.html) （SegmentFault）
+* [速度高达 15000 fps 的人脸检测算法](http://hao.caibaojian.com/94691.html) （开发者头条）
+* [基于 CANoe 的 SecOC 实现](http://hao.caibaojian.com/94692.html) （开发者头条）
 
 ***
-* [React基础与生命周期](http://hao.caibaojian.com/94636.html) （推酷网）
-* [Prometheus Operator 初体验](http://hao.caibaojian.com/94571.html) （开发者头条）
-* [谈谈 JavaScript 的正则表达式](http://hao.caibaojian.com/94637.html) （推酷网）
-* [TypeScript 特性梳理，拓展，oop，大量代码(类型,接口，类，成员访问控制，模块，重写重载，泛型，装饰器)](http://hao.caibaojian.com/94551.html) （SegmentFault）
-* [一个例子了解迁移学习](http://hao.caibaojian.com/94573.html) （开发者头条）
+* [vue+koa2+token登陆验证](http://hao.caibaojian.com/94660.html) （SegmentFault）
+* [JavaScript 数组方法集合及示例](http://hao.caibaojian.com/94661.html) （SegmentFault）
+* [The Economist 经济学人是如何使用 Go 语言构建内容平台微服务架构的？](http://hao.caibaojian.com/94725.html) （推酷网）
+* [Elasticsearch SQL 用法详解](http://hao.caibaojian.com/94675.html) （开发者头条）
+* [Vue 2.0学习笔记：Vue的animation](http://hao.caibaojian.com/94718.html) （推酷网）
 
 ***
-* [高级JavaScript注入技术](http://hao.caibaojian.com/94604.html) （推酷网）
-* [从 25 倍稀释下的蘑菇街期权说起](http://hao.caibaojian.com/94563.html) （开发者头条）
-* [浅入了解 vue cli3.0 生成了什么东西](http://hao.caibaojian.com/94631.html) （推酷网）
-* [聊聊 Java 内存模型](http://hao.caibaojian.com/94568.html) （开发者头条）
-* [Node.js FS模块方法速查](http://hao.caibaojian.com/94558.html) （SegmentFault）
+* [如何写 Go 中间件](http://hao.caibaojian.com/94676.html) （开发者头条）
+* [k8s 中通过 consul 实现 prometheus 联邦功能](http://hao.caibaojian.com/94687.html) （开发者头条）
+* [来狂撸一款PHP现代化框架 (路由的设计)](http://hao.caibaojian.com/94655.html) （SegmentFault）
+* [Go json.Decoder Considered Harmful](http://hao.caibaojian.com/94719.html) （推酷网）
+* [让你的系统 “坚挺不倒” 的最后一个大招：降级](http://hao.caibaojian.com/94677.html) （开发者头条）
 
 ***
-* [React 服务端渲染方案完美的解决方案](http://hao.caibaojian.com/94559.html) （SegmentFault）
-* [详解CSS的Flex布局](http://hao.caibaojian.com/94549.html) （SegmentFault）
-* [让POW的共识机制不再成为公链系统吞吐率的瓶颈 | Conflux CTO伍鸣](http://hao.caibaojian.com/94561.html) （SegmentFault）
-* [质量监控：图片减包（iOS）](http://hao.caibaojian.com/94572.html) （开发者头条）
-* [Vintage 分析和迁移率模型](http://hao.caibaojian.com/94587.html) （开发者头条）
+* [毫秒级压榨：小米函数计算背后的性能优化（一）](http://hao.caibaojian.com/94688.html) （开发者头条）
+* [Vue2.0入门与父子组件间通信](http://hao.caibaojian.com/94656.html) （SegmentFault）
+* [JavaScript基本语法03](http://hao.caibaojian.com/94720.html) （推酷网）
+* [灵活运用 git rebase，让团队协作下的提交记录整洁些](http://hao.caibaojian.com/94678.html) （开发者头条）
+* [智能化测试探索](http://hao.caibaojian.com/94689.html) （开发者头条）
 
 ***
-* [Flutter组件学习（三）—— 输入框TextFiled](http://hao.caibaojian.com/94562.html) （SegmentFault）
-* [为何我们要写super(props)？](http://hao.caibaojian.com/94638.html) （推酷网）
-* [JavaScript是如何工作的：深入V8引擎&amp;编写优化代码的5个技巧](http://hao.caibaojian.com/94552.html) （SegmentFault）
-* [Vue-Cleave &#8211; 在Vue中使用CleaveJS格式化你的输入内容](http://hao.caibaojian.com/94605.html) （推酷网）
-* [异步 API 的设计](http://hao.caibaojian.com/94564.html) （开发者头条）
+* [当区块链遇到零知识证明](http://hao.caibaojian.com/94657.html) （SegmentFault）
+* [vue预渲染之prerender-spa-plugin插件应用](http://hao.caibaojian.com/94721.html) （推酷网）
+* [谈项目中如何选择框架和库（FEDAY主题分享总结）](http://hao.caibaojian.com/94668.html) （SegmentFault）
+* [Android 逆向之路：脱壳 360 加固](http://hao.caibaojian.com/94679.html) （开发者头条）
+* [TensorFlow Hub：探索机器学习组件化](http://hao.caibaojian.com/94690.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
