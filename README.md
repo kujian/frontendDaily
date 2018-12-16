@@ -1,46 +1,46 @@
-# [2018-12-15 精选博文推荐](http://hao.caibaojian.com/date/2018/12/15)
+# [2018-12-16 精选博文推荐](http://hao.caibaojian.com/date/2018/12/16)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [Vue工程化最佳实践](http://hao.caibaojian.com/94722.html) （推酷网）
-* [InfoQ 趋势报告之 JavaScript 和 Web 开发](http://hao.caibaojian.com/94728.html) （推酷网）
-* [JavaScript中内存使用规则&#8211;堆和栈](http://hao.caibaojian.com/94724.html) （推酷网）
-* [vue组件的那点事](http://hao.caibaojian.com/94727.html) （推酷网）
-* [【AI核心代码】估值一个亿的AI核心代码（开源了）](http://hao.caibaojian.com/94665.html) （SegmentFault）
+* [JavaScript 是如何工作的：引擎，运行时和调用堆栈概述](http://hao.caibaojian.com/94802.html) （奇舞团）
+* [JavaScript中undefined和null的区别](http://hao.caibaojian.com/94761.html) （SegmentFault）
+* [JS专题之数据类型和类型检测](http://hao.caibaojian.com/94793.html) （推酷网）
+* [内凹样式的另一个方案－－v-coupon 一款基于 vue 的卡券组件](http://hao.caibaojian.com/94755.html) （SegmentFault）
+* [Flutter 路由管理代码这么长长长长长，阿里工程师怎么高效解决？](http://hao.caibaojian.com/94770.html) （开发者头条）
 
 ***
-* [从官网学习Node.js Process模块方法速查](http://hao.caibaojian.com/94666.html) （SegmentFault）
-* [ElasticSearch实战：Linux日志对接Kibana](http://hao.caibaojian.com/94667.html) （SegmentFault）
-* [535种使用JavaScript重新加载页面的方法](http://hao.caibaojian.com/94669.html) （SegmentFault）
-* [速度高达 15000 fps 的人脸检测算法](http://hao.caibaojian.com/94691.html) （开发者头条）
-* [基于 CANoe 的 SecOC 实现](http://hao.caibaojian.com/94692.html) （开发者头条）
+* [关于入行 AI 的几个常见问题](http://hao.caibaojian.com/94773.html) （开发者头条）
+* [从浏览器环境到JavaScript执行流程的一次简单梳理](http://hao.caibaojian.com/94797.html) （推酷网）
+* [Linux 网络栈监控和调优：接收数据（五）](http://hao.caibaojian.com/94766.html) （开发者头条）
+* [CSS font-feature-settings 完整介绍](http://hao.caibaojian.com/94801.html) （奇舞团）
+* [如何从零开始编写一个 Kubernetes CRD](http://hao.caibaojian.com/94767.html) （开发者头条）
 
 ***
-* [vue+koa2+token登陆验证](http://hao.caibaojian.com/94660.html) （SegmentFault）
-* [JavaScript 数组方法集合及示例](http://hao.caibaojian.com/94661.html) （SegmentFault）
-* [The Economist 经济学人是如何使用 Go 语言构建内容平台微服务架构的？](http://hao.caibaojian.com/94725.html) （推酷网）
-* [Elasticsearch SQL 用法详解](http://hao.caibaojian.com/94675.html) （开发者头条）
-* [Vue 2.0学习笔记：Vue的animation](http://hao.caibaojian.com/94718.html) （推酷网）
+* [Webpack 热更新机制](http://hao.caibaojian.com/94791.html) （推酷网）
+* [Chrome插件开发入门：如何实现一键上班赖皮](http://hao.caibaojian.com/94756.html) （SegmentFault）
+* [简单易懂的讲解深度学习（十）](http://hao.caibaojian.com/94768.html) （开发者头条）
+* [Node.js 真·多线程 Worker Threads 初探](http://hao.caibaojian.com/94792.html) （推酷网）
+* [1 小时 SQL 极速入门（三）——分析函数](http://hao.caibaojian.com/94757.html) （SegmentFault）
 
 ***
-* [如何写 Go 中间件](http://hao.caibaojian.com/94676.html) （开发者头条）
-* [k8s 中通过 consul 实现 prometheus 联邦功能](http://hao.caibaojian.com/94687.html) （开发者头条）
-* [来狂撸一款PHP现代化框架 (路由的设计)](http://hao.caibaojian.com/94655.html) （SegmentFault）
-* [Go json.Decoder Considered Harmful](http://hao.caibaojian.com/94719.html) （推酷网）
-* [让你的系统 “坚挺不倒” 的最后一个大招：降级](http://hao.caibaojian.com/94677.html) （开发者头条）
+* [2018 年 Dribbble 反映出来的 10 个设计趋势](http://hao.caibaojian.com/94803.html) （奇舞团）
+* [为什么说 MapReduce 颠覆了互联网分层架构的本质？](http://hao.caibaojian.com/94769.html) （开发者头条）
+* [携手开发者共建云生态 首届腾讯云+社区开发者大会在京举办](http://hao.caibaojian.com/94758.html) （SegmentFault）
+* [百度网盘品牌升级背后的故事](http://hao.caibaojian.com/94804.html) （奇舞团）
+* [精灵图在 Lottie Web 动画中的应用](http://hao.caibaojian.com/94794.html) （推酷网）
 
 ***
-* [毫秒级压榨：小米函数计算背后的性能优化（一）](http://hao.caibaojian.com/94688.html) （开发者头条）
-* [Vue2.0入门与父子组件间通信](http://hao.caibaojian.com/94656.html) （SegmentFault）
-* [JavaScript基本语法03](http://hao.caibaojian.com/94720.html) （推酷网）
-* [灵活运用 git rebase，让团队协作下的提交记录整洁些](http://hao.caibaojian.com/94678.html) （开发者头条）
-* [智能化测试探索](http://hao.caibaojian.com/94689.html) （开发者头条）
+* [webpack4.x的变化（二）](http://hao.caibaojian.com/94759.html) （SegmentFault）
+* [The State of UX 2019 年度报告解读](http://hao.caibaojian.com/94805.html) （奇舞团）
+* [Hello Fluentd](http://hao.caibaojian.com/94771.html) （开发者头条）
+* [源码分析-eslint](http://hao.caibaojian.com/94795.html) （推酷网）
+* [每天一个设计模式之组合模式](http://hao.caibaojian.com/94760.html) （SegmentFault）
 
 ***
-* [当区块链遇到零知识证明](http://hao.caibaojian.com/94657.html) （SegmentFault）
-* [vue预渲染之prerender-spa-plugin插件应用](http://hao.caibaojian.com/94721.html) （推酷网）
-* [谈项目中如何选择框架和库（FEDAY主题分享总结）](http://hao.caibaojian.com/94668.html) （SegmentFault）
-* [Android 逆向之路：脱壳 360 加固](http://hao.caibaojian.com/94679.html) （开发者头条）
-* [TensorFlow Hub：探索机器学习组件化](http://hao.caibaojian.com/94690.html) （开发者头条）
+* [盘点 CSS Selectors Level 4 中新增的选择器](http://hao.caibaojian.com/94806.html) （奇舞团）
+* [机器学习在美团配送系统的实践：用技术还原真实世界](http://hao.caibaojian.com/94772.html) （开发者头条）
+* [如何统计字符串中出现最多的字母与个数](http://hao.caibaojian.com/94796.html) （推酷网）
+* [Puppeteer for Firefox](http://hao.caibaojian.com/94807.html) （奇舞团）
+* [机器学习工程师有趣起来多可怕？](http://hao.caibaojian.com/94763.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
