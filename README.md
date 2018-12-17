@@ -1,46 +1,46 @@
-# [2018-12-16 精选博文推荐](http://hao.caibaojian.com/date/2018/12/16)
+# [2018-12-17 精选博文推荐](http://hao.caibaojian.com/date/2018/12/17)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [JavaScript 是如何工作的：引擎，运行时和调用堆栈概述](http://hao.caibaojian.com/94802.html) （奇舞团）
-* [JavaScript中undefined和null的区别](http://hao.caibaojian.com/94761.html) （SegmentFault）
-* [JS专题之数据类型和类型检测](http://hao.caibaojian.com/94793.html) （推酷网）
-* [内凹样式的另一个方案－－v-coupon 一款基于 vue 的卡券组件](http://hao.caibaojian.com/94755.html) （SegmentFault）
-* [Flutter 路由管理代码这么长长长长长，阿里工程师怎么高效解决？](http://hao.caibaojian.com/94770.html) （开发者头条）
+* [那些前端工作中遇到的坑（01）](http://hao.caibaojian.com/94871.html) （推酷网）
+* [前端技术演进（七）：前端跨栈技术](http://hao.caibaojian.com/94877.html) （推酷网）
+* [前端技术演进（六）：前端项目与技术实践](http://hao.caibaojian.com/94878.html) （推酷网）
+* [React全家桶+Koa+TS+mongoDB+Antd实现的简单TodoList](http://hao.caibaojian.com/94879.html) （推酷网）
+* [webpack 构建多页面应用](http://hao.caibaojian.com/94836.html) （SegmentFault）
 
 ***
-* [关于入行 AI 的几个常见问题](http://hao.caibaojian.com/94773.html) （开发者头条）
-* [从浏览器环境到JavaScript执行流程的一次简单梳理](http://hao.caibaojian.com/94797.html) （推酷网）
-* [Linux 网络栈监控和调优：接收数据（五）](http://hao.caibaojian.com/94766.html) （开发者头条）
-* [CSS font-feature-settings 完整介绍](http://hao.caibaojian.com/94801.html) （奇舞团）
-* [如何从零开始编写一个 Kubernetes CRD](http://hao.caibaojian.com/94767.html) （开发者头条）
+* [JavaScript骚操作之操作符](http://hao.caibaojian.com/94873.html) （推酷网）
+* [JavaScript数组遍历：for、foreach、for in、for of、$.each、$().each的区别](http://hao.caibaojian.com/94834.html) （SegmentFault）
+* [JavaScript不刷新查找当前网址上的querystring并修改查询字符串变量](http://hao.caibaojian.com/94874.html) （推酷网）
+* [Cycle.js 状态管理模型](http://hao.caibaojian.com/94868.html) （推酷网）
+* [浅谈js执行机制](http://hao.caibaojian.com/94837.html) （SegmentFault）
 
 ***
-* [Webpack 热更新机制](http://hao.caibaojian.com/94791.html) （推酷网）
-* [Chrome插件开发入门：如何实现一键上班赖皮](http://hao.caibaojian.com/94756.html) （SegmentFault）
-* [简单易懂的讲解深度学习（十）](http://hao.caibaojian.com/94768.html) （开发者头条）
-* [Node.js 真·多线程 Worker Threads 初探](http://hao.caibaojian.com/94792.html) （推酷网）
-* [1 小时 SQL 极速入门（三）——分析函数](http://hao.caibaojian.com/94757.html) （SegmentFault）
+* [JavaScript如何工作:内存管理+如何处理4个常见的内存泄漏](http://hao.caibaojian.com/94838.html) （SegmentFault）
+* [js运行机制及异步编程（一）](http://hao.caibaojian.com/94835.html) （SegmentFault）
+* [WebRTC基础实践 &#8211; 9. 拍照并传给对方](http://hao.caibaojian.com/94869.html) （推酷网）
+* [SubDomainizer：用于查找页面Javascript文件中隐藏子域的工具](http://hao.caibaojian.com/94872.html) （推酷网）
+* [用 nodejs 写一个命令行工具 ：创建 react 组件的命令行工具](http://hao.caibaojian.com/94841.html) （SegmentFault）
 
 ***
-* [2018 年 Dribbble 反映出来的 10 个设计趋势](http://hao.caibaojian.com/94803.html) （奇舞团）
-* [为什么说 MapReduce 颠覆了互联网分层架构的本质？](http://hao.caibaojian.com/94769.html) （开发者头条）
-* [携手开发者共建云生态 首届腾讯云+社区开发者大会在京举办](http://hao.caibaojian.com/94758.html) （SegmentFault）
-* [百度网盘品牌升级背后的故事](http://hao.caibaojian.com/94804.html) （奇舞团）
-* [精灵图在 Lottie Web 动画中的应用](http://hao.caibaojian.com/94794.html) （推酷网）
+* [coredump 堆栈被写坏问题定位](http://hao.caibaojian.com/94852.html) （开发者头条）
+* [从event loop到async await来了解事件循环机制](http://hao.caibaojian.com/94875.html) （推酷网）
+* [图像风格转移](http://hao.caibaojian.com/94842.html) （SegmentFault）
+* [进度偏差的纠正措施不止变更计划一条路](http://hao.caibaojian.com/94853.html) （开发者头条）
+* [vue + element-ui的分页问题](http://hao.caibaojian.com/94876.html) （推酷网）
 
 ***
-* [webpack4.x的变化（二）](http://hao.caibaojian.com/94759.html) （SegmentFault）
-* [The State of UX 2019 年度报告解读](http://hao.caibaojian.com/94805.html) （奇舞团）
-* [Hello Fluentd](http://hao.caibaojian.com/94771.html) （开发者头条）
-* [源码分析-eslint](http://hao.caibaojian.com/94795.html) （推酷网）
-* [每天一个设计模式之组合模式](http://hao.caibaojian.com/94760.html) （SegmentFault）
+* [SpringCloud Bus 消息总线](http://hao.caibaojian.com/94843.html) （SegmentFault）
+* [给小白写的 “搞懂 Python 中的编码”](http://hao.caibaojian.com/94854.html) （开发者头条）
+* [谈谈 TCP 的 TIME_WAIT](http://hao.caibaojian.com/94844.html) （开发者头条）
+* [机器学习之分类结果的评价](http://hao.caibaojian.com/94855.html) （开发者头条）
+* [微服务的一些理解](http://hao.caibaojian.com/94845.html) （开发者头条）
 
 ***
-* [盘点 CSS Selectors Level 4 中新增的选择器](http://hao.caibaojian.com/94806.html) （奇舞团）
-* [机器学习在美团配送系统的实践：用技术还原真实世界](http://hao.caibaojian.com/94772.html) （开发者头条）
-* [如何统计字符串中出现最多的字母与个数](http://hao.caibaojian.com/94796.html) （推酷网）
-* [Puppeteer for Firefox](http://hao.caibaojian.com/94807.html) （奇舞团）
-* [机器学习工程师有趣起来多可怕？](http://hao.caibaojian.com/94763.html) （开发者头条）
+* [兄弟，libuv 了解一下](http://hao.caibaojian.com/94846.html) （开发者头条）
+* [美团智能支付稳定性测试实战](http://hao.caibaojian.com/94847.html) （开发者头条）
+* [玩转Koa &#8212; 核心原理分析](http://hao.caibaojian.com/94870.html) （推酷网）
+* [Bochspwn 漏洞挖掘技术深究（一）：Double Fetches 检测](http://hao.caibaojian.com/94848.html) （开发者头条）
+* [简单理解 memcached 的内存分配](http://hao.caibaojian.com/94849.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
