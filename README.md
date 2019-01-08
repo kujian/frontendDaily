@@ -1,46 +1,46 @@
-# [2018-12-29 精选博文推荐](http://hao.caibaojian.com/date/2018/12/29)
+# [2019-01-08 精选博文推荐](http://hao.caibaojian.com/date/2019/01/08)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [力荐 35 个最好用的 Vue 开源库](http://hao.caibaojian.com/96106.html) （推酷网）
-* [📚免费的渐进式教程：Webpack4的16篇讲解和16份代码](http://hao.caibaojian.com/96100.html) （推酷网）
-* [Css in Js 一次实践](http://hao.caibaojian.com/96099.html) （推酷网）
-* [前端性能优化总结](http://hao.caibaojian.com/96042.html) （SegmentFault）
-* [React Native框架如何白盒测试](http://hao.caibaojian.com/96108.html) （推酷网）
+* [2018前端入门年终总结](http://hao.caibaojian.com/97058.html) （推酷网）
+* [js正则理论与实践](http://hao.caibaojian.com/97060.html) （推酷网）
+* [Vue.js最受期待的5个特性](http://hao.caibaojian.com/97046.html) （推酷网）
+* [JavaScript 算法之最好、最坏时间复杂度分析](http://hao.caibaojian.com/97050.html) （推酷网）
+* [前端打包编译时代来临对漏洞挖掘的影响](http://hao.caibaojian.com/97061.html) （推酷网）
 
 ***
-* [JavaScript数据结构之队栈互搏](http://hao.caibaojian.com/96098.html) （推酷网）
-* [gitlab 安装、配置](http://hao.caibaojian.com/96052.html) （SegmentFault）
-* [类比餐厅桌前就餐来解释前端和后端](http://hao.caibaojian.com/96105.html) （推酷网）
-* [面试官眼中的Promise](http://hao.caibaojian.com/96094.html) （推酷网）
-* [前端性能提升秘笈](http://hao.caibaojian.com/96067.html) （开发者头条）
+* [【深入吧，HTML 5】 性能 &amp; 集成 —— Web Workers](http://hao.caibaojian.com/97048.html) （推酷网）
+* [JavaScript的迭代函数与迭代函数的实现](http://hao.caibaojian.com/97043.html) （推酷网）
+* [前端面试官的套路，你懂吗？](http://hao.caibaojian.com/96995.html) （开发者头条）
+* [前端小报 &#8211; 201812 月刊](http://hao.caibaojian.com/96990.html) （SegmentFault）
+* [前端之JS的线程](http://hao.caibaojian.com/97044.html) （推酷网）
 
 ***
-* [GitHub 中式开源志异](http://hao.caibaojian.com/96070.html) （开发者头条）
-* [js运行机制及异步编程（二）](http://hao.caibaojian.com/96049.html) （SegmentFault）
-* [分布式系统关注点：99% 的人都能看懂的补偿以及最佳实践](http://hao.caibaojian.com/96062.html) （开发者头条）
-* [全文搜索引擎 ElasticSearch 还是 Solr？](http://hao.caibaojian.com/96064.html) （开发者头条）
-* [js 中的 number 为何很怪异](http://hao.caibaojian.com/96043.html) （SegmentFault）
+* [mpvue开发大型体育项目及总结记](http://hao.caibaojian.com/97055.html) （推酷网）
+* [一个前端在校生的2018年终总结](http://hao.caibaojian.com/97045.html) （推酷网）
+* [手把手教你快速搭建专属的storybook](http://hao.caibaojian.com/97047.html) （推酷网）
+* [「每日一瞥 📰 」1224 ~ 0104](http://hao.caibaojian.com/97059.html) （推酷网）
+* [【进阶4-2期】Object.assign 原理及其实现](http://hao.caibaojian.com/97062.html) （推酷网）
 
 ***
-* [深入浅出 iOS 编译](http://hao.caibaojian.com/96075.html) （开发者头条）
-* [领域驱动设计，让程序员心中有码（四）](http://hao.caibaojian.com/96065.html) （开发者头条）
-* [web开发的跨域问题详解](http://hao.caibaojian.com/96044.html) （SegmentFault）
-* [Dalvik 和 ART 有什么区别？深扒 Android 虚拟机发展史（2017）](http://hao.caibaojian.com/96076.html) （开发者头条）
-* [一种 API 兼容性检测方案](http://hao.caibaojian.com/96066.html) （开发者头条）
+* [Transducers: JavaScript 中高效的数据处理 Pipeline（第 18 部分）](http://hao.caibaojian.com/97041.html) （推酷网）
+* [如何开发一个基于 Vue 的 ui 组件库（一）](http://hao.caibaojian.com/96977.html) （SegmentFault）
+* [Airbnb 的 React Native 之路（下）](http://hao.caibaojian.com/96999.html) （开发者头条）
+* [Hexo 博客终极玩法：云端写作，自动部署](http://hao.caibaojian.com/96978.html) （SegmentFault）
+* [知乎推荐页 Ranking 经验分享](http://hao.caibaojian.com/97010.html) （开发者头条）
 
 ***
-* [js事件循环机制(Event Loop) 以及async/await的理解](http://hao.caibaojian.com/96045.html) （SegmentFault）
-* [漫谈数据仓库和范式](http://hao.caibaojian.com/96068.html) （开发者头条）
-* [一文看懂 PHP 7.3 更新](http://hao.caibaojian.com/96047.html) （SegmentFault）
-* [去中心化交易能比 VISA 还快么？](http://hao.caibaojian.com/96079.html) （开发者头条）
-* [《三国演义》人物数据分析](http://hao.caibaojian.com/96058.html) （SegmentFault）
+* [是时候给你的产品配一个AI问答助手了](http://hao.caibaojian.com/96989.html) （SegmentFault）
+* [Docker 环境的持续部署优化实践](http://hao.caibaojian.com/97000.html) （开发者头条）
+* [js设计模式之策略模式](http://hao.caibaojian.com/97054.html) （推酷网）
+* [js数据结构-二叉树（二叉搜索树）](http://hao.caibaojian.com/96979.html) （SegmentFault）
+* [以太坊工作面试问题集锦（三）：Solidity](http://hao.caibaojian.com/97011.html) （开发者头条）
 
 ***
-* [携程新一代监控告警平台 Hickwall 架构演进](http://hao.caibaojian.com/96069.html) （开发者头条）
-* [[NodeJs系列]聊一聊BOM](http://hao.caibaojian.com/96048.html) （SegmentFault）
-* [TiDB Ecosystem Tools 原理解读系列（三）：TiDB-DM 架构设计与实现原理](http://hao.caibaojian.com/96080.html) （开发者头条）
-* [用 RxJS 实现 Redux Form](http://hao.caibaojian.com/96059.html) （SegmentFault）
-* [iOS 增量代码覆盖率检测实践](http://hao.caibaojian.com/96081.html) （开发者头条）
+* [走近源码：Redis 的启动过程](http://hao.caibaojian.com/97001.html) （开发者头条）
+* [懒加载的3种实现方式](http://hao.caibaojian.com/96980.html) （SegmentFault）
+* [字符级 CNN 分类模型的实现](http://hao.caibaojian.com/97012.html) （开发者头条）
+* [诚意之作，SuperTextView (v3.1.1)](http://hao.caibaojian.com/96991.html) （SegmentFault）
+* [如何高效操作 Redis 数据库？](http://hao.caibaojian.com/97002.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
