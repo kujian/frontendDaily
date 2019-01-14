@@ -1,46 +1,46 @@
-# [2019-01-13 精选博文推荐](http://hao.caibaojian.com/date/2019/01/13)
+# [2019-01-14 精选博文推荐](http://hao.caibaojian.com/date/2019/01/14)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [React 渲染器了解一下](http://hao.caibaojian.com/97675.html) （奇舞团）
-* [预计今年发布的 Vue 3.0 到底有什么不一样的地方？](http://hao.caibaojian.com/97619.html) （开发者头条）
-* [javascript – 为什么在循环开始时调用requestAnimationFrame不会导致无限递归？](http://hao.caibaojian.com/97662.html) （推酷网）
-* [如何使用Meteorjs使用URL参数](http://hao.caibaojian.com/97664.html) （推酷网）
-* [GitHub 为什么免费了](http://hao.caibaojian.com/97617.html) （开发者头条）
+* [2019 年（大）前端技术规划](http://hao.caibaojian.com/97758.html) （推酷网）
+* [前端常用代码片段(五)](http://hao.caibaojian.com/97727.html) （SegmentFault）
+* [JavaScript是如何工作的:渲染引擎和优化其性能的技巧](http://hao.caibaojian.com/97718.html) （SegmentFault）
+* [以太坊工作面试问题集锦（四）：DApps 和 Web3](http://hao.caibaojian.com/97749.html) （开发者头条）
+* [前端基本功-示例代码（一）](http://hao.caibaojian.com/97722.html) （SegmentFault）
 
 ***
-* [Javascript中的编码约定：在括号之间使用空格](http://hao.caibaojian.com/97657.html) （推酷网）
-* [你的 Elasticsearch 在裸奔吗？](http://hao.caibaojian.com/97629.html) （开发者头条）
-* [TypeError：无法读取未定义的angularjs-grunt测试的属性’then’](http://hao.caibaojian.com/97659.html) （推酷网）
-* [Rust 为什么能成为 Stack Overflow 最受欢迎的语言？](http://hao.caibaojian.com/97620.html) （开发者头条）
-* [深度学习的模型调试小技巧](http://hao.caibaojian.com/97632.html) （开发者头条）
+* [vue-cli3使用svg问题的简单解决办法](http://hao.caibaojian.com/97733.html) （SegmentFault）
+* [记一次 Vue 单页面上线方案的优化](http://hao.caibaojian.com/97760.html) （推酷网）
+* [webpack4系列教程（四）：处理项目中的资源文件（一）](http://hao.caibaojian.com/97725.html) （SegmentFault）
+* [前端常用代码片段(四)](http://hao.caibaojian.com/97721.html) （SegmentFault）
+* [JS 异步编程六种方案](http://hao.caibaojian.com/97759.html) （推酷网）
 
 ***
-* [如何用5W rmb支持34W并发](http://hao.caibaojian.com/97611.html) （SegmentFault）
-* [javascript – 按下某个键时播放声音](http://hao.caibaojian.com/97651.html) （推酷网）
-* [那些年犯过的错](http://hao.caibaojian.com/97622.html) （开发者头条）
-* [记一次解题思路(周起始日)](http://hao.caibaojian.com/97601.html) （SegmentFault）
-* [深度学习在搜索业务中的探索与实践](http://hao.caibaojian.com/97633.html) （开发者头条）
+* [细说 async/await 相较于 Promise 的优势](http://hao.caibaojian.com/97761.html) （推酷网）
+* [Go并发调用的超时处理](http://hao.caibaojian.com/97728.html) （SegmentFault）
+* [2018 年度 GitHub 开源项目 TOP 25：数据科学 &amp; 机器学习](http://hao.caibaojian.com/97739.html) （开发者头条）
+* [git解决pre -commit hook failed (add &#8211;no-verify to bypass)的问题](http://hao.caibaojian.com/97729.html) （SegmentFault）
+* [windows环境重装后报错RabbitMQ service is already present 解决](http://hao.caibaojian.com/97730.html) （SegmentFault）
 
 ***
-* [【linux】查看线上日志常用命令](http://hao.caibaojian.com/97612.html) （SegmentFault）
-* [javascript – Valums file-uploader在Internet Explorer 9下不起作用](http://hao.caibaojian.com/97652.html) （推酷网）
-* [苹果经销商往事](http://hao.caibaojian.com/97623.html) （开发者头条）
-* [在Backbone.js应用程序中设置全局REST根URL](http://hao.caibaojian.com/97663.html) （推酷网）
-* [一个适合初级 Gopher 练手的项目](http://hao.caibaojian.com/97602.html) （SegmentFault）
+* [学好Python的10种方向，你选择好了吗？](http://hao.caibaojian.com/97731.html) （SegmentFault）
+* [敏捷框架 Scrum 的核心要点 “3355”](http://hao.caibaojian.com/97742.html) （开发者头条）
+* [【剑指offer】4.二叉树的遍历和重建](http://hao.caibaojian.com/97732.html) （SegmentFault）
+* [深入 RxJava2 源码解析（一）](http://hao.caibaojian.com/97745.html) （开发者头条）
+* [如何像程序员一样思考 &#8211; 解决问题的经验与教训](http://hao.caibaojian.com/97724.html) （SegmentFault）
 
 ***
-* [Kubernetes 生态圈繁荣背后的利与弊](http://hao.caibaojian.com/97634.html) （开发者头条）
-* [浏览器往返缓存问题的分析与解决](http://hao.caibaojian.com/97676.html) （奇舞团）
-* [Mac上Cargo编译错误： failed to run custom build command for &#8216;*.*&#8217;](http://hao.caibaojian.com/97613.html) （SegmentFault）
-* [HTML5 Canvas炫酷背景动画特效](http://hao.caibaojian.com/97653.html) （推酷网）
-* [浏览器往返缓存 (Back/Forward cache) 问题的分析与解决](http://hao.caibaojian.com/97624.html) （开发者头条）
+* [聊聊RxJS中的错误重试](http://hao.caibaojian.com/97762.html) （推酷网）
+* [搬瓦工官方 shadowsocks &#8212; just my socks 购买优惠码](http://hao.caibaojian.com/97726.html) （SegmentFault）
+* [深入分析索引页暨计算索引树高度](http://hao.caibaojian.com/97738.html) （开发者头条）
+* [不能使用for循环，传入n和m, 生成一个长度为n，每一项都是m的数组](http://hao.caibaojian.com/97717.html) （SegmentFault）
+* [MXNet 实现 TensorFlow 训练模拟量化方法](http://hao.caibaojian.com/97750.html) （开发者头条）
 
 ***
-* [JavaScript五十问——浅入深出，自己实现一个 ES 6 Promise](http://hao.caibaojian.com/97603.html) （SegmentFault）
-* [常用机器学习实践技巧](http://hao.caibaojian.com/97635.html) （开发者头条）
-* [CSS box-decoration-break 属性简介](http://hao.caibaojian.com/97677.html) （奇舞团）
-* [前端学习各阶段分别都在哪学？](http://hao.caibaojian.com/97614.html) （SegmentFault）
-* [奇怪的IE,Javascript仅适用于开发模式(F12)](http://hao.caibaojian.com/97654.html) （推酷网）
+* [客户端单周发版下的多分支自动化管理与实践](http://hao.caibaojian.com/97740.html) （开发者头条）
+* [从react转职到vue开发的项目准备](http://hao.caibaojian.com/97719.html) （SegmentFault）
+* [多分类实现方式介绍和在 Spark 上实现多分类逻辑回归](http://hao.caibaojian.com/97751.html) （开发者头条）
+* [京东图计算系统 JoyGraph](http://hao.caibaojian.com/97741.html) （开发者头条）
+* [混沌工程与区块链](http://hao.caibaojian.com/97720.html) （SegmentFault）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
