@@ -1,46 +1,46 @@
-# [2019-01-16 精选博文推荐](http://hao.caibaojian.com/date/2019/01/16)
+# [2019-01-17 精选博文推荐](http://hao.caibaojian.com/date/2019/01/17)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [2019年给牛掰的 JavaScript 开发者的9条技巧](http://hao.caibaojian.com/97989.html) （推酷网）
-* [2019 年值得学习的顶级 JavaScript 框架与主题](http://hao.caibaojian.com/97993.html) （推酷网）
-* [聊一聊CSS中的长度单位](http://hao.caibaojian.com/97948.html) （SegmentFault）
-* [长期维护更新，前端面试题](http://hao.caibaojian.com/97992.html) （推酷网）
-* [GitHub 年度盘点：Deno 赶超 Node，跃升第四](http://hao.caibaojian.com/97994.html) （推酷网）
+* [JS 将有父子关系的平行数组转换成树形数据](http://hao.caibaojian.com/98149.html) （推酷网）
+* [携程机票 Node.js 开发实践](http://hao.caibaojian.com/98048.html) （开发者头条）
+* [前端基本功-示例代码 (二)](http://hao.caibaojian.com/98121.html) （SegmentFault）
+* [2019年山地人的前端完整自学计划——讲一个B站UP主山地人的40天前端自学故事](http://hao.caibaojian.com/98146.html) （推酷网）
+* [Vue新手向：14篇教程带你从零撸一个Todo应用](http://hao.caibaojian.com/98147.html) （推酷网）
 
 ***
-* [JavaScript实现自定义的生命周期](http://hao.caibaojian.com/97998.html) （推酷网）
-* [电商网站项目总结：Vuex 带来全新的编程体验](http://hao.caibaojian.com/97990.html) （推酷网）
-* [NodeJs 模块机制](http://hao.caibaojian.com/97965.html) （开发者头条）
-* [Deep In React（五）：setState 中的黑魔法](http://hao.caibaojian.com/97969.html) （开发者头条）
-* [前端进击的巨人（二）：栈、堆、队列、内存空间](http://hao.caibaojian.com/97938.html) （SegmentFault）
+* [在你学习 React 之前必备的 JavaScript 基础](http://hao.caibaojian.com/98143.html) （推酷网）
+* [终于受不了 Yaf，写了个精简框架 Zim，可作为 PHP 扩展运行](http://hao.caibaojian.com/98051.html) （开发者头条）
+* [Awesome Cloud Native](http://hao.caibaojian.com/98074.html) （开发者头条）
+* [MTSC 议题征集：2019 最热的测试技术趋势与 QA 最佳实践是什么？](http://hao.caibaojian.com/98066.html) （开发者头条）
+* [深度学习为图片人物换装【python代码教程】](http://hao.caibaojian.com/98137.html) （SegmentFault）
 
 ***
-* [大前端时代安全性如何做](http://hao.caibaojian.com/97934.html) （SegmentFault）
-* [想在 JavaScript 里面用 Pattern matching?](http://hao.caibaojian.com/97985.html) （推酷网）
-* [前端技术周刊 2019-01-07：CSS 动画](http://hao.caibaojian.com/97947.html) （SegmentFault）
-* [基于 WebRTC 的互动直播实践](http://hao.caibaojian.com/97970.html) （开发者头条）
-* [结合vue-cli来谈webpack打包优化](http://hao.caibaojian.com/97988.html) （推酷网）
+* [学习 React 前你需要知道些什么](http://hao.caibaojian.com/98139.html) （推酷网）
+* [如何给 Hadoop 集群划分角色](http://hao.caibaojian.com/98068.html) （开发者头条）
+* [事件循环是如何影响页面渲染的？](http://hao.caibaojian.com/98141.html) （推酷网）
+* [如何利用webpack来提升前端开发效率（一）？](http://hao.caibaojian.com/98145.html) （推酷网）
+* [Vue2.0 核心之响应式流程](http://hao.caibaojian.com/98135.html) （SegmentFault）
 
 ***
-* [深入 Spring Boot：编写兼容 Spring Boot1 和 Spring Boot2 的 Starter](http://hao.caibaojian.com/97952.html) （开发者头条）
-* [axios上传图片，koa2接收保存上传的图片，lrz在上传前压缩图片](http://hao.caibaojian.com/97991.html) （推酷网）
-* [了解 Base64 编码解码](http://hao.caibaojian.com/97963.html) （开发者头条）
-* [如何优雅地查看 JS 错误堆栈？](http://hao.caibaojian.com/97942.html) （SegmentFault）
-* [azeroth-event：轻量级事件驱动插件](http://hao.caibaojian.com/97974.html) （开发者头条）
+* [你想要的 Python 编程技巧，我都给你整理好了](http://hao.caibaojian.com/98042.html) （开发者头条）
+* [API 数据加密框架 monkey-api-encrypt](http://hao.caibaojian.com/98053.html) （开发者头条）
+* [Pro Git 学习笔记](http://hao.caibaojian.com/98125.html) （SegmentFault）
+* [前后端分离应用：用户信息传递](http://hao.caibaojian.com/98063.html) （开发者头条）
+* [优秀的命令行工具整理 （一）](http://hao.caibaojian.com/98136.html) （SegmentFault）
 
 ***
-* [一个可实践的 “Hash 加盐” 技术方案](http://hao.caibaojian.com/97953.html) （开发者头条）
-* [走近源码：Redis 如何执行命令](http://hao.caibaojian.com/97964.html) （开发者头条）
-* [PHP 安全：如何防范用户上传 PHP 可执行文件](http://hao.caibaojian.com/97943.html) （SegmentFault）
-* [小工具：查找哪些 clusterRole 定义了某个 resource](http://hao.caibaojian.com/97975.html) （开发者头条）
-* [快播王欣新产品 “马桶 MT” 初体验](http://hao.caibaojian.com/97954.html) （开发者头条）
+* [细说 API：重新认识 RESTful](http://hao.caibaojian.com/98043.html) （开发者头条）
+* [测测你是《花千骨》里的谁：业务代码里常用的设计模式](http://hao.caibaojian.com/98075.html) （开发者头条）
+* [深入 Spring Boot：从 JVM 分析 hibernate-validator NoClassDefFoundError](http://hao.caibaojian.com/98054.html) （开发者头条）
+* [一次简单的项目优化](http://hao.caibaojian.com/98126.html) （SegmentFault）
+* [2018 年移动端：上半场有多辉煌，下半场就有多迷茫](http://hao.caibaojian.com/98044.html) （开发者头条）
 
 ***
-* [node 使用第三方api 生成 word 文档之修改源码实现需求](http://hao.caibaojian.com/97944.html) （SegmentFault）
-* [EOS DApp 现新型交易排挤攻击及通用防御建议](http://hao.caibaojian.com/97976.html) （开发者头条）
-* [Spring Cloud Hystrix 源码学习合集](http://hao.caibaojian.com/97955.html) （开发者头条）
-* [觅迹：轻量级室内导航解决方案](http://hao.caibaojian.com/97966.html) （开发者头条）
-* [less学习之Bootstrap](http://hao.caibaojian.com/97945.html) （SegmentFault）
+* [测测你是《花千骨》里的谁：业务代码里常用的设计模式](http://hao.caibaojian.com/98076.html) （开发者头条）
+* [记一次网页内存溢出分析及解决实践](http://hao.caibaojian.com/98148.html) （推酷网）
+* [2018 年终奖调查：白领人均 7100 元，互联网豪气不再](http://hao.caibaojian.com/98055.html) （开发者头条）
+* [网页上传文件的原理详解](http://hao.caibaojian.com/98127.html) （SegmentFault）
+* [MTSC 议题征集：2019 最热的测试技术趋势与 QA 最佳实践是什么？](http://hao.caibaojian.com/98065.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
