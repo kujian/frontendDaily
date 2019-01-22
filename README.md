@@ -1,46 +1,46 @@
-# [2019-01-21 精选博文推荐](http://hao.caibaojian.com/date/2019/01/21)
+# [2019-01-22 精选博文推荐](http://hao.caibaojian.com/date/2019/01/22)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [通过垃圾回收机制理解 JavaScript 内存管理](http://hao.caibaojian.com/98568.html) （推酷网）
-* [JavaScript中任意两个数加减的解决方案](http://hao.caibaojian.com/98570.html) （推酷网）
-* [漂亮的动态气泡背景效果bubbly-bg.js](http://hao.caibaojian.com/98572.html) （推酷网）
-* [入坑 GitHub，先当女装大佬？给这个 2500+ 星的项目跪了](http://hao.caibaojian.com/98525.html) （开发者头条）
-* [[ 逻辑锻炼] 用 JavaScript 做一个小游戏 ——2048 （详解版）](http://hao.caibaojian.com/98517.html) （SegmentFault）
+* [给2019前端的5个建议](http://hao.caibaojian.com/98671.html) （推酷网）
+* [“计算机之子”winter：我的前端学习路线与方法](http://hao.caibaojian.com/98670.html) （推酷网）
+* [js的三种异步处理学习笔记](http://hao.caibaojian.com/98679.html) （推酷网）
+* [JavaScript中的this详解](http://hao.caibaojian.com/98666.html) （推酷网）
+* [精读《如何编译前端项目与组件》](http://hao.caibaojian.com/98682.html) （推酷网）
 
 ***
-* [「前端面试题系列4」this的原理以及用法](http://hao.caibaojian.com/98507.html) （SegmentFault）
-* [前端基础入门四（JavaScript基础）](http://hao.caibaojian.com/98518.html) （SegmentFault）
-* [粉丝群第27期JS基础小测答疑文字版](http://hao.caibaojian.com/98571.html) （推酷网）
-* [说来话长的 Javascript 原型链](http://hao.caibaojian.com/98565.html) （推酷网）
-* [知乎容器化构建系统设计和实践](http://hao.caibaojian.com/98536.html) （开发者头条）
+* [一套闲置的前端算法字帖，有需要的吗？](http://hao.caibaojian.com/98633.html) （开发者头条）
+* [Canvas实用库Fabric.js使用手册](http://hao.caibaojian.com/98663.html) （推酷网）
+* [每个 JavaScript 开发者都该了解的 ES2018 新特性](http://hao.caibaojian.com/98668.html) （推酷网）
+* [世界顶级公司的前端面试都问些什么](http://hao.caibaojian.com/98611.html) （SegmentFault）
+* [【前端笔记】Vuex快速使用](http://hao.caibaojian.com/98667.html) （推酷网）
 
 ***
-* [ReasonML——新的前端强类型语言简介](http://hao.caibaojian.com/98566.html) （推酷网）
-* [一个 bug 引发的惨案：拼多多一夜被薅 200 多亿？](http://hao.caibaojian.com/98526.html) （开发者头条）
-* [使用 Redux 管理 Flutter 应用数据](http://hao.caibaojian.com/98537.html) （开发者头条）
-* [有赞大数据平台安全建设实践](http://hao.caibaojian.com/98529.html) （开发者头条）
-* [[MySQL进阶之路][No.0003] 主从复制（Replication）在运维中的运用](http://hao.caibaojian.com/98508.html) （SegmentFault）
+* [webpack拾忆](http://hao.caibaojian.com/98669.html) （推酷网）
+* [使用 Gulp 搭建轻量级前端开发环境](http://hao.caibaojian.com/98672.html) （推酷网）
+* [重构你的javascript代码](http://hao.caibaojian.com/98660.html) （推酷网）
+* [vue -on如何绑定多个事件](http://hao.caibaojian.com/98613.html) （SegmentFault）
+* [Facebook 时间序列预测算法 Prophet 的研究](http://hao.caibaojian.com/98635.html) （开发者头条）
 
 ***
-* [谈谈 Flutter 中的请求和异步](http://hao.caibaojian.com/98540.html) （开发者头条）
-* [微博程序员加班合并代码，错失值 77 万元的年会大奖](http://hao.caibaojian.com/98531.html) （开发者头条）
-* [不懂 watermark？来吧](http://hao.caibaojian.com/98542.html) （开发者头条）
-* [iOS 12+ 中检测网络访问](http://hao.caibaojian.com/98533.html) （开发者头条）
-* [中间自适应布局的5种解法](http://hao.caibaojian.com/98512.html) （SegmentFault）
+* [如何利用webpack来提升前端开发效率（二）？](http://hao.caibaojian.com/98677.html) （推酷网）
+* [基于vue的验证码组件](http://hao.caibaojian.com/98605.html) （SegmentFault）
+* [ReentrantReadWriteLock 读写锁及其在 RxCache 中的使用](http://hao.caibaojian.com/98627.html) （开发者头条）
+* [理解 JavaScript 对象的属性](http://hao.caibaojian.com/98678.html) （推酷网）
+* [我的一些前端开源项目](http://hao.caibaojian.com/98618.html) （开发者头条）
 
 ***
-* [理解 XGBoost](http://hao.caibaojian.com/98544.html) （开发者头条）
-* [可视化架构设计：C4 介绍](http://hao.caibaojian.com/98523.html) （开发者头条）
-* [我的程序方法论](http://hao.caibaojian.com/98534.html) （开发者头条）
-* [iOS打包详解](http://hao.caibaojian.com/98513.html) （SegmentFault）
-* [Euler：阿里妈妈开源的图深度学习框架](http://hao.caibaojian.com/98545.html) （开发者头条）
+* [Excel-Boot：一款 Excel 导入导出解决方案组成的轻量级开源组件](http://hao.caibaojian.com/98629.html) （开发者头条）
+* [前端DOM知识点](http://hao.caibaojian.com/98608.html) （SegmentFault）
+* [以 Dubbo 为例，聊聊如何为开源项目做贡献](http://hao.caibaojian.com/98619.html) （开发者头条）
+* [前端进击的巨人（四）：略知函数式编程](http://hao.caibaojian.com/98609.html) （SegmentFault）
+* [Swoole 2019 ：化繁为简、破茧成蝶](http://hao.caibaojian.com/98599.html) （SegmentFault）
 
 ***
-* [程序员如何提升算法思维？](http://hao.caibaojian.com/98524.html) （开发者头条）
-* [【收藏】免费的编程中文书籍索引](http://hao.caibaojian.com/98503.html) （SegmentFault）
-* [CPU 优化建议：使用 cpupower 设置 CPU Performance 模式](http://hao.caibaojian.com/98535.html) （开发者头条）
-* [beego框架代码分析](http://hao.caibaojian.com/98514.html) （SegmentFault）
-* [js中各种位置](http://hao.caibaojian.com/98504.html) （SegmentFault）
+* [云端分布式架构下的编程语言：elixir; pattern matching](http://hao.caibaojian.com/98645.html) （开发者头条）
+* [从标准原理出发理解JavaScript数值精度](http://hao.caibaojian.com/98673.html) （推酷网）
+* [前端加密那点事](http://hao.caibaojian.com/98612.html) （SegmentFault）
+* [element ScrollBar滚动组件源码深入分析](http://hao.caibaojian.com/98662.html) （推酷网）
+* [Gracker 的 2018 年度最推荐：给辛勤工作的自己一点奖励](http://hao.caibaojian.com/98624.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
