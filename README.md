@@ -1,46 +1,46 @@
-# [2019-01-31 精选博文推荐](http://hao.caibaojian.com/date/2019/01/31)
+# [2019-02-01 精选博文推荐](http://hao.caibaojian.com/date/2019/02/01)
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
-* [ECMASCript 2019可能会有哪些特性？](http://hao.caibaojian.com/99709.html) （SegmentFault）
-* [如何用 nodejs 编写 TCP 长连接应用](http://hao.caibaojian.com/99723.html) （开发者头条）
-* [【你该懂一点Javascript算法系列】之单源最短路径 &#8211; Dijkstra算法](http://hao.caibaojian.com/99704.html) （SegmentFault）
-* [ES6 export 和 export default的区别](http://hao.caibaojian.com/99705.html) （SegmentFault）
-* [TYPESCRIPT指南（译文）](http://hao.caibaojian.com/99713.html) （SegmentFault）
+* [JavaScript sort() 排序的坑详解](http://hao.caibaojian.com/99802.html) （SegmentFault）
+* [JavaScript专题系列-防抖和节流](http://hao.caibaojian.com/99865.html) （推酷网）
+* [距离最好的编程语言，JavaScript 还缺些什么？](http://hao.caibaojian.com/99871.html) （推酷网）
+* [JS手写状态管理的实现](http://hao.caibaojian.com/99867.html) （推酷网）
+* [Virtual Dom 和 Diff 算法在 React 中是如何工作的？](http://hao.caibaojian.com/99868.html) （推酷网）
 
 ***
-* [git 分支原理介绍](http://hao.caibaojian.com/99714.html) （SegmentFault）
-* [Chameleon：滴滴开源的跨平台统一 MVVM 框架](http://hao.caibaojian.com/99739.html) （开发者头条）
-* [手牵手，我们一起搭建VuePress博客](http://hao.caibaojian.com/99708.html) （SegmentFault）
-* [谷歌大脑的 “世界模型” (World Models) 与基因学的一些思考](http://hao.caibaojian.com/99741.html) （开发者头条）
-* [MySQL 性能突发事件问题排查技巧](http://hao.caibaojian.com/99720.html) （开发者头条）
+* [前端路由跳转基本原理](http://hao.caibaojian.com/99785.html) （SegmentFault）
+* [2019 年针对 API 安全的 4 点建议](http://hao.caibaojian.com/99808.html) （开发者头条）
+* [Vue经典开源项目汇总](http://hao.caibaojian.com/99787.html) （SegmentFault）
+* [简单聊聊前端开发中的热更新原理](http://hao.caibaojian.com/99788.html) （SegmentFault）
+* [CSS Flexbox 可视化手册](http://hao.caibaojian.com/99789.html) （SegmentFault）
 
 ***
-* [开源声码器 WORLD 在语音合成中的应用](http://hao.caibaojian.com/99731.html) （开发者头条）
-* [半小时撸一个抽奖程序](http://hao.caibaojian.com/99710.html) （SegmentFault）
-* [个推用户画像的实践与应用](http://hao.caibaojian.com/99742.html) （开发者头条）
-* [MySQL 分库分表及其平滑扩容方案](http://hao.caibaojian.com/99721.html) （开发者头条）
-* [小说：白话幂等性设计](http://hao.caibaojian.com/99732.html) （开发者头条）
+* [用垃圾回收机制解释JavaScript中的闭包](http://hao.caibaojian.com/99864.html) （推酷网）
+* [常见六大Web 安全攻防解析](http://hao.caibaojian.com/99786.html) （SegmentFault）
+* [原生实现img-lazyLoad:图片延迟加载（基于intersection Observer）](http://hao.caibaojian.com/99797.html) （SegmentFault）
+* [写在阿里 Blink 正式开源之际](http://hao.caibaojian.com/99830.html) （开发者头条）
+* [macOS Mojave 升级后开机卡在进度条和唤醒时黑屏的解决方法](http://hao.caibaojian.com/99819.html) （开发者头条）
 
 ***
-* [利用策略模式优化过多 if else 代码](http://hao.caibaojian.com/99711.html) （SegmentFault）
-* [简单理解 Holochain](http://hao.caibaojian.com/99743.html) （开发者头条）
-* [6-7-5，谷歌顶级工程师的快乐密码](http://hao.caibaojian.com/99722.html) （开发者头条）
-* [收藏了8年的PHP优秀资源，都给你整理好了](http://hao.caibaojian.com/99701.html) （SegmentFault）
-* [TiDB 应用实践](http://hao.caibaojian.com/99733.html) （开发者头条）
+* [学习MVVM及框架的双向绑定笔记](http://hao.caibaojian.com/99798.html) （SegmentFault）
+* [Truffle Linker 的解释](http://hao.caibaojian.com/99831.html) （开发者头条）
+* [有了 HBase 为什么还要 Kudu？](http://hao.caibaojian.com/99809.html) （开发者头条）
+* [GORM 避坑指南之含关联关系的更新](http://hao.caibaojian.com/99820.html) （开发者头条）
+* [使用 Gatsby.js 搭建静态博客 7 文章目录](http://hao.caibaojian.com/99799.html) （SegmentFault）
 
 ***
-* [对SVG动画进行惰性异步光栅化处理](http://hao.caibaojian.com/99712.html) （SegmentFault）
-* [ShardingSphere 对接京东白条实战](http://hao.caibaojian.com/99744.html) （开发者头条）
-* [WebSocket 与 Polling , Long-Polling , Streaming 的比较](http://hao.caibaojian.com/99702.html) （SegmentFault）
-* [详解 Flutter 生命周期](http://hao.caibaojian.com/99734.html) （开发者头条）
-* [HTML5 Video Player 1.2.5 缓冲区溢出分析](http://hao.caibaojian.com/99768.html) （推酷网）
+* [Tiercel：简单易用且功能丰富的纯 Swift 下载框架](http://hao.caibaojian.com/99833.html) （开发者头条）
+* [如何使用 rsync 命令](http://hao.caibaojian.com/99810.html) （开发者头条）
+* [开源项目 koa-router 被公开叫卖，周下载 10W+ 只要 5000 刀](http://hao.caibaojian.com/99869.html) （推酷网）
+* [优酷 IPv6 改造纪实：视频行业首家拥抱下一代网络技术](http://hao.caibaojian.com/99821.html) （开发者头条）
+* [psr系列常用规范总结](http://hao.caibaojian.com/99800.html) （SegmentFault）
 
 ***
-* [2019 深度学习工具汇总](http://hao.caibaojian.com/99724.html) （开发者头条）
-* [Redis 中 Lua 脚本的应用和实践](http://hao.caibaojian.com/99703.html) （SegmentFault）
-* [13 个你应该选择/考虑使用 Flutter 的理由](http://hao.caibaojian.com/99735.html) （开发者头条）
-* [Prolog 语言入门教程](http://hao.caibaojian.com/99725.html) （开发者头条）
-* [Spark 排序算法系列之 GBTs 基础：三种梯度下降算法](http://hao.caibaojian.com/99736.html) （开发者头条）
+* [我也来写一个类型安全的 printf](http://hao.caibaojian.com/99834.html) （开发者头条）
+* [数据科学新人常犯的错误](http://hao.caibaojian.com/99811.html) （开发者头条）
+* [2019年七大最佳的网页抓取工具](http://hao.caibaojian.com/99870.html) （推酷网）
+* [一文带你认识Spring事务](http://hao.caibaojian.com/99790.html) （SegmentFault）
+* [Kafka 的 Lag 计算误区及正确实现](http://hao.caibaojian.com/99822.html) （开发者头条）
 
 日报维护作者：[前端博客](http://caibaojian.com/) 和 [微博](http://caibaojian.com/go/weibo)
 
