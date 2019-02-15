@@ -16,7 +16,7 @@
 
 如果你觉得我的分享对你有帮助，不妨考虑打赏我[一杯咖啡](http://caibaojian.com/donation)，以资鼓励。
 
-![微信打赏](https://upload-images.jianshu.io/upload_images/570843-a9bd6dee6dd6491e.png)
+![打赏](https://upload-images.jianshu.io/upload_images/570843-db4053c67a8c9ea9.png)
 
 ## 推荐
 1. [掘金小册8折优惠，还有全网优惠教程](http://caibaojian.com/goods)
