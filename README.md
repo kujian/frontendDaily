@@ -2,7 +2,9 @@
 
 [前端日报](http://caibaojian.com/c/news)栏目数据来自[码农头条](http://hao.caibaojian.com/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，让更多人看到它，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
 
-每日存档可以看 [issues](https://github.com/kujian/frontendDaily/issues)，或者点击下方的月份查阅。
+## 每日存档
+
+可以看 [issues](https://github.com/kujian/frontendDaily/issues)，或者点击下方的月份查阅。
 
 ## 2019
 [一月](https://github.com/kujian/frontendDaily/tree/master/2019/01) | [二月](https://github.com/kujian/frontendDaily/tree/master/2019/02)
@@ -14,6 +16,10 @@
 [全年文章存档](https://github.com/kujian/frontendDaily/tree/master/2016)
 
 一转眼这个项目已经维护了3年了，从不间断。我都挺佩服我自己的。**推荐** ：【[兄弟项目：Github每日热门项目](https://github.com/kujian/githubTrending)】
+
+## 荣誉
+
+承蒙微博大佬（@GithubDaily、@掘金技术社区、@蚁工厂）的推荐，2019.2.18 登录 Github Trending HTML 第一位。
 
 ## 关于我
 
