@@ -19,7 +19,7 @@
 
 ## 荣誉
 
-承蒙微博大佬（@GithubDaily、@掘金技术社区、@蚁工厂）的推荐，2019.2.18 登录 Github Trending HTML 第一位。
+承蒙微博大佬（@GithubDaily、@掘金技术社区、@蚁工厂）的推荐，2019.2.18 登录 [Github Trending HTML](https://github.com/trending/html?since=daily) 第一位。
 
 ## 关于我
 
