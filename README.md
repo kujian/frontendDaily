@@ -7,7 +7,7 @@
 可以看 [issues](https://github.com/kujian/frontendDaily/issues)，或者点击下方的月份查阅。
 
 ## 2019
-[一月](https://github.com/kujian/frontendDaily/tree/master/2019/01) | [二月](https://github.com/kujian/frontendDaily/tree/master/2019/02)
+[一月](https://github.com/kujian/frontendDaily/tree/master/2019/01) | [二月](https://github.com/kujian/frontendDaily/tree/master/2019/02) | [三月](https://github.com/kujian/frontendDaily/tree/master/2019/03)
 ## 2018
 [一月](https://github.com/kujian/frontendDaily/tree/master/2018/01) | [二月](https://github.com/kujian/frontendDaily/tree/master/2018/02) |[三月](https://github.com/kujian/frontendDaily/tree/master/2018/03) | [四月](https://github.com/kujian/frontendDaily/tree/master/2018/04) |[五月](https://github.com/kujian/frontendDaily/tree/master/2018/05) | [六月](https://github.com/kujian/frontendDaily/tree/master/2018/06) |[七月](https://github.com/kujian/frontendDaily/tree/master/2018/07) | [八月](https://github.com/kujian/frontendDaily/tree/master/2018/08) |[九月](https://github.com/kujian/frontendDaily/tree/master/2018/09) | [十月](https://github.com/kujian/frontendDaily/tree/master/2018/10) |[十一月](https://github.com/kujian/frontendDaily/tree/master/2018/11) | [十二月](https://github.com/kujian/frontendDaily/tree/master/2018/12)
 ## 2017
@@ -33,9 +33,9 @@
 ## 推荐
 1. [掘金小册8折优惠，还有全网优惠教程](http://caibaojian.com/goods)
 2. [阿里云1888元优惠券领取](http://caibaojian.com/go/aliyun)
-3. [36个小而美的赚钱项目，让你月入10万](http://t.cn/EV7YgYw)
-4. [打造高质量朋友圈，收获赚钱新技能！](http://t.cn/EV7n9AY)
-5. [投资理财8节课，让你真正学会钱生钱](http://t.cn/EV7EiM1)
+3. [关注我的微信公众号，领取100本热门电子书](http://t.cn/EV7pcM1)
+4. [关注我的微博，每日分享精彩前端技术](https://weibo.com/kujian)
+5. [加入微信群，每日一道面试题，一周汇总答案给你](http://t.cn/EV7pcM1)
 
 ## 微信群
 
