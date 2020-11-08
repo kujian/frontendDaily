@@ -135,14 +135,14 @@ for(var i=0,len=all.length;i<len;i++){
 	var el = all[i];
 	var url = el.getAttribute('href');
 	var tit = el.querySelectorAll('.js_title')[0].innerHTML;
-var str = `${i+1}. [${tit}](${url})`;
-arr.push(str);
+	var str = `${i+1}. [${tit}](${url})`;
+	arr.push(str);
 }
 console.log(arr.join('\n'));
 ```
 
 如果你有那些想要我整理的东西，也可以告知我哦。
 
-也可以扫描下面直接关注我
+## 关注我
 
 ![](http://pic.caibaojian.com.cn/uploads/2020/07/weixin-mini2.png)
