@@ -141,7 +141,7 @@ for(var i=0,len=all.length;i<len;i++){
 console.log(arr.join('\n'));
 ```
 
-如果你有那些想要我整理的东西，也可以告知我哦。
+如果你有想要我整理的东西，也可以告知我哦。
 
 ## 关注我
 
