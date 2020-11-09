@@ -2,7 +2,7 @@
 
 [2019年存档](2019_README.md)，后面每日技术日报不再更新，会挑选一些比较有用的文章发在公众号上，欢迎关注我。
 
-我的微信公众号：前端开发博客，回复 1024，领取前端进阶资料
+我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，回复 1024，领取前端进阶资料
 
 1. 回复「Vue」获取 Vue 精选文章
 2. 回复「面试」获取 面试 精选文章
@@ -143,6 +143,3 @@ console.log(arr.join('\n'));
 
 如果你有想要我整理的东西，也可以告知我哦。
 
-## 关注我
-
-![](http://pic.caibaojian.com.cn/uploads/2020/07/weixin-mini2.png)
