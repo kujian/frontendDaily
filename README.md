@@ -2,12 +2,16 @@
 
 [2019年存档](2019_README.md)，后面每日技术日报不再更新，会挑选一些比较有用的文章发在公众号上，欢迎关注我。
 
-我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，回复 1024，领取前端进阶资料
+我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，在后台回复以下关键字可以获取资源。
 
+0. 回复「1024」，领取前端进阶资料，包含小程序、Nodejs、Git等
 1. 回复「Vue」获取 Vue 精选文章
 2. 回复「面试」获取 面试 精选文章
 3. 回复「JS」获取 JavaScript 精选文章
 4. 回复「CSS」获取 CSS 精选文章
+5. 回复「加群」进入500人前端精英群
+6. 回复「电子书」下载我整理的大量前端资源，含面试、Vue实战项目、CSS和JavaScript电子书等。
+7. 回复「知识点」下载高清JavaScript知识点图谱
 
 
 ## Vue 精选文章
