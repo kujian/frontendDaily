@@ -1,6 +1,10 @@
 # 前端开发博客
 
-[2019年存档](2019_README.md)，后面每日技术日报不再更新，会挑选一些比较有用的文章发在公众号上，欢迎关注我。
+[2019年存档](2019_README.md)
+
+[最新前端日报](https://github.com/kujian/frontendDaily/issues)
+
+每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
 
 我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，在后台回复以下关键字可以获取资源。
 
@@ -9,10 +13,56 @@
 2. 回复「面试」获取 面试 精选文章
 3. 回复「JS」获取 JavaScript 精选文章
 4. 回复「CSS」获取 CSS 精选文章
-5. 回复「加群」进入500人前端精英群
-6. 回复「电子书」下载我整理的大量前端资源，含面试、Vue实战项目、CSS和JavaScript电子书等。
-7. 回复「知识点」下载高清JavaScript知识点图谱
+5. 回复「ES6」获取 ES6 精选文章
+6. 回复「React」获取 React 精选文章
+7. 回复「加群」进入500人前端精英群
+8. 回复「电子书」下载我整理的大量前端资源，含面试、Vue实战项目、CSS和JavaScript电子书等。
+9. 回复「知识点」下载高清JavaScript知识点图谱
 
+## Vue3 精选文章（12月新增）
+
+1. [Vue3有哪些不向下兼容的改变](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084507&idx=1&sn=5a0ce79cd7cfde369294e3207b3e24a3&scene=19#wechat_redirect)
+2. [Vue3的学习记录](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084266&idx=1&sn=58f14236bcf9b99fdd4269bac5ca634d&scene=19#wechat_redirect)
+3. [Vue3开发踩坑](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650082384&idx=2&sn=758112b4e1cc40b7b40b8cae964909aa&scene=19#wechat_redirect)
+4. [一份很棒的Vue3 学习清单](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650082262&idx=2&sn=c09037f9f70d08a2c4622e565e9e0b87&scene=19#wechat_redirect)
+5. [让你30分钟快速掌握vue 3](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650081599&idx=1&sn=d28ae78f205640f7f812318b8b5ccc71&scene=19#wechat_redirect)
+6. [一篇文章上手Vue3中新增的API](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080823&idx=2&sn=467d888769e1bb1bb27731c732fb6847&scene=19#wechat_redirect)
+7. [Vue3使用TypeScript的正确姿势](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080811&idx=2&sn=8d5981ba5b0815156a22f4a3b155c5ff&scene=19#wechat_redirect)
+8. [Vue 最全知识点，面试必备，覆盖 Vue 3.0](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080362&idx=1&sn=8ae29e879adcdec633ef5e3871b9710a&scene=19#wechat_redirect)
+9. [尤雨溪视频：Vue 3.0的全球发布会，1个小时的干货分享](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080282&idx=2&sn=dd6a726ca4adbf4eeb7ff088369f8b9c&scene=19#wechat_redirect)
+10. [[官宣] Vue 3.0 — One Piece 发布](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080255&idx=1&sn=5e92e23f1041f99ecd3166655c380d2e&scene=19#wechat_redirect)
+11. [尤雨溪：重头来过的 Vue 3 带来了什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079079&idx=1&sn=7478bf779f6dba8c00fa78ba6f9390a9&scene=19#wechat_redirect)
+12. [Vue 3.0 中令人激动的新功能：Portals+新的自定义指令API](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078554&idx=1&sn=856ed36db0d500ed3189059033d18566&scene=19#wechat_redirect)
+13. [Vue 3中令人激动的新功能：Fragment+Suspense+多v-model](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078539&idx=1&sn=66de47fbb9c05cefe9d5abdc96d9e52f&scene=19#wechat_redirect)
+14. [Vue 3中令人激动的新功能：Composition API](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078515&idx=1&sn=1f58a9a55e3118209da838d94c67aa89&scene=19#wechat_redirect)
+15. [译文：使用Vue 3加快网络应用的速度](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078493&idx=1&sn=238de4f5edd56ce5b8ecc24d6d39a3d2&scene=19#wechat_redirect)
+16. [Vue.js 专栏课程推荐，助你更好迎接Vue 3.0](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078488&idx=1&sn=f968722ab8151ff92d546d29a16bb4df&scene=19#wechat_redirect)
+17. [关于Vue3 beta版的一些学习笔记](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078484&idx=1&sn=04fcab0a3a7c6eaeba109237fd6404cb&scene=19#wechat_redirect)
+18. [尤雨溪 - 聊聊 Vue.js 3.0 Beta 官方直播完整版](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078480&idx=1&sn=3099073ad5777cfcf3d49eeb082e789e&scene=19#wechat_redirect)
+19. [译文：Vue3 Composition API 是如何取代 Vue Mixins 的？](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078468&idx=1&sn=37cf9e0540d880ee220de8d802d67744&scene=19#wechat_redirect)
+20. [扶我起来，我还能学：迎接 Vue 3.0](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078464&idx=1&sn=69238fa2bc277019fc4e9e27c06054c7&scene=19#wechat_redirect)
+
+## ES6 精选文章（12月新增）
+
+1. [15道ES6 Promise实战练习题](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084846&idx=2&sn=df481aa2f00e749f8223782c069bb86a&scene=19#wechat_redirect)
+2. [一份精心总结的3万字ES6实用指南（下）](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084181&idx=2&sn=1c67225eaf57365e74baf7b9fe92267d&scene=19#wechat_redirect)
+3. [一份精心总结的3万字ES6实用指南（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084181&idx=1&sn=9e6903f7324ab1a6aad27f897bbaf402&scene=19#wechat_redirect)
+4. [ES6、ES7、ES8学习指南](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650082586&idx=2&sn=b9e6b18e835e4734e7f10073004235fe&scene=19#wechat_redirect)
+5. [24个解决实际问题的ES6代码段](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650082435&idx=2&sn=fee00447063556de399a9fd05be0e785&scene=19#wechat_redirect)
+6. [使用ES5实现ES6的Class](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650082053&idx=2&sn=d5aa30454ade9a14439ec914ca31efd9&scene=19#wechat_redirect)
+7. [重温ES6核心概念和基本用法](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650081976&idx=2&sn=cee7d8b0ec45545285518ea953790415&scene=19#wechat_redirect)
+8. [ES2020 中 Javascript 10 个你应该知道的新功能](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080114&idx=1&sn=5c967acb5e2a584c4a78bfdb7be740d1&scene=19#wechat_redirect)
+9. [面试中常考的字符串操作方法大全，包含ES6](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078517&idx=2&sn=588edc26e5f120ebbb8c7df42daf2d2f&scene=19#wechat_redirect)
+
+## React 精选文章（12月新增）
+
+1. [React 使用中值得优化的 7 个点](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084695&idx=1&sn=9655e8e73cbbed4d32f368a1b7805946&scene=19#wechat_redirect)
+2. [当我们讨论 hooks 时到底在讨论什么](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084639&idx=2&sn=119e99073e369326b39631e771f05b17&scene=19#wechat_redirect)
+3. [面试常考的20个 React 与 Vue 的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080518&idx=1&sn=3e76d84f3aac5e00e57adea56a807f13&scene=19#wechat_redirect)
+4. [顶级React组件库推荐](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079719&idx=3&sn=ba57a338fc03a3e293515b7434d62282&scene=19#wechat_redirect)
+5. [React Hook 的底层实现原理](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079595&idx=2&sn=f2197d5c589bb8adb1f90bc7f2a3a36c&scene=19#wechat_redirect)
+6. [React 17 正式发布！更新一览](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650081318&idx=2&sn=212cc231a7489809ff0c08d26194917a&scene=19#wechat_redirect)
+7. [如何优雅地解决多个 React、Vue App 之间的状态共享](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084643&idx=2&sn=6baa63d1cd766ab73526bd2cc9fef83f&scene=19#wechat_redirect)
 
 ## Vue 精选文章
 
@@ -112,22 +162,27 @@
 
 ## CSS & HTML 精选文章
 
-1. [纯CSS实现密室逃脱游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650081929&idx=1&sn=a19424564d687e1f8d192b24cd5c1354&scene=19#wechat_redirect)
-2. [CSS Flexbox 青蛙游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650081873&idx=1&sn=045072a760c180c3494858ea16bc45dd&scene=19#wechat_redirect)
-3. [104道 CSS 面试题，助你查漏补缺](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080985&idx=1&sn=deefbbda226e8c58e2197c59bd106c2d&scene=19#wechat_redirect)
-4. [17个场景，带你入门CSS布局](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080973&idx=2&sn=d05e19a4e2e1dc4de7c8e33f80f096db&scene=19#wechat_redirect)
-5. [CSS垂直居中的七个方法](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080810&idx=1&sn=95f73a9e4fd80e3c56323e395077afcb&scene=19#wechat_redirect)
-6. [20个让你效率更高的CSS代码技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080704&idx=1&sn=eb8594ac18569b848997152012671866&scene=19#wechat_redirect)
-7. [一些最常见和最有趣的CSS错误](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079896&idx=1&sn=fdfbb61b54e3298c28cd0d46a01e0e18&scene=19#wechat_redirect)
-8. [CSS瞬间黑暗模式](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079783&idx=1&sn=af965c599b31c8c45b2834ecd2d921f8&scene=19#wechat_redirect)
-9. [content-visibility 缩短页面加载速度](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079783&idx=2&sn=8c87e7fb9c7d59d81cf77899d0cda52a&scene=19#wechat_redirect)
-10. [不定宽溢出文本适配滚动](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079783&idx=3&sn=e0e461f071af1d22ab7d12f5bc3ae8f3&scene=19#wechat_redirect)
-11. [一行 CSS 代码搞定响应式布局](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079537&idx=2&sn=8b4347a8738f082e600084104bffcb4e&scene=19#wechat_redirect)
-12. [CSS 8种让人眼前一亮的hover效果](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079537&idx=3&sn=6df56239f9499b9bea13b1300d4b9384&scene=19#wechat_redirect)
-13. [是时候开始用 CSS 自定义属性了](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079162&idx=1&sn=bbad0eac6636872680bfbdb7f322563d&scene=19#wechat_redirect)
-14. [CSS 计算属性 calc()的完整指南（下）](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079026&idx=1&sn=315852f5ddc19a6c03775d2fab58b361&scene=19#wechat_redirect)
-15. [那些不常见，但却非常实用的css属性(整理不易)](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078915&idx=2&sn=725d25840de79ace1b89d0da23a5b5ee&scene=19#wechat_redirect)
-16. [CSS 中calc()的完整指南(一)](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078535&idx=1&sn=35c7bc72146e7b63080b070846b08ce6&scene=19#wechat_redirect)
+1. [用 CSS 实现一个抽奖转盘(附详细代码+思路)](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084901&idx=1&sn=bd8df376796cc23bbce0bb7b2f4f9ccf&scene=19#wechat_redirect)
+2. [10个CSS3动画工具，值得你收藏！](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084901&idx=2&sn=3b6491dfe8732b56f99d47dcfdf2969b&scene=19#wechat_redirect)
+3. [我写CSS的常用套路(附demo的效果实现与源码）](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650084007&idx=2&sn=cfdc8be72ea82ff0467a4ebdfc294dc9&scene=19#wechat_redirect)
+4. [CSS 故障艺术](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650083916&idx=2&sn=71fd57b10842c66d6440c557bc0aad2c&scene=19#wechat_redirect)
+5. [2020年你不应该错过的CSS新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650082871&idx=2&sn=1b4579e403a514a710eb659a75e79cd2&scene=19#wechat_redirect)
+6. [纯CSS实现密室逃脱游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650081929&idx=1&sn=a19424564d687e1f8d192b24cd5c1354&scene=19#wechat_redirect)
+7. [CSS Flexbox 青蛙游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650081873&idx=1&sn=045072a760c180c3494858ea16bc45dd&scene=19#wechat_redirect)
+8. [104道 CSS 面试题，助你查漏补缺](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080985&idx=1&sn=deefbbda226e8c58e2197c59bd106c2d&scene=19#wechat_redirect)
+9. [17个场景，带你入门CSS布局](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080973&idx=2&sn=d05e19a4e2e1dc4de7c8e33f80f096db&scene=19#wechat_redirect)
+10. [CSS垂直居中的七个方法](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080810&idx=1&sn=95f73a9e4fd80e3c56323e395077afcb&scene=19#wechat_redirect)
+11. [20个让你效率更高的CSS代码技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650080704&idx=1&sn=eb8594ac18569b848997152012671866&scene=19#wechat_redirect)
+12. [一些最常见和最有趣的CSS错误](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079896&idx=1&sn=fdfbb61b54e3298c28cd0d46a01e0e18&scene=19#wechat_redirect)
+13. [CSS瞬间黑暗模式](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079783&idx=1&sn=af965c599b31c8c45b2834ecd2d921f8&scene=19#wechat_redirect)
+14. [content-visibility 缩短页面加载速度](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079783&idx=2&sn=8c87e7fb9c7d59d81cf77899d0cda52a&scene=19#wechat_redirect)
+15. [不定宽溢出文本适配滚动](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079783&idx=3&sn=e0e461f071af1d22ab7d12f5bc3ae8f3&scene=19#wechat_redirect)
+16. [一行 CSS 代码搞定响应式布局](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079537&idx=2&sn=8b4347a8738f082e600084104bffcb4e&scene=19#wechat_redirect)
+17. [CSS 8种让人眼前一亮的hover效果](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079537&idx=3&sn=6df56239f9499b9bea13b1300d4b9384&scene=19#wechat_redirect)
+18. [是时候开始用 CSS 自定义属性了](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079162&idx=1&sn=bbad0eac6636872680bfbdb7f322563d&scene=19#wechat_redirect)
+19. [CSS 计算属性 calc()的完整指南（下）](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650079026&idx=1&sn=315852f5ddc19a6c03775d2fab58b361&scene=19#wechat_redirect)
+20. [那些不常见，但却非常实用的css属性(整理不易)](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078915&idx=2&sn=725d25840de79ace1b89d0da23a5b5ee&scene=19#wechat_redirect)
+21. [CSS 中calc()的完整指南(一)](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078535&idx=1&sn=35c7bc72146e7b63080b070846b08ce6&scene=19#wechat_redirect)
 
 ## 最后
 
