@@ -185,6 +185,7 @@
 21. [CSS 中calc()的完整指南(一)](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650078535&idx=1&sn=35c7bc72146e7b63080b070846b08ce6&scene=19#wechat_redirect)
 
 ## 最后
+<!-- 
 
 这个目录每个月会汇总新增一次，新增很简单，只要在公众号页面的控制台输入以下代码就能直接得到上面链接，所以不需要手动整理。
 
@@ -201,4 +202,10 @@ console.log(arr.join('\n'));
 ```
 
 如果你有想要我整理的东西，也可以告知我哦。
+
+-->
+
+加入微信群，每天晚上我会汇总一天最好的文章给你。
+
+![weixin](https://user-images.githubusercontent.com/3055447/38468989-651132ac-3b80-11e8-8e6b-15122322a9d7.png)
 
