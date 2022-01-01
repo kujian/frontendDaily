@@ -1,7 +1,8 @@
 # 前端开发博客
 
-[2019年存档](2019_README.md)
-[2020年总结记录](https://mp.weixin.qq.com/s/u0YW8BFWYLquVauhHrkSMQ)
+1. [2019年存档](2019_README.md)
+2. [2020年总结记录](https://mp.weixin.qq.com/s/u0YW8BFWYLquVauhHrkSMQ)
+3. [2021年总结记录](https://mp.weixin.qq.com/s/zMnxIpxMdDrIyuLxHRnSPw)
 
 [最新前端日报](https://github.com/kujian/frontendDaily/issues)
 
