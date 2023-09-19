@@ -1,6 +1,6 @@
 # 前端技术日报
 
-[前端日报](http://caibaojian.com.cn)栏目数据来自[码农头条](http://hao.caibaojian.com.cn/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，让更多人看到它，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
+[前端日报](http://caibaojian.com.cn)栏目数据来自[码农头条](https://toutiao.qdkfweb.cn/)（我开发的爬虫），每日分享前端、移动开发、设计、资源和资讯等，为开发者提供动力，点击Star按钮来关注这个项目，让更多人看到它，点击Watch来收听每日的更新[Github主页](https://github.com/kujian/frontendDaily)
 
 ## 每日存档
 
@@ -23,7 +23,7 @@
 
 ## 关于我
 
-[前端开发博客](http://caibaojian.com.cn/) 站长，[微博](https://weibo.com/kujian) 粉丝18万，[微信公众号](http://t.cn/EV7pcM1)。
+[前端开发博客](https://qdkfweb.cn/) 站长，[微博](https://weibo.com/kujian) 粉丝18万，[微信公众号](http://t.cn/EV7pcM1)。
 
 
 如果你觉得我的分享对你有帮助，不妨考虑打赏我[一杯咖啡](http://caibaojian.com.cn)，以资鼓励。
@@ -31,7 +31,7 @@
 ![打赏](https://upload-images.jianshu.io/upload_images/570843-db4053c67a8c9ea9.png)
 
 ## 推荐
-2. [阿里云1888元优惠券领取](http://caibaojian.com/go/aliyun)
+2. [阿里云1888元优惠券领取](https://qdkfweb.cn/go/aliyun)
 3. [关注我的微信公众号，领取100本热门电子书](http://t.cn/EV7pcM1)
 4. [关注我的微博，每日分享精彩前端技术](https://weibo.com/kujian)
 5. [加入微信群，每日一道面试题，一周汇总答案给你](http://t.cn/EV7pcM1)

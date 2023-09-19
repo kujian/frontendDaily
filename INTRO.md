@@ -1,10 +1,10 @@
 # 码农头条
 
-码农技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch [http://hao.caibaojian.com/](http://hao.caibaojian.com/)
+码农技术日报，每日分享互联网最精彩的前端技术、前端资讯、后端编程、设计和资源等，欢迎关注Watch [https://toutiao.qdkfweb.cn/](https://toutiao.qdkfweb.cn/)
 
-过去的一年里，[前端开发](http://caibaojian.com/)社区很是热闹，各种前端开发框架和技术让人应接不暇，有些人可能有一些焦虑，这是很正常的，但也不要一味的着急，找一些自己觉得能够入手的事，一步一步来。如果想找各种技术文章和前端开发的大牛，不妨来[码农](http://caibaojian.com/t/%e7%a0%81%e5%86%9c)头条这里看看：[http://hao.caibaojian.com](http://hao.caibaojian.com/)
+过去的一年里，[前端开发](https://qdkfweb.cn/)社区很是热闹，各种前端开发框架和技术让人应接不暇，有些人可能有一些焦虑，这是很正常的，但也不要一味的着急，找一些自己觉得能够入手的事，一步一步来。如果想找各种技术文章和前端开发的大牛，不妨来[码农](https://qdkfweb.cn/t/%e7%a0%81%e5%86%9c)头条这里看看：[http://hao.caibaojian.com](https://toutiao.qdkfweb.cn/)
 
-## [码农](http://caibaojian.com/t/%e7%a0%81%e5%86%9c)头条到底是一个怎么样的网站呢？
+## [码农](https://qdkfweb.cn/t/%e7%a0%81%e5%86%9c)头条到底是一个怎么样的网站呢？
 
 大家进入首页可以看到各种各样的文章和教程，大部分都是社区上最新的技术文章，老的文章我会尽量隐藏不会出现在首页中，里面集合【开发者头条】、【SegmentFault】、【稀土圈】、【infoQ】、【码农周刊】、【优秀网页设计】、【IT程序狮】、【全栈开发者】、【CSDN】等知名社区和个人的微博技术文章分享。
 
@@ -22,11 +22,11 @@
 
 1. **关注码农头条的微博**，每天会推荐三到四篇最新的热门的技术文章，推太多大家可能会反感。
 2. **邮件订阅码农头条的每周汇总**，之前是每天推荐一次的，每一次会发送站内阅读最多的15篇，但发现很多人都会说太频繁了。所以我调整了频度，改为每周15篇，如果这样子你都无法读下去。那你可能要思考一下自己到底有没有必要订阅这个日报了。
-3. **Watch [github](http://caibaojian.com/t/github) 项目**，每天刷Github的伙伴有福了，只要Watch 我的前端日报，每天会推送最新的15篇，随时可以查阅，当然你也可以通过设置邮件，来接收github上的更新。
-4. **关注[前端开发博客](http://caibaojian.com/)的微博**，通过前端开发博客的前端日报栏目，接收每天的更新汇总。或者关注前端开发博客的微博，每天晚上会准时推送一天的汇总。
+3. **Watch [github](https://qdkfweb.cn/t/github) 项目**，每天刷Github的伙伴有福了，只要Watch 我的前端日报，每天会推送最新的15篇，随时可以查阅，当然你也可以通过设置邮件，来接收github上的更新。
+4. **关注[前端开发博客](https://qdkfweb.cn/)的微博**，通过前端开发博客的前端日报栏目，接收每天的更新汇总。或者关注前端开发博客的微博，每天晚上会准时推送一天的汇总。
 5. 新的一年里，我可能会推送每日的文章到前端开发博客的微信里。或者会开发一个APP专门更新，但进度是不确定的，因为我还没有写过APP。
 
-有人问我有没有码农头条日报的API，这个是没有的，我是每日手动更新这些文章到各自的平台的。能够做出来吗？可以是肯定的，但是我对[PHP](http://caibaojian.com/t/php)也不怎么熟悉，这个还需要时间学习。
+有人问我有没有码农头条日报的API，这个是没有的，我是每日手动更新这些文章到各自的平台的。能够做出来吗？可以是肯定的，但是我对[PHP](https://qdkfweb.cn/t/php)也不怎么熟悉，这个还需要时间学习。
 
 ## 码农头条是怎么提升阅读效率？
 
@@ -42,7 +42,7 @@
 1. 码农微博：
    [http://weibo.com/u/5643700813](http://weibo.com/u/5643700813)
 2. 码农头条网站：
-   [http://hao.caibaojian.com/](http://hao.caibaojian.com/)
+   [https://toutiao.qdkfweb.cn/](https://toutiao.qdkfweb.cn/)
 3. 码农Github主页：
    [https://github.com/kujian/frontendDaily](https://github.com/kujian/frontendDaily)
 4. 码农邮件订阅：
