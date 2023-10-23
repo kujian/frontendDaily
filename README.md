@@ -4,7 +4,16 @@
 2. [2020年总结记录](https://mp.weixin.qq.com/s/u0YW8BFWYLquVauhHrkSMQ)
 3. [2021年总结记录](https://mp.weixin.qq.com/s/zMnxIpxMdDrIyuLxHRnSPw)
 
-[最新前端日报](https://github.com/kujian/frontendDaily/issues)
+## [最新前端日报](https://github.com/kujian/frontendDaily/issues)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+## [最新前端头条](https://toutiao.qdkfweb.cn/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
 
