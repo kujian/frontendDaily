@@ -7,6 +7,11 @@
 ## [最新前端日报](https://github.com/kujian/frontendDaily/issues)
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1521](https://github.com/kujian/frontendDaily/issues/1521) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
+2. ❗ Opened issue [#2666](https://github.com/kujian/githubTrending/issues/2666) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+3. ❗ Opened issue [#1520](https://github.com/kujian/frontendDaily/issues/1520) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
+4. ❗ Opened issue [#2665](https://github.com/kujian/githubTrending/issues/2665) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+5. ❗ Opened issue [#1519](https://github.com/kujian/frontendDaily/issues/1519) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
 <!--END_SECTION:activity-->
 
 
