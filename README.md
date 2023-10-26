@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [react的setState做了什么](https://toutiao.qdkfweb.cn/151330.html)
-- [react.js 手写响应式 reactive](https://toutiao.qdkfweb.cn/151329.html)
-- [【React】深入理解React组件状态State](https://toutiao.qdkfweb.cn/151328.html)
-- [Vue 实战项目（智慧商城项目）： 完整的订单购物管理功能 &amp;&amp; 内涵资源代码 &amp;&amp; 基于Vant组件库 &amp;&amp; Vuex态管理 &amp;&amp; 基于企业级项目开发规范](https://toutiao.qdkfweb.cn/151327.html)
-- [【Vue】IP地址输入框](https://toutiao.qdkfweb.cn/151326.html)
+- [【vue3】依赖注 provide、inject（父组件与儿子、孙子、曾孙子组件之间的传值）](https://toutiao.qdkfweb.cn/151354.html)
+- [Vue 实战项目（智慧商城项目）： 完整的订单购物管理功能 &amp;&amp; 内涵资源代码 &amp;&amp; 基于Vant组件库 &amp;&amp; Vuex态管理 &amp;&amp; 基于企业级项目开发规范](https://toutiao.qdkfweb.cn/151353.html)
+- [封装一个vue3 Toast组件，支持组件和api调用](https://toutiao.qdkfweb.cn/151352.html)
+- [vue3移动端嵌入pdf的两种办法](https://toutiao.qdkfweb.cn/151351.html)
+- [vue 路由守卫实现登陆校验拦截功能](https://toutiao.qdkfweb.cn/151350.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
