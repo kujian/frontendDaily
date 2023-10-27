@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [【vue3】依赖注 provide、inject（父组件与儿子、孙子、曾孙子组件之间的传值）](https://toutiao.qdkfweb.cn/151354.html)
-- [Vue 实战项目（智慧商城项目）： 完整的订单购物管理功能 &amp;&amp; 内涵资源代码 &amp;&amp; 基于Vant组件库 &amp;&amp; Vuex态管理 &amp;&amp; 基于企业级项目开发规范](https://toutiao.qdkfweb.cn/151353.html)
-- [封装一个vue3 Toast组件，支持组件和api调用](https://toutiao.qdkfweb.cn/151352.html)
-- [vue3移动端嵌入pdf的两种办法](https://toutiao.qdkfweb.cn/151351.html)
-- [vue 路由守卫实现登陆校验拦截功能](https://toutiao.qdkfweb.cn/151350.html)
+- [vue+导出excel报表](https://toutiao.qdkfweb.cn/151383.html)
+- [03 React 面向组件编程](https://toutiao.qdkfweb.cn/151382.html)
+- [vue3学习心得](https://toutiao.qdkfweb.cn/151381.html)
+- [vue中组件传值 引用页面与组件页面绑定参数 vue省市地区街道级联选择组件](https://toutiao.qdkfweb.cn/151380.html)
+- [网络建设 之 React数据管理](https://toutiao.qdkfweb.cn/151379.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
