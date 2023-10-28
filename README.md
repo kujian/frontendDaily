@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vue+导出excel报表](https://toutiao.qdkfweb.cn/151383.html)
-- [03 React 面向组件编程](https://toutiao.qdkfweb.cn/151382.html)
-- [vue3学习心得](https://toutiao.qdkfweb.cn/151381.html)
-- [vue中组件传值 引用页面与组件页面绑定参数 vue省市地区街道级联选择组件](https://toutiao.qdkfweb.cn/151380.html)
-- [网络建设 之 React数据管理](https://toutiao.qdkfweb.cn/151379.html)
+- [Vue3中的v-model](https://toutiao.qdkfweb.cn/151410.html)
+- [vue3学习（十二）— 自定义指令](https://toutiao.qdkfweb.cn/151409.html)
+- [【vue3】子传父-事件总线-mitt（子组件派发事件，父组件接收事件和传递的参数）](https://toutiao.qdkfweb.cn/151408.html)
+- [react中的函数式组件和类式组件](https://toutiao.qdkfweb.cn/151407.html)
+- [react-高阶组件](https://toutiao.qdkfweb.cn/151406.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
