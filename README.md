@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vue手机项目如何控制手电筒打开与关闭](https://toutiao.qdkfweb.cn/151523.html)
-- [【Vue】使用v-model实现控制子组件显隐](https://toutiao.qdkfweb.cn/151522.html)
-- [Vue多级路由展示](https://toutiao.qdkfweb.cn/151521.html)
-- [用 Promise 异步化 ElDialog](https://toutiao.qdkfweb.cn/151520.html)
-- [在react中使用redux &amp;&amp; react-redux的使用demo](https://toutiao.qdkfweb.cn/151519.html)
+- [Vue Vuex的使用和原理 专门解决共享数据的问题](https://toutiao.qdkfweb.cn/151550.html)
+- [Vue3.0中父组件与子组件的通信传值props与emit :VCA模式](https://toutiao.qdkfweb.cn/151549.html)
+- [解决 React forwardRef 与 TypeScript 泛型组件冲突的问题](https://toutiao.qdkfweb.cn/151548.html)
+- [vue中的rules表单校验规则使用方法 :rules=“rules“](https://toutiao.qdkfweb.cn/151547.html)
+- [在react中使用redux &amp;&amp; react-redux的使用demo](https://toutiao.qdkfweb.cn/151546.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
