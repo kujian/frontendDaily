@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue2和Vue3的区别](https://toutiao.qdkfweb.cn/151569.html)
-- [02-React组件与模块](https://toutiao.qdkfweb.cn/151568.html)
-- [React如何进行条件渲染](https://toutiao.qdkfweb.cn/151567.html)
-- [在react中使用redux &amp;&amp; react-redux的使用demo](https://toutiao.qdkfweb.cn/151566.html)
-- [vue的rules验证失效,部分可以部分又失效的原因](https://toutiao.qdkfweb.cn/151565.html)
+- [在react中使用redux &amp;&amp; react-redux的使用demo](https://toutiao.qdkfweb.cn/151594.html)
+- [＜Vue＞使用依赖注入的方式共享数据](https://toutiao.qdkfweb.cn/151593.html)
+- [【星海出品】VUE（五）](https://toutiao.qdkfweb.cn/151592.html)
+- [如何使用Node.js快速创建HTTP服务器并实现公网访问本地Server](https://toutiao.qdkfweb.cn/151591.html)
+- [慌了，我老板说：AI 将100% 取代前端](https://toutiao.qdkfweb.cn/151590.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
