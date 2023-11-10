@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue多级路由的实现](https://toutiao.qdkfweb.cn/151637.html)
-- [react antd message多条数据展示样式](https://toutiao.qdkfweb.cn/151636.html)
-- [vue核心特性](https://toutiao.qdkfweb.cn/151635.html)
-- [Vue 3 相对于 Vue2，模板和组件的一些变化](https://toutiao.qdkfweb.cn/151634.html)
-- [Vue创建浅层响应式数据](https://toutiao.qdkfweb.cn/151633.html)
+- [[vue-router]vue-router 路由传参问题](https://toutiao.qdkfweb.cn/151657.html)
+- [react:swr接口缓存](https://toutiao.qdkfweb.cn/151656.html)
+- [前端自动检查更新，适用Vue任何版本项目，包服务端更后客户端更新](https://toutiao.qdkfweb.cn/151655.html)
+- [11.（vue3.x+vite）组件间通信方式之ref与$parent、$children](https://toutiao.qdkfweb.cn/151654.html)
+- [react之Component存在的2个问题](https://toutiao.qdkfweb.cn/151653.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
