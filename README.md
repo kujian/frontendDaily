@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [[vue-router]vue-router 路由传参问题](https://toutiao.qdkfweb.cn/151657.html)
-- [react:swr接口缓存](https://toutiao.qdkfweb.cn/151656.html)
-- [前端自动检查更新，适用Vue任何版本项目，包服务端更后客户端更新](https://toutiao.qdkfweb.cn/151655.html)
-- [11.（vue3.x+vite）组件间通信方式之ref与$parent、$children](https://toutiao.qdkfweb.cn/151654.html)
-- [react之Component存在的2个问题](https://toutiao.qdkfweb.cn/151653.html)
+- [【可视化】在Vue中使用jiaminghi/data-view创建动态飞线图](https://toutiao.qdkfweb.cn/151684.html)
+- [vue-cli创建自定义preset预设项目](https://toutiao.qdkfweb.cn/151683.html)
+- [ant design pro of vue怎么使用阿里iconfont](https://toutiao.qdkfweb.cn/151682.html)
+- [用Vue3自定义右键菜单，利用插槽封装＜ContextMenu＞组件](https://toutiao.qdkfweb.cn/151681.html)
+- [react触底加载loading…/头部导航吸顶操作](https://toutiao.qdkfweb.cn/151680.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
