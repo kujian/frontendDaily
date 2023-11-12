@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [【可视化】在Vue中使用jiaminghi/data-view创建动态飞线图](https://toutiao.qdkfweb.cn/151684.html)
-- [vue-cli创建自定义preset预设项目](https://toutiao.qdkfweb.cn/151683.html)
-- [ant design pro of vue怎么使用阿里iconfont](https://toutiao.qdkfweb.cn/151682.html)
-- [用Vue3自定义右键菜单，利用插槽封装＜ContextMenu＞组件](https://toutiao.qdkfweb.cn/151681.html)
-- [react触底加载loading…/头部导航吸顶操作](https://toutiao.qdkfweb.cn/151680.html)
+- [高校教务系统登录页面JS分析——长沙理工大学教务系统](https://toutiao.qdkfweb.cn/151703.html)
+- [vue3中的父子间传值](https://toutiao.qdkfweb.cn/151702.html)
+- [vue.cli 中怎样使用自定义的组件](https://toutiao.qdkfweb.cn/151701.html)
+- [React通过属性 &lpar;props&rpar; 和状态 &lpar;state&rpar; 来传递和管理组件的数据](https://toutiao.qdkfweb.cn/151700.html)
+- [vue3使用vuex的示例&lpar;模块化功能&rpar;](https://toutiao.qdkfweb.cn/151699.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
