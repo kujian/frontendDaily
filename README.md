@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [高校教务系统登录页面JS分析——长沙理工大学教务系统](https://toutiao.qdkfweb.cn/151703.html)
-- [vue3中的父子间传值](https://toutiao.qdkfweb.cn/151702.html)
-- [vue.cli 中怎样使用自定义的组件](https://toutiao.qdkfweb.cn/151701.html)
-- [React通过属性 &lpar;props&rpar; 和状态 &lpar;state&rpar; 来传递和管理组件的数据](https://toutiao.qdkfweb.cn/151700.html)
-- [vue3使用vuex的示例&lpar;模块化功能&rpar;](https://toutiao.qdkfweb.cn/151699.html)
+- [Vue aduio播放歌曲](https://toutiao.qdkfweb.cn/151719.html)
+- [vue 高阶组件；高阶组件](https://toutiao.qdkfweb.cn/151718.html)
+- [Vue中的加密方式&lpar;js-base64、crypto-js、jsencrypt、bcryptjs&rpar;](https://toutiao.qdkfweb.cn/151717.html)
+- [vue，react虚拟dom](https://toutiao.qdkfweb.cn/151716.html)
+- [vue+mongodb+nodejs实现表单增删改查](https://toutiao.qdkfweb.cn/151715.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
