@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue aduio播放歌曲](https://toutiao.qdkfweb.cn/151719.html)
-- [vue 高阶组件；高阶组件](https://toutiao.qdkfweb.cn/151718.html)
-- [Vue中的加密方式&lpar;js-base64、crypto-js、jsencrypt、bcryptjs&rpar;](https://toutiao.qdkfweb.cn/151717.html)
-- [vue，react虚拟dom](https://toutiao.qdkfweb.cn/151716.html)
-- [vue+mongodb+nodejs实现表单增删改查](https://toutiao.qdkfweb.cn/151715.html)
+- [React组件通信](https://toutiao.qdkfweb.cn/151733.html)
+- [mini-vue 的设计](https://toutiao.qdkfweb.cn/151732.html)
+- [探秘 Vue 数据绑定：为何 data 必须是函数而非对象？](https://toutiao.qdkfweb.cn/151731.html)
+- [react 组件进阶](https://toutiao.qdkfweb.cn/151730.html)
+- [vue3使用时遇到的问题](https://toutiao.qdkfweb.cn/151729.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
