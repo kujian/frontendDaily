@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vue-组件注册及使用](https://toutiao.qdkfweb.cn/151752.html)
-- [基于 vue3源码 尝试 mini-vue 的实现](https://toutiao.qdkfweb.cn/151751.html)
-- [Vue3封装自定义指令+h&lpar;&rpar;](https://toutiao.qdkfweb.cn/151750.html)
-- [vuejs – – – – – 移动端设备兼容&lpar;pxtorem&rpar;](https://toutiao.qdkfweb.cn/151749.html)
-- [CSS @scope 如何取代 BEM](https://toutiao.qdkfweb.cn/151748.html)
+- [13.（vue3.x+vite）组件间通信方式之provide与inject](https://toutiao.qdkfweb.cn/151773.html)
+- [vue实现浏览器关闭或刷新弹窗提示（beforeunload/unload&rpar;](https://toutiao.qdkfweb.cn/151772.html)
+- [Vue3 ref函数和reactive函数](https://toutiao.qdkfweb.cn/151771.html)
+- [【Vue原理解析】之插件系统](https://toutiao.qdkfweb.cn/151770.html)
+- [【VueRouter二级路由在组件当中路由出口的写法】](https://toutiao.qdkfweb.cn/151769.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
