@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue 组件的全局注册与组件的jsx实现方法](https://toutiao.qdkfweb.cn/151791.html)
-- [高级 Bootstrap：发挥 Sass 定制的威力](https://toutiao.qdkfweb.cn/151790.html)
-- [Vue中的watch的使用](https://toutiao.qdkfweb.cn/151789.html)
-- [vue 表单当用户修改字段，点击关闭弹窗时，检测用户是否有修改](https://toutiao.qdkfweb.cn/151788.html)
-- [【vue】Vue项目中如何在父组件中直接调用子组件的方法](https://toutiao.qdkfweb.cn/151787.html)
+- [pinia中使用@vueuse/core库的useStorage做数据的持久化存储](https://toutiao.qdkfweb.cn/151811.html)
+- [React中的Redux：简介和实例代码](https://toutiao.qdkfweb.cn/151810.html)
+- [vue3 父组件使用ref获取获取子组件的属性方法](https://toutiao.qdkfweb.cn/151809.html)
+- [vue3插槽的使用](https://toutiao.qdkfweb.cn/151808.html)
+- [Vue rules校验规则详解](https://toutiao.qdkfweb.cn/151807.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
