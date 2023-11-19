@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [pinia中使用@vueuse/core库的useStorage做数据的持久化存储](https://toutiao.qdkfweb.cn/151811.html)
-- [React中的Redux：简介和实例代码](https://toutiao.qdkfweb.cn/151810.html)
-- [vue3 父组件使用ref获取获取子组件的属性方法](https://toutiao.qdkfweb.cn/151809.html)
-- [vue3插槽的使用](https://toutiao.qdkfweb.cn/151808.html)
-- [Vue rules校验规则详解](https://toutiao.qdkfweb.cn/151807.html)
+- [在 Node.js 中发出 HTTP 请求的 5 种方法](https://toutiao.qdkfweb.cn/151828.html)
+- [Vue3 动态设置 ref](https://toutiao.qdkfweb.cn/151827.html)
+- [Vue bus事件总线的原理与使用](https://toutiao.qdkfweb.cn/151826.html)
+- [关于Vue3和Vue-rounter的几个理解](https://toutiao.qdkfweb.cn/151825.html)
+- [react+video.js h5自定义视频暂停图标](https://toutiao.qdkfweb.cn/151824.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
