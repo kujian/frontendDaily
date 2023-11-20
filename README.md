@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [在 Node.js 中发出 HTTP 请求的 5 种方法](https://toutiao.qdkfweb.cn/151828.html)
-- [Vue3 动态设置 ref](https://toutiao.qdkfweb.cn/151827.html)
-- [Vue bus事件总线的原理与使用](https://toutiao.qdkfweb.cn/151826.html)
-- [关于Vue3和Vue-rounter的几个理解](https://toutiao.qdkfweb.cn/151825.html)
-- [react+video.js h5自定义视频暂停图标](https://toutiao.qdkfweb.cn/151824.html)
+- [超详细vue3选项式父子组件传值](https://toutiao.qdkfweb.cn/151844.html)
+- [react组件的细节总结](https://toutiao.qdkfweb.cn/151843.html)
+- [Vue3 函数式弹窗](https://toutiao.qdkfweb.cn/151842.html)
+- [react umi小球动画效果实现](https://toutiao.qdkfweb.cn/151841.html)
+- [vue3.0 elementplus el-table自定义指令自动计算table高度 及分页大小](https://toutiao.qdkfweb.cn/151840.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
