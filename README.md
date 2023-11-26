@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [在Vue中获取手机定位信息](https://toutiao.qdkfweb.cn/151961.html)
-- [Vue侦听器](https://toutiao.qdkfweb.cn/151960.html)
-- [【React】useReducer](https://toutiao.qdkfweb.cn/151959.html)
-- [vue每个阶段的生命周期做了什么](https://toutiao.qdkfweb.cn/151958.html)
-- [vue3还用this吗？getCurrentInstance获取当前组件实例](https://toutiao.qdkfweb.cn/151957.html)
+- [vue平滑上升指令](https://toutiao.qdkfweb.cn/151982.html)
+- [Vue.js devtools插件：超实用的浏览器扩展，使项目更容易地调试和优化](https://toutiao.qdkfweb.cn/151981.html)
+- [Vue的生命周期/生命周期的四个阶段学习](https://toutiao.qdkfweb.cn/151980.html)
+- [Vue2传值的方法](https://toutiao.qdkfweb.cn/151979.html)
+- [探索 Vue 中的 bus.$emit：实现组件通信的强大工具](https://toutiao.qdkfweb.cn/151978.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
