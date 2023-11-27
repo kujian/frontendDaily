@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vue平滑上升指令](https://toutiao.qdkfweb.cn/151982.html)
-- [Vue.js devtools插件：超实用的浏览器扩展，使项目更容易地调试和优化](https://toutiao.qdkfweb.cn/151981.html)
-- [Vue的生命周期/生命周期的四个阶段学习](https://toutiao.qdkfweb.cn/151980.html)
-- [Vue2传值的方法](https://toutiao.qdkfweb.cn/151979.html)
-- [探索 Vue 中的 bus.$emit：实现组件通信的强大工具](https://toutiao.qdkfweb.cn/151978.html)
+- [如何解决React子组件中的逻辑很多影响父组件回显速度的问题](https://toutiao.qdkfweb.cn/151995.html)
+- [Vue快速实践总结 · 上篇](https://toutiao.qdkfweb.cn/151994.html)
+- [Vue3 组合式API如何获取组件实例？](https://toutiao.qdkfweb.cn/151993.html)
+- [一个 React 简易网页端音乐播放器](https://toutiao.qdkfweb.cn/151992.html)
+- [面试官：说说浏览器中的事件循坏机制（event-loop）](https://toutiao.qdkfweb.cn/151991.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
