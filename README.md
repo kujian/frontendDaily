@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [如何解决React子组件中的逻辑很多影响父组件回显速度的问题](https://toutiao.qdkfweb.cn/151995.html)
-- [Vue快速实践总结 · 上篇](https://toutiao.qdkfweb.cn/151994.html)
-- [Vue3 组合式API如何获取组件实例？](https://toutiao.qdkfweb.cn/151993.html)
-- [一个 React 简易网页端音乐播放器](https://toutiao.qdkfweb.cn/151992.html)
-- [面试官：说说浏览器中的事件循坏机制（event-loop）](https://toutiao.qdkfweb.cn/151991.html)
+- [vue 路由跳转history模式报Uncaught SyntaxError: Unexpected token ‘＜‘，与众不同的点](https://toutiao.qdkfweb.cn/152013.html)
+- [vue3通过provide和inject实现多层级组件通信](https://toutiao.qdkfweb.cn/152012.html)
+- [在vue3中使用滑块检验vue-puzzle-verification](https://toutiao.qdkfweb.cn/152011.html)
+- [Redux在React中的使用](https://toutiao.qdkfweb.cn/152010.html)
+- [Vue快速实践总结 · 下篇](https://toutiao.qdkfweb.cn/152009.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
