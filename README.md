@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vue 路由跳转history模式报Uncaught SyntaxError: Unexpected token ‘＜‘，与众不同的点](https://toutiao.qdkfweb.cn/152013.html)
-- [vue3通过provide和inject实现多层级组件通信](https://toutiao.qdkfweb.cn/152012.html)
-- [在vue3中使用滑块检验vue-puzzle-verification](https://toutiao.qdkfweb.cn/152011.html)
-- [Redux在React中的使用](https://toutiao.qdkfweb.cn/152010.html)
-- [Vue快速实践总结 · 下篇](https://toutiao.qdkfweb.cn/152009.html)
+- [vue3默认插槽、具名插槽以及作用域插槽实现父子组件通信](https://toutiao.qdkfweb.cn/152039.html)
+- [Vue3-toRaw 和 markRaw 函数](https://toutiao.qdkfweb.cn/152038.html)
+- [错误地使用 React 的五种方式，会导致你被解雇|useState](https://toutiao.qdkfweb.cn/152037.html)
+- [React Router &amp; React Reducer Hook 实现路由管理](https://toutiao.qdkfweb.cn/152036.html)
+- [vue建立组件无校验版](https://toutiao.qdkfweb.cn/152035.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
