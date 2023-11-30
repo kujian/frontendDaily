@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vue3默认插槽、具名插槽以及作用域插槽实现父子组件通信](https://toutiao.qdkfweb.cn/152039.html)
-- [Vue3-toRaw 和 markRaw 函数](https://toutiao.qdkfweb.cn/152038.html)
-- [错误地使用 React 的五种方式，会导致你被解雇|useState](https://toutiao.qdkfweb.cn/152037.html)
-- [React Router &amp; React Reducer Hook 实现路由管理](https://toutiao.qdkfweb.cn/152036.html)
-- [vue建立组件无校验版](https://toutiao.qdkfweb.cn/152035.html)
+- [Vue3中watch和watchEffect的区别及使用场景](https://toutiao.qdkfweb.cn/152065.html)
+- [vuepress—–3、导航栏](https://toutiao.qdkfweb.cn/152064.html)
+- [图片懒加载之React + Intersection Observer API – 交叉观察器实现懒加载](https://toutiao.qdkfweb.cn/152063.html)
+- [vue+echarts实现依赖关系无向网络拓扑结图节点折叠展开策略](https://toutiao.qdkfweb.cn/152062.html)
+- [深入探索 Vue 响应式原理：数据驱动视图的奥秘](https://toutiao.qdkfweb.cn/152061.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
