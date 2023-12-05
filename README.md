@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [VUE设计与实现共读系列之ref的实现【响应式原理】](https://toutiao.qdkfweb.cn/152137.html)
-- [vite脚手架，手写实现配置动态生成路由](https://toutiao.qdkfweb.cn/152136.html)
-- [vue3使用vue-router嵌套路由&lpar;多级路由&rpar;](https://toutiao.qdkfweb.cn/152135.html)
-- [react-插槽模拟](https://toutiao.qdkfweb.cn/152134.html)
-- [组合式API中的setup选项、reactive和ref函数和computed](https://toutiao.qdkfweb.cn/152133.html)
+- [vue实现发送短信倒计时和重发短信的功能](https://toutiao.qdkfweb.cn/152163.html)
+- [react的生命周期函数及用法](https://toutiao.qdkfweb.cn/152162.html)
+- [vue 父子组件双向数据绑定，调用 使用ref获取原生DOM](https://toutiao.qdkfweb.cn/152161.html)
+- [vue+ts实现离线高德地图 内网离线高德地图](https://toutiao.qdkfweb.cn/152160.html)
+- [VUE项目中问题学习总结（一）](https://toutiao.qdkfweb.cn/152159.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
