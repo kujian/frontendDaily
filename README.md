@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [vue实现发送短信倒计时和重发短信的功能](https://toutiao.qdkfweb.cn/152163.html)
-- [react的生命周期函数及用法](https://toutiao.qdkfweb.cn/152162.html)
-- [vue 父子组件双向数据绑定，调用 使用ref获取原生DOM](https://toutiao.qdkfweb.cn/152161.html)
-- [vue+ts实现离线高德地图 内网离线高德地图](https://toutiao.qdkfweb.cn/152160.html)
-- [VUE项目中问题学习总结（一）](https://toutiao.qdkfweb.cn/152159.html)
+- [react调用子组件方法（forwardRef+useImperativeHandle）](https://toutiao.qdkfweb.cn/152181.html)
+- [VUE框架CLI组件化开发VUE应用效果——VUE框架](https://toutiao.qdkfweb.cn/152180.html)
+- [vue3里面生命周期的使用](https://toutiao.qdkfweb.cn/152179.html)
+- [原生ajax 与 jquery发送ajax](https://toutiao.qdkfweb.cn/152178.html)
+- [对Vue中mixin的理解](https://toutiao.qdkfweb.cn/152177.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
