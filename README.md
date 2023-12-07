@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [react调用子组件方法（forwardRef+useImperativeHandle）](https://toutiao.qdkfweb.cn/152181.html)
-- [VUE框架CLI组件化开发VUE应用效果——VUE框架](https://toutiao.qdkfweb.cn/152180.html)
-- [vue3里面生命周期的使用](https://toutiao.qdkfweb.cn/152179.html)
-- [原生ajax 与 jquery发送ajax](https://toutiao.qdkfweb.cn/152178.html)
-- [对Vue中mixin的理解](https://toutiao.qdkfweb.cn/152177.html)
+- [技术博客：Vue中各种混淆用法汇总](https://toutiao.qdkfweb.cn/152203.html)
+- [如何设置不同的网页标题（react）](https://toutiao.qdkfweb.cn/152202.html)
+- [前端vue导出PPT幻灯片，使用pptxgen.js，超详细&lpar;赋原数据&rpar;](https://toutiao.qdkfweb.cn/152201.html)
+- [编译preload.ts为js到.quasar/electron下](https://toutiao.qdkfweb.cn/152200.html)
+- [UniApp H5 跨域代理配置并使用（配置manifest.json、vue.config.js）](https://toutiao.qdkfweb.cn/152199.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
