@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [技术博客：Vue中各种混淆用法汇总](https://toutiao.qdkfweb.cn/152203.html)
-- [如何设置不同的网页标题（react）](https://toutiao.qdkfweb.cn/152202.html)
-- [前端vue导出PPT幻灯片，使用pptxgen.js，超详细&lpar;赋原数据&rpar;](https://toutiao.qdkfweb.cn/152201.html)
-- [编译preload.ts为js到.quasar/electron下](https://toutiao.qdkfweb.cn/152200.html)
-- [UniApp H5 跨域代理配置并使用（配置manifest.json、vue.config.js）](https://toutiao.qdkfweb.cn/152199.html)
+- [Vue实现高自由度的自定义拖拽指令](https://toutiao.qdkfweb.cn/152227.html)
+- [【React】react-router-dom路由导航的跳转及传参](https://toutiao.qdkfweb.cn/152226.html)
+- [vue 轮播图原生](https://toutiao.qdkfweb.cn/152225.html)
+- [vue 离线推送 小米 华为 无法接收离线消息](https://toutiao.qdkfweb.cn/152224.html)
+- [理解并使用React的有状态组件和无状态组件](https://toutiao.qdkfweb.cn/152223.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
