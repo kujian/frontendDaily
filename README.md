@@ -18,11 +18,11 @@
 ## [最新前端头条](https://toutiao.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue实现高自由度的自定义拖拽指令](https://toutiao.qdkfweb.cn/152227.html)
-- [【React】react-router-dom路由导航的跳转及传参](https://toutiao.qdkfweb.cn/152226.html)
-- [vue 轮播图原生](https://toutiao.qdkfweb.cn/152225.html)
-- [vue 离线推送 小米 华为 无法接收离线消息](https://toutiao.qdkfweb.cn/152224.html)
-- [理解并使用React的有状态组件和无状态组件](https://toutiao.qdkfweb.cn/152223.html)
+- [23年底，两年前端菜狗被裁后的面试经历](https://weixin.qdkfweb.cn/38252.html)
+- [高级前端开发工程师必备：Hooks、React Router v6 和状态管理](https://weixin.qdkfweb.cn/37891.html)
+- [高级前端开发工程师必知：浏览器解析代码、JavaScript代码执行流程、原型链与闭包](https://weixin.qdkfweb.cn/37892.html)
+- [前段时间面试了一些人，有这些槽点跟大家说说​](https://weixin.qdkfweb.cn/37893.html)
+- [一年空窗期后我是如何准备面试的？](https://weixin.qdkfweb.cn/37894.html)
 <!-- BLOG-POST-LIST:END -->
 
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
