@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://weixin.qdkfweb.cn/author/caibaojian_com/feed?d"
+          max_post_count: 10
