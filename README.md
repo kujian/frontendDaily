@@ -12,6 +12,11 @@
 - [高级前端开发工程师必知：浏览器解析代码、JavaScript代码执行流程、原型链与闭包](https://weixin.qdkfweb.cn/37892.html)
 - [前段时间面试了一些人，有这些槽点跟大家说说​](https://weixin.qdkfweb.cn/37893.html)
 - [一年空窗期后我是如何准备面试的？](https://weixin.qdkfweb.cn/37894.html)
+- [2023-10-23 前端开发热文推荐](https://weixin.qdkfweb.cn/37613.html)
+- [HTML5 进阶知识](https://weixin.qdkfweb.cn/35694.html)
+- [开源免费、新手友好的数据结构与算法入门教程《Hello 算法》](https://weixin.qdkfweb.cn/35481.html)
+- [CSS中的相对单位和绝对单位，以及rem自适应布局](https://weixin.qdkfweb.cn/35359.html)
+- [10个常见渐变交互效果](https://weixin.qdkfweb.cn/35360.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
