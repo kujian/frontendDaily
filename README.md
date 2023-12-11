@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [聊一聊自己的前端之路以及后面晋升的一些想法](https://weixin.qdkfweb.cn/38568.html)
+- [如何做好前端项目组组长](https://weixin.qdkfweb.cn/38253.html)
 - [23年底，两年前端菜狗被裁后的面试经历](https://weixin.qdkfweb.cn/38252.html)
 - [高级前端开发工程师必备：Hooks、React Router v6 和状态管理](https://weixin.qdkfweb.cn/37891.html)
 - [高级前端开发工程师必知：浏览器解析代码、JavaScript代码执行流程、原型链与闭包](https://weixin.qdkfweb.cn/37892.html)
@@ -15,8 +17,6 @@
 - [2023-10-23 前端开发热文推荐](https://weixin.qdkfweb.cn/37613.html)
 - [HTML5 进阶知识](https://weixin.qdkfweb.cn/35694.html)
 - [开源免费、新手友好的数据结构与算法入门教程《Hello 算法》](https://weixin.qdkfweb.cn/35481.html)
-- [CSS中的相对单位和绝对单位，以及rem自适应布局](https://weixin.qdkfweb.cn/35359.html)
-- [10个常见渐变交互效果](https://weixin.qdkfweb.cn/35360.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
