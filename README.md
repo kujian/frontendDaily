@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket 从入门到入土](https://weixin.qdkfweb.cn/38570.html)
 - [聊一聊自己的前端之路以及后面晋升的一些想法](https://weixin.qdkfweb.cn/38568.html)
 - [如何做好前端项目组组长](https://weixin.qdkfweb.cn/38253.html)
 - [23年底，两年前端菜狗被裁后的面试经历](https://weixin.qdkfweb.cn/38252.html)
@@ -16,7 +17,6 @@
 - [一年空窗期后我是如何准备面试的？](https://weixin.qdkfweb.cn/37894.html)
 - [2023-10-23 前端开发热文推荐](https://weixin.qdkfweb.cn/37613.html)
 - [HTML5 进阶知识](https://weixin.qdkfweb.cn/35694.html)
-- [开源免费、新手友好的数据结构与算法入门教程《Hello 算法》](https://weixin.qdkfweb.cn/35481.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
