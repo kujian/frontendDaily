@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [JS es6仿网易云音乐播放器](https://weixin.qdkfweb.cn/38706.html)
 - [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
 - [一个22届被裁前端思想上得转变](https://weixin.qdkfweb.cn/38571.html)
 - [WebSocket 从入门到入土](https://weixin.qdkfweb.cn/38570.html)
@@ -16,7 +17,6 @@
 - [高级前端开发工程师必备：Hooks、React Router v6 和状态管理](https://weixin.qdkfweb.cn/37891.html)
 - [高级前端开发工程师必知：浏览器解析代码、JavaScript代码执行流程、原型链与闭包](https://weixin.qdkfweb.cn/37892.html)
 - [前段时间面试了一些人，有这些槽点跟大家说说​](https://weixin.qdkfweb.cn/37893.html)
-- [一年空窗期后我是如何准备面试的？](https://weixin.qdkfweb.cn/37894.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
