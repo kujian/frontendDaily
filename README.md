@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [给迷茫的朋友一点建议吧，主要是前端方向的。](https://weixin.qdkfweb.cn/38764.html)
 - [37岁的老前端在大专院校教前端](https://weixin.qdkfweb.cn/38763.html)
 - [14个提高JavaScript代码质量的小技巧](https://weixin.qdkfweb.cn/38707.html)
 - [JS es6仿网易云音乐播放器](https://weixin.qdkfweb.cn/38706.html)
@@ -16,7 +17,6 @@
 - [聊一聊自己的前端之路以及后面晋升的一些想法](https://weixin.qdkfweb.cn/38568.html)
 - [如何做好前端项目组组长](https://weixin.qdkfweb.cn/38253.html)
 - [23年底，两年前端菜狗被裁后的面试经历](https://weixin.qdkfweb.cn/38252.html)
-- [高级前端开发工程师必备：Hooks、React Router v6 和状态管理](https://weixin.qdkfweb.cn/37891.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
