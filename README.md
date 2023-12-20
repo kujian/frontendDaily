@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端是怎么解析Excel、PDF、Word、PPT等文件的？](https://weixin.qdkfweb.cn/38766.html)
 - [面试官：能不能给 Promise 增加取消功能和进度通知功能... 我：？？？](https://weixin.qdkfweb.cn/38765.html)
 - [给迷茫的朋友一点建议吧，主要是前端方向的。](https://weixin.qdkfweb.cn/38764.html)
 - [37岁的老前端在大专院校教前端](https://weixin.qdkfweb.cn/38763.html)
@@ -16,7 +17,6 @@
 - [一个22届被裁前端思想上得转变](https://weixin.qdkfweb.cn/38571.html)
 - [WebSocket 从入门到入土](https://weixin.qdkfweb.cn/38570.html)
 - [聊一聊自己的前端之路以及后面晋升的一些想法](https://weixin.qdkfweb.cn/38568.html)
-- [如何做好前端项目组组长](https://weixin.qdkfweb.cn/38253.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
