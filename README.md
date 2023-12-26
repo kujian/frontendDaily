@@ -19,6 +19,10 @@
 - [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
 <!-- BLOG-POST-LIST:END -->
 
+## 微信群
+
+![](https://qdkfweb.cn/d/uploads/2023/12/wechat.png)
+
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
 
 <!--START_SECTION:activity-->
