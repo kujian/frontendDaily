@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [一个30岁前端老社畜的人生经历](https://weixin.qdkfweb.cn/38903.html)
 - [10个必备的 async/await 工具函数](https://weixin.qdkfweb.cn/38902.html)
 - [2023年中大厂面试经历分享，很可惜，但是没关系](https://weixin.qdkfweb.cn/38901.html)
 - [FaceBook 开源 AtomicCss 解决方案：Stylex](https://weixin.qdkfweb.cn/38900.html)
@@ -16,7 +17,6 @@
 - [37岁的老前端在大专院校教前端](https://weixin.qdkfweb.cn/38763.html)
 - [14个提高JavaScript代码质量的小技巧](https://weixin.qdkfweb.cn/38707.html)
 - [JS es6仿网易云音乐播放器](https://weixin.qdkfweb.cn/38706.html)
-- [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
