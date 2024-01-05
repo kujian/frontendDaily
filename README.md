@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [真诚利他](https://weixin.qdkfweb.cn/39047.html)
 - [14个JS面试难点深入解读与代码实现](https://weixin.qdkfweb.cn/39046.html)
 - [中小型公司三年工作经验的面试经历](https://weixin.qdkfweb.cn/39043.html)
 - [ES14数组升级来袭，这六个新API助你高效开发](https://weixin.qdkfweb.cn/38904.html)
@@ -16,7 +17,6 @@
 - [FaceBook 开源 AtomicCss 解决方案：Stylex](https://weixin.qdkfweb.cn/38900.html)
 - [前端是怎么解析Excel、PDF、Word、PPT等文件的？](https://weixin.qdkfweb.cn/38766.html)
 - [面试官：能不能给 Promise 增加取消功能和进度通知功能... 我：？？？](https://weixin.qdkfweb.cn/38765.html)
-- [给迷茫的朋友一点建议吧，主要是前端方向的。](https://weixin.qdkfweb.cn/38764.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
