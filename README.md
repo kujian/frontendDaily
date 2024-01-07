@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [微信30天读书打卡](https://weixin.qdkfweb.cn/39208.html)
 - [前端开发博客2023年文章汇总](https://weixin.qdkfweb.cn/39076.html)
 - [真诚利他](https://weixin.qdkfweb.cn/39047.html)
 - [14个JS面试难点深入解读与代码实现](https://weixin.qdkfweb.cn/39046.html)
@@ -16,7 +17,6 @@
 - [10个必备的 async/await 工具函数](https://weixin.qdkfweb.cn/38902.html)
 - [2023年中大厂面试经历分享，很可惜，但是没关系](https://weixin.qdkfweb.cn/38901.html)
 - [FaceBook 开源 AtomicCss 解决方案：Stylex](https://weixin.qdkfweb.cn/38900.html)
-- [前端是怎么解析Excel、PDF、Word、PPT等文件的？](https://weixin.qdkfweb.cn/38766.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
