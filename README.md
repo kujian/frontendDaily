@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [热门点赞：2023 年前端大事记](https://weixin.qdkfweb.cn/39504.html)
 - [微信30天读书打卡](https://weixin.qdkfweb.cn/39208.html)
 - [前端开发博客2023年文章汇总](https://weixin.qdkfweb.cn/39076.html)
 - [真诚利他](https://weixin.qdkfweb.cn/39047.html)
@@ -16,7 +17,6 @@
 - [一个30岁前端老社畜的人生经历](https://weixin.qdkfweb.cn/38903.html)
 - [10个必备的 async/await 工具函数](https://weixin.qdkfweb.cn/38902.html)
 - [2023年中大厂面试经历分享，很可惜，但是没关系](https://weixin.qdkfweb.cn/38901.html)
-- [FaceBook 开源 AtomicCss 解决方案：Stylex](https://weixin.qdkfweb.cn/38900.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
