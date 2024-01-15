@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [点赞榜：神光大佬谈自由职业的好与坏](https://weixin.qdkfweb.cn/39578.html)
 - [尤雨溪：Vue2 升级 Vue3 中犯的3个错](https://weixin.qdkfweb.cn/39565.html)
 - [热门阅读：基于 vue3+threejs 实现可视化大屏](https://weixin.qdkfweb.cn/39544.html)
 - [热门点赞：2023 年前端大事记](https://weixin.qdkfweb.cn/39504.html)
@@ -16,7 +17,6 @@
 - [14个JS面试难点深入解读与代码实现](https://weixin.qdkfweb.cn/39046.html)
 - [中小型公司三年工作经验的面试经历](https://weixin.qdkfweb.cn/39043.html)
 - [ES14数组升级来袭，这六个新API助你高效开发](https://weixin.qdkfweb.cn/38904.html)
-- [一个30岁前端老社畜的人生经历](https://weixin.qdkfweb.cn/38903.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
