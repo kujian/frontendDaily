@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [点赞阅读翻倍：当别人因为React、Vue吵起来时，我们应该做什么](https://weixin.qdkfweb.cn/39657.html)
 - [点赞翻10倍：v-for和v-if为啥不共存？回去等消息吧！答成这鬼样！](https://weixin.qdkfweb.cn/39655.html)
 - [纯CSS实现Led数字空间动画](https://weixin.qdkfweb.cn/39656.html)
 - [点赞榜：神光大佬谈自由职业的好与坏](https://weixin.qdkfweb.cn/39578.html)
@@ -16,7 +17,6 @@
 - [微信30天读书打卡](https://weixin.qdkfweb.cn/39208.html)
 - [前端开发博客2023年文章汇总](https://weixin.qdkfweb.cn/39076.html)
 - [真诚利他](https://weixin.qdkfweb.cn/39047.html)
-- [14个JS面试难点深入解读与代码实现](https://weixin.qdkfweb.cn/39046.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
