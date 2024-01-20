@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/39774.html)
 - [阿里内部首发前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/39775.html)
 - [点赞阅读翻倍：当别人因为React、Vue吵起来时，我们应该做什么](https://weixin.qdkfweb.cn/39657.html)
 - [点赞翻10倍：v-for和v-if为啥不共存？回去等消息吧！答成这鬼样！](https://weixin.qdkfweb.cn/39655.html)
@@ -16,7 +17,6 @@
 - [热门阅读：基于 vue3+threejs 实现可视化大屏](https://weixin.qdkfweb.cn/39544.html)
 - [热门点赞：2023 年前端大事记](https://weixin.qdkfweb.cn/39504.html)
 - [微信30天读书打卡](https://weixin.qdkfweb.cn/39208.html)
-- [前端开发博客2023年文章汇总](https://weixin.qdkfweb.cn/39076.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
