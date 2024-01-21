@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [官宣：MySQL 正式支持执行 JavaScript 代码了！](https://weixin.qdkfweb.cn/39801.html)
 - [JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/39774.html)
 - [阿里内部首发前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/39775.html)
 - [点赞阅读翻倍：当别人因为React、Vue吵起来时，我们应该做什么](https://weixin.qdkfweb.cn/39657.html)
@@ -16,7 +17,6 @@
 - [尤雨溪：Vue2 升级 Vue3 中犯的3个错](https://weixin.qdkfweb.cn/39565.html)
 - [热门阅读：基于 vue3+threejs 实现可视化大屏](https://weixin.qdkfweb.cn/39544.html)
 - [热门点赞：2023 年前端大事记](https://weixin.qdkfweb.cn/39504.html)
-- [微信30天读书打卡](https://weixin.qdkfweb.cn/39208.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
