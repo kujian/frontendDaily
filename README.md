@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端 JS 安全对抗原理与实践](https://weixin.qdkfweb.cn/39872.html)
 - [请前端人入局AI大模型，现在！立刻！马上！！](https://weixin.qdkfweb.cn/39840.html)
 - [官宣：MySQL 正式支持执行 JavaScript 代码了！](https://weixin.qdkfweb.cn/39801.html)
 - [JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/39774.html)
@@ -16,7 +17,6 @@
 - [纯CSS实现Led数字空间动画](https://weixin.qdkfweb.cn/39656.html)
 - [点赞榜：神光大佬谈自由职业的好与坏](https://weixin.qdkfweb.cn/39578.html)
 - [尤雨溪：Vue2 升级 Vue3 中犯的3个错](https://weixin.qdkfweb.cn/39565.html)
-- [热门阅读：基于 vue3+threejs 实现可视化大屏](https://weixin.qdkfweb.cn/39544.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
