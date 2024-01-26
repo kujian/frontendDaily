@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [26个 AI 作图网站推荐，快速制作微信红包封面图](https://weixin.qdkfweb.cn/39982.html)
 - [投票最高！带气泡的可爱龙微信红包封面来了](https://weixin.qdkfweb.cn/39946.html)
 - [我用 AI 制作了 9 个微信红包封面，你最喜欢哪个？](https://weixin.qdkfweb.cn/39909.html)
 - [前端 JS 安全对抗原理与实践](https://weixin.qdkfweb.cn/39872.html)
@@ -16,7 +17,6 @@
 - [阿里内部首发前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/39775.html)
 - [点赞阅读翻倍：当别人因为React、Vue吵起来时，我们应该做什么](https://weixin.qdkfweb.cn/39657.html)
 - [点赞翻10倍：v-for和v-if为啥不共存？回去等消息吧！答成这鬼样！](https://weixin.qdkfweb.cn/39655.html)
-- [纯CSS实现Led数字空间动画](https://weixin.qdkfweb.cn/39656.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
