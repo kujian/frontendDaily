@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/40155.html)
 - [前端面试必考题：介绍项目和项目难点](https://weixin.qdkfweb.cn/40111.html)
 - [翻遍闲鱼和拼多多，我制作了这些热销红包封面图，投票免费送！](https://weixin.qdkfweb.cn/40078.html)
 - [26个 AI 作图网站推荐，快速制作微信红包封面图](https://weixin.qdkfweb.cn/39982.html)
@@ -16,7 +17,6 @@
 - [请前端人入局AI大模型，现在！立刻！马上！！](https://weixin.qdkfweb.cn/39840.html)
 - [官宣：MySQL 正式支持执行 JavaScript 代码了！](https://weixin.qdkfweb.cn/39801.html)
 - [JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/39774.html)
-- [阿里内部首发前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/39775.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
