@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [JS的执行原理，一文了解Event Loop事件循环、微任务、宏任务](https://weixin.qdkfweb.cn/40249.html)
 - [两款带气泡和动画的龙年红包封面免费领](https://weixin.qdkfweb.cn/40185.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/40155.html)
 - [前端面试必考题：介绍项目和项目难点](https://weixin.qdkfweb.cn/40111.html)
@@ -16,7 +17,6 @@
 - [我用 AI 制作了 9 个微信红包封面，你最喜欢哪个？](https://weixin.qdkfweb.cn/39909.html)
 - [前端 JS 安全对抗原理与实践](https://weixin.qdkfweb.cn/39872.html)
 - [请前端人入局AI大模型，现在！立刻！马上！！](https://weixin.qdkfweb.cn/39840.html)
-- [官宣：MySQL 正式支持执行 JavaScript 代码了！](https://weixin.qdkfweb.cn/39801.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
