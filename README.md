@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [从‘相信前端能做一切’到‘连这个都做不了么’](https://weixin.qdkfweb.cn/40349.html)
 - [前端项目如何准确预估个人工时](https://weixin.qdkfweb.cn/40306.html)
 - [当春节前不想写业务的前端会做什么](https://weixin.qdkfweb.cn/40275.html)
 - [JS的执行原理，一文了解Event Loop事件循环、微任务、宏任务](https://weixin.qdkfweb.cn/40249.html)
@@ -16,7 +17,6 @@
 - [翻遍闲鱼和拼多多，我制作了这些热销红包封面图，投票免费送！](https://weixin.qdkfweb.cn/40078.html)
 - [26个 AI 作图网站推荐，快速制作微信红包封面图](https://weixin.qdkfweb.cn/39982.html)
 - [投票最高！带气泡的可爱龙微信红包封面来了](https://weixin.qdkfweb.cn/39946.html)
-- [我用 AI 制作了 9 个微信红包封面，你最喜欢哪个？](https://weixin.qdkfweb.cn/39909.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
