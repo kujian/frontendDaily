@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [面试官：你知道移动端适配吗？](https://weixin.qdkfweb.cn/40554.html)
 - [2023年底前端面试找工作感受](https://weixin.qdkfweb.cn/40497.html)
 - [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/40466.html)
 - [从‘相信前端能做一切’到‘连这个都做不了么’](https://weixin.qdkfweb.cn/40349.html)
@@ -16,7 +17,6 @@
 - [两款带气泡和动画的龙年红包封面免费领](https://weixin.qdkfweb.cn/40185.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/40155.html)
 - [前端面试必考题：介绍项目和项目难点](https://weixin.qdkfweb.cn/40111.html)
-- [翻遍闲鱼和拼多多，我制作了这些热销红包封面图，投票免费送！](https://weixin.qdkfweb.cn/40078.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
