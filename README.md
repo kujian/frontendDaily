@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [面试：百度一面，吓尿了](https://weixin.qdkfweb.cn/40589.html)
 - [面试官：你知道移动端适配吗？](https://weixin.qdkfweb.cn/40554.html)
 - [2023年底前端面试找工作感受](https://weixin.qdkfweb.cn/40497.html)
 - [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/40466.html)
@@ -16,7 +17,6 @@
 - [JS的执行原理，一文了解Event Loop事件循环、微任务、宏任务](https://weixin.qdkfweb.cn/40249.html)
 - [两款带气泡和动画的龙年红包封面免费领](https://weixin.qdkfweb.cn/40185.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/40155.html)
-- [前端面试必考题：介绍项目和项目难点](https://weixin.qdkfweb.cn/40111.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
