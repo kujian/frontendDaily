@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [我的前端工程化宝典，分享给你](https://weixin.qdkfweb.cn/40882.html)
+- [前端行情变了，差别真的挺大。。。](https://weixin.qdkfweb.cn/40883.html)
+- [总结下最近的几场大厂前端实习面试](https://weixin.qdkfweb.cn/40884.html)
+- [面试了一个大专的前端女生，她太太太厉害了](https://weixin.qdkfweb.cn/40836.html)
+- [Vue3 自定义hooks 大集合 你要的自定义hooks 都在这，快来看吧！](https://weixin.qdkfweb.cn/40759.html)
+- [前端行情变了，差别真的挺大。。。](https://weixin.qdkfweb.cn/40760.html)
+- [为什么现在前端面试都不考八股文了？](https://weixin.qdkfweb.cn/40673.html)
+- [年后面试，最好不要有这几种心态](https://weixin.qdkfweb.cn/40655.html)
+- [程序员金三银四跳槽指南：时间线&amp;经典面试16问](https://weixin.qdkfweb.cn/40656.html)
 - [预测一波，这份Web面试题库即将爆火…](https://weixin.qdkfweb.cn/40638.html)
-- [面试：百度一面，吓尿了](https://weixin.qdkfweb.cn/40589.html)
-- [面试官：你知道移动端适配吗？](https://weixin.qdkfweb.cn/40554.html)
-- [2023年底前端面试找工作感受](https://weixin.qdkfweb.cn/40497.html)
-- [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/40466.html)
-- [从‘相信前端能做一切’到‘连这个都做不了么’](https://weixin.qdkfweb.cn/40349.html)
-- [前端项目如何准确预估个人工时](https://weixin.qdkfweb.cn/40306.html)
-- [当春节前不想写业务的前端会做什么](https://weixin.qdkfweb.cn/40275.html)
-- [JS的执行原理，一文了解Event Loop事件循环、微任务、宏任务](https://weixin.qdkfweb.cn/40249.html)
-- [两款带气泡和动画的龙年红包封面免费领](https://weixin.qdkfweb.cn/40185.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
