@@ -21,6 +21,8 @@
 
 ## 微信群
 
+备注 Github 拉你进前端开发分享群，每日更新
+
 ![](https://qdkfweb.cn/d/uploads/2023/12/wechat.png)
 
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
@@ -39,6 +41,8 @@
 每日会挑选一些比较有用的文章发在公众号上，欢迎关注我。
 
 我的微信公众号：[前端开发博客](https://open.weixin.qq.com/qr/code?username=caibaojian_com)，在后台回复以下关键字可以获取资源。
+
+![](https://pic.qdkfweb.cn/uploads/2023/11/weixin.png)
 
 1. 回复「小抄」，领取Vue、JavaScript 和 WebComponent 小抄 PDF
 2. 回复「Vue脑图」获取 Vue 相关脑图
@@ -245,7 +249,7 @@
 22. [用CSS如何实现两个球相交的粘粘动画效果](http://mp.weixin.qq.com/s?__biz=MzAxODE4MTEzMA==&mid=2650085031&idx=1&sn=bc65ad398af6ee6ab183d14cf5bc7936&chksm=83db8bc2b4ac02d49d378bf797d01c98a34f76c5e045f0100201d7d50a7711de17dd5c251f22#rd)
 
 
-## 最后
+
 <!-- 
 
 这个目录每个月会汇总新增一次，新增很简单，只要在公众号页面的控制台输入以下代码就能直接得到上面链接，所以不需要手动整理。
@@ -265,8 +269,4 @@ console.log(arr.join('\n'));
 如果你有想要我整理的东西，也可以告知我哦。
 
 -->
-
-加入微信群，每天晚上我会汇总一天最好的文章给你。
-
-![weixin](https://user-images.githubusercontent.com/3055447/38468989-651132ac-3b80-11e8-8e6b-15122322a9d7.png)
 
