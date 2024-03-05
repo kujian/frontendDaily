@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [建议你：布局2024年这些Web框架](https://weixin.qdkfweb.cn/40928.html)
 - [我的前端工程化宝典，分享给你](https://weixin.qdkfweb.cn/40882.html)
 - [前端行情变了，差别真的挺大。。。](https://weixin.qdkfweb.cn/40883.html)
 - [总结下最近的几场大厂前端实习面试](https://weixin.qdkfweb.cn/40884.html)
@@ -16,7 +17,6 @@
 - [为什么现在前端面试都不考八股文了？](https://weixin.qdkfweb.cn/40673.html)
 - [年后面试，最好不要有这几种心态](https://weixin.qdkfweb.cn/40655.html)
 - [程序员金三银四跳槽指南：时间线&amp;经典面试16问](https://weixin.qdkfweb.cn/40656.html)
-- [预测一波，这份Web面试题库即将爆火…](https://weixin.qdkfweb.cn/40638.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
