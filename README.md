@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端实现推送消息的三种方式](https://weixin.qdkfweb.cn/41051.html)
+- [最近面试，Vue3是重点！](https://weixin.qdkfweb.cn/41011.html)
 - [最后一次探究1px](https://weixin.qdkfweb.cn/41012.html)
 - [建议你：布局2024年这些Web框架](https://weixin.qdkfweb.cn/40928.html)
 - [我的前端工程化宝典，分享给你](https://weixin.qdkfweb.cn/40882.html)
@@ -15,8 +17,6 @@
 - [面试了一个大专的前端女生，她太太太厉害了](https://weixin.qdkfweb.cn/40836.html)
 - [Vue3 自定义hooks 大集合 你要的自定义hooks 都在这，快来看吧！](https://weixin.qdkfweb.cn/40759.html)
 - [前端行情变了，差别真的挺大。。。](https://weixin.qdkfweb.cn/40760.html)
-- [为什么现在前端面试都不考八股文了？](https://weixin.qdkfweb.cn/40673.html)
-- [年后面试，最好不要有这几种心态](https://weixin.qdkfweb.cn/40655.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
