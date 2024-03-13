@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [宝哥的前端故事：那些年我们一起解决的复杂需求，你遇到过吗？](https://weixin.qdkfweb.cn/41293.html)
 - [最近，前端面试真疯了。。。](https://weixin.qdkfweb.cn/41243.html)
 - [自用的8款AI工具！提升学习/工作/赚钱效率，轻松超过99%的人！](https://weixin.qdkfweb.cn/41244.html)
 - [宝哥陪伴群](https://weixin.qdkfweb.cn/41177.html)
@@ -16,7 +17,6 @@
 - [前端实现推送消息的三种方式](https://weixin.qdkfweb.cn/41051.html)
 - [最近面试，Vue3是重点！](https://weixin.qdkfweb.cn/41011.html)
 - [最后一次探究1px](https://weixin.qdkfweb.cn/41012.html)
-- [建议你：布局2024年这些Web框架](https://weixin.qdkfweb.cn/40928.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
