@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
 - [前端实战：如何巧妙防止接口重复请求？](https://weixin.qdkfweb.cn/41333.html)
 - [宝哥的前端故事：那些年我们一起解决的复杂需求，你遇到过吗？](https://weixin.qdkfweb.cn/41293.html)
 - [最近，前端面试真疯了。。。](https://weixin.qdkfweb.cn/41243.html)
@@ -16,7 +17,6 @@
 - [今天面试了一个前端女生，当场想给她offer！](https://weixin.qdkfweb.cn/41106.html)
 - [12个冷门但好用的前端工具推荐](https://weixin.qdkfweb.cn/41107.html)
 - [前端实现推送消息的三种方式](https://weixin.qdkfweb.cn/41051.html)
-- [最近面试，Vue3是重点！](https://weixin.qdkfweb.cn/41011.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
