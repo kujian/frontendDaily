@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
 - [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
 - [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
 - [前端实战：如何巧妙防止接口重复请求？](https://weixin.qdkfweb.cn/41333.html)
@@ -15,7 +16,6 @@
 - [自用的8款AI工具！提升学习/工作/赚钱效率，轻松超过99%的人！](https://weixin.qdkfweb.cn/41244.html)
 - [宝哥陪伴群](https://weixin.qdkfweb.cn/41177.html)
 - [用 JS 揭秘刘谦春晚魔术的魅力！](https://weixin.qdkfweb.cn/41151.html)
-- [今天面试了一个前端女生，当场想给她offer！](https://weixin.qdkfweb.cn/41106.html)
 - [12个冷门但好用的前端工具推荐](https://weixin.qdkfweb.cn/41107.html)
 <!-- BLOG-POST-LIST:END -->
 
