@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端小师妹进大厂的前端开发学习经验](https://weixin.qdkfweb.cn/41538.html)
 - [阿里面试回来，想和前端程序员谈一谈（行情）](https://weixin.qdkfweb.cn/41492.html)
 - [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
 - [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
@@ -16,7 +17,6 @@
 - [最近，前端面试真疯了。。。](https://weixin.qdkfweb.cn/41243.html)
 - [自用的8款AI工具！提升学习/工作/赚钱效率，轻松超过99%的人！](https://weixin.qdkfweb.cn/41244.html)
 - [宝哥陪伴群](https://weixin.qdkfweb.cn/41177.html)
-- [用 JS 揭秘刘谦春晚魔术的魅力！](https://weixin.qdkfweb.cn/41151.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
