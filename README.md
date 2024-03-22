@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [探索Rolldown：Vite的未来打包利器](https://weixin.qdkfweb.cn/41577.html)
+- [真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/41578.html)
 - [【30个图片无损放大的AI网址推荐】高清大图福利get!](https://weixin.qdkfweb.cn/41579.html)
 - [前端小师妹进大厂的前端开发学习经验](https://weixin.qdkfweb.cn/41538.html)
 - [阿里面试回来，想和前端程序员谈一谈（行情）](https://weixin.qdkfweb.cn/41492.html)
@@ -15,8 +17,6 @@
 - [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
 - [前端实战：如何巧妙防止接口重复请求？](https://weixin.qdkfweb.cn/41333.html)
 - [宝哥的前端故事：那些年我们一起解决的复杂需求，你遇到过吗？](https://weixin.qdkfweb.cn/41293.html)
-- [最近，前端面试真疯了。。。](https://weixin.qdkfweb.cn/41243.html)
-- [自用的8款AI工具！提升学习/工作/赚钱效率，轻松超过99%的人！](https://weixin.qdkfweb.cn/41244.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
