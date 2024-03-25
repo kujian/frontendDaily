@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [还在用原始方法开发？这 16 个谷歌浏览器插件让你事半功倍！](https://weixin.qdkfweb.cn/41689.html)
 - [VSCode最强插件合集，助你代码开发效率翻倍！](https://weixin.qdkfweb.cn/41667.html)
 - [探索Rolldown：Vite的未来打包利器](https://weixin.qdkfweb.cn/41577.html)
 - [真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/41578.html)
@@ -16,7 +17,6 @@
 - [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
 - [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
 - [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
-- [前端实战：如何巧妙防止接口重复请求？](https://weixin.qdkfweb.cn/41333.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
