@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/41793.html)
+- [VSCode主题推荐：风格多样，功能各异，总有一款适合你！](https://weixin.qdkfweb.cn/41744.html)
 - [还在用原始方法开发？这 16 个谷歌浏览器插件让你事半功倍！](https://weixin.qdkfweb.cn/41689.html)
 - [VSCode最强插件合集，助你代码开发效率翻倍！](https://weixin.qdkfweb.cn/41667.html)
 - [探索Rolldown：Vite的未来打包利器](https://weixin.qdkfweb.cn/41577.html)
@@ -15,8 +17,6 @@
 - [前端小师妹进大厂的前端开发学习经验](https://weixin.qdkfweb.cn/41538.html)
 - [阿里面试回来，想和前端程序员谈一谈（行情）](https://weixin.qdkfweb.cn/41492.html)
 - [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
-- [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
-- [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
