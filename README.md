@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [面试官：前端请求如何避免明文传输？谁沉默了，原来是我](https://weixin.qdkfweb.cn/41834.html)
 - [搞副业，从避坑开始，100个小项目快速试错](https://weixin.qdkfweb.cn/41835.html)
 - [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/41793.html)
 - [VSCode主题推荐：风格多样，功能各异，总有一款适合你！](https://weixin.qdkfweb.cn/41744.html)
 - [还在用原始方法开发？这 16 个谷歌浏览器插件让你事半功倍！](https://weixin.qdkfweb.cn/41689.html)
 - [VSCode最强插件合集，助你代码开发效率翻倍！](https://weixin.qdkfweb.cn/41667.html)
+- [探索Rolldown：Vite的未来打包利器](https://weixin.qdkfweb.cn/41887.html)
 - [真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/41578.html)
 - [【30个图片无损放大的AI网址推荐】高清大图福利get!](https://weixin.qdkfweb.cn/41579.html)
 - [前端小师妹进大厂的前端开发学习经验](https://weixin.qdkfweb.cn/41538.html)
-- [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
-- [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
