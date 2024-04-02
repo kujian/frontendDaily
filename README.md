@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [当年很流行，现在已经淘汰的移动前端技术，请不要再继续学了！](https://weixin.qdkfweb.cn/41962.html)
 - [如何在繁重的工作中持续成长？](https://weixin.qdkfweb.cn/41944.html)
 - [通过调试技术，我理清了 b 站视频播放很快的原理](https://weixin.qdkfweb.cn/41945.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/41885.html)
@@ -16,7 +17,6 @@
 - [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/41793.html)
 - [VSCode主题推荐：风格多样，功能各异，总有一款适合你！](https://weixin.qdkfweb.cn/41744.html)
 - [还在用原始方法开发？这 16 个谷歌浏览器插件让你事半功倍！](https://weixin.qdkfweb.cn/41689.html)
-- [VSCode最强插件合集，助你代码开发效率翻倍！](https://weixin.qdkfweb.cn/41667.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
