@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [预测一波，这份Web面试题库即将爆火…](https://weixin.qdkfweb.cn/42057.html)
+- [推荐 5 个近期火火火的 GitHub 项目](https://weixin.qdkfweb.cn/42058.html)
 - [当年很流行，现在已经淘汰的移动前端技术，请不要再继续学了！](https://weixin.qdkfweb.cn/41962.html)
 - [如何在繁重的工作中持续成长？](https://weixin.qdkfweb.cn/41944.html)
 - [通过调试技术，我理清了 b 站视频播放很快的原理](https://weixin.qdkfweb.cn/41945.html)
@@ -15,8 +17,6 @@
 - [面试官：前端请求如何避免明文传输？谁沉默了，原来是我](https://weixin.qdkfweb.cn/41834.html)
 - [搞副业，从避坑开始，100个小项目快速试错](https://weixin.qdkfweb.cn/41835.html)
 - [阿里内部首发2024前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/41793.html)
-- [VSCode主题推荐：风格多样，功能各异，总有一款适合你！](https://weixin.qdkfweb.cn/41744.html)
-- [还在用原始方法开发？这 16 个谷歌浏览器插件让你事半功倍！](https://weixin.qdkfweb.cn/41689.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
