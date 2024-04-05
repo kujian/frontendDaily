@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [曾经风靡一时的 jQuery，现在还有必要学习吗？](https://weixin.qdkfweb.cn/42124.html)
 - [一键生成长图登上热榜！](https://weixin.qdkfweb.cn/42097.html)
 - [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/42098.html)
 - [预测一波，这份Web面试题库即将爆火…](https://weixin.qdkfweb.cn/42057.html)
@@ -16,7 +17,6 @@
 - [通过调试技术，我理清了 b 站视频播放很快的原理](https://weixin.qdkfweb.cn/41945.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/41885.html)
 - [手把手教你写出令人窒息的烂代码](https://weixin.qdkfweb.cn/41886.html)
-- [面试官：前端请求如何避免明文传输？谁沉默了，原来是我](https://weixin.qdkfweb.cn/41834.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
