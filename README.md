@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [99%的前端小白都做错了！你还在做这些过时的项目吗？](https://weixin.qdkfweb.cn/42135.html)
+- [HR眼中必死的简历](https://weixin.qdkfweb.cn/42136.html)
 - [曾经风靡一时的 jQuery，现在还有必要学习吗？](https://weixin.qdkfweb.cn/42124.html)
 - [一键生成长图登上热榜！](https://weixin.qdkfweb.cn/42097.html)
 - [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/42098.html)
@@ -15,8 +17,6 @@
 - [当年很流行，现在已经淘汰的移动前端技术，请不要再继续学了！](https://weixin.qdkfweb.cn/41962.html)
 - [如何在繁重的工作中持续成长？](https://weixin.qdkfweb.cn/41944.html)
 - [通过调试技术，我理清了 b 站视频播放很快的原理](https://weixin.qdkfweb.cn/41945.html)
-- [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/41885.html)
-- [手把手教你写出令人窒息的烂代码](https://weixin.qdkfweb.cn/41886.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
