@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [这是雷军的简历，落魄时卡里只有冰冷的40亿](https://weixin.qdkfweb.cn/42633.html)
+- [HR眼中必死的简历](https://weixin.qdkfweb.cn/42634.html)
+- [不知大家发现没有，35岁后，面临被裁的风险，并不是年龄大了，也不是经历跟不上了，更不是能力下滑了，而是领导只顾降本增效了](https://weixin.qdkfweb.cn/42635.html)
 - [当面试HR问你“多久可以入职”时，低情商的人说：随时都可以。而高情商的人这样回答，让HR内心更倾向你！](https://weixin.qdkfweb.cn/42349.html)
 - [去应聘，面试官说&quot;你没工作经验啊&quot;，低情商的人说&quot;我不会，但我愿意学习&quot;，高情商的人这样说话技巧，轻松被录取！](https://weixin.qdkfweb.cn/42350.html)
-- [HR建议：1、不要接受任何降薪；2、不要轻易签字调岗；3、不要害怕公司威胁；4、跟HR单独谈话记得录](https://weixin.qdkfweb.cn/42352.html)
 - [字节面试过了，来和大家聊一下前端的行情](https://weixin.qdkfweb.cn/42351.html)
+- [HR建议：1、不要接受任何降薪；2、不要轻易签字调岗；3、不要害怕公司威胁；4、跟HR单独谈话记得录](https://weixin.qdkfweb.cn/42352.html)
 - [简历上什么都写，只会害了你](https://weixin.qdkfweb.cn/42276.html)
 - [HR 谈薪“套路”深，别被忽悠了！师兄教你如何应对](https://weixin.qdkfweb.cn/42277.html)
 - [290k star！炙手可热的公共 API 开源项目，开发者必备宝藏清单！](https://weixin.qdkfweb.cn/42278.html)
-- [阿里内部 “Vue＋React” 实战笔记，正式开源了！](https://weixin.qdkfweb.cn/42279.html)
-- [观察一下公司里35岁前就进入管理岗位的人，会发现他们都有一个共同特点：就是在30岁前就完成了自己的升职规划](https://weixin.qdkfweb.cn/42280.html)
-- [盘点15个高颜值的Tailwind CSS 前端UI组件库](https://weixin.qdkfweb.cn/42186.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
