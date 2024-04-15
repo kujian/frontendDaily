@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [35岁大厂程序员爆料：为什么HR和猎头招不到人：原本base薪酬标25-40k，面试通过后薪酬只给16k，感觉被侮辱了](https://weixin.qdkfweb.cn/42729.html)
+- [某大厂员工自爆：投百份简历无人问津，一气之下把薪资由2W调为3W，简历改成英文，结果出乎意料](https://weixin.qdkfweb.cn/42731.html)
 - [这是雷军的简历，落魄时卡里只有冰冷的40亿](https://weixin.qdkfweb.cn/42633.html)
 - [HR眼中必死的简历](https://weixin.qdkfweb.cn/42634.html)
 - [不知大家发现没有，35岁后，面临被裁的风险，并不是年龄大了，也不是经历跟不上了，更不是能力下滑了，而是领导只顾降本增效了](https://weixin.qdkfweb.cn/42635.html)
@@ -15,8 +17,6 @@
 - [字节面试过了，来和大家聊一下前端的行情](https://weixin.qdkfweb.cn/42351.html)
 - [HR建议：1、不要接受任何降薪；2、不要轻易签字调岗；3、不要害怕公司威胁；4、跟HR单独谈话记得录](https://weixin.qdkfweb.cn/42352.html)
 - [简历上什么都写，只会害了你](https://weixin.qdkfweb.cn/42276.html)
-- [HR 谈薪“套路”深，别被忽悠了！师兄教你如何应对](https://weixin.qdkfweb.cn/42277.html)
-- [290k star！炙手可热的公共 API 开源项目，开发者必备宝藏清单！](https://weixin.qdkfweb.cn/42278.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
