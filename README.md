@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue3已成气候（超强）！](https://weixin.qdkfweb.cn/42817.html)
+- [78K Star！解放繁琐的 CSS：探索原子级框架的魅力](https://weixin.qdkfweb.cn/42818.html)
 - [35岁大厂程序员爆料：为什么HR和猎头招不到人：原本base薪酬标25-40k，面试通过后薪酬只给16k，感觉被侮辱了](https://weixin.qdkfweb.cn/42729.html)
+- [某大厂员工爆料，面试跳槽提供流水，28000改成38000，会被发现嘛，有没成功的朋友](https://weixin.qdkfweb.cn/42730.html)
 - [某大厂员工自爆：投百份简历无人问津，一气之下把薪资由2W调为3W，简历改成英文，结果出乎意料](https://weixin.qdkfweb.cn/42731.html)
 - [这是雷军的简历，落魄时卡里只有冰冷的40亿](https://weixin.qdkfweb.cn/42633.html)
 - [HR眼中必死的简历](https://weixin.qdkfweb.cn/42634.html)
 - [不知大家发现没有，35岁后，面临被裁的风险，并不是年龄大了，也不是经历跟不上了，更不是能力下滑了，而是领导只顾降本增效了](https://weixin.qdkfweb.cn/42635.html)
 - [当面试HR问你“多久可以入职”时，低情商的人说：随时都可以。而高情商的人这样回答，让HR内心更倾向你！](https://weixin.qdkfweb.cn/42349.html)
 - [去应聘，面试官说&quot;你没工作经验啊&quot;，低情商的人说&quot;我不会，但我愿意学习&quot;，高情商的人这样说话技巧，轻松被录取！](https://weixin.qdkfweb.cn/42350.html)
-- [字节面试过了，来和大家聊一下前端的行情](https://weixin.qdkfweb.cn/42351.html)
-- [HR建议：1、不要接受任何降薪；2、不要轻易签字调岗；3、不要害怕公司威胁；4、跟HR单独谈话记得录](https://weixin.qdkfweb.cn/42352.html)
-- [简历上什么都写，只会害了你](https://weixin.qdkfweb.cn/42276.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
