@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [推荐几个优秀的小报童专栏，助你找到有价值的内容](https://weixin.qdkfweb.cn/43303.html)
 - [还在用 jQuery 吗？20k Star 项目带你轻装上阵，玩转原生 JavaScript！](https://weixin.qdkfweb.cn/43244.html)
 - [182k Star！程序员提升算法技能的终极秘籍，开源免费！](https://weixin.qdkfweb.cn/43096.html)
 - [今年面试，Vue3是重点！](https://weixin.qdkfweb.cn/43094.html)
@@ -16,7 +17,6 @@
 - [Vue3已成气候（超强）！](https://weixin.qdkfweb.cn/42817.html)
 - [78K Star！解放繁琐的 CSS：探索原子级框架的魅力](https://weixin.qdkfweb.cn/42818.html)
 - [35岁大厂程序员爆料：为什么HR和猎头招不到人：原本base薪酬标25-40k，面试通过后薪酬只给16k，感觉被侮辱了](https://weixin.qdkfweb.cn/42729.html)
-- [某大厂员工爆料，面试跳槽提供流水，28000改成38000，会被发现嘛，有没成功的朋友](https://weixin.qdkfweb.cn/42730.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
