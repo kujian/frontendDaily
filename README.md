@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端CSS奇技淫巧合集，208个！](https://weixin.qdkfweb.cn/43658.html)
+- [前端JavaScript代码规范，14万星标！](https://weixin.qdkfweb.cn/43660.html)
 - [互联网OS，诞生了！](https://weixin.qdkfweb.cn/43468.html)
 - [开发者的在线工具箱，爆了！](https://weixin.qdkfweb.cn/43469.html)
 - [英语杂志免费下载，每周更新！](https://weixin.qdkfweb.cn/43470.html)
@@ -15,8 +17,6 @@
 - [面试题库大全，太强了！](https://weixin.qdkfweb.cn/43377.html)
 - [阿里面试官：小伙子你这前端水平可以啊！…](https://weixin.qdkfweb.cn/43378.html)
 - [推荐几个优秀的小报童专栏，助你找到有价值的内容](https://weixin.qdkfweb.cn/43303.html)
-- [还在用 jQuery 吗？20k Star 项目带你轻装上阵，玩转原生 JavaScript！](https://weixin.qdkfweb.cn/43244.html)
-- [182k Star！程序员提升算法技能的终极秘籍，开源免费！](https://weixin.qdkfweb.cn/43096.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
