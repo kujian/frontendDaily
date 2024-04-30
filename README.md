@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端开发者必读的书单，4k星！](https://weixin.qdkfweb.cn/43966.html)
 - [Vue 开源版「抖音」，火了！](https://weixin.qdkfweb.cn/43882.html)
 - [50天50个Web项目集合，太强了！](https://weixin.qdkfweb.cn/43883.html)
 - [前端面试与算法学习必备的宝典！](https://weixin.qdkfweb.cn/43808.html)
 - [大厂面试高端局，不欢迎老实人和八股文背诵家…](https://weixin.qdkfweb.cn/43742.html)
 - [零基础学前端，微软官方教程！](https://weixin.qdkfweb.cn/43743.html)
+- [前端CSS奇技淫巧合集，208个！](https://weixin.qdkfweb.cn/43658.html)
 - [前端开发必备代码片段集，30秒！](https://weixin.qdkfweb.cn/43659.html)
 - [前端JavaScript代码规范，14万星标！](https://weixin.qdkfweb.cn/43660.html)
-- [前端CSS奇技淫巧合集，208个！](https://weixin.qdkfweb.cn/43658.html)
-- [互联网OS，诞生了！](https://weixin.qdkfweb.cn/43468.html)
-- [开发者的在线工具箱，爆了！](https://weixin.qdkfweb.cn/43469.html)
+- [英语杂志免费下载，每周更新！](https://weixin.qdkfweb.cn/43470.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
