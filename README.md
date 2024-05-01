@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端项目共读！50个项目50天之01：扩展卡片的HTML、CSS和JavaScript实现](https://weixin.qdkfweb.cn/43964.html)
 - [前端开发者必读的书单，4k星！](https://weixin.qdkfweb.cn/43966.html)
 - [Vue 开源版「抖音」，火了！](https://weixin.qdkfweb.cn/43882.html)
 - [50天50个Web项目集合，太强了！](https://weixin.qdkfweb.cn/43883.html)
@@ -16,7 +17,6 @@
 - [前端CSS奇技淫巧合集，208个！](https://weixin.qdkfweb.cn/43658.html)
 - [前端开发必备代码片段集，30秒！](https://weixin.qdkfweb.cn/43659.html)
 - [前端JavaScript代码规范，14万星标！](https://weixin.qdkfweb.cn/43660.html)
-- [英语杂志免费下载，每周更新！](https://weixin.qdkfweb.cn/43470.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
