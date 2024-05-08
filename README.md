@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [50个前端实战项目之08：表单波纹](https://weixin.qdkfweb.cn/44359.html)
 - [互联网大厂“打螺丝”如何汇报？别只会说“我完成了”！](https://weixin.qdkfweb.cn/44276.html)
 - [50个前端实战项目之07：拆分登录页面](https://weixin.qdkfweb.cn/44275.html)
 - [50个前端实战项目之06：滚动动画](https://weixin.qdkfweb.cn/44277.html)
@@ -16,7 +17,6 @@
 - [50个前端实战小项目：旋转导航动画](https://weixin.qdkfweb.cn/44151.html)
 - [面试官：CSS 选择器的优先级是如何计算的？](https://weixin.qdkfweb.cn/44152.html)
 - [前端项目共读！50个项目50天之02：进度步骤条的HTML、CSS和JavaScript实现](https://weixin.qdkfweb.cn/44108.html)
-- [前端刷题共读之01：请解释事件委托](https://weixin.qdkfweb.cn/44109.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
