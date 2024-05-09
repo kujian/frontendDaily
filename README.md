@@ -16,7 +16,7 @@
 - [50个前端实战项目之04：隐藏的搜索小组件](https://weixin.qdkfweb.cn/44188.html)
 - [50个前端实战小项目：旋转导航动画](https://weixin.qdkfweb.cn/44151.html)
 - [面试官：CSS 选择器的优先级是如何计算的？](https://weixin.qdkfweb.cn/44152.html)
-- [前端项目共读！50个项目50天之02：进度步骤条的HTML、CSS和JavaScript实现](https://weixin.qdkfweb.cn/44108.html)
+- [前端刷题共读之01：请解释事件委托](https://weixin.qdkfweb.cn/44109.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
