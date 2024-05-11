@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端实战11：JS获取按键的键盘码信息](https://weixin.qdkfweb.cn/44643.html)
+- [30天 JavaScript 编程挑战，41K star！](https://weixin.qdkfweb.cn/44644.html)
 - [简洁风的冷笑话生成器](https://weixin.qdkfweb.cn/44556.html)
 - [50个前端实战项目之08：表单波纹](https://weixin.qdkfweb.cn/44359.html)
 - [互联网大厂“打螺丝”如何汇报？别只会说“我完成了”！](https://weixin.qdkfweb.cn/44276.html)
@@ -15,8 +17,6 @@
 - [50个前端实战项目之05：模糊加载效果。](https://weixin.qdkfweb.cn/44218.html)
 - [双非本科，面试官竟然问我：你和 985/211 比有啥优势？](https://weixin.qdkfweb.cn/44219.html)
 - [50个前端实战项目之04：隐藏的搜索小组件](https://weixin.qdkfweb.cn/44188.html)
-- [50个前端实战小项目：旋转导航动画](https://weixin.qdkfweb.cn/44151.html)
-- [面试官：CSS 选择器的优先级是如何计算的？](https://weixin.qdkfweb.cn/44152.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
