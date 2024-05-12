@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [41.1k Star！一个前端开发者必看的资源汇总，涵盖工具、课程、社区及更多！](https://weixin.qdkfweb.cn/44819.html)
+- [前端实战12：手风琴效果](https://weixin.qdkfweb.cn/44820.html)
 - [前端实战11：JS获取按键的键盘码信息](https://weixin.qdkfweb.cn/44643.html)
 - [30天 JavaScript 编程挑战，41K star！](https://weixin.qdkfweb.cn/44644.html)
 - [简洁风的冷笑话生成器](https://weixin.qdkfweb.cn/44556.html)
@@ -15,8 +17,6 @@
 - [50个前端实战项目之07：拆分登录页面](https://weixin.qdkfweb.cn/44275.html)
 - [50个前端实战项目之06：滚动动画](https://weixin.qdkfweb.cn/44277.html)
 - [50个前端实战项目之05：模糊加载效果。](https://weixin.qdkfweb.cn/44218.html)
-- [双非本科，面试官竟然问我：你和 985/211 比有啥优势？](https://weixin.qdkfweb.cn/44219.html)
-- [50个前端实战项目之04：隐藏的搜索小组件](https://weixin.qdkfweb.cn/44188.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
