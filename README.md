@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js 3个隐藏但非常实用的功能](https://weixin.qdkfweb.cn/47434.html)
 - [标星23.2K！ 一键打包网页变身为跨平台桌面应用神器！](https://weixin.qdkfweb.cn/47258.html)
 - [开源免费、自托管的轻量级笔记服务，支持纯文本和Markdown，支持多语言！](https://weixin.qdkfweb.cn/47260.html)
 - [本周炫炫炫的前端实战项目](https://weixin.qdkfweb.cn/44818.html)
@@ -16,7 +17,6 @@
 - [30天 JavaScript 编程挑战，41K star！](https://weixin.qdkfweb.cn/44644.html)
 - [简洁风的冷笑话生成器](https://weixin.qdkfweb.cn/44556.html)
 - [50个前端实战项目之08：表单波纹](https://weixin.qdkfweb.cn/44359.html)
-- [互联网大厂“打螺丝”如何汇报？别只会说“我完成了”！](https://weixin.qdkfweb.cn/44276.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
