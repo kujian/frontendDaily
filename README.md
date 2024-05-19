@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [强烈建议前端人学习AI大模型！](https://weixin.qdkfweb.cn/47633.html)
+- [一键生成代码截图的神器，让你的代码美如画！](https://weixin.qdkfweb.cn/47634.html)
 - [Vue 3 将推出新特性，可以抛弃虚拟DOM了！](https://weixin.qdkfweb.cn/47580.html)
 - [炸裂开源！标星 17k 的安卓手机模拟器，无需 root，支持 Windows、Mac 和 Linux！](https://weixin.qdkfweb.cn/47432.html)
 - [这可能是我见过最好最全的Javascript题库！](https://weixin.qdkfweb.cn/47433.html)
@@ -15,8 +17,6 @@
 - [开源免费、自托管的轻量级笔记服务，支持纯文本和Markdown，支持多语言！](https://weixin.qdkfweb.cn/47260.html)
 - [本周炫炫炫的前端实战项目](https://weixin.qdkfweb.cn/44818.html)
 - [41.1k Star！一个前端开发者必看的资源汇总，涵盖工具、课程、社区及更多！](https://weixin.qdkfweb.cn/44819.html)
-- [前端实战12：手风琴效果](https://weixin.qdkfweb.cn/44820.html)
-- [前端实战11：JS获取按键的键盘码信息](https://weixin.qdkfweb.cn/44643.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
