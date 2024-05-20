@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 3 响应式状态揭秘：ref&lpar;&rpar; 函数的魔法](https://weixin.qdkfweb.cn/47683.html)
 - [强烈建议前端人学习AI大模型！](https://weixin.qdkfweb.cn/47633.html)
 - [一键生成代码截图的神器，让你的代码美如画！](https://weixin.qdkfweb.cn/47634.html)
 - [Vue 3 将推出新特性，可以抛弃虚拟DOM了！](https://weixin.qdkfweb.cn/47580.html)
@@ -16,7 +17,6 @@
 - [标星23.2K！ 一键打包网页变身为跨平台桌面应用神器！](https://weixin.qdkfweb.cn/47258.html)
 - [开源免费、自托管的轻量级笔记服务，支持纯文本和Markdown，支持多语言！](https://weixin.qdkfweb.cn/47260.html)
 - [本周炫炫炫的前端实战项目](https://weixin.qdkfweb.cn/44818.html)
-- [41.1k Star！一个前端开发者必看的资源汇总，涵盖工具、课程、社区及更多！](https://weixin.qdkfweb.cn/44819.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
