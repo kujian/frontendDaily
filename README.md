@@ -14,8 +14,8 @@
 - [2024年10个高颜值的免费HTML模板库！](https://weixin.qdkfweb.cn/47765.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/47766.html)
 - [Vue 3 响应式状态揭秘：ref&lpar;&rpar; 函数的魔法](https://weixin.qdkfweb.cn/47683.html)
-- [一键生成代码截图的神器，让你的代码美如画！](https://weixin.qdkfweb.cn/47634.html)
 - [强烈建议前端人学习AI大模型！](https://weixin.qdkfweb.cn/47633.html)
+- [一键生成代码截图的神器，让你的代码美如画！](https://weixin.qdkfweb.cn/47634.html)
 - [Vue 3 将推出新特性，可以抛弃虚拟DOM了！](https://weixin.qdkfweb.cn/47580.html)
 <!-- BLOG-POST-LIST:END -->
 
