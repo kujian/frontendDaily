@@ -7,6 +7,9 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vapor Mode：Vue.js 的速度与激情，代码界的闪电侠](https://weixin.qdkfweb.cn/48130.html)
+- [一套封神！阿里内部2024前端开发手册，限时开放下载！](https://weixin.qdkfweb.cn/48023.html)
+- [超越付费模板：10个免费HTML模板的终极推荐！](https://weixin.qdkfweb.cn/48024.html)
 - [Vue 中使用 &lt;transition&gt; 标签创建过渡动画的详细教程](https://weixin.qdkfweb.cn/48025.html)
 - [前端开发的秘密武器：10个免费HTML模板让你的网站无与伦比](https://weixin.qdkfweb.cn/48026.html)
 - [JavaScript框架又更新了！一文带你读懂React、Next.js、Vue、Nuxt和Svelte等框架的最新动态和趋势。](https://weixin.qdkfweb.cn/47763.html)
@@ -14,9 +17,6 @@
 - [2024年10个高颜值的免费HTML模板库！](https://weixin.qdkfweb.cn/47765.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/47766.html)
 - [Vue 3 响应式状态揭秘：ref&lpar;&rpar; 函数的魔法](https://weixin.qdkfweb.cn/47683.html)
-- [强烈建议前端人学习AI大模型！](https://weixin.qdkfweb.cn/47633.html)
-- [一键生成代码截图的神器，让你的代码美如画！](https://weixin.qdkfweb.cn/47634.html)
-- [Vue 3 将推出新特性，可以抛弃虚拟DOM了！](https://weixin.qdkfweb.cn/47580.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
