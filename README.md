@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 如何处理异步组件加载错误](https://weixin.qdkfweb.cn/48294.html)
 - [Vapor Mode：Vue.js 的速度与激情，代码界的闪电侠](https://weixin.qdkfweb.cn/48130.html)
 - [一套封神！阿里内部2024前端开发手册，限时开放下载！](https://weixin.qdkfweb.cn/48023.html)
 - [超越付费模板：10个免费HTML模板的终极推荐！](https://weixin.qdkfweb.cn/48024.html)
@@ -16,7 +17,6 @@
 - [前端开发者的宝藏：探索10个最佳免费HTML模板资源（第二弹）](https://weixin.qdkfweb.cn/47764.html)
 - [2024年10个高颜值的免费HTML模板库！](https://weixin.qdkfweb.cn/47765.html)
 - [阿里面试官：你让我见识到了前端基础的天花板！](https://weixin.qdkfweb.cn/47766.html)
-- [Vue 3 响应式状态揭秘：ref&lpar;&rpar; 函数的魔法](https://weixin.qdkfweb.cn/47683.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
