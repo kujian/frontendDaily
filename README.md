@@ -7,15 +7,15 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 单页面应用中，不要在 onMount 里添加事件监听器！](https://weixin.qdkfweb.cn/48455.html)
 - [最近前端行情还不错？？？](https://weixin.qdkfweb.cn/48384.html)
 - [38个Vue、Nuxt 和 Vite 技巧、窍门和实践的合集](https://weixin.qdkfweb.cn/48385.html)
 - [Vue 如何处理异步组件加载错误](https://weixin.qdkfweb.cn/48294.html)
 - [Vapor Mode：Vue.js 的速度与激情，代码界的闪电侠](https://weixin.qdkfweb.cn/48130.html)
 - [一套封神！阿里内部2024前端开发手册，限时开放下载！](https://weixin.qdkfweb.cn/48023.html)
 - [超越付费模板：10个免费HTML模板的终极推荐！](https://weixin.qdkfweb.cn/48024.html)
-- [前端开发的秘密武器：10个免费HTML模板让你的网站无与伦比](https://weixin.qdkfweb.cn/48026.html)
 - [Vue 中使用 &lt;transition&gt; 标签创建过渡动画的详细教程](https://weixin.qdkfweb.cn/48025.html)
-- [JavaScript框架又更新了！一文带你读懂React、Next.js、Vue、Nuxt和Svelte等框架的最新动态和趋势。](https://weixin.qdkfweb.cn/47763.html)
+- [前端开发的秘密武器：10个免费HTML模板让你的网站无与伦比](https://weixin.qdkfweb.cn/48026.html)
 - [前端开发者的宝藏：探索10个最佳免费HTML模板资源（第二弹）](https://weixin.qdkfweb.cn/47764.html)
 <!-- BLOG-POST-LIST:END -->
 
