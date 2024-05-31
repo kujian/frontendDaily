@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [原来月薪30k的简历长这样，进来抄作业！](https://weixin.qdkfweb.cn/48456.html)
+- [尤雨溪：Vue.js 十周年回顾与展望](https://weixin.qdkfweb.cn/48457.html)
 - [Vue 单页面应用中，不要在 onMount 里添加事件监听器！](https://weixin.qdkfweb.cn/48455.html)
 - [最近前端行情还不错？？？](https://weixin.qdkfweb.cn/48384.html)
 - [38个Vue、Nuxt 和 Vite 技巧、窍门和实践的合集](https://weixin.qdkfweb.cn/48385.html)
@@ -15,8 +17,6 @@
 - [一套封神！阿里内部2024前端开发手册，限时开放下载！](https://weixin.qdkfweb.cn/48023.html)
 - [超越付费模板：10个免费HTML模板的终极推荐！](https://weixin.qdkfweb.cn/48024.html)
 - [Vue 中使用 &lt;transition&gt; 标签创建过渡动画的详细教程](https://weixin.qdkfweb.cn/48025.html)
-- [前端开发的秘密武器：10个免费HTML模板让你的网站无与伦比](https://weixin.qdkfweb.cn/48026.html)
-- [前端开发者的宝藏：探索10个最佳免费HTML模板资源（第二弹）](https://weixin.qdkfweb.cn/47764.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
