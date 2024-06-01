@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue.js表单开发宝藏工具集，让构建表单变得轻松又酷炫！](https://weixin.qdkfweb.cn/48546.html)
 - [原来月薪30k的简历长这样，进来抄作业！](https://weixin.qdkfweb.cn/48456.html)
 - [尤雨溪：Vue.js 十周年回顾与展望](https://weixin.qdkfweb.cn/48457.html)
 - [Vue 单页面应用中，不要在 onMount 里添加事件监听器！](https://weixin.qdkfweb.cn/48455.html)
@@ -16,7 +17,6 @@
 - [Vapor Mode：Vue.js 的速度与激情，代码界的闪电侠](https://weixin.qdkfweb.cn/48130.html)
 - [一套封神！阿里内部2024前端开发手册，限时开放下载！](https://weixin.qdkfweb.cn/48023.html)
 - [超越付费模板：10个免费HTML模板的终极推荐！](https://weixin.qdkfweb.cn/48024.html)
-- [Vue 中使用 &lt;transition&gt; 标签创建过渡动画的详细教程](https://weixin.qdkfweb.cn/48025.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
