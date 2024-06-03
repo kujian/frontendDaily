@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 小技巧：何时使用可组合函数](https://weixin.qdkfweb.cn/48729.html)
 - [探索 Vue Devtools 4.0 的新世界！](https://weixin.qdkfweb.cn/48671.html)
 - [Vue.js表单开发宝藏工具集，让构建表单变得轻松又酷炫！](https://weixin.qdkfweb.cn/48546.html)
 - [原来月薪30k的简历长这样，进来抄作业！](https://weixin.qdkfweb.cn/48456.html)
@@ -16,7 +17,6 @@
 - [38个Vue、Nuxt 和 Vite 技巧、窍门和实践的合集](https://weixin.qdkfweb.cn/48385.html)
 - [Vue 如何处理异步组件加载错误](https://weixin.qdkfweb.cn/48294.html)
 - [Vapor Mode：Vue.js 的速度与激情，代码界的闪电侠](https://weixin.qdkfweb.cn/48130.html)
-- [一套封神！阿里内部2024前端开发手册，限时开放下载！](https://weixin.qdkfweb.cn/48023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
