@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [怎么才能做出一个牛逼的Vue 组件库？](https://weixin.qdkfweb.cn/49073.html)
+- [再见了 Vue 3，前端AI已成气候！](https://weixin.qdkfweb.cn/49079.html)
+- [别再用错 localStorage 了！小心踩坑！](https://weixin.qdkfweb.cn/49083.html)
+- [Vite 为什么这么火？](https://weixin.qdkfweb.cn/49088.html)
+- [2024已过半，Web前端还有机会吗?](https://weixin.qdkfweb.cn/49092.html)
+- [最新 Vue 生态系统及工具链大盘点](https://weixin.qdkfweb.cn/49096.html)
+- [Vue 神器，支持自动生成路由，从此告别繁琐的手动路由配置！](https://weixin.qdkfweb.cn/49100.html)
+- [前端6月面试速刷葵花宝典，689页PDF！](https://weixin.qdkfweb.cn/48727.html)
+- [网页加载卡顿？试试 HTML 的新武器 blocking 属性！](https://weixin.qdkfweb.cn/48728.html)
 - [Vue 小技巧：何时使用可组合函数](https://weixin.qdkfweb.cn/48729.html)
-- [探索 Vue Devtools 4.0 的新世界！](https://weixin.qdkfweb.cn/48671.html)
-- [Vue.js表单开发宝藏工具集，让构建表单变得轻松又酷炫！](https://weixin.qdkfweb.cn/48546.html)
-- [原来月薪30k的简历长这样，进来抄作业！](https://weixin.qdkfweb.cn/48456.html)
-- [尤雨溪：Vue.js 十周年回顾与展望](https://weixin.qdkfweb.cn/48457.html)
-- [Vue 单页面应用中，不要在 onMount 里添加事件监听器！](https://weixin.qdkfweb.cn/48455.html)
-- [最近前端行情还不错？？？](https://weixin.qdkfweb.cn/48384.html)
-- [38个Vue、Nuxt 和 Vite 技巧、窍门和实践的合集](https://weixin.qdkfweb.cn/48385.html)
-- [Vue 如何处理异步组件加载错误](https://weixin.qdkfweb.cn/48294.html)
-- [Vapor Mode：Vue.js 的速度与激情，代码界的闪电侠](https://weixin.qdkfweb.cn/48130.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
