@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [微软 Edge 推出 &quot;WebUI 2.0&quot;：从 React 到 Web Components + HTML，速度提升了42%](https://weixin.qdkfweb.cn/49243.html)
 - [掌握插槽魔法，助你进阶 Vue 开发，赋予组件无限可能！](https://weixin.qdkfweb.cn/49188.html)
 - [怎么才能做出一个牛逼的Vue 组件库？](https://weixin.qdkfweb.cn/49073.html)
 - [再见了 Vue 3，前端AI已成气候！](https://weixin.qdkfweb.cn/49079.html)
@@ -16,7 +17,6 @@
 - [最新 Vue 生态系统及工具链大盘点](https://weixin.qdkfweb.cn/49096.html)
 - [Vue 神器，支持自动生成路由，从此告别繁琐的手动路由配置！](https://weixin.qdkfweb.cn/49100.html)
 - [前端6月面试速刷葵花宝典，689页PDF！](https://weixin.qdkfweb.cn/48727.html)
-- [网页加载卡顿？试试 HTML 的新武器 blocking 属性！](https://weixin.qdkfweb.cn/48728.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
