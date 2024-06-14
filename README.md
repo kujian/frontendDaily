@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [一个神奇的变量！CSS 中的 infinity：无限可能？](https://weixin.qdkfweb.cn/49403.html)
 - [Nuxt 4：一个更加完善、更加强大的 Vue 全栈框架](https://weixin.qdkfweb.cn/49317.html)
 - [尤雨溪又出新品了！VuePress 的升级版，更快、更灵活，构建更强大的网站！](https://weixin.qdkfweb.cn/49242.html)
 - [微软 Edge 推出 &quot;WebUI 2.0&quot;：从 React 到 Web Components + HTML，速度提升了42%](https://weixin.qdkfweb.cn/49243.html)
@@ -15,7 +16,6 @@
 - [再见了 Vue 3，前端AI已成气候！](https://weixin.qdkfweb.cn/49079.html)
 - [别再用错 localStorage 了！小心踩坑！](https://weixin.qdkfweb.cn/49083.html)
 - [Vite 为什么这么火？](https://weixin.qdkfweb.cn/49088.html)
-- [2024已过半，Web前端还有机会吗?](https://weixin.qdkfweb.cn/49092.html)
 - [最新 Vue 生态系统及工具链大盘点](https://weixin.qdkfweb.cn/49096.html)
 <!-- BLOG-POST-LIST:END -->
 
