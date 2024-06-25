@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 年 10 个很实用的 CSS 新特性，你不一定知道！](https://weixin.qdkfweb.cn/50020.html)
+- [10个 React 开发避坑指南](https://weixin.qdkfweb.cn/50026.html)
+- [12 种 Vue 设计模式](https://weixin.qdkfweb.cn/50031.html)
+- [CSS 秘密武器：25 个小技巧，助你写出更优雅的代码！](https://weixin.qdkfweb.cn/50040.html)
+- [Vue 3 表单大揭秘： 用 ref、组合式 API 和 v-for 打造你的专属表单！](https://weixin.qdkfweb.cn/50043.html)
+- [JavaScript 的新技能：5 大技巧，打造更强大的 Web 应用](https://weixin.qdkfweb.cn/50048.html)
+- [程序员必备：9 个超赞的速查表网站，2024 年开发效率翻倍！](https://weixin.qdkfweb.cn/50055.html)
+- [Tailwind CSS v4.0 Alpha 发布：更快、更强大、更现代！](https://weixin.qdkfweb.cn/49642.html)
 - [Vue 状态管理：从Vuex到Pinia，Vue 3官方推荐的状态管理库深度解析](https://weixin.qdkfweb.cn/49582.html)
 - [一个神奇的变量！CSS 中的 infinity：无限可能？](https://weixin.qdkfweb.cn/49403.html)
-- [Nuxt 4：一个更加完善、更加强大的 Vue 全栈框架](https://weixin.qdkfweb.cn/49317.html)
-- [尤雨溪又出新品了！VuePress 的升级版，更快、更灵活，构建更强大的网站！](https://weixin.qdkfweb.cn/49242.html)
-- [微软 Edge 推出 &quot;WebUI 2.0&quot;：从 React 到 Web Components + HTML，速度提升了42%](https://weixin.qdkfweb.cn/49243.html)
-- [掌握插槽魔法，助你进阶 Vue 开发，赋予组件无限可能！](https://weixin.qdkfweb.cn/49188.html)
-- [怎么才能做出一个牛逼的Vue 组件库？](https://weixin.qdkfweb.cn/49073.html)
-- [再见了 Vue 3，前端AI已成气候！](https://weixin.qdkfweb.cn/49079.html)
-- [别再用错 localStorage 了！小心踩坑！](https://weixin.qdkfweb.cn/49083.html)
-- [Vite 为什么这么火？](https://weixin.qdkfweb.cn/49088.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
