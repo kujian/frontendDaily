@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 开发者必备技能：深入理解 Composition API ！](https://weixin.qdkfweb.cn/50212.html)
 - [Nuxt2 即将停止更新！倒计时5天！](https://weixin.qdkfweb.cn/50110.html)
 - [2024 年 10 个很实用的 CSS 新特性，你不一定知道！](https://weixin.qdkfweb.cn/50020.html)
 - [10个 React 开发避坑指南](https://weixin.qdkfweb.cn/50026.html)
@@ -16,7 +17,6 @@
 - [JavaScript 的新技能：5 大技巧，打造更强大的 Web 应用](https://weixin.qdkfweb.cn/50048.html)
 - [程序员必备：9 个超赞的速查表网站，2024 年开发效率翻倍！](https://weixin.qdkfweb.cn/50055.html)
 - [Tailwind CSS v4.0 Alpha 发布：更快、更强大、更现代！](https://weixin.qdkfweb.cn/49642.html)
-- [Vue 状态管理：从Vuex到Pinia，Vue 3官方推荐的状态管理库深度解析](https://weixin.qdkfweb.cn/49582.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
