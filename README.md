@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [太酷了，纯 CSS 实现微软、谷歌和苹果的官方 Logo！](https://weixin.qdkfweb.cn/50643.html)
+- [Vue 如何防止 XSS 攻击？](https://weixin.qdkfweb.cn/50654.html)
+- [Vue 中的三种 Props：模板 Props、配置 Props 和 状态 Props](https://weixin.qdkfweb.cn/50658.html)
+- [一学就会，教你创建和使用 CSS 变量！](https://weixin.qdkfweb.cn/50666.html)
+- [JavaScript 字符串处理：trim&lpar;&rpar;和replace&lpar;&rpar;](https://weixin.qdkfweb.cn/50670.html)
+- [Vue Router 结合组合式API：构建流畅单页应用的利器](https://weixin.qdkfweb.cn/50298.html)
 - [HTML DOM 是如何影响性能的？](https://weixin.qdkfweb.cn/50211.html)
 - [Vue 开发者必备技能：深入理解 Composition API ！](https://weixin.qdkfweb.cn/50212.html)
 - [Nuxt2 即将停止更新！倒计时5天！](https://weixin.qdkfweb.cn/50110.html)
 - [2024 年 10 个很实用的 CSS 新特性，你不一定知道！](https://weixin.qdkfweb.cn/50020.html)
-- [10个 React 开发避坑指南](https://weixin.qdkfweb.cn/50026.html)
-- [12 种 Vue 设计模式](https://weixin.qdkfweb.cn/50031.html)
-- [CSS 秘密武器：25 个小技巧，助你写出更优雅的代码！](https://weixin.qdkfweb.cn/50040.html)
-- [Vue 3 表单大揭秘： 用 ref、组合式 API 和 v-for 打造你的专属表单！](https://weixin.qdkfweb.cn/50043.html)
-- [JavaScript 的新技能：5 大技巧，打造更强大的 Web 应用](https://weixin.qdkfweb.cn/50048.html)
-- [程序员必备：9 个超赞的速查表网站，2024 年开发效率翻倍！](https://weixin.qdkfweb.cn/50055.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
