@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/50811.html)
 - [太酷了，纯 CSS 实现微软、谷歌和苹果的官方 Logo！](https://weixin.qdkfweb.cn/50643.html)
 - [Vue 如何防止 XSS 攻击？](https://weixin.qdkfweb.cn/50654.html)
 - [Vue 中的三种 Props：模板 Props、配置 Props 和 状态 Props](https://weixin.qdkfweb.cn/50658.html)
@@ -16,7 +17,6 @@
 - [HTML DOM 是如何影响性能的？](https://weixin.qdkfweb.cn/50211.html)
 - [Vue 开发者必备技能：深入理解 Composition API ！](https://weixin.qdkfweb.cn/50212.html)
 - [Nuxt2 即将停止更新！倒计时5天！](https://weixin.qdkfweb.cn/50110.html)
-- [2024 年 10 个很实用的 CSS 新特性，你不一定知道！](https://weixin.qdkfweb.cn/50020.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
