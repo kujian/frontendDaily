@@ -7,7 +7,9 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue Query 助力现代 Vue 应用数据管理：3 个关键 Hooks 带你轻松驾驭远程数据](https://weixin.qdkfweb.cn/50810.html)
 - [取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/50811.html)
+- [程序员应该怎么做副业？自由职业的干货推荐](https://weixin.qdkfweb.cn/50638.html)
 - [太酷了，纯 CSS 实现微软、谷歌和苹果的官方 Logo！](https://weixin.qdkfweb.cn/50643.html)
 - [Vue 如何防止 XSS 攻击？](https://weixin.qdkfweb.cn/50654.html)
 - [Vue 中的三种 Props：模板 Props、配置 Props 和 状态 Props](https://weixin.qdkfweb.cn/50658.html)
@@ -15,8 +17,6 @@
 - [JavaScript 字符串处理：trim&lpar;&rpar;和replace&lpar;&rpar;](https://weixin.qdkfweb.cn/50670.html)
 - [Vue Router 结合组合式API：构建流畅单页应用的利器](https://weixin.qdkfweb.cn/50298.html)
 - [HTML DOM 是如何影响性能的？](https://weixin.qdkfweb.cn/50211.html)
-- [Vue 开发者必备技能：深入理解 Composition API ！](https://weixin.qdkfweb.cn/50212.html)
-- [Nuxt2 即将停止更新！倒计时5天！](https://weixin.qdkfweb.cn/50110.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
