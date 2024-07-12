@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [用 Vue.js 重现经典游戏：皇后难题](https://weixin.qdkfweb.cn/51080.html)
 - [写出简洁高效的 CSS：我的实战经验和心得分享](https://weixin.qdkfweb.cn/50988.html)
 - [Vue Query 助力现代 Vue 应用数据管理：3 个关键 Hooks 带你轻松驾驭远程数据](https://weixin.qdkfweb.cn/50810.html)
 - [取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/50811.html)
@@ -16,7 +17,6 @@
 - [Vue 中的三种 Props：模板 Props、配置 Props 和 状态 Props](https://weixin.qdkfweb.cn/50658.html)
 - [一学就会，教你创建和使用 CSS 变量！](https://weixin.qdkfweb.cn/50666.html)
 - [JavaScript 字符串处理：trim&lpar;&rpar;和replace&lpar;&rpar;](https://weixin.qdkfweb.cn/50670.html)
-- [Vue Router 结合组合式API：构建流畅单页应用的利器](https://weixin.qdkfweb.cn/50298.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
