@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [纯 CSS 游戏：用代码玩转超级马里奥](https://weixin.qdkfweb.cn/51079.html)
 - [用 Vue.js 重现经典游戏：皇后难题](https://weixin.qdkfweb.cn/51080.html)
 - [写出简洁高效的 CSS：我的实战经验和心得分享](https://weixin.qdkfweb.cn/50988.html)
 - [Vue Query 助力现代 Vue 应用数据管理：3 个关键 Hooks 带你轻松驾驭远程数据](https://weixin.qdkfweb.cn/50810.html)
@@ -16,7 +17,6 @@
 - [Vue 如何防止 XSS 攻击？](https://weixin.qdkfweb.cn/50654.html)
 - [Vue 中的三种 Props：模板 Props、配置 Props 和 状态 Props](https://weixin.qdkfweb.cn/50658.html)
 - [一学就会，教你创建和使用 CSS 变量！](https://weixin.qdkfweb.cn/50666.html)
-- [JavaScript 字符串处理：trim&lpar;&rpar;和replace&lpar;&rpar;](https://weixin.qdkfweb.cn/50670.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
