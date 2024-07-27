@@ -7,6 +7,9 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [写出让未来的你也能看懂的代码：优化 Vue 组件的 3 个技巧](https://weixin.qdkfweb.cn/51969.html)
+- [告别重复代码：用现代 CSS 写出更优雅的代码](https://weixin.qdkfweb.cn/51796.html)
+- [现代 CSS 布局：你可能不需要框架](https://weixin.qdkfweb.cn/51797.html)
 - [JavaScript 中那些令人头疼的“未定义”：如何避坑？](https://weixin.qdkfweb.cn/51609.html)
 - [CSS 即将迎来重大更新：if&lpar;&rpar; 条件语句，让你的前端开发代码更灵活更强大！](https://weixin.qdkfweb.cn/51445.html)
 - [打造你的专属主页：用 JavaScript 创建简约 Chrome 扩展](https://weixin.qdkfweb.cn/51351.html)
@@ -14,9 +17,6 @@
 - [分析20个顶级网站，我发现网站性能优化中不可忽视的15个盲点！](https://weixin.qdkfweb.cn/51217.html)
 - [纯 CSS 游戏：用代码玩转超级马里奥](https://weixin.qdkfweb.cn/51079.html)
 - [用 Vue.js 重现经典游戏：皇后难题](https://weixin.qdkfweb.cn/51080.html)
-- [写出简洁高效的 CSS：我的实战经验和心得分享](https://weixin.qdkfweb.cn/50988.html)
-- [Vue Query 助力现代 Vue 应用数据管理：3 个关键 Hooks 带你轻松驾驭远程数据](https://weixin.qdkfweb.cn/50810.html)
-- [取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/50811.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
