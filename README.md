@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [年薪92W！真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/51967.html)
+- [Nuxt 4 新变化抢先看：从 v3 到 v4 的平滑升级！](https://weixin.qdkfweb.cn/51968.html)
 - [写出让未来的你也能看懂的代码：优化 Vue 组件的 3 个技巧](https://weixin.qdkfweb.cn/51969.html)
 - [告别重复代码：用现代 CSS 写出更优雅的代码](https://weixin.qdkfweb.cn/51796.html)
 - [现代 CSS 布局：你可能不需要框架](https://weixin.qdkfweb.cn/51797.html)
@@ -15,8 +17,6 @@
 - [打造你的专属主页：用 JavaScript 创建简约 Chrome 扩展](https://weixin.qdkfweb.cn/51351.html)
 - [CSS 一行代码，让你的网页更美观！](https://weixin.qdkfweb.cn/51278.html)
 - [分析20个顶级网站，我发现网站性能优化中不可忽视的15个盲点！](https://weixin.qdkfweb.cn/51217.html)
-- [纯 CSS 游戏：用代码玩转超级马里奥](https://weixin.qdkfweb.cn/51079.html)
-- [用 Vue.js 重现经典游戏：皇后难题](https://weixin.qdkfweb.cn/51080.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
