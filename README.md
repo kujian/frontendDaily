@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [如何在 JavaScript 中撤销 Promise](https://weixin.qdkfweb.cn/52102.html)
 - [年薪92W！真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/51967.html)
 - [Nuxt 4 新变化抢先看：从 v3 到 v4 的平滑升级！](https://weixin.qdkfweb.cn/51968.html)
 - [写出让未来的你也能看懂的代码：优化 Vue 组件的 3 个技巧](https://weixin.qdkfweb.cn/51969.html)
@@ -16,7 +17,6 @@
 - [CSS 即将迎来重大更新：if&lpar;&rpar; 条件语句，让你的前端开发代码更灵活更强大！](https://weixin.qdkfweb.cn/51445.html)
 - [打造你的专属主页：用 JavaScript 创建简约 Chrome 扩展](https://weixin.qdkfweb.cn/51351.html)
 - [CSS 一行代码，让你的网页更美观！](https://weixin.qdkfweb.cn/51278.html)
-- [分析20个顶级网站，我发现网站性能优化中不可忽视的15个盲点！](https://weixin.qdkfweb.cn/51217.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
