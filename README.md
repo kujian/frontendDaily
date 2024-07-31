@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [ESLint 要大变样了！分离JavaScript，支持更多语言，包括JSON、Markdown、HTML和GraphQL等！](https://weixin.qdkfweb.cn/52182.html)
 - [现代 CSS 表格样式：打造更美观、更易读的表格](https://weixin.qdkfweb.cn/52101.html)
 - [如何在 JavaScript 中撤销 Promise](https://weixin.qdkfweb.cn/52102.html)
 - [年薪92W！真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/51967.html)
@@ -16,7 +17,6 @@
 - [现代 CSS 布局：你可能不需要框架](https://weixin.qdkfweb.cn/51797.html)
 - [JavaScript 中那些令人头疼的“未定义”：如何避坑？](https://weixin.qdkfweb.cn/51609.html)
 - [CSS 即将迎来重大更新：if&lpar;&rpar; 条件语句，让你的前端开发代码更灵活更强大！](https://weixin.qdkfweb.cn/51445.html)
-- [打造你的专属主页：用 JavaScript 创建简约 Chrome 扩展](https://weixin.qdkfweb.cn/51351.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
