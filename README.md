@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [现代 CSS 锚点链接和 JavaScript scrollIntoView&lpar;&rpar;的滚动跳转](https://weixin.qdkfweb.cn/52421.html)
 - [CSS 要变天了！ if&lpar;&rpar; 函数、跨文档视图过渡…一大波新特性来袭！](https://weixin.qdkfweb.cn/52334.html)
 - [ESLint 要大变样了！分离JavaScript，支持更多语言，包括JSON、Markdown、HTML和GraphQL等！](https://weixin.qdkfweb.cn/52182.html)
 - [现代 CSS 表格样式：打造更美观、更易读的表格](https://weixin.qdkfweb.cn/52101.html)
@@ -14,9 +15,8 @@
 - [年薪92W！真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/51967.html)
 - [Nuxt 4 新变化抢先看：从 v3 到 v4 的平滑升级！](https://weixin.qdkfweb.cn/51968.html)
 - [写出让未来的你也能看懂的代码：优化 Vue 组件的 3 个技巧](https://weixin.qdkfweb.cn/51969.html)
-- [现代 CSS 布局：你可能不需要框架](https://weixin.qdkfweb.cn/51797.html)
 - [告别重复代码：用现代 CSS 写出更优雅的代码](https://weixin.qdkfweb.cn/51796.html)
-- [JavaScript 中那些令人头疼的“未定义”：如何避坑？](https://weixin.qdkfweb.cn/51609.html)
+- [现代 CSS 布局：你可能不需要框架](https://weixin.qdkfweb.cn/51797.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
