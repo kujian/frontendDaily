@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [深入浅出 CSS border-image：从概念到实战，带你玩转边框图像！](https://weixin.qdkfweb.cn/52750.html)
+- [纯 CSS 打造炫酷自定义范围滑块：无需 JavaScript，也能玩转input 控件！](https://weixin.qdkfweb.cn/52694.html)
 - [2024年JavaScript五大新功能！](https://weixin.qdkfweb.cn/52608.html)
 - [太酷了！用 CSS 让背景渐变动起来！](https://weixin.qdkfweb.cn/52500.html)
 - [上班摸鱼，用 CSS 给文字加特效：渐变、图案，让你的文字更吸睛！](https://weixin.qdkfweb.cn/52420.html)
@@ -15,8 +17,6 @@
 - [ESLint 要大变样了！分离JavaScript，支持更多语言，包括JSON、Markdown、HTML和GraphQL等！](https://weixin.qdkfweb.cn/52182.html)
 - [现代 CSS 表格样式：打造更美观、更易读的表格](https://weixin.qdkfweb.cn/52101.html)
 - [如何在 JavaScript 中撤销 Promise](https://weixin.qdkfweb.cn/52102.html)
-- [Nuxt 4 新变化抢先看：从 v3 到 v4 的平滑升级！](https://weixin.qdkfweb.cn/51968.html)
-- [年薪92W！真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/51967.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
