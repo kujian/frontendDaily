@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue.js 路由黑科技，告别手动配置路由，让你早点下班！](https://weixin.qdkfweb.cn/52916.html)
 - [2024 年 Node.js 开发者必备工具](https://weixin.qdkfweb.cn/52918.html)
 - [8 大 React 项目启动神器推荐！](https://weixin.qdkfweb.cn/52748.html)
 - [深入浅出 CSS border-image：从概念到实战，带你玩转边框图像！](https://weixin.qdkfweb.cn/52750.html)
@@ -16,7 +17,6 @@
 - [上班摸鱼，用 CSS 给文字加特效：渐变、图案，让你的文字更吸睛！](https://weixin.qdkfweb.cn/52420.html)
 - [现代 CSS 锚点链接和 JavaScript scrollIntoView&lpar;&rpar;的滚动跳转](https://weixin.qdkfweb.cn/52421.html)
 - [CSS 要变天了！ if&lpar;&rpar; 函数、跨文档视图过渡…一大波新特性来袭！](https://weixin.qdkfweb.cn/52334.html)
-- [ESLint 要大变样了！分离JavaScript，支持更多语言，包括JSON、Markdown、HTML和GraphQL等！](https://weixin.qdkfweb.cn/52182.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
