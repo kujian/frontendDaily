@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [45 个 VSCode 快捷键，让你编码如飞！](https://weixin.qdkfweb.cn/53334.html)
 - [JavaScript 开发者必备的 10 个 VS Code 扩展](https://weixin.qdkfweb.cn/53249.html)
 - [Node.js 新特性：直接运行 TypeScript 文件！](https://weixin.qdkfweb.cn/53167.html)
 - [“现代 CSS” 太模糊了？ CSS-Next 带你重新认识 CSS 时代！](https://weixin.qdkfweb.cn/53168.html)
@@ -16,7 +17,6 @@
 - [8 大 React 项目启动神器推荐！](https://weixin.qdkfweb.cn/52748.html)
 - [深入浅出 CSS border-image：从概念到实战，带你玩转边框图像！](https://weixin.qdkfweb.cn/52750.html)
 - [纯 CSS 打造炫酷自定义范围滑块：无需 JavaScript，也能玩转input 控件！](https://weixin.qdkfweb.cn/52694.html)
-- [2024年JavaScript五大新功能！](https://weixin.qdkfweb.cn/52608.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
