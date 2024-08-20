@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [今年这情况，大家还是多一手准备吧！](https://weixin.qdkfweb.cn/53554.html)
+- [我的 VS Code 配置：插件、主题、快捷键一网打尽！](https://weixin.qdkfweb.cn/53555.html)
 - [45 个 VSCode 快捷键，让你编码如飞！](https://weixin.qdkfweb.cn/53334.html)
 - [JavaScript 开发者必备的 10 个 VS Code 扩展](https://weixin.qdkfweb.cn/53249.html)
 - [Node.js 新特性：直接运行 TypeScript 文件！](https://weixin.qdkfweb.cn/53167.html)
@@ -15,8 +17,6 @@
 - [Vue.js 路由黑科技，告别手动配置路由，让你早点下班！](https://weixin.qdkfweb.cn/52916.html)
 - [2024 年 Node.js 开发者必备工具](https://weixin.qdkfweb.cn/52918.html)
 - [8 大 React 项目启动神器推荐！](https://weixin.qdkfweb.cn/52748.html)
-- [深入浅出 CSS border-image：从概念到实战，带你玩转边框图像！](https://weixin.qdkfweb.cn/52750.html)
-- [纯 CSS 打造炫酷自定义范围滑块：无需 JavaScript，也能玩转input 控件！](https://weixin.qdkfweb.cn/52694.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
