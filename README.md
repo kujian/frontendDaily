@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端开发者必备！8 款神器，助你效率提升 10 倍！](https://weixin.qdkfweb.cn/53645.html)
 - [今年这情况，大家还是多一手准备吧！](https://weixin.qdkfweb.cn/53554.html)
 - [我的 VS Code 配置：插件、主题、快捷键一网打尽！](https://weixin.qdkfweb.cn/53555.html)
 - [45 个 VSCode 快捷键，让你编码如飞！](https://weixin.qdkfweb.cn/53334.html)
@@ -16,7 +17,6 @@
 - [揭秘 Vue.js 组件通信：provide 和 inject 的魔法](https://weixin.qdkfweb.cn/53119.html)
 - [Vue.js 路由黑科技，告别手动配置路由，让你早点下班！](https://weixin.qdkfweb.cn/52916.html)
 - [2024 年 Node.js 开发者必备工具](https://weixin.qdkfweb.cn/52918.html)
-- [8 大 React 项目启动神器推荐！](https://weixin.qdkfweb.cn/52748.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
