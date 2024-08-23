@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/53819.html)
+- [33 个每个 JavaScript 开发者都应该知道的概念](https://weixin.qdkfweb.cn/53820.html)
 - [JavaScript 速查表：Web 开发者必备宝典](https://weixin.qdkfweb.cn/53644.html)
 - [前端开发者必备！8 款神器，助你效率提升 10 倍！](https://weixin.qdkfweb.cn/53645.html)
 - [今年这情况，大家还是多一手准备吧！](https://weixin.qdkfweb.cn/53554.html)
@@ -15,8 +17,6 @@
 - [JavaScript 开发者必备的 10 个 VS Code 扩展](https://weixin.qdkfweb.cn/53249.html)
 - [Node.js 新特性：直接运行 TypeScript 文件！](https://weixin.qdkfweb.cn/53167.html)
 - [“现代 CSS” 太模糊了？ CSS-Next 带你重新认识 CSS 时代！](https://weixin.qdkfweb.cn/53168.html)
-- [揭秘 Vue.js 组件通信：provide 和 inject 的魔法](https://weixin.qdkfweb.cn/53119.html)
-- [Vue.js 路由黑科技，告别手动配置路由，让你早点下班！](https://weixin.qdkfweb.cn/52916.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
