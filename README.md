@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [10 个鲜为人知的 JavaScript 高级技巧！](https://weixin.qdkfweb.cn/54118.html)
 - [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/53819.html)
 - [33 个每个 JavaScript 开发者都应该知道的概念](https://weixin.qdkfweb.cn/53820.html)
 - [JavaScript 速查表：Web 开发者必备宝典](https://weixin.qdkfweb.cn/53644.html)
@@ -16,7 +17,6 @@
 - [45 个 VSCode 快捷键，让你编码如飞！](https://weixin.qdkfweb.cn/53334.html)
 - [JavaScript 开发者必备的 10 个 VS Code 扩展](https://weixin.qdkfweb.cn/53249.html)
 - [Node.js 新特性：直接运行 TypeScript 文件！](https://weixin.qdkfweb.cn/53167.html)
-- [“现代 CSS” 太模糊了？ CSS-Next 带你重新认识 CSS 时代！](https://weixin.qdkfweb.cn/53168.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
