@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [一文搞懂 HTTP 请求：GET、POST、PUT、DELETE 全解析](https://weixin.qdkfweb.cn/54251.html)
 - [10 个鲜为人知的 JavaScript 高级技巧！](https://weixin.qdkfweb.cn/54118.html)
 - [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/53819.html)
 - [33 个每个 JavaScript 开发者都应该知道的概念](https://weixin.qdkfweb.cn/53820.html)
@@ -16,7 +17,6 @@
 - [我的 VS Code 配置：插件、主题、快捷键一网打尽！](https://weixin.qdkfweb.cn/53555.html)
 - [45 个 VSCode 快捷键，让你编码如飞！](https://weixin.qdkfweb.cn/53334.html)
 - [JavaScript 开发者必备的 10 个 VS Code 扩展](https://weixin.qdkfweb.cn/53249.html)
-- [Node.js 新特性：直接运行 TypeScript 文件！](https://weixin.qdkfweb.cn/53167.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
