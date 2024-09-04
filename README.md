@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 进阶指南](https://weixin.qdkfweb.cn/54590.html)
 - [每个 JavaScript 开发者都应该了解的 GitHub 代码库](https://weixin.qdkfweb.cn/54512.html)
 - [多图教程带你轻松学习 CSS Flexbox 布局](https://weixin.qdkfweb.cn/54447.html)
 - [2024 年 Web 开发者必备的 30 款 CSS 工具](https://weixin.qdkfweb.cn/54402.html)
@@ -16,7 +17,6 @@
 - [45K*16薪，进字节了！](https://weixin.qdkfweb.cn/53819.html)
 - [33 个每个 JavaScript 开发者都应该知道的概念](https://weixin.qdkfweb.cn/53820.html)
 - [JavaScript 速查表：Web 开发者必备宝典](https://weixin.qdkfweb.cn/53644.html)
-- [前端开发者必备！8 款神器，助你效率提升 10 倍！](https://weixin.qdkfweb.cn/53645.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
