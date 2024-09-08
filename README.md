@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [15 个你应该了解的有用 CSS 属性](https://weixin.qdkfweb.cn/54840.html)
 - [用 HTML、CSS 和 JavaScript 创建颜色选择器](https://weixin.qdkfweb.cn/54766.html)
 - [21 个 必知的 HTML 小技巧，助你提升编码能力](https://weixin.qdkfweb.cn/54710.html)
 - [100 个免费学习编程的网站推荐！](https://weixin.qdkfweb.cn/54665.html)
@@ -16,7 +17,6 @@
 - [2024 年 Web 开发者必备的 30 款 CSS 工具](https://weixin.qdkfweb.cn/54402.html)
 - [手把手教你用 Vue.js 和 WebSocket 构建聊天应用](https://weixin.qdkfweb.cn/54250.html)
 - [一文搞懂 HTTP 请求：GET、POST、PUT、DELETE 全解析](https://weixin.qdkfweb.cn/54251.html)
-- [10 个鲜为人知的 JavaScript 高级技巧！](https://weixin.qdkfweb.cn/54118.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
