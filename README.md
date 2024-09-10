@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [10 个 JavaScript 常见错误及解决方法](https://weixin.qdkfweb.cn/54936.html)
 - [10 个提升开发效率的实用 CSS 小窍门！](https://weixin.qdkfweb.cn/54884.html)
 - [15 个你应该了解的有用 CSS 属性](https://weixin.qdkfweb.cn/54840.html)
 - [用 HTML、CSS 和 JavaScript 创建颜色选择器](https://weixin.qdkfweb.cn/54766.html)
@@ -16,7 +17,6 @@
 - [每个 JavaScript 开发者都应该了解的 GitHub 代码库](https://weixin.qdkfweb.cn/54512.html)
 - [多图教程带你轻松学习 CSS Flexbox 布局](https://weixin.qdkfweb.cn/54447.html)
 - [2024 年 Web 开发者必备的 30 款 CSS 工具](https://weixin.qdkfweb.cn/54402.html)
-- [手把手教你用 Vue.js 和 WebSocket 构建聊天应用](https://weixin.qdkfweb.cn/54250.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
