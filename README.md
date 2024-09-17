@@ -7,16 +7,16 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [停止使用 Promise.all&lpar;&rpar; ，Promise.allSettled&lpar;&rpar; 更强大！](https://weixin.qdkfweb.cn/55088.html)
+- [45 个提升 JavaScript 效率的超级技巧](https://weixin.qdkfweb.cn/55089.html)
+- [Vue 3.5 主要更新了啥？](https://weixin.qdkfweb.cn/55090.html)
+- [18个开源项目，助力你的 React 开发效率倍增](https://weixin.qdkfweb.cn/55091.html)
 - [JavaScript 高手也会犯的 10 个错误](https://weixin.qdkfweb.cn/55013.html)
 - [10 个 JavaScript 常见错误及解决方法](https://weixin.qdkfweb.cn/54936.html)
 - [10 个提升开发效率的实用 CSS 小窍门！](https://weixin.qdkfweb.cn/54884.html)
 - [15 个你应该了解的有用 CSS 属性](https://weixin.qdkfweb.cn/54840.html)
 - [用 HTML、CSS 和 JavaScript 创建颜色选择器](https://weixin.qdkfweb.cn/54766.html)
 - [21 个 必知的 HTML 小技巧，助你提升编码能力](https://weixin.qdkfweb.cn/54710.html)
-- [100 个免费学习编程的网站推荐！](https://weixin.qdkfweb.cn/54665.html)
-- [JavaScript 进阶指南](https://weixin.qdkfweb.cn/54590.html)
-- [每个 JavaScript 开发者都应该了解的 GitHub 代码库](https://weixin.qdkfweb.cn/54512.html)
-- [多图教程带你轻松学习 CSS Flexbox 布局](https://weixin.qdkfweb.cn/54447.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
