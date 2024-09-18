@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 开发者必知的 ES2024 九大新特性](https://weixin.qdkfweb.cn/55286.html)
 - [停止使用 Promise.all&lpar;&rpar; ，Promise.allSettled&lpar;&rpar; 更强大！](https://weixin.qdkfweb.cn/55088.html)
 - [45 个提升 JavaScript 效率的超级技巧](https://weixin.qdkfweb.cn/55089.html)
 - [Vue 3.5 主要更新了啥？](https://weixin.qdkfweb.cn/55090.html)
@@ -16,7 +17,6 @@
 - [10 个提升开发效率的实用 CSS 小窍门！](https://weixin.qdkfweb.cn/54884.html)
 - [15 个你应该了解的有用 CSS 属性](https://weixin.qdkfweb.cn/54840.html)
 - [用 HTML、CSS 和 JavaScript 创建颜色选择器](https://weixin.qdkfweb.cn/54766.html)
-- [21 个 必知的 HTML 小技巧，助你提升编码能力](https://weixin.qdkfweb.cn/54710.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
