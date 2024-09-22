@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [代码工具箱：18个实用的 JavaScript 函数](https://weixin.qdkfweb.cn/55590.html)
 - [2024 年 JavaScript 开发必备工具库](https://weixin.qdkfweb.cn/55386.html)
 - [JavaScript 开发者必知的 ES2024 九大新特性](https://weixin.qdkfweb.cn/55286.html)
 - [停止使用 Promise.all&lpar;&rpar; ，Promise.allSettled&lpar;&rpar; 更强大！](https://weixin.qdkfweb.cn/55088.html)
@@ -16,7 +17,6 @@
 - [JavaScript 高手也会犯的 10 个错误](https://weixin.qdkfweb.cn/55013.html)
 - [10 个 JavaScript 常见错误及解决方法](https://weixin.qdkfweb.cn/54936.html)
 - [10 个提升开发效率的实用 CSS 小窍门！](https://weixin.qdkfweb.cn/54884.html)
-- [15 个你应该了解的有用 CSS 属性](https://weixin.qdkfweb.cn/54840.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
