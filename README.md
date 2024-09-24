@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI为何抛弃Next.js，拥抱Remix？](https://weixin.qdkfweb.cn/55690.html)
 - [代码工具箱：18个实用的 JavaScript 函数](https://weixin.qdkfweb.cn/55590.html)
 - [2024 年 JavaScript 开发必备工具库](https://weixin.qdkfweb.cn/55386.html)
 - [JavaScript 开发者必知的 ES2024 九大新特性](https://weixin.qdkfweb.cn/55286.html)
@@ -16,7 +17,6 @@
 - [18个开源项目，助力你的 React 开发效率倍增](https://weixin.qdkfweb.cn/55091.html)
 - [JavaScript 高手也会犯的 10 个错误](https://weixin.qdkfweb.cn/55013.html)
 - [10 个 JavaScript 常见错误及解决方法](https://weixin.qdkfweb.cn/54936.html)
-- [10 个提升开发效率的实用 CSS 小窍门！](https://weixin.qdkfweb.cn/54884.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
