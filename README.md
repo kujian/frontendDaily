@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [12个提升 JavaScript 技能的宝藏网站推荐](https://weixin.qdkfweb.cn/55827.html)
 - [30 个 JavaScript 小技巧和诀窍：助你写出更简洁高效的代码](https://weixin.qdkfweb.cn/55828.html)
 - [OpenAI为何抛弃Next.js，拥抱Remix？](https://weixin.qdkfweb.cn/55690.html)
 - [代码工具箱：18个实用的 JavaScript 函数](https://weixin.qdkfweb.cn/55590.html)
@@ -16,7 +17,6 @@
 - [45 个提升 JavaScript 效率的超级技巧](https://weixin.qdkfweb.cn/55089.html)
 - [Vue 3.5 主要更新了啥？](https://weixin.qdkfweb.cn/55090.html)
 - [18个开源项目，助力你的 React 开发效率倍增](https://weixin.qdkfweb.cn/55091.html)
-- [JavaScript 高手也会犯的 10 个错误](https://weixin.qdkfweb.cn/55013.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
