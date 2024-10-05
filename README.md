@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [VSCode 主题推荐：十款让你眼前一亮的选择](https://weixin.qdkfweb.cn/56312.html)
 - [别再让 VS Code 变得臃肿，这些插件该卸载了！](https://weixin.qdkfweb.cn/56150.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/55970.html)
 - [12个提升 JavaScript 技能的宝藏网站推荐](https://weixin.qdkfweb.cn/55827.html)
@@ -16,7 +17,6 @@
 - [2024 年 JavaScript 开发必备工具库](https://weixin.qdkfweb.cn/55386.html)
 - [JavaScript 开发者必知的 ES2024 九大新特性](https://weixin.qdkfweb.cn/55286.html)
 - [停止使用 Promise.all&lpar;&rpar; ，Promise.allSettled&lpar;&rpar; 更强大！](https://weixin.qdkfweb.cn/55088.html)
-- [45 个提升 JavaScript 效率的超级技巧](https://weixin.qdkfweb.cn/55089.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
