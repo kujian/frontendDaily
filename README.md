@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [460 万美元融资！Vue.js 作者创立新公司 VoidZero，剑指 JavaScript 工具链未来](https://weixin.qdkfweb.cn/56341.html)
 - [18个项目，玩转JavaScript：从新手到高手](https://weixin.qdkfweb.cn/56342.html)
 - [VSCode 主题推荐：十款让你眼前一亮的选择](https://weixin.qdkfweb.cn/56312.html)
 - [别再让 VS Code 变得臃肿，这些插件该卸载了！](https://weixin.qdkfweb.cn/56150.html)
@@ -16,7 +17,6 @@
 - [OpenAI为何抛弃Next.js，拥抱Remix？](https://weixin.qdkfweb.cn/55690.html)
 - [代码工具箱：18个实用的 JavaScript 函数](https://weixin.qdkfweb.cn/55590.html)
 - [2024 年 JavaScript 开发必备工具库](https://weixin.qdkfweb.cn/55386.html)
-- [JavaScript 开发者必知的 ES2024 九大新特性](https://weixin.qdkfweb.cn/55286.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
