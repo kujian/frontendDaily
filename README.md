@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
 - [Vue.js 开发者必备：6 个爆款库助你快速上手！](https://weixin.qdkfweb.cn/56415.html)
 - [460 万美元融资！Vue.js 作者创立新公司 VoidZero，剑指 JavaScript 工具链未来](https://weixin.qdkfweb.cn/56341.html)
 - [18个项目，玩转JavaScript：从新手到高手](https://weixin.qdkfweb.cn/56342.html)
@@ -16,7 +17,6 @@
 - [12个提升 JavaScript 技能的宝藏网站推荐](https://weixin.qdkfweb.cn/55827.html)
 - [30 个 JavaScript 小技巧和诀窍：助你写出更简洁高效的代码](https://weixin.qdkfweb.cn/55828.html)
 - [OpenAI为何抛弃Next.js，拥抱Remix？](https://weixin.qdkfweb.cn/55690.html)
-- [代码工具箱：18个实用的 JavaScript 函数](https://weixin.qdkfweb.cn/55590.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
