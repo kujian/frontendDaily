@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [告别繁琐！构建 Vue.js 组件库的简单方法](https://weixin.qdkfweb.cn/57099.html)
+- [JavaScript 面试宝典：2024 年必备的 30 个知识点](https://weixin.qdkfweb.cn/57029.html)
 - [看了尤雨溪新公司大佬，Vue+React已经玩的炉火纯青！](https://weixin.qdkfweb.cn/56958.html)
 - [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
 - [Vue.js 开发者必备：6 个爆款库助你快速上手！](https://weixin.qdkfweb.cn/56415.html)
@@ -15,8 +17,6 @@
 - [VSCode 主题推荐：十款让你眼前一亮的选择](https://weixin.qdkfweb.cn/56312.html)
 - [别再让 VS Code 变得臃肿，这些插件该卸载了！](https://weixin.qdkfweb.cn/56150.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/55970.html)
-- [12个提升 JavaScript 技能的宝藏网站推荐](https://weixin.qdkfweb.cn/55827.html)
-- [30 个 JavaScript 小技巧和诀窍：助你写出更简洁高效的代码](https://weixin.qdkfweb.cn/55828.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
