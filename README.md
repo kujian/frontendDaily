@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [16 个 React UI 库，总有一款能惊艳你！](https://weixin.qdkfweb.cn/57207.html)
 - [告别繁琐！构建 Vue.js 组件库的简单方法](https://weixin.qdkfweb.cn/57099.html)
 - [JavaScript 面试宝典：2024 年必备的 30 个知识点](https://weixin.qdkfweb.cn/57029.html)
 - [看了尤雨溪新公司大佬，Vue+React已经玩的炉火纯青！](https://weixin.qdkfweb.cn/56958.html)
@@ -16,7 +17,6 @@
 - [18个项目，玩转JavaScript：从新手到高手](https://weixin.qdkfweb.cn/56342.html)
 - [VSCode 主题推荐：十款让你眼前一亮的选择](https://weixin.qdkfweb.cn/56312.html)
 - [别再让 VS Code 变得臃肿，这些插件该卸载了！](https://weixin.qdkfweb.cn/56150.html)
-- [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/55970.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
