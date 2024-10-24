@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js 前端开发必备的 10 个 NPM 包及使用实例](https://weixin.qdkfweb.cn/57357.html)
 - [16 个 React UI 库，总有一款能惊艳你！](https://weixin.qdkfweb.cn/57207.html)
 - [告别繁琐！构建 Vue.js 组件库的简单方法](https://weixin.qdkfweb.cn/57099.html)
 - [JavaScript 面试宝典：2024 年必备的 30 个知识点](https://weixin.qdkfweb.cn/57029.html)
@@ -16,7 +17,6 @@
 - [460 万美元融资！Vue.js 作者创立新公司 VoidZero，剑指 JavaScript 工具链未来](https://weixin.qdkfweb.cn/56341.html)
 - [18个项目，玩转JavaScript：从新手到高手](https://weixin.qdkfweb.cn/56342.html)
 - [VSCode 主题推荐：十款让你眼前一亮的选择](https://weixin.qdkfweb.cn/56312.html)
-- [别再让 VS Code 变得臃肿，这些插件该卸载了！](https://weixin.qdkfweb.cn/56150.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
