@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [网络工具箱：22 个值得收藏的网站！](https://weixin.qdkfweb.cn/57581.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/57533.html)
 - [Node.js 前端开发必备的 10 个 NPM 包及使用实例](https://weixin.qdkfweb.cn/57357.html)
 - [16 个 React UI 库，总有一款能惊艳你！](https://weixin.qdkfweb.cn/57207.html)
@@ -16,7 +17,6 @@
 - [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
 - [Vue.js 开发者必备：6 个爆款库助你快速上手！](https://weixin.qdkfweb.cn/56415.html)
 - [460 万美元融资！Vue.js 作者创立新公司 VoidZero，剑指 JavaScript 工具链未来](https://weixin.qdkfweb.cn/56341.html)
-- [18个项目，玩转JavaScript：从新手到高手](https://weixin.qdkfweb.cn/56342.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
