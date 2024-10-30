@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [“技术大佬”都在用！2024年你不可错过的10个JavaScript库！](https://weixin.qdkfweb.cn/57681.html)
+- [程序员如何“逆袭”：掌握五大技巧，成为团队核心！](https://weixin.qdkfweb.cn/57682.html)
 - [网络工具箱：22 个值得收藏的网站！](https://weixin.qdkfweb.cn/57581.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/57533.html)
 - [Node.js 前端开发必备的 10 个 NPM 包及使用实例](https://weixin.qdkfweb.cn/57357.html)
@@ -15,8 +17,6 @@
 - [JavaScript 面试宝典：2024 年必备的 30 个知识点](https://weixin.qdkfweb.cn/57029.html)
 - [看了尤雨溪新公司大佬，Vue+React已经玩的炉火纯青！](https://weixin.qdkfweb.cn/56958.html)
 - [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
-- [Vue.js 开发者必备：6 个爆款库助你快速上手！](https://weixin.qdkfweb.cn/56415.html)
-- [460 万美元融资！Vue.js 作者创立新公司 VoidZero，剑指 JavaScript 工具链未来](https://weixin.qdkfweb.cn/56341.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
