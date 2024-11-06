@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [45k的前端大佬是怎么对线面试官的。。。](https://weixin.qdkfweb.cn/58074.html)
+- [50+ JavaScript 事件，每个开发者都应该了解！](https://weixin.qdkfweb.cn/58073.html)
 - [五个实用且强大的 HTML5 标签，你不一定知道！](https://weixin.qdkfweb.cn/57960.html)
 - [34 个实用 JavaScript 代码片段：提升开发效率的实用技巧](https://weixin.qdkfweb.cn/57856.html)
 - [“技术大佬”都在用！2024年你不可错过的10个JavaScript库！](https://weixin.qdkfweb.cn/57681.html)
@@ -15,8 +17,6 @@
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/57533.html)
 - [Node.js 前端开发必备的 10 个 NPM 包及使用实例](https://weixin.qdkfweb.cn/57357.html)
 - [16 个 React UI 库，总有一款能惊艳你！](https://weixin.qdkfweb.cn/57207.html)
-- [告别繁琐！构建 Vue.js 组件库的简单方法](https://weixin.qdkfweb.cn/57099.html)
-- [JavaScript 面试宝典：2024 年必备的 30 个知识点](https://weixin.qdkfweb.cn/57029.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
