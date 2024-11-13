@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [10个简单却有趣的JavaScript面试题，附答案和解释！](https://weixin.qdkfweb.cn/58505.html)
 - [10 个 yyds 的工具，收藏备用！](https://weixin.qdkfweb.cn/58389.html)
 - [前端行情回暖了！！！](https://weixin.qdkfweb.cn/58343.html)
 - [10 个鲜为人知的前端开发小技巧](https://weixin.qdkfweb.cn/58206.html)
@@ -16,7 +17,6 @@
 - [34 个实用 JavaScript 代码片段：提升开发效率的实用技巧](https://weixin.qdkfweb.cn/57856.html)
 - [“技术大佬”都在用！2024年你不可错过的10个JavaScript库！](https://weixin.qdkfweb.cn/57681.html)
 - [程序员如何“逆袭”：掌握五大技巧，成为团队核心！](https://weixin.qdkfweb.cn/57682.html)
-- [网络工具箱：22 个值得收藏的网站！](https://weixin.qdkfweb.cn/57581.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
