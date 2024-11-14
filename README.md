@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端终于要破局了！](https://weixin.qdkfweb.cn/58630.html)
+- [Vue3 常见的 9 种组件通信机制](https://weixin.qdkfweb.cn/58563.html)
 - [10个简单却有趣的JavaScript面试题，附答案和解释！](https://weixin.qdkfweb.cn/58505.html)
 - [10 个 yyds 的工具，收藏备用！](https://weixin.qdkfweb.cn/58389.html)
 - [前端行情回暖了！！！](https://weixin.qdkfweb.cn/58343.html)
@@ -15,8 +17,6 @@
 - [50+ JavaScript 事件，每个开发者都应该了解！](https://weixin.qdkfweb.cn/58073.html)
 - [五个实用且强大的 HTML5 标签，你不一定知道！](https://weixin.qdkfweb.cn/57960.html)
 - [34 个实用 JavaScript 代码片段：提升开发效率的实用技巧](https://weixin.qdkfweb.cn/57856.html)
-- [“技术大佬”都在用！2024年你不可错过的10个JavaScript库！](https://weixin.qdkfweb.cn/57681.html)
-- [程序员如何“逆袭”：掌握五大技巧，成为团队核心！](https://weixin.qdkfweb.cn/57682.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
