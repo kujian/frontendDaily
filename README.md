@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [让 CSS 布局不再头疼！10 个超实用的 CSS 一行代码技巧](https://weixin.qdkfweb.cn/58765.html)
 - [前端必学的 10个进阶 CSS 技巧](https://weixin.qdkfweb.cn/58704.html)
 - [前端终于要破局了！](https://weixin.qdkfweb.cn/58630.html)
 - [Vue3 常见的 9 种组件通信机制](https://weixin.qdkfweb.cn/58563.html)
@@ -16,7 +17,6 @@
 - [10 个鲜为人知的前端开发小技巧](https://weixin.qdkfweb.cn/58206.html)
 - [45k的前端大佬是怎么对线面试官的。。。](https://weixin.qdkfweb.cn/58074.html)
 - [50+ JavaScript 事件，每个开发者都应该了解！](https://weixin.qdkfweb.cn/58073.html)
-- [五个实用且强大的 HTML5 标签，你不一定知道！](https://weixin.qdkfweb.cn/57960.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
