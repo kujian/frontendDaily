@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/58919.html)
+- [10 个 JavaScript 优化技巧](https://weixin.qdkfweb.cn/58846.html)
 - [让 CSS 布局不再头疼！10 个超实用的 CSS 一行代码技巧](https://weixin.qdkfweb.cn/58765.html)
 - [前端必学的 10个进阶 CSS 技巧](https://weixin.qdkfweb.cn/58704.html)
 - [前端终于要破局了！](https://weixin.qdkfweb.cn/58630.html)
@@ -15,8 +17,6 @@
 - [10 个 yyds 的工具，收藏备用！](https://weixin.qdkfweb.cn/58389.html)
 - [前端行情回暖了！！！](https://weixin.qdkfweb.cn/58343.html)
 - [10 个鲜为人知的前端开发小技巧](https://weixin.qdkfweb.cn/58206.html)
-- [45k的前端大佬是怎么对线面试官的。。。](https://weixin.qdkfweb.cn/58074.html)
-- [50+ JavaScript 事件，每个开发者都应该了解！](https://weixin.qdkfweb.cn/58073.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
