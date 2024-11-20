@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [15 个惊艳的 CSS 动画案例速查表，助你提升前端技能！](https://weixin.qdkfweb.cn/58982.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/58919.html)
 - [10 个 JavaScript 优化技巧](https://weixin.qdkfweb.cn/58846.html)
 - [让 CSS 布局不再头疼！10 个超实用的 CSS 一行代码技巧](https://weixin.qdkfweb.cn/58765.html)
@@ -16,7 +17,6 @@
 - [10个简单却有趣的JavaScript面试题，附答案和解释！](https://weixin.qdkfweb.cn/58505.html)
 - [10 个 yyds 的工具，收藏备用！](https://weixin.qdkfweb.cn/58389.html)
 - [前端行情回暖了！！！](https://weixin.qdkfweb.cn/58343.html)
-- [10 个鲜为人知的前端开发小技巧](https://weixin.qdkfweb.cn/58206.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
