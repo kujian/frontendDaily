@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 单行代码速查表：50 个常用片段，收藏备用！](https://weixin.qdkfweb.cn/59126.html)
 - [15 个惊艳的 CSS 动画案例速查表，助你提升前端技能！](https://weixin.qdkfweb.cn/58982.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/58919.html)
 - [10 个 JavaScript 优化技巧](https://weixin.qdkfweb.cn/58846.html)
@@ -16,7 +17,6 @@
 - [Vue3 常见的 9 种组件通信机制](https://weixin.qdkfweb.cn/58563.html)
 - [10个简单却有趣的JavaScript面试题，附答案和解释！](https://weixin.qdkfweb.cn/58505.html)
 - [10 个 yyds 的工具，收藏备用！](https://weixin.qdkfweb.cn/58389.html)
-- [前端行情回暖了！！！](https://weixin.qdkfweb.cn/58343.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
