@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [前端已成气候！](https://weixin.qdkfweb.cn/59530.html)
 - [你的 Node.js 学习地图：10 个 GitHub 仓库，带你从入门到精通](https://weixin.qdkfweb.cn/59392.html)
 - [10 个实用 JavaScript 单行代码](https://weixin.qdkfweb.cn/59193.html)
 - [JavaScript 单行代码速查表：50 个常用片段，收藏备用！](https://weixin.qdkfweb.cn/59126.html)
@@ -16,7 +17,6 @@
 - [让 CSS 布局不再头疼！10 个超实用的 CSS 一行代码技巧](https://weixin.qdkfweb.cn/58765.html)
 - [前端必学的 10个进阶 CSS 技巧](https://weixin.qdkfweb.cn/58704.html)
 - [前端终于要破局了！](https://weixin.qdkfweb.cn/58630.html)
-- [Vue3 常见的 9 种组件通信机制](https://weixin.qdkfweb.cn/58563.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
