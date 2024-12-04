@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [ES2024 新特性速览：带你了解 6 个值得关注的更新！](https://weixin.qdkfweb.cn/59711.html)
 - [Vite 6.0 更新](https://weixin.qdkfweb.cn/59529.html)
 - [前端已成气候！](https://weixin.qdkfweb.cn/59530.html)
 - [你的 Node.js 学习地图：10 个 GitHub 仓库，带你从入门到精通](https://weixin.qdkfweb.cn/59392.html)
@@ -16,7 +17,6 @@
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/58919.html)
 - [10 个 JavaScript 优化技巧](https://weixin.qdkfweb.cn/58846.html)
 - [让 CSS 布局不再头疼！10 个超实用的 CSS 一行代码技巧](https://weixin.qdkfweb.cn/58765.html)
-- [前端必学的 10个进阶 CSS 技巧](https://weixin.qdkfweb.cn/58704.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
