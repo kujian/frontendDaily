@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [从Zepto面试中学到的前端开发经验](https://weixin.qdkfweb.cn/59797.html)
 - [ES2024 新特性速览：带你了解 6 个值得关注的更新！](https://weixin.qdkfweb.cn/59711.html)
 - [Vite 6.0 更新](https://weixin.qdkfweb.cn/59529.html)
 - [前端已成气候！](https://weixin.qdkfweb.cn/59530.html)
@@ -16,7 +17,6 @@
 - [15 个惊艳的 CSS 动画案例速查表，助你提升前端技能！](https://weixin.qdkfweb.cn/58982.html)
 - [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/58919.html)
 - [10 个 JavaScript 优化技巧](https://weixin.qdkfweb.cn/58846.html)
-- [让 CSS 布局不再头疼！10 个超实用的 CSS 一行代码技巧](https://weixin.qdkfweb.cn/58765.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
