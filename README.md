@@ -7,6 +7,8 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [腾讯宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/60392.html)
+- [告别繁琐的 try-catch：JavaScript 安全赋值运算符 &lpar;?= &rpar; 来了！](https://weixin.qdkfweb.cn/60312.html)
 - [从Zepto面试中学到的前端开发经验](https://weixin.qdkfweb.cn/59797.html)
 - [ES2024 新特性速览：带你了解 6 个值得关注的更新！](https://weixin.qdkfweb.cn/59711.html)
 - [Vite 6.0 更新](https://weixin.qdkfweb.cn/59529.html)
@@ -15,8 +17,6 @@
 - [10 个实用 JavaScript 单行代码](https://weixin.qdkfweb.cn/59193.html)
 - [JavaScript 单行代码速查表：50 个常用片段，收藏备用！](https://weixin.qdkfweb.cn/59126.html)
 - [15 个惊艳的 CSS 动画案例速查表，助你提升前端技能！](https://weixin.qdkfweb.cn/58982.html)
-- [字节宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/58919.html)
-- [10 个 JavaScript 优化技巧](https://weixin.qdkfweb.cn/58846.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
