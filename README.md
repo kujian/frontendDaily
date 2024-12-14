@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [再有人问Promise，我就用这 9 个高级用法闪瞎他的眼！](https://weixin.qdkfweb.cn/60391.html)
 - [腾讯宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/60392.html)
 - [告别繁琐的 try-catch：JavaScript 安全赋值运算符 &lpar;?= &rpar; 来了！](https://weixin.qdkfweb.cn/60312.html)
 - [从Zepto面试中学到的前端开发经验](https://weixin.qdkfweb.cn/59797.html)
@@ -16,7 +17,6 @@
 - [你的 Node.js 学习地图：10 个 GitHub 仓库，带你从入门到精通](https://weixin.qdkfweb.cn/59392.html)
 - [10 个实用 JavaScript 单行代码](https://weixin.qdkfweb.cn/59193.html)
 - [JavaScript 单行代码速查表：50 个常用片段，收藏备用！](https://weixin.qdkfweb.cn/59126.html)
-- [15 个惊艳的 CSS 动画案例速查表，助你提升前端技能！](https://weixin.qdkfweb.cn/58982.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
