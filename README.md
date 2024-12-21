@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [20 个实用的 JavaScript 自动化脚本，提升浏览器效率，解放你的时间！](https://weixin.qdkfweb.cn/60784.html)
 - [再有人问Promise，我就用这 9 个高级用法闪瞎他的眼！](https://weixin.qdkfweb.cn/60391.html)
 - [腾讯宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/60392.html)
 - [告别繁琐的 try-catch：JavaScript 安全赋值运算符 &lpar;?= &rpar; 来了！](https://weixin.qdkfweb.cn/60312.html)
@@ -16,7 +17,6 @@
 - [前端已成气候！](https://weixin.qdkfweb.cn/59530.html)
 - [你的 Node.js 学习地图：10 个 GitHub 仓库，带你从入门到精通](https://weixin.qdkfweb.cn/59392.html)
 - [10 个实用 JavaScript 单行代码](https://weixin.qdkfweb.cn/59193.html)
-- [JavaScript 单行代码速查表：50 个常用片段，收藏备用！](https://weixin.qdkfweb.cn/59126.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
