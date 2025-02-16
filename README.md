@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [11个强大的免费AI工具，无需注册！](https://weixin.qdkfweb.cn/63538.html)
 - [一天面了6个前端开发，全是菜鸡！](https://weixin.qdkfweb.cn/63239.html)
 - [10 个实用的CSS技巧！](https://weixin.qdkfweb.cn/61653.html)
 - [2024 年的 CSS 革命：您需要了解的 7 个改变游戏规则的功能](https://weixin.qdkfweb.cn/61465.html)
@@ -16,7 +17,6 @@
 - [告别繁琐的 try-catch：JavaScript 安全赋值运算符 &lpar;?= &rpar; 来了！](https://weixin.qdkfweb.cn/60312.html)
 - [从Zepto面试中学到的前端开发经验](https://weixin.qdkfweb.cn/59797.html)
 - [ES2024 新特性速览：带你了解 6 个值得关注的更新！](https://weixin.qdkfweb.cn/59711.html)
-- [Vite 6.0 更新](https://weixin.qdkfweb.cn/59529.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
