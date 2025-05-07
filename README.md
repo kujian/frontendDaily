@@ -7,6 +7,7 @@
 ## [最新推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [2025年提升效率的 17 个前端工具推荐](https://weixin.qdkfweb.cn/63943.html)
 - [阿里内部首发2025前端开发手册，完整版开放下载了！](https://weixin.qdkfweb.cn/63788.html)
 - [DeepSeek-R1：国产AI神器，免费好用，60秒建站/游戏！](https://weixin.qdkfweb.cn/63710.html)
 - [前端开发效率翻倍？5个ChatGPT实用技巧助你轻松搞定！](https://weixin.qdkfweb.cn/63631.html)
@@ -16,7 +17,6 @@
 - [2024 年的 CSS 革命：您需要了解的 7 个改变游戏规则的功能](https://weixin.qdkfweb.cn/61465.html)
 - [20 个实用的 JavaScript 自动化脚本，提升浏览器效率，解放你的时间！](https://weixin.qdkfweb.cn/60784.html)
 - [再有人问Promise，我就用这 9 个高级用法闪瞎他的眼！](https://weixin.qdkfweb.cn/60391.html)
-- [腾讯宣布全员调薪，准备冲了….](https://weixin.qdkfweb.cn/60392.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 微信群
